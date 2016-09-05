@@ -1,7 +1,8 @@
 #!/bin/bash
 
 JSON="courseeditor"
-LANGS="it fr en es"
+INI="wtl-messages"
+LANGS="it fr es"
 
 # for J in $JSON; do
 #   mkdir -p $J
@@ -11,30 +12,31 @@ LANGS="it fr en es"
 #   done
 # done
 
-for L in $LANGS; do
 
-  mkdir -p locales/$L locales/po-$L locales/templates
-  # Extract strings
-  ini2po -P ini locales/templates
+for J in $INI; do
+  for L in $LANGS; do
+    mkdir -p locales/po-$L
+    # Extract strings
+    ini2po -P $J/en.ini locales/templates/$J.pot
 
-  # Update translations
-  pot2po -t locales/po-$L/ locales/templates/ locales/po-$L/
+    # Update translations
+    pot2po -t locales/po-$L/$J.po locales/templates/$J.pot locales/po-$L/$J.po
 
-  # Generate ini files
-  po2ini -t ini locales/po-$L locales/$L
-
+    # Generate ini files
+    po2ini -t $J/en.ini -i locales/po-$L/$J.po -o $J/$L.ini
+  done
 done
 
-for L in $LANGS; do
+for J in $JSON; do
+  for L in $LANGS; do
+    mkdir -p locales/po-$L
+    # Extract strings
+    json2po -P $J/en.json locales/templates/$J.pot
 
-  mkdir -p locales/$L locales/po-$L
-  # Extract strings
-  json2po -P json locales/templates
+    # Update translations
+    pot2po -t locales/po-$L/$J.po locales/templates/$J.pot locales/po-$L/$J.po
 
-  # Update translations
-  pot2po -t locales/po-$L/ locales/templates/ locales/po-$L/
-
-  # Generate ini files
-  po2json -t json locales/po-$L locales/$L
-
+    # Generate ini files
+    po2json -t $J/en.json -i locales/po-$L/$J.po -o $J/$L.json
+  done
 done
