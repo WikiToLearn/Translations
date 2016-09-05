@@ -1,10 +1,16 @@
 #!/bin/bash
 
-# Extract strings
-ini2po -P ini templates
+LANGS="it"
 
-# Update translations
-pot2po -t po-it/ templates/ po-it/
+for L in $LANGS; do
 
-# Generate ini files
-po2ini -t ini po-it it
+  mkdir -p $L po-$L
+  # Extract strings
+  ini2po -P ini templates
+
+  # Update translations
+  pot2po -t po-$L/ templates/ po-$L/
+
+  # Generate ini files
+  po2ini -t ini po-$L $L
+done
