@@ -1,6 +1,6 @@
 #!/bin/bash
 
-LANGS="it fr"
+LANGS="it fr en es"
 
 for L in $LANGS; do
 

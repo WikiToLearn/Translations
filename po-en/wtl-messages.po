@@ -1,5 +1,4 @@
 #. extracted from ini/wtl-messages.ini
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"

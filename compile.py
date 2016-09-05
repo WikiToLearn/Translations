@@ -1,6 +1,6 @@
 import configparser, os
 
-languages = ["it"]
+languages = ["it", "en", "fr", "es"]
 
 for f in languages:
     config = configparser.ConfigParser()
