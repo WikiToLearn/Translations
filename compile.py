@@ -13,5 +13,3 @@ for f in languages:
         outarr.append(out)
     outfile = open('mediawiki/'+f+'.mw', 'w')
     outfile.write('\n'.join(outarr)+'\n')
-
-# config.read(['site.cfg', os.path.expanduser('~/.myapp.cfg')])
