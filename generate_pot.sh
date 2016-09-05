@@ -8,7 +8,7 @@ mkdir -p locales
 
 for J in $INI; do
   for L in $LANGS; do
-    mkdir -p locales/$L
+    mkdir -p locales/$L locales/templates
     # Extract strings
     ini2po -P $J/en.ini locales/templates/$J.pot
 
