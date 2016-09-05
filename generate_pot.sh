@@ -31,5 +31,6 @@ for J in $JSON; do
 
     # Generate ini files
     po2json -t $J/en.json -i locales/$L/$J.po -o $J/$L.json
+    # po2json -i locales/$L/$J.po -o $J/$L.json
   done
 done
