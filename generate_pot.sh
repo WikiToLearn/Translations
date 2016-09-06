@@ -1,7 +1,10 @@
 #!/bin/bash
 
+# List of directories with en.json to translate
 JSON="courseeditor"
+# List of directories with ini files to translate
 INI="wtl-messages"
+
 LANGS="it fr es"
 
 mkdir -p locales
