@@ -20,6 +20,8 @@ for J in $INI; do
 
     # Generate ini files
     po2ini -t $J/en.ini -i locales/$L/$J.po -o $J/$L.ini
+
+    ./compile.py $J/en.ini $J/$L.ini > mediawiki/$L.mw
   done
 done
 
