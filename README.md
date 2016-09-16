@@ -1,12 +1,9 @@
 # TemplateMessages
 
-Ideally, you first have to extract the strings:
-
-``./generate_pot.sh``
-
-and then you simply compile the strings, ready to be imported
-
-`python compile.py`
+To generate, update, create the files to be exported, you simply need to:
+```
+./generate_pot.sh
+```
 
 ## If you need to add a new language
 
@@ -21,6 +18,7 @@ and add the chapter names in `en.ini`. The `ini` file has the following structur
 [messages]
 filename=Readable name of the chapter
 ```
+To insert links, use the following syntax anywhere in your file: `<ref:filename>`
 
 The compiled files can then be uploaded to mediawiki using a configured `pywikibot-core`
 by doing something like:
