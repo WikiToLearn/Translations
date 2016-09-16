@@ -3,11 +3,23 @@
 # List of directories with en.json to translate
 JSON="courseeditor"
 # List of directories with ini files to translate
-INI="wtl-messages"
+INI="wtl-messages guide"
+
+TXT="guide"
 
 LANGS="it fr es"
 
 mkdir -p locales
+
+### Extract strings
+
+for J in $TXT; do
+  for L in $LANGS; do
+    mkdir -p locales/$L locales/templates
+    # Extract strings
+    txt2po -P $J locales/templates -x "*.ini"
+    done
+done
 
 for J in $INI; do
   for L in $LANGS; do
@@ -15,9 +27,31 @@ for J in $INI; do
     # Extract strings
     ini2po -P $J/en.ini locales/templates/$J.pot
 
-    # Update translations
-    pot2po -t locales/$L/$J.po locales/templates/$J.pot locales/$L/$J.po
+  done
+done
 
+for J in $JSON; do
+  for L in $LANGS; do
+    mkdir -p locales/$L
+    # Extract strings
+    json2po -P $J/en.json locales/templates/$J.pot
+  done
+done
+
+
+### Merge strings
+for L in $LANGS; do
+  cd locales/templates
+  FILELIST="$(ls -1 *.pot)"
+  cd -
+  for FILE in $FILELIST; do
+    # Update translations
+    pot2po -t locales/$L/${FILE%.pot}.po locales/templates/$FILE locales/$L/${FILE%.pot}.po
+  done
+done
+
+for J in $INI; do
+  for L in $LANGS; do
     # Generate ini files
     po2ini -t $J/en.ini -i locales/$L/$J.po -o $J/$L.ini
 
@@ -27,15 +61,16 @@ done
 
 for J in $JSON; do
   for L in $LANGS; do
-    mkdir -p locales/$L
-    # Extract strings
-    json2po -P $J/en.json locales/templates/$J.pot
-
-    # Update translations
-    pot2po -t locales/$L/$J.po locales/templates/$J.pot locales/$L/$J.po
-
     # Generate ini files
     po2json -t $J/en.json -i locales/$L/$J.po -o $J/$L.json
     # po2json -i locales/$L/$J.po -o $J/$L.json
   done
+done
+
+
+for J in $TXT; do
+  for L in $LANGS; do
+    # Generate txt files
+    po2txt -t $J -i locales/$L -o $J/$L
+    done
 done
