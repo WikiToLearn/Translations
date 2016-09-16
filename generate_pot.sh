@@ -17,7 +17,7 @@ for J in $TXT; do
   for L in $LANGS; do
     mkdir -p locales/$L locales/templates
     # Extract strings
-    txt2po -P $J/en locales/templates -x "*.ini"
+    txt2po -P $J/en locales/templates -x "*.ini" --flavour=mediawiki
     done
 done
 

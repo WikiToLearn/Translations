@@ -4,6 +4,9 @@
 
 import sys
 import configparser, os
+import re
+
+p = re.compile(ur'<ref:([^>]*)>')
 
 config = configparser.ConfigParser()
 config.readfp(open(sys.argv[2],'r'))
@@ -17,19 +20,10 @@ for identifier, string in config.items("messages"):
 
     print 'xxxxxxSEPARATORBEGINxxxxxx'
     print "''"+string+"''"
-    # lines=[]
     for line in open("guide/"+sys.argv[3]+'/'+identifier+".txt").readlines():
-        print line.strip()
-        config.get("messages", identifier)
-    #print ''.join(open("guide/"+sys.argv[3]+'/'+identifier+".txt").readlines())
+        raw_line = line.strip()
+        for match in re.findall(p, raw_line):
+            raw_line = raw_line.replace('<ref:'+match+'>', config.get("messages", match))
+        print raw_line
+
     print 'xxxxxxSEPARATORENDxxxxxx'
-
-    # out = "<section begin=" + identifier
-    # out += " />" + string
-    # out += "<section end=" + identifier +  " /> "
-    # print out
-
-
-#     outarr.append(out)
-# outfile = open('mediawiki/'+f+'.mw', 'w')
-# outfile.write('\n'.join(outarr)+'\n')
