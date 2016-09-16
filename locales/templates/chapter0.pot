@@ -1,0 +1,66 @@
+#. extracted from guide/en/chapter0.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-16 19:15+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
+
+#: guide/en/chapter0.txt:1
+msgid "Introduction"
+msgstr ""
+
+#: guide/en/chapter0.txt:1
+msgid "[[<ref:chapter1>]]"
+msgstr ""
+
+#: guide/en/chapter0.txt:1
+msgid "Core concepts"
+msgstr ""
+
+#: guide/en/chapter0.txt:1
+msgid "[[<ref:chapter2>]]"
+msgstr ""
+
+#: guide/en/chapter0.txt:1
+msgid "[[/Section/]]"
+msgstr ""
+
+#: guide/en/chapter0.txt:1
+msgid "[[/Chapter/]]"
+msgstr ""
+
+#: guide/en/chapter0.txt:1
+msgid "Editing"
+msgstr ""
+
+#: guide/en/chapter0.txt:1
+msgid "[[/Visualeditor/]]"
+msgstr ""
+
+#: guide/en/chapter0.txt:1
+msgid "[[/Templates/]]"
+msgstr ""
+
+#: guide/en/chapter0.txt:1
+msgid "[[/Books/]]"
+msgstr ""
+
+#: guide/en/chapter0.txt:1
+msgid "External Content"
+msgstr ""
+
+#: guide/en/chapter0.txt:1
+msgid "[[/LaTeX/]]"
+msgstr ""
+
+#: guide/en/chapter0.txt:1
+msgid "[[/Word/]]"
+msgstr ""

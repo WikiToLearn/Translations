@@ -1,3 +1,11 @@
-This is a second chapter
+== Creating a course ==
+Creating a course is very easy. You simply have to...
 
-a little empty...
+=== Adding bibliography ===
+=== Adding exercises ===
+=== Adding notes ===
+
+=== Adding external links ===
+
+
+== Publish a course ==

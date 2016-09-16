@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-16 18:45+0200\n"
+"POT-Creation-Date: 2016-09-16 19:15+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,9 +14,29 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.13.0\n"
 
 #: guide/en/chapter2.txt:1
-msgid "This is a second chapter"
+msgid "Creating a course"
 msgstr ""
 
-#: guide/en/chapter2.txt:3
-msgid "a little empty..."
+#: guide/en/chapter2.txt:2
+msgid "Creating a course is very easy. You simply have to..."
+msgstr ""
+
+#: guide/en/chapter2.txt:2
+msgid "Adding bibliography"
+msgstr ""
+
+#: guide/en/chapter2.txt:2
+msgid "Adding exercises"
+msgstr ""
+
+#: guide/en/chapter2.txt:2
+msgid "Adding notes"
+msgstr ""
+
+#: guide/en/chapter2.txt:2
+msgid "Adding external links"
+msgstr ""
+
+#: guide/en/chapter2.txt:2
+msgid "Publish a course"
 msgstr ""

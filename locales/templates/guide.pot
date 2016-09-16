@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-16 18:45+0200\n"
+"POT-Creation-Date: 2016-09-16 19:15+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,10 +13,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.13.0\n"
 
+#: [messages]chapter0
+msgid "Manual"
+msgstr ""
+
 #: [messages]chapter1
-msgid "Chapter 1"
+msgid "Manual/The structure of WikiToLearn"
 msgstr ""
 
 #: [messages]chapter2
-msgid "Chapter 2"
+msgid "Manual/Core concepts: Course"
 msgstr ""
