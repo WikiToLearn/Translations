@@ -1,2 +1,9 @@
+guide/compiled
+*/fr
+*/es
+*/it
+fr.*
+es.*
+it.*
 *.json
 *.mo
