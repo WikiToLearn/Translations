@@ -17,7 +17,7 @@ for J in $TXT; do
   for L in $LANGS; do
     mkdir -p locales/$L locales/templates
     # Extract strings
-    txt2po -P $J locales/templates -x "*.ini"
+    txt2po -P $J/en locales/templates -x "*.ini"
     done
 done
 
@@ -67,10 +67,17 @@ for J in $JSON; do
   done
 done
 
-
 for J in $TXT; do
   for L in $LANGS; do
     # Generate txt files
-    po2txt -t $J -i locales/$L -o $J/$L
+    po2txt -t $J/en -i locales/$L -o $J/$L
+    done
+done
+# We also want to compile files for english:
+LANGS="$LANGS en"
+for J in $TXT; do
+  mkdir -p $J/compiled
+  for L in $LANGS; do
+    ./compile-guide.py $J/en.ini $J/$L.ini $L > $J/compiled/$L.mw
     done
 done

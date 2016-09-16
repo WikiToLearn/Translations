@@ -14,11 +14,22 @@ enconfig.readfp(open(sys.argv[1],'r'))
 for identifier, string in config.items("messages"):
     if len(string) == 0:
        string = enconfig.get("messages", identifier)
-    print ''.join(open("guide/"+sys.argv[3]+'/'+identifier+".txt").readlines())
-    out = "<section begin=" + identifier
-    out += " />" + string
-    out += "<section end=" + identifier +  " /> "
-    print out
+
+    print 'xxxxxx SEPARATOR BEGIN xxxxxx'
+    print "''"+string+"''"
+    # lines=[]
+    for line in open("guide/"+sys.argv[3]+'/'+identifier+".txt").readlines():
+        print line.strip()
+        config.get("messages", identifier)
+    #print ''.join(open("guide/"+sys.argv[3]+'/'+identifier+".txt").readlines())
+    print 'xxxxxx SEPARATOR END xxxxxx'
+
+    # out = "<section begin=" + identifier
+    # out += " />" + string
+    # out += "<section end=" + identifier +  " /> "
+    # print out
+
+
 #     outarr.append(out)
 # outfile = open('mediawiki/'+f+'.mw', 'w')
 # outfile.write('\n'.join(outarr)+'\n')
