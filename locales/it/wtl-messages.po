@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-08 16:15+0200\n"
+"POT-Creation-Date: 2016-09-16 18:45+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,14 +12,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.13.0\n"
 
-#: [messages]externalReferences
+#: [messages]externalreferences
 msgid "External References"
 msgstr ""
 
-#: [messages]editCourse
+#: [messages]editcourse
 msgid "Edit Course"
 msgstr ""
 
-#: [messages]editMetadata
+#: [messages]editmetadata
 msgid "Edit metadata (admin only)"
+msgstr ""
+
+#: [messages]editsection
+msgid "Edit section"
 msgstr ""

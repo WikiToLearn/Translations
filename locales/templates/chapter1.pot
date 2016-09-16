@@ -1,4 +1,4 @@
-#. extracted from wtl-messages/en.ini
+#. extracted from guide/en/chapter1.txt
 #, fuzzy
 msgid ""
 msgstr ""
@@ -13,18 +13,23 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.13.0\n"
 
-#: [messages]externalreferences
-msgid "External References"
+#: guide/en/chapter1.txt:1
+msgid ""
+"This is the first chapter\n"
+"This is a really great chapter"
 msgstr ""
 
-#: [messages]editcourse
-msgid "Edit Course"
+#: guide/en/chapter1.txt:4
+msgid ""
+"* One item\n"
+"*Two\n"
+"* Three"
 msgstr ""
 
-#: [messages]editmetadata
-msgid "Edit metadata (admin only)"
+#: guide/en/chapter1.txt:8
+msgid "This is a link to [[<ref:chapter2>]]."
 msgstr ""
 
-#: [messages]editsection
-msgid "Edit section"
+#: guide/en/chapter1.txt:10
+msgid "That's it!"
 msgstr ""

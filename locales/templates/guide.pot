@@ -1,4 +1,4 @@
-#. extracted from wtl-messages/en.ini
+#. extracted from guide/en.ini
 #, fuzzy
 msgid ""
 msgstr ""
@@ -13,18 +13,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.13.0\n"
 
-#: [messages]externalreferences
-msgid "External References"
+#: [messages]chapter1
+msgid "Chapter 1"
 msgstr ""
 
-#: [messages]editcourse
-msgid "Edit Course"
-msgstr ""
-
-#: [messages]editmetadata
-msgid "Edit metadata (admin only)"
-msgstr ""
-
-#: [messages]editsection
-msgid "Edit section"
+#: [messages]chapter2
+msgid "Chapter 2"
 msgstr ""
