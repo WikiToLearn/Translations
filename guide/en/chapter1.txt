@@ -1,29 +1,36 @@
 WikiToLearn is a portal that aims to create free collaborative and readily accessible textbooks. Our philosophy can be summarised as "''Knowledge only grows if shared''".
 
+__TOC__
+
 == Conventions ==
-In order to write consistent book, WikiToLearn makes a large use of the hierarchy model
+WikiToLearn makes extensive use of a hierarchy model, in order to create books which are consistent with our philosophy.  
 
 (add image here)
 
 === Department ===
-It's the biggest container in WikiToLearn. It's a collection of topics, courses and books  belonging to the same area. Departments are listed on the main page.
+It's a collection of topics, courses and books belonging to the same area. Departments are listed on the main page.
 
 === Topic ===
-Topics are children of a department and contains different courses related to the same argument. Topics are created because a course may change in its structure and content from university to university, even though the course name is the same. Topics act like a container of these different related courses. For example, <code>Calculus</code>may be a topic and <code>Calculus for physics</code>, <code>Calculus for computer science</code>may be a course. (add image here)
+Topics are the level underneath departments and contain different courses related to the same subject. They are used to gather all the courses that explain the same theme, because every university and faculty could have a different approach to the subject. For example, <code>Calculus</code>may be a topic and <code>Calculus for Physics</code>, <code>Calculus for Computer Science</code>may be a course. (add image here)
 
 === Course ===
-Course is the most important unit of WikiToLearn. Courses are a collection of pages structured like a university course. Every course has a prefix <code>Course:</code>followed by the course name in its url. (add image here)
+Course is the most important unit of WikiToLearn. Courses are a collection of pages structured like a university course. Every course has the prefix <code>Course:</code>followed by the course name in its url. (add image heee)
 
 === Section ===
-Sections are immediately children of a course. They are collections of single pages also known as chapters and are displayed as heading titles. (Add image here)
+Sections are the lower level of a course. They gather together some chapters of a book  and they are displayed as heading titles in the main page of the course. (Add image here) 
 
 === Chapter ===
-Chapters are the basic unit of an entire course. Basically, they're a single page with their own content.
+Chapters are the basic unit of an entire course. Basically, they're a single webpage with its own content.
 
 == Namespaces ==
-Namespaces are a mechanism to group pages. You can see the namespace by looking at the url: if it has a <code>word:something_else</code>then word is the namespace. In WikiTolearn there are two main namspaces, the User and the Course.
+Namespaces are a mechanism for grouping pages. You can see the namespace by looking at the url: if it has a <code>word:something_else</code>then "word" is the namespace. In WikiTolearn there are two main namespaces, "User" and "Course".
 
 === User namespace ===
-When you register on WikiToLearn a page called <code>User:your_username</code>is created. The User namespace is your personal place where you can write your own courses and content without worring about making mistakes.
+When you register on WikiToLearn a page called <code>User:your_username</code>is created. The User namespace is your personal page where you can write your own courses and content without worring about making mistakes. You can see an example here:
+
+http://en.wikitolearn.org/User:Grigoletti
 
 === Course namespace ===
+A Course namespace is similar to the User one, but it has the word <code>Course:</code>as a prefix to the url. This namespace is used to create an entire course. You can see an example here: 
+
+http://en.wikitolearn.org/Course:How_to_use_Linked_Data

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-16 19:15+0200\n"
+"POT-Creation-Date: 2016-09-29 12:01+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,7 +18,7 @@ msgid "Introduction"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
-msgid "[[<ref:chapter1>]]"
+msgid "[[/Structure of WikiToLearn/]]"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
@@ -26,7 +26,7 @@ msgid "Core concepts"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
-msgid "[[<ref:chapter2>]]"
+msgid "[[/Course/]]"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
@@ -42,7 +42,7 @@ msgid "Editing"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
-msgid "[[/Visualeditor/]]"
+msgid "[[User:Grigoletti/Manual/VisualEditor|VisualEditor]]"
 msgstr ""
 
 #: guide/en/chapter0.txt:1

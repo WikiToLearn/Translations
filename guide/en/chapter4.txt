@@ -1,0 +1,14 @@
+__TOC__
+
+A chapter is the lowest unit on the Course hierarchy and it consists in a page. Every chapter has its own title and content.
+
+== Add a chapter ==
+To add a chapter into a section, go the course main page. Find the section where you want to add the chapter and click on the <code>edit section</code>link. Write the name of the chapter on the input field and save the changes by clicking on the<code>save section</code>button.
+
+== Rename a chapter ==
+
+=== Restore a chapter ===
+
+== Delete a chapter ==
+
+== Move a chapter ==

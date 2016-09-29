@@ -1,13 +1,13 @@
 === Introduction ===
-* [[<ref:chapter1>]]
+* [[/Structure of WikiToLearn/]]
 
 === Core concepts ===
-* [[<ref:chapter2>]]
+* [[/Course/]]
 * [[/Section/]]
 * [[/Chapter/]]
 
 === Editing ===
-* [[/Visualeditor/]]
+* [[User:Grigoletti/Manual/VisualEditor|VisualEditor]]
 * [[/Templates/]]
 * [[/Books/]]
 

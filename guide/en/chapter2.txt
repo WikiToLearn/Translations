@@ -1,11 +1,33 @@
-== Creating a course ==
-Creating a course is very easy. You simply have to...
 
-=== Adding bibliography ===
-=== Adding exercises ===
-=== Adding notes ===
+Course is a collection of pages with a well defined tree structure. Every course on WikiToLearn has a unique name. You can create a private course under your namespace or a public/collaborative course where everyone can contribute.
 
-=== Adding external links ===
+== Create a course ==
+The first thing to do to create a course is going to the right department. For example, if you are writing a <code>Quantum Physics</code> course then you need to go to the physics department located at http://en.wikitolearn.org/Physics
 
+(TODO: insert a template button on departments to create a course)
+
+When you click on the "Create course" button a form shows up.
+
+(ADD image here)
+
+You can choose to make the course public or private. A public course is located under the related department, while a private course is located under the user namespace.
+
+It is strongly recommended to create a private course and publish it once completed.
+
+=== Bibliography ===
+You can add a bibliography to your course (how?).
+
+=== Exercises ===
+If you want to add a collections of exercises' links you can (how?)
+
+=== Notes ===
+You can also add external notes.
+
+=== External links ===
+For any other related link you can add them here by (how?)
 
 == Publish a course ==
+If you have created a private course, it will stay under your user namespace unless you decide to publish it.
+
+(how?)
+__FORCETOC__
