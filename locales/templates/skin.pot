@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-29 12:31+0200\n"
+"POT-Creation-Date: 2016-09-29 13:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,11 +23,11 @@ msgid "images/badges/placeholder.png"
 msgstr ""
 
 #: .wikitolearnskin-departments-6-name
-msgid "DEP 6"
+msgid "Medicine"
 msgstr ""
 
 #: .wikitolearnskin-departments-9-name
-msgid "DEP 9"
+msgid "Computer Science"
 msgstr ""
 
 #: .wikitolearnskin-navbar-contribute-link
@@ -36,7 +36,7 @@ msgid "#"
 msgstr ""
 
 #: .wikitolearnskin-departments-5-name
-msgid "DEP 5"
+msgid "Mathematics"
 msgstr ""
 
 #: .wikitolearnskin-departments-8-link
@@ -49,7 +49,7 @@ msgid "#"
 msgstr ""
 
 #: .wikitolearnskin-departments-10-name
-msgid "DEP 10"
+msgid "Before University"
 msgstr ""
 
 #: .wikitolearnskin-next-button-title
@@ -66,7 +66,7 @@ msgid "images/badges/placeholder.png"
 msgstr ""
 
 #: .wikitolearnskin-departments-2-name
-msgid "DEP 2"
+msgid "Chemistry"
 msgstr ""
 
 #: .wikitolearnskin-departments-3-image
@@ -89,7 +89,7 @@ msgid "#"
 msgstr ""
 
 #: .wikitolearnskin-departments-8-name
-msgid "DEP 8"
+msgid "Engineering"
 msgstr ""
 
 #: .wikitolearnskin-join-us-button-link
@@ -98,7 +98,7 @@ msgid "#"
 msgstr ""
 
 #: .wikitolearnskin-departments-7-name
-msgid "DEP 7"
+msgid "Humanities"
 msgstr ""
 
 #: .wikitolearnskin-departments-4-image
@@ -136,7 +136,7 @@ msgid "images/badges/placeholder.png"
 msgstr ""
 
 #: .wikitolearnskin-navbar-third-option
-msgid "???"
+msgid "Create a book"
 msgstr ""
 
 #: .wikitolearnskin-testimonials-third-image-path
@@ -145,7 +145,7 @@ msgid "images/placeholder-user.png"
 msgstr ""
 
 #: .wikitolearnskin-departments-3-name
-msgid "DEP 3"
+msgid "Business"
 msgstr ""
 
 #: .wikitolearnskin-footer-follow-us
@@ -171,7 +171,7 @@ msgid "wikitolearnskin-departments-1-link"
 msgstr ""
 
 #: .wikitolearnskin-departments-4-name
-msgid "DEP 4"
+msgid "Sciences"
 msgstr ""
 
 #: .wikitolearnskin-departments-9-image
@@ -253,5 +253,5 @@ msgid "Figure out a claim"
 msgstr ""
 
 #: .wikitolearnskin-departments-1-name
-msgid "DEP 1"
+msgid "Social Sciences"
 msgstr ""

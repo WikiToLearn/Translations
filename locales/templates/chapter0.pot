@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-29 12:21+0200\n"
+"POT-Creation-Date: 2016-09-29 13:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,7 +18,7 @@ msgid "Introduction"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
-msgid "[[/Structure of WikiToLearn/]]"
+msgid "[[<ref:chapter1>|Structure of WikiToLearn]]"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
@@ -26,15 +26,15 @@ msgid "Core concepts"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
-msgid "[[/Course/]]"
+msgid "[[<ref:chapter2>]]"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
-msgid "[[/Section/]]"
+msgid "[[<ref:chapter3>]]"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
-msgid "[[/Chapter/]]"
+msgid "[[<ref:chapter4>]]"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
@@ -42,15 +42,15 @@ msgid "Editing"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
-msgid "[[User:Grigoletti/Manual/VisualEditor|VisualEditor]]"
+msgid "[[<ref:chapter5>]]"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
-msgid "[[/Templates/]]"
+msgid "[[<ref:chapter6>]]]"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
-msgid "[[/Books/]]"
+msgid "[[<ref:chapter7>]]"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
@@ -58,9 +58,9 @@ msgid "External Content"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
-msgid "[[/LaTeX/]]"
+msgid "[[<ref:chapter8>]]"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
-msgid "[[/Word/]]"
+msgid "[[<ref:chapter9>]]"
 msgstr ""

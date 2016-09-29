@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-29 12:21+0200\n"
+"POT-Creation-Date: 2016-09-29 13:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -39,14 +39,43 @@ msgstr ""
 msgid "Rename a chapter"
 msgstr ""
 
-#: guide/en/chapter4.txt:6
+#: guide/en/chapter4.txt:10
+msgid ""
+"To rename a chapter, you can do so from the CourseEditor. Simply find the "
+"section where the chapter is present and edit it. You will be able to rename "
+"the chapter by pressing on the small icon with the blue pen."
+msgstr ""
+
+#: guide/en/chapter4.txt:12
+msgid "[[File:Manual_rename_chapter.png]]"
+msgstr ""
+
+#: guide/en/chapter4.txt:12
 msgid "Restore a chapter"
 msgstr ""
 
-#: guide/en/chapter4.txt:6
+#: guide/en/chapter4.txt:12
 msgid "Delete a chapter"
 msgstr ""
 
-#: guide/en/chapter4.txt:6
+#: guide/en/chapter4.txt:18
+msgid ""
+"To delete a chapter, you can do so from the CourseEditor. Simply find the "
+"section where the chapter is present and edit it. You will be able to delete "
+"the chapter by pressing on the \"trash\" icon."
+msgstr ""
+
+#: guide/en/chapter4.txt:20
+msgid "[[File:Manual_delete_chapter.png]]"
+msgstr ""
+
+#: guide/en/chapter4.txt:20
 msgid "Move a chapter"
+msgstr ""
+
+#: guide/en/chapter4.txt:24
+msgid ""
+"To move a chapter within the same section, you can simply use the drag and "
+"drop elements.\n"
+"We don't yet support moving chapters within different sections."
 msgstr ""
