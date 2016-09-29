@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-29 13:16+0200\n"
+"POT-Creation-Date: 2016-09-29 16:23+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,5 +14,83 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.13.0\n"
 
 #: guide/en/chapter6.txt:1
-msgid "Using templates"
+msgid ""
+"Templates are used to add recurring notes to pages in a consistent way, to "
+"create navigational boxes, and to provide all kind of advanced features."
+msgstr ""
+
+#: guide/en/chapter6.txt:1
+msgid "Inserting templates"
+msgstr ""
+
+#: guide/en/chapter6.txt:5
+msgid ""
+"To insert templates you can use the <code>Insert->Template</code> function "
+"from [[<ref:chapter5>|the Visual Editor]]."
+msgstr ""
+
+#: guide/en/chapter6.txt:7
+msgid ""
+"In this example, we will add a definition. At first, we press "
+"Insert->Template:"
+msgstr ""
+
+#: guide/en/chapter6.txt:9
+msgid "[[File:Manual_Templates_insert.png]]"
+msgstr ""
+
+#: guide/en/chapter6.txt:11
+msgid ""
+"Then, we choose the template Definition, by writing the first letters in the "
+"box that appears:"
+msgstr ""
+
+#: guide/en/chapter6.txt:13
+msgid "[[File:Manual_Templates_select.png]]"
+msgstr ""
+
+#: guide/en/chapter6.txt:15
+msgid "We just press \"Insert\" and the template is added:"
+msgstr ""
+
+#: guide/en/chapter6.txt:17
+msgid "[[File:Manual_templates_insert.png]]"
+msgstr ""
+
+#: guide/en/chapter6.txt:17
+msgid "Using templates parameters"
+msgstr ""
+
+#: guide/en/chapter6.txt:21
+msgid ""
+"Some templates can have named parameters. In the example above, there is an "
+"optional <code>title</code> parameter.\n"
+"We can fill this field by clicking on the field name and specifying the "
+"desired value."
+msgstr ""
+
+#: guide/en/chapter6.txt:24
+msgid "[[File:Manual_templates_parameter.png]]"
+msgstr ""
+
+#: guide/en/chapter6.txt:24
+msgid "A list of useful templates"
+msgstr ""
+
+#: guide/en/chapter6.txt:28
+msgid ""
+"''Mathematics:''\n"
+"Definition"
+msgstr ""
+
+#: guide/en/chapter6.txt:28
+msgid "Theorem"
+msgstr ""
+
+#: guide/en/chapter6.txt:28
+msgid "Example"
+msgstr ""
+
+#: guide/en/chapter6.txt:28
+msgid "Lemma"
 msgstr ""

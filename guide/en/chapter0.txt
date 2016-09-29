@@ -2,15 +2,15 @@
 * [[<ref:chapter1>|Structure of WikiToLearn]]
 
 === Core concepts ===
-* [[<ref:chapter2>]]
-* [[<ref:chapter3>]]
-* [[<ref:chapter4>]]
+* [[<ref:chapter2>|Course]]
+* [[<ref:chapter3>|Section]]
+* [[<ref:chapter4>|Chapter]]
 
 === Editing ===
-* [[<ref:chapter5>]]
-* [[<ref:chapter6>]]]
-* [[<ref:chapter7>]]
+* [[<ref:chapter5>|The Visual Editor]]
+* [[<ref:chapter6>|Using templates]]
+* [[<ref:chapter7>|Creating books]]
 
 === External Content ===
-* [[<ref:chapter8>]]
-* [[<ref:chapter9>]]
+* [[<ref:chapter8>|Importing from LaTeX]]
+* [[<ref:chapter9>|Importing from Word]]

@@ -19,7 +19,7 @@ for identifier, string in config.items("messages"):
        string = enconfig.get("messages", identifier)
 
     print 'xxxxxxSEPARATORBEGINxxxxxx'
-    print "''"+string+"''"
+    print "'''"+string+"'''"
     for line in open("guide/"+sys.argv[3]+'/'+identifier+".txt").readlines():
         raw_line = line.strip()
         for match in re.findall(p, raw_line):
