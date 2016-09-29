@@ -7,7 +7,7 @@ INI="wtl-messages guide"
 
 TXT="guide"
 
-LANGS="it fr es"
+LANGS="it fr es ca de"
 
 mkdir -p locales
 

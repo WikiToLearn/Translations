@@ -7,7 +7,7 @@ To generate, update, create the files to be exported, you simply need to:
 
 ## If you need to add a new language
 
-Add your language to `$LANG` in `generate_pot.sh` and in the `languages` variable in `compile.py`
+Add your language to `$LANG` in `generate_pot.sh`.
 
 # Writing the guide
 
