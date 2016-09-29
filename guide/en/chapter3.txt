@@ -1,4 +1,4 @@
-ections are a collection of chapters. They're intended to be used like a section  of a book and have their own title.
+Sections are a collection of chapters. They're intended to be used like a section  of a book and have their own title.
 
 == Add a section ==
 You can add a section to a course by navigating to the course main page. Click on the <code>edit course</code> link and insert the name of the section you want to add. Once done, click on <code>Save Course</code> button.
