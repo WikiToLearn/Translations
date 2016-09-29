@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # List of directories with en.json to translate
-JSON="courseeditor"
+JSON="courseeditor skin"
 # List of directories with ini files to translate
 INI="wtl-messages guide"
 
@@ -52,10 +52,10 @@ done
 
 for J in $INI; do
   for L in $LANGS; do
+    mkdir -p $J/mediawiki
+    
     # Generate ini files
     po2ini -t $J/en.ini -i locales/$L/$J.po -o $J/$L.ini
-
-    ./compile.py $J/en.ini $J/$L.ini > mediawiki/$L.mw
   done
 done
 
@@ -81,3 +81,10 @@ for J in $TXT; do
     ./compile-guide.py $J/en.ini $J/$L.ini $L > $J/compiled/$L.mw
     done
 done
+
+
+mkdir -p wtl-messages/mediawiki/
+for L in $LANGS; do
+  ./compile.py wtl-messages/en.ini wtl-messages/$L.ini > wtl-messages/mediawiki/$L.mw
+done
+
