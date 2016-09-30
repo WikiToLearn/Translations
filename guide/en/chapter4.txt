@@ -9,7 +9,7 @@ To add a chapter into a section, go the course main page. Find the section where
 
 To rename a chapter, you can do so from the CourseEditor. Simply find the section where the chapter is present and edit it. You will be able to rename the chapter by pressing on the small icon with the blue pen.
 
-[[File:Manual_rename_chapter.png]]
+[[File:Manual_rename_chapter.gif]]
 
 === Restore a chapter ===
 
@@ -17,7 +17,7 @@ To rename a chapter, you can do so from the CourseEditor. Simply find the sectio
 
 To delete a chapter, you can do so from the CourseEditor. Simply find the section where the chapter is present and edit it. You will be able to delete the chapter by pressing on the "trash" icon.
 
-[[File:Manual_delete_chapter.png]]
+[[File:Manual_delete_chapter.gif]]
 
 == Move a chapter ==
 

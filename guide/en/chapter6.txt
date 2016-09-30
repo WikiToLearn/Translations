@@ -4,17 +4,19 @@ Templates are used to add recurring notes to pages in a consistent way, to creat
 
 To insert templates you can use the <code>Insert->Template</code> function from [[<ref:chapter5>|the Visual Editor]].
 
-In this example, we will add a definition. At first, we press Insert->Template:
+In this example, we will add a definition. At first, we insert a template from the edit toolbar:
 
-[[File:Manual_Templates_insert.png]]
+[[File:Manual_Templates_insert_start.png]]
 
-Then, we choose the template Definition, by writing the first letters in the box that appears:
+Then, we choose the template named <code>Definition</code>, by writing the first letters in the box that appears:
 
 [[File:Manual_Templates_select.png]]
 
-We just press "Insert" and the template is added:
+In this case, we don't want to insert any parameter. Thus we just press "Insert" and the template is added:
 
-[[File:Manual_templates_insert.png]]
+[[File:Manual_templates_finish.png]]
+
+We will now write the definition as a new paragraph.
 
 === Using templates parameters ===
 
@@ -25,7 +27,7 @@ We can fill this field by clicking on the field name and specifying the desired 
 
 == A list of useful templates ==
 
-''Mathematics:''
+'''Mathematics:'''
 * Definition
 * Theorem
 * Example

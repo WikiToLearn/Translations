@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-29 16:23+0200\n"
+"POT-Creation-Date: 2016-09-30 13:53+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,8 +31,7 @@ msgid ""
 msgstr ""
 
 #: guide/en/chapter3.txt:6
-msgctxt "guide/en/chapter3.txt:6"
-msgid "(add image or gif here)"
+msgid "[[File:Manual_add_section.gif]]"
 msgstr ""
 
 #: guide/en/chapter3.txt:6
@@ -49,8 +48,7 @@ msgid ""
 msgstr ""
 
 #: guide/en/chapter3.txt:11
-msgctxt "guide/en/chapter3.txt:11"
-msgid "(add image or gif here)"
+msgid "[[File:Manual_rename_section.gif]]"
 msgstr ""
 
 #: guide/en/chapter3.txt:11
@@ -68,8 +66,7 @@ msgid ""
 msgstr ""
 
 #: guide/en/chapter3.txt:16
-msgctxt "guide/en/chapter3.txt:16"
-msgid "(add image or gif here)"
+msgid "[[File:Manual_delete_section.gif]]"
 msgstr ""
 
 #: guide/en/chapter3.txt:16
@@ -84,8 +81,7 @@ msgid ""
 msgstr ""
 
 #: guide/en/chapter3.txt:21
-msgctxt "guide/en/chapter3.txt:21"
-msgid "(add image or gif here)"
+msgid "[[File:Manual_Restore_section.gif]]"
 msgstr ""
 
 #: guide/en/chapter3.txt:23
@@ -107,6 +103,5 @@ msgid ""
 msgstr ""
 
 #: guide/en/chapter3.txt:28
-msgctxt "guide/en/chapter3.txt:28"
 msgid "(add image or gif here)"
 msgstr ""

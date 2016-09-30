@@ -1,7 +1,7 @@
 #!/bin/bash
 
-LANG="it"
+LANG="en"
 for L in $LANG; do
   cp ../guide/compiled/$L.mw dict.txt
-  python pwb.py pagefromfile -start:xxxxxxSEPARATORBEGINxxxxxx -end:xxxxxxSEPARATORENDxxxxxx -notitle -force -lang:dev$L
+  python pwb.py pagefromfile -begin:xxxxxxSEPARATORBEGINxxxxxx -end:xxxxxxSEPARATORENDxxxxxx -notitle -force -lang:$L
 done

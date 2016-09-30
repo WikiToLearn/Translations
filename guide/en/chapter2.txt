@@ -8,7 +8,7 @@ The first thing to do to create a course is going to the right department. For e
 
 When you click on the "Create course" button a form shows up.
 
-(ADD image here)
+[[File:Manual_create_course.gif]]
 
 You can choose to make the course public or private. A public course is located under the related department, while a private course is located under the user namespace.
 

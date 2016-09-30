@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-29 16:23+0200\n"
+"POT-Creation-Date: 2016-09-30 13:53+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,15 +26,15 @@ msgid "Core concepts"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
-msgid "[[<ref:chapter2>]]"
+msgid "[[<ref:chapter2>|Course]]"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
-msgid "[[<ref:chapter3>]]"
+msgid "[[<ref:chapter3>|Section]]"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
-msgid "[[<ref:chapter4>]]"
+msgid "[[<ref:chapter4>|Chapter]]"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
@@ -42,15 +42,15 @@ msgid "Editing"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
-msgid "[[<ref:chapter5>]]"
+msgid "[[<ref:chapter5>|The Visual Editor]]"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
-msgid "[[<ref:chapter6>]]"
+msgid "[[<ref:chapter6>|Using templates]]"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
-msgid "[[<ref:chapter7>]]"
+msgid "[[<ref:chapter7>|Creating books]]"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
@@ -58,9 +58,9 @@ msgid "External Content"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
-msgid "[[<ref:chapter8>]]"
+msgid "[[<ref:chapter8>|Importing from LaTeX]]"
 msgstr ""
 
 #: guide/en/chapter0.txt:1
-msgid "[[<ref:chapter9>]]"
+msgid "[[<ref:chapter9>|Importing from Word]]"
 msgstr ""
