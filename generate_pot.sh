@@ -78,13 +78,13 @@ LANGS="$LANGS en"
 for J in $TXT; do
   mkdir -p $J/compiled
   for L in $LANGS; do
-    ./compile-guide.py $J/en.ini $J/$L.ini $L > $J/compiled/$L.mw
+    python2 ./compile-guide.py $J/en.ini $J/$L.ini $L > $J/compiled/$L.mw
     done
 done
 
 
 mkdir -p wtl-messages/mediawiki/
 for L in $LANGS; do
-  ./compile.py wtl-messages/en.ini wtl-messages/$L.ini > wtl-messages/mediawiki/$L.mw
+  python2 ./compile.py wtl-messages/en.ini wtl-messages/$L.ini > wtl-messages/mediawiki/$L.mw
 done
 
