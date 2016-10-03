@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-02 15:54+0200\n"
+"PO-Revision-Date: 2016-10-02 20:41+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+
+#: [messages]chapter0
+msgid "Manual"
+msgstr "Manuale"
+
+#: [messages]chapter1
+msgid "Manual/The structure of WikiToLearn"
+msgstr "Manuale/Struttura di WikiToLearn"
+
+#: [messages]chapter2
+msgid "Manual/Core concepts: Course"
+msgstr "Manuale/Concetti fondamentali: Corso"
+
+#: [messages]chapter3
+msgid "Manual/Core concepts: Section"
+msgstr "Manuale/Concetti fondamentali: Sezione"
+
+#: [messages]chapter4
+msgid "Manual/Core concepts: Chapter"
+msgstr "Munuale/Concetti fondamentali: Capitolo"
+
+#: [messages]chapter5
+msgid "Manual/The Visual Editor"
+msgstr "Manuale/Il Visual Editor"
+
+#: [messages]chapter6
+msgid "Manual/Using templates"
+msgstr "Manuale/L'uso dei template"
+
+#: [messages]chapter7
+msgid "Manual/Creating books"
+msgstr "Manuale/Creare un libro"
+
+#: [messages]chapter8
+msgid "Manual/Importing from LaTeX"
+msgstr "Manuale/Importare da LaTex"
+
+#: [messages]chapter9
+msgid "Manual/Importing from Word"
+msgstr "Manuale/Importare da Word"

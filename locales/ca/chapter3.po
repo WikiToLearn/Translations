@@ -1,0 +1,106 @@
+#. extracted from guide/en/chapter3.txt
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-30 14:15+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
+
+#: guide/en/chapter3.txt:1
+msgid ""
+"Sections are a collection of chapters. They're intended to be used like a "
+"section  of a book and have their own title."
+msgstr ""
+
+#: guide/en/chapter3.txt:1
+msgid "Add a section"
+msgstr ""
+
+#: guide/en/chapter3.txt:4
+msgid ""
+"You can add a section to a course by navigating to the course main page. "
+"Click on the <code>edit course</code> link and insert the name of the "
+"section you want to add. Once done, click on <code>Save Course</code> button."
+msgstr ""
+
+#: guide/en/chapter3.txt:6
+msgid "[[File:Manual_add_section.gif]]"
+msgstr ""
+
+#: guide/en/chapter3.txt:6
+msgid "Rename a section"
+msgstr ""
+
+#: guide/en/chapter3.txt:9
+msgid ""
+"To rename a section, go to the course main page and click on the <code>edit "
+"course</code>link. A list of all the created sections will show up. Place "
+"the mouse on the target section and a blue pencil will appear on the right. "
+"Click on the pencil and insert the new name of the section. Once done, click "
+"on the <code>Save course</code>button."
+msgstr ""
+
+#: guide/en/chapter3.txt:11
+msgid "[[File:Manual_rename_section.gif]]"
+msgstr ""
+
+#: guide/en/chapter3.txt:11
+msgid "Delete a section"
+msgstr ""
+
+#: guide/en/chapter3.txt:14
+msgid ""
+"To delete a section, go to the course main page and click on the <code>edit "
+"course</code> link. A list of all the created section will show up. Place "
+"the mouse on the targeted section and a red bin will appear on the right. If "
+"you click on the bin you will notice that your section will be placed in a "
+"recycling bin. Once done, save the changes by clicking on the <code>Save "
+"course</code>button."
+msgstr ""
+
+#: guide/en/chapter3.txt:16
+msgid "[[File:Manual_delete_section.gif]]"
+msgstr ""
+
+#: guide/en/chapter3.txt:16
+msgid "Restore a section"
+msgstr ""
+
+#: guide/en/chapter3.txt:19
+msgid ""
+"If you have sections in the recycling bin you can restore them by placing "
+"the mouse on the sections and clicking on the restore icon on the left of "
+"the section's name."
+msgstr ""
+
+#: guide/en/chapter3.txt:21
+msgid "[[File:Manual_Restore_section.gif]]"
+msgstr ""
+
+#: guide/en/chapter3.txt:23
+msgid ""
+"Always remember to save the changes by clicking on the <code>Save "
+"Course</code>button."
+msgstr ""
+
+#: guide/en/chapter3.txt:23
+msgid "Move a section"
+msgstr ""
+
+#: guide/en/chapter3.txt:26
+msgid ""
+"You can change the order of the section's list by clicking on the <code>edit "
+"course</code>link. A list of sections will show up. Simply drag and drop "
+"them to swap their order. Once done, save your changes by clicking on the "
+"<code>Save course</code>button."
+msgstr ""
+
+#: guide/en/chapter3.txt:28
+msgid "(add image or gif here)"
+msgstr ""

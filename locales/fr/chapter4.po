@@ -1,0 +1,80 @@
+#. extracted from guide/en/chapter4.txt
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-30 14:15+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
+
+#: guide/en/chapter4.txt:1
+msgid "__TOC__"
+msgstr ""
+
+#: guide/en/chapter4.txt:3
+msgid ""
+"A chapter is the lowest unit on the Course hierarchy and it consists in a "
+"page. Every chapter has its own title and content."
+msgstr ""
+
+#: guide/en/chapter4.txt:3
+msgid "Add a chapter"
+msgstr ""
+
+#: guide/en/chapter4.txt:6
+msgid ""
+"To add a chapter into a section, go the course main page. Find the section "
+"where you want to add the chapter and click on the <code>edit section</code>"
+"link. Write the name of the chapter on the input field and save the changes "
+"by clicking on the<code>save section</code>button."
+msgstr ""
+
+#: guide/en/chapter4.txt:6
+msgid "Rename a chapter"
+msgstr ""
+
+#: guide/en/chapter4.txt:10
+msgid ""
+"To rename a chapter, you can do so from the CourseEditor. Simply find the "
+"section where the chapter is present and edit it. You will be able to rename "
+"the chapter by pressing on the small icon with the blue pen."
+msgstr ""
+
+#: guide/en/chapter4.txt:12
+msgid "[[File:Manual_rename_chapter.gif]]"
+msgstr ""
+
+#: guide/en/chapter4.txt:12
+msgid "Restore a chapter"
+msgstr ""
+
+#: guide/en/chapter4.txt:12
+msgid "Delete a chapter"
+msgstr ""
+
+#: guide/en/chapter4.txt:18
+msgid ""
+"To delete a chapter, you can do so from the CourseEditor. Simply find the "
+"section where the chapter is present and edit it. You will be able to delete "
+"the chapter by pressing on the \"trash\" icon."
+msgstr ""
+
+#: guide/en/chapter4.txt:20
+msgid "[[File:Manual_delete_chapter.gif]]"
+msgstr ""
+
+#: guide/en/chapter4.txt:20
+msgid "Move a chapter"
+msgstr ""
+
+#: guide/en/chapter4.txt:24
+msgid ""
+"To move a chapter within the same section, you can simply use the drag and "
+"drop elements.\n"
+"We don't yet support moving chapters within different sections."
+msgstr ""
