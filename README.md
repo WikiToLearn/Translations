@@ -4,6 +4,10 @@ To generate, update, create the files to be exported, you simply need to:
 ```
 ./generate_pot.sh
 ```
+## Translators!
+
+This repository is experimental. Before translating anything, please ask on #translations if the file is ready and really not done.
+
 
 ## If you need to add a new language
 
