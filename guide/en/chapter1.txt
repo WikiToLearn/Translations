@@ -11,7 +11,9 @@ WikiToLearn makes extensive use of a hierarchy model, in order to create books w
 It's a collection of topics, courses and books belonging to the same area. Departments are listed on the main page.
 
 === Topic ===
-Topics are the level underneath departments and contain different courses related to the same subject. They are used to gather all the courses that explain the same theme, because every university and faculty could have a different approach to the subject. For example, <code>Calculus</code>may be a topic and <code>Calculus for Physics</code>, <code>Calculus for Computer Science</code>may be a course. (add image here)
+Topics are the level underneath departments and contain different courses related to the same subject. They are used to gather all the courses that explain the same theme, because every university and faculty could have a different approach to the subject. For example, <code>Calculus</code>may be a topic and <code>Calculus for Physics</code>, <code>Calculus for Computer Science</code>may be a course. 
+
+(add image here)
 
 === Course ===
 Course is the most important unit of WikiToLearn. Courses are a collection of pages structured like a university course. Every course has the prefix <code>Course:</code>followed by the course name in its url. (add image heee)
@@ -26,11 +28,11 @@ Chapters are the basic unit of an entire course. Basically, they're a single web
 Namespaces are a mechanism for grouping pages. You can see the namespace by looking at the url: if it has a <code>word:something_else</code>then "word" is the namespace. In WikiTolearn there are two main namespaces, "User" and "Course".
 
 === User namespace ===
-When you register on WikiToLearn a page called <code>User:your_username</code>is created. The User namespace is your personal page where you can write your own courses and content without worring about making mistakes. You can see an example here:
+The User namespace is your personal page where you can write your own courses and content without worring about making mistakes. You can see an example here:
 
 http://en.wikitolearn.org/User:Grigoletti
 
 === Course namespace ===
-A Course namespace is similar to the User one, but it has the word <code>Course:</code>as a prefix to the url. This namespace is used to create an entire course. You can see an example here: 
+A Course namespace is similar to the User one, but it has the word <code>Course:</code>as a prefix to the url. This namespace is used to create an entire public course. You can see an example here: 
 
 http://en.wikitolearn.org/Course:How_to_use_Linked_Data
