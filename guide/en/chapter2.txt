@@ -2,27 +2,35 @@
 Course is a collection of pages with a well defined tree structure. Every course on WikiToLearn has a unique name. You can create a private course under your namespace or a public/collaborative course where everyone can contribute.
 
 == Create a course ==
-The first thing to do to create a course is going to the right department and the right topic. For example, if you are writing a <code>Quantum Physics</code> course then you need to go to the physics department located at http://en.wikitolearn.org/Physics. Find the most appropriate topic and click on it.
+The first thing to do to create a course is going to the right department and the right topic.
+For example, if you are writing a <code>Quantum Physics</code> course then you need to go to the physics department located at http://en.wikitolearn.org/Physics.
+Find the most appropriate topic and click on it.
 
 Click the "Create Course" button: a form will show up.
 
-'''Note:''' if there isn't an appropriate topic for the course you can create one by clicking the "Create Course and Topic" button on the department page. The name of the topic will be the same as the name of the course.
+'''Note:''' if there isn't an appropriate topic for the course you can create one by clicking the "Create Course and Topic" button on the department page.
+The name of the topic will be the same as the name of the course.
 
 [[File:Manual_create_course.gif]]
 
-You can choose to make the course public or private. A public course is located under the related department, while a private course is located under the user namespace.
+You can choose to make the course public or private.
+A public course is located under the related department, while a private course is located under the user namespace.
 
-It is strongly recommended to create a private course and publish it once completed. However, if you decide to create a public course, it will be displayed under the <code>Department/Topic</code> url and everyone can modify it by creating, moving and deleting content. 
+It is strongly recommended to create a private course and publish it once completed.
+However, if you decide to create a public course, it will be displayed under the <code>Department/Topic</code> url and everyone can modify it by creating, moving and deleting content.
 
 (maybe another gif here)
 
 === Course Metadata ===
 
-It is possible to add additional informations to a course. This is helpful when you have some external links or pdf with exercises, notes or bibliography that you want to attach to the course.
+It is possible to add additional informations to a course.
+This is helpful when you have some external links or pdf with exercises, notes or bibliography that you want to attach to the course.
 
 (add gif here)
 
-To add metadata visit the course root page and click on "Edit metadata" button. You can add then then the additional informations in the respective input fields. In particular, you can add informations about:
+To add metadata visit the course root page and click on "Edit metadata" button.
+You can add then then the additional informations in the respective input fields.
+In particular, you can add informations about:
 
 * Bibliography
 * Exercises
@@ -30,6 +38,8 @@ To add metadata visit the course root page and click on "Edit metadata" button. 
 * External References
 
 == Publish a course ==
-If you have created a private course, it will stay under your user namespace unless you decide to publish it. To publish a private a course, navigate to the course main page and click on the "Publish Course" button. A WikiToLearn's admin will take into account the request and will move the content to the public topic page.
+If you have created a private course, it will stay under your user namespace unless you decide to publish it.
+To publish a private a course, navigate to the course main page and click on the "Publish Course" button.
+A WikiToLearn's admin will take into account the request and will move the content to the public topic page.
 
 __FORCETOC__
