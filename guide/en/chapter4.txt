@@ -1,25 +1,30 @@
 __TOC__
 
-A chapter is the lowest unit on the Course hierarchy and it consists in a page. Every chapter has its own title and content.
+A section is the lowest unit on the Course hierarchy and it consists in a page. Every section has its own title and content.
 
-== Add a chapter ==
-To add a chapter into a section, go the course main page. Find the section where you want to add the chapter and click on the <code>edit section</code>link. Write the name of the chapter on the input field and save the changes by clicking on the<code>save section</code>button.
+== Add a section ==
+To add a section into a chapter, go the course main page. 
+Find the chapter where you want to add the section and click on the pencil located next to the chapter. 
+Write the name of the section and save the changes by clicking on the <code>save chapter</code> button.
 
-== Rename a chapter ==
+== Rename a section ==
+Simply find the chapter where the section is present and click on the pencil next to the chapter. 
+You will be able to rename the section by clicking on the icon with the blue pencil.
 
-To rename a chapter, you can do so from the CourseEditor. Simply find the section where the chapter is present and edit it. You will be able to rename the chapter by pressing on the small icon with the blue pen.
+[[File:Manual_rename_section.gif]]
 
-[[File:Manual_rename_chapter.gif]]
+=== Restore a section ===
+If you have sections in the recycling bin you can restore them by placing the mouse on the sections and clicking on the restore icon on the left of the section's name.
 
-=== Restore a chapter ===
+[[File:Manual_Restore_section.gif]]
 
-== Delete a chapter ==
+Always remember to save the changes by clicking on the <code>Save Course</code> button.
 
-To delete a chapter, you can do so from the CourseEditor. Simply find the section where the chapter is present and edit it. You will be able to delete the chapter by pressing on the "trash" icon.
+== Delete a section ==
+To delete a section find the chapter where the targeted section is present and edit it. You will be able to delete the section by pressing on the trash icon.
 
-[[File:Manual_delete_chapter.gif]]
+[[File:Manual_delete_section.gif]]
 
-== Move a chapter ==
-
-To move a chapter within the same section, you can simply use the drag and drop elements.
-We don't yet support moving chapters within different sections.
+== Move a section ==
+To move a section within the same chapter, you can simply use the drag and drop elements.
+We don't support moving sections within different sections yet.

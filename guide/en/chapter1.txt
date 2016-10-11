@@ -11,18 +11,18 @@ WikiToLearn makes extensive use of a hierarchy model, in order to create books w
 It's a collection of topics, courses and books belonging to the same area. Departments are listed on the main page.
 
 === Topic ===
-Topics are the level underneath departments and contain different courses related to the same subject. They are used to gather all the courses that explain the same theme, because every university and faculty could have a different approach to the subject. For example, <code>Calculus</code>may be a topic and <code>Calculus for Physics</code>, <code>Calculus for Computer Science</code>may be a course. 
+Topics are the level underneath departments and contain different courses related to the same subject. They are used to gather all the courses that explain the same theme, because every university and faculty could have a different approach to the subject. For example, <code>Quantum Physics</code>may be a topic and <code>Quantum Mechanics for graduate students</code>, <code>Advanced Quantum Mechanics</code>may be a course. 
 
 (add image here)
 
 === Course ===
 Course is the most important unit of WikiToLearn. Courses are a collection of pages structured like a university course. Every course has the prefix <code>Course:</code>followed by the course name in its url. (add image heee)
 
-=== Section ===
-Sections are the lower level of a course. They gather together some chapters of a book  and they are displayed as heading titles in the main page of the course. (Add image here) 
-
 === Chapter ===
-Chapters are the basic unit of an entire course. Basically, they're a single webpage with its own content.
+Chapters are the lower level of a course. They gather together some chapters of a book  and they are displayed as heading titles in the main page of the course. (Add image here) 
+
+=== Section ===
+Sections are the basic unit of an entire course. Basically, they're a single webpage with its own content.
 
 == Namespaces ==
 Namespaces are a mechanism for grouping pages. You can see the namespace by looking at the url: if it has a <code>word:something_else</code>then "word" is the namespace. In WikiTolearn there are two main namespaces, "User" and "Course".

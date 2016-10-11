@@ -1,34 +1,28 @@
-Templates are used to add recurring notes to pages in a consistent way, to create navigational boxes, and to provide all kind of advanced features.
+Templates are used to add recurring notes to pages in a consistent way, to create navigational boxes, and to provide advanced features like cross portability of text.
 
 == Inserting templates ==
 
 To insert templates you can use the <code>Insert->Template</code> function from [[<ref:chapter5>|the Visual Editor]].
 
-In this example, we will add a definition. At first, we insert a template from the edit toolbar:
-
-[[File:Manual_Templates_insert_start.png]]
-
-Then, we choose the template named <code>Definition</code>, by writing the first letters in the box that appears:
-
-[[File:Manual_Templates_select.png]]
-
-In this case, we don't want to insert any parameter. Thus we just press "Insert" and the template is added:
-
-[[File:Manual_templates_finish.png]]
-
-We will now write the definition as a new paragraph.
+(add a gif here)
 
 === Using templates parameters ===
 
-Some templates can have named parameters. In the example above, there is an optional <code>title</code> parameter.
-We can fill this field by clicking on the field name and specifying the desired value.
+Some templates can have named parameters.
+You can fill this field by clicking on the field name and specifying the desired value.
 
 [[File:Manual_templates_parameter.png]]
 
 == A list of useful templates ==
+
+There are lots of useful templates you can use in your page.
+A list of the main ones can be found below.
 
 '''Mathematics:'''
 * Definition
 * Theorem
 * Example
 * Lemma
+
+'''Others:'''
+* 
