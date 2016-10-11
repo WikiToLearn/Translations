@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 WikiToLearn is actively developed both on the technical side and the content one.
 It's possible to contribute to WikiToLearn in several ways, no matter of the skills and the experience.
 
@@ -13,3 +14,6 @@ If you want to help with translation you can join the #translation channel at ht
 We use phabricator to keep tracks of our development and our bugs.
 If you think to have found a bug and want to write about it, you need to register to KDE identity here https://identity.kde.org/index.php?r=registration/index
 log in into phabricator and create a ticket on phabricator here:
+=======
+How to create a book
+>>>>>>> e2509d764282766f40902ed7406dcd893ea3a505
