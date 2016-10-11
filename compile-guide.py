@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 
 # usage: compile-guide.py <ini> <english ini> <language code>
 
