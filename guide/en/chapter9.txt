@@ -1,4 +1,4 @@
-If you have some material written as a <code>.doc</code> document you can upload them to WikiToLearn.
+If you have some material written as a <code>.doc</code> document you can upload it to WikiToLearn.
 
 It can be tricky, so here are listed some ways to do that: https://en.wikipedia.org/wiki/Help:WordToWiki#VisualEditor
 If you need help join us at https://chat.wikitolearn.org/channel/importing and feel free to ask for help!
