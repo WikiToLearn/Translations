@@ -32,6 +32,9 @@ If you have chapters in the recycling bin you can restore them by placing the mo
 Always remember to save the changes by clicking on the <code>Save Course</code>button.
 
 == Move a chapter ==
-You can change the order of the chapter's list by clicking on the red pencil button. A list of chapters will show up. Simply drag and drop them to swap their order. Once done, save your changes by clicking on the <code>Save course</code>button.
+You can change the order of the chapter's list by clicking on the red pencil button. 
+A list of chapters will show up. 
+Simply drag and drop them to swap their order. 
+Once done, save your changes by clicking on the <code>Save course</code>button.
 
 (add image or gif here)
