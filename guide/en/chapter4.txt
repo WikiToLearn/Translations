@@ -1,6 +1,7 @@
 __TOC__
 
-A section is the lowest unit on the Course hierarchy and it consists in a page. Every section has its own title and content.
+A section is the lowest unit on the Course hierarchy and it consists in a single webpage.
+Every section has its own title and content.
 
 == Add a section ==
 To add a section into a chapter, go the course main page. 
