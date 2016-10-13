@@ -1,4 +1,6 @@
-VisualEditor is the main tool you can use to create and edit pages on WikiToLearn. Using VisualEditor is very easy and if you already have some experience in any kind of text editing software you will have no problem understanding how VisualEditor works.
+VisualEditor is the main tool you can use to create and edit pages on WikiToLearn. 
+Using VisualEditor is very easy!
+If you already have some experience in any kind of text editing software you will have no problem in understanding how VisualEditor works.
 
 == Basic Usage ==
 
