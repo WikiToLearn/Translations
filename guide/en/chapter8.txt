@@ -1,7 +1,7 @@
-You already have some content written with LaTeX you can upload it to WikiToLearn.
+If you already have some content written with LaTeX you can upload it to WikiToLearn.
 
 == Import content ==
-If have a course written in LaTeX and you want it to be imported you can send a mail to latex@wikitolearn.org.
+If you have a course written in LaTeX and you want it to be imported you can send a mail to latex@wikitolearn.org.
 The importing team will get in touch with you and upload the course under your user namespace.
 
 == Convert content ==
@@ -17,9 +17,9 @@ It's open source and you can find the code here: https://github.com/WikiToLearn/
 There are a couple of different ways you can use TeXLa: the web client or the native python script.
 
 === Web client ===
-If you want to use TeXLa without install anything, visit https://texla.wikitolearn.org/
+If you want to use TeXLa without installing anything, visit https://texla.wikitolearn.org/
 
-You can write LaTeX content in the textarea or upload a <code>.tex</code> file.
+You can write LaTeX content in the text area or upload a <code>.tex</code> file.
 The website will convert your latex into a WikiToLearn ready-to-paste content.
 
 You can just enter some text in latex syntax
