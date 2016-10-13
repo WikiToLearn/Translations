@@ -9,8 +9,9 @@ Once done, click on <code>Save Course</code> button.
 
 == Rename a chapter ==
 To rename a chapter, go to the course main page and click on the red pencil button on the right. 
-A list of all the created chapters will show up. Place the mouse on the target chapter and a blue pencil will appear on the right. 
-Click on the pencil and insert the new name of the chapter. 
+A list of all the created chapters will show up.
+Place the mouse on the target chapter and a blue pencil will appear on the right. 
+Click on the pencil and insert the new name for the chapter. 
 Once done, click on the <code>Save course</code>button.
 
 [[File:Manual_rename_section.gif]]
