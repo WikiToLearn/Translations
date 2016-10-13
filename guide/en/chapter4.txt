@@ -4,11 +4,11 @@ A section is the lowest unit on the Course hierarchy and it consists in a page. 
 
 == Add a section ==
 To add a section into a chapter, go the course main page. 
-Find the chapter where you want to add the section and click on the pencil located next to the chapter. 
+Find the chapter where you want to add the section and click on the pencil on the right of the chapter's name. 
 Write the name of the section and save the changes by clicking on the <code>save chapter</code> button.
 
 == Rename a section ==
-Simply find the chapter where the section is present and click on the pencil next to the chapter. 
+Simply find the chapter where the section is located and click on the pencil on the right of the chapter's name. 
 You will be able to rename the section by clicking on the icon with the blue pencil.
 
 [[File:Manual_rename_section.gif]]
