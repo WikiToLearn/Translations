@@ -22,13 +22,14 @@ For example, <code>Quantum Physics</code>may be a topic and <code>Quantum Mechan
 === Course ===
 Course is the most important unit of WikiToLearn.
 Courses are a collection of pages structured like a university course.
+%Courses are collections of chapters, which gather the pages (sections).%
 Every course has the prefix <code>Course:</code>followed by the course name in its url. 
 
 (add image here)
 
 === Chapter ===
 Chapters are the lower level of a course.
-They gather together some chapters of a book  and they are displayed as heading titles in the main page of the course.
+They gather together some chapters %SECTIONS% of a book  and they are displayed as heading titles in the main page of the course.
 
 (Add image here) 
 
@@ -36,10 +37,14 @@ They gather together some chapters of a book  and they are displayed as heading 
 Sections are the basic unit of an entire course.
 Basically, they're a single webpage with its own content.
 
+%Why does a user need to know about namespaces??? I suggest putting a.%
+
 == Namespaces ==
 Namespaces are a mechanism for grouping pages.
 You can see the namespace by looking at the url: if it has a <code>word:something_else</code>then "word" is the namespace.
 In WikiTolearn there are two main namespaces, "User" and "Course".
+
+%a. If you don't want to show the others the content you're working on, always control to be under the User: namespace%
 
 === User namespace ===
 The User namespace is your personal page where you can write your own courses and content without worring about making mistakes.
