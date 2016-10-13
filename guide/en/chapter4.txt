@@ -13,6 +13,12 @@ You will be able to rename the section by clicking on the icon with the blue pen
 
 [[File:Manual_rename_section.gif]]
 
+== Delete a section ==
+To delete a section find the chapter where the targeted section is present and edit it.
+You will be able to delete the section by pressing on the trash icon.
+
+[[File:Manual_delete_section.gif]]
+
 === Restore a section ===
 If you have sections in the recycling bin you can restore them by placing the mouse on the sections and clicking on the restore icon on the left of the section's name.
 
@@ -20,11 +26,11 @@ If you have sections in the recycling bin you can restore them by placing the mo
 
 Always remember to save the changes by clicking on the <code>Save Course</code> button.
 
-== Delete a section ==
-To delete a section find the chapter where the targeted section is present and edit it. You will be able to delete the section by pressing on the trash icon.
-
-[[File:Manual_delete_section.gif]]
-
 == Move a section ==
 To move a section within the same chapter, you can simply use the drag and drop elements.
-We don't support moving sections within different sections yet.
+We don't support moving sections within different chapters yet.
+For now, if needed, we suggest the following procedure:
+*copy the content of the section on a document;
+*delete the section you'd like to move;
+*create a new section located at the right place;
+*paste the old content and save the page.
