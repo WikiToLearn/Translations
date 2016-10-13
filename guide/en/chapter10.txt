@@ -1,5 +1,5 @@
-WikiToLearn is actively developed both on the technical side and the content one.
-It's possible to contribute to WikiToLearn in several ways, no matter of the skills and the experience.
+WikiToLearn is actively developed both on the technical and the content side.
+It's possible to contribute to WikiToLearn in several ways, regardless of the user's skills and experience.
 
 == Web development ==
 There are lots of app developed by WikiToLearn where you can be useful.
@@ -11,5 +11,5 @@ If you want to help with translation you can join the #translation channel at ht
 
 == Bug tracking ==
 We use phabricator to keep tracks of our development and our bugs.
-If you think to have found a bug and want to write about it, you need to register to KDE identity here https://identity.kde.org/index.php?r=registration/index
+If you think you have found a bug and want to tell us about it, you need to register to KDE identity here https://identity.kde.org/index.php?r=registration/index
 log in into phabricator and create a ticket on phabricator here: https://phabricator.kde.org/maniphest/task/edit/form/1/?tags=WikiToLearn
