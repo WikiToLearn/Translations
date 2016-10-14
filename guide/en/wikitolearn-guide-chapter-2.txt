@@ -1,57 +1,48 @@
-WikiToLearn is a portal that aims to create free collaborative and readily accessible textbooks.
-Our philosophy can be summarised as "''Knowledge only grows if shared''".
 
-__TOC__
+Course is a collection of pages with a well defined tree structure. 
+Every course on WikiToLearn has a unique name. 
+You can create a private course under your namespace or a public/collaborative course where everyone can contribute.
 
-== Conventions ==
-WikiToLearn makes extensive use of a hierarchy model, in order to create books which are consistent with our philosophy.
+== Create a course ==
+The first thing to do to create a course is going to the right department and the right topic.
+For example, if you are writing a <code>Quantum Physics</code> course, you need to go to the physics department located at http://en.wikitolearn.org/Physics.
+Find the most appropriate topic and click on it. 
+In the previous example, you should look for a topic named "Quantum Physics" or "Quantum Mechanics".
 
-(add image here)
+Click the "Create Course" button: a form will show up.
 
-=== Departments ===
-It's a collection of topics, courses and books belonging to the same area.
-Departments are listed on the main page.
+'''Note:''' if there isn't an appropriate topic for the course, you can create one by clicking the "Create Course and Topic" button on the department page.
+The name of the topic will be the same as the name of the course.
 
-=== Topics ===
-Topics are the level underneath Departments and contain different courses related to the same subject.
-They are used to gather all the courses that explain the same theme, because every university and faculty could have a different approach to the subject.
-For example, <code>Quantum Physics</code> may be a topic and <code>Quantum Mechanics for graduate students</code>, <code>Advanced Quantum Mechanics</code> may be a course.
+[[File:Manual_create_course.gif]]
 
-(add image here)
+You can choose to make the course public or private.
+A public course is located under the related department, while a private course is located under the user namespace.
 
-=== Courses ===
-Courses are the most important units of WikiToLearn.
-Courses are collections of chapters, which gather the pages (sections).
-Every course has the prefix <code>Course:</code> followed by the course name in its url.
+It is strongly recommended to create a private course and publish it once completed.
+However, if you decide to create a public course, it will be displayed under the <code>Department/Topic</code> url and everyone can modify it by creating, moving and deleting content.
 
-(add image here)
+(maybe another gif here)
 
-=== Chapters ===
-Chapters are the lower level of a course.
-They gather together some sections of a book  and they are displayed as heading titles in the main page of the course.
+=== Course Metadata ===
 
-(Add image here)
+It is possible to add additional information to a course.
+This is helpful when you have some external links or PDF with exercises, notes or bibliography that you want to attach to the course.
 
-=== Section ===
-Sections are the basic unit of an entire course.
-Basically, they're a single webpage with its own content.
+(add gif here)
 
-== Namespaces ==
-Namespaces are a mechanism for grouping pages.
-You can see the namespace by looking at the url: if it has a <code>word:something_else</code>then "word" is the namespace.
-In WikiTolearn there are two main namespaces, "User" and "Course".
+To add metadata visit the course root page and click on the "Edit metadata" button.
+Then you can add the additional information in the respective input fields.
+In particular, you can add information about:
 
-=== User namespace ===
-The User namespace is your personal page where you can write your own courses and content without worring about making mistakes.
-You can see an example here:
+* Bibliography
+* Exercises
+* Books
+* External References
 
-http://en.wikitolearn.org/User:Grigoletti
+== Publish a course ==
+If you created a private course, it will stay under your user namespace unless you decide to publish it.
+To publish a private a course, navigate to the course main page and click on the "Publish Course" button.
+A WikiToLearn's admin will take into account the request and will move the content to the public topic page.
 
-=== Course namespace ===
-A Course namespace is similar to the User one, but it has the word <code>Course:</code>as a prefix to the URL*.
-This namespace is used to create an entire public course.
-You can see an example here:
-
-http://en.wikitolearn.org/Course:How_to_use_Linked_Data
-
-* URL is an acronym for Uniform Resource Locator and is a reference (an address) to a resource on the Internet.
+__FORCETOC__

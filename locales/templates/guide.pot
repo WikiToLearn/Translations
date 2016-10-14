@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-14 12:45+0200\n"
+"POT-Creation-Date: 2016-10-14 16:52+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,47 +13,47 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.13.0\n"
 
-#: [messages]chapter0
+#: [messages]wikitolearn-guide-chapter-0
 msgid "Manual"
 msgstr ""
 
-#: [messages]chapter1
+#: [messages]wikitolearn-guide-chapter-1
 msgid "Manual/The structure of WikiToLearn"
 msgstr ""
 
-#: [messages]chapter2
+#: [messages]wikitolearn-guide-chapter-2
 msgid "Manual/Core concepts: Course"
 msgstr ""
 
-#: [messages]chapter3
+#: [messages]wikitolearn-guide-chapter-3
 msgid "Manual/Core concepts: Section"
 msgstr ""
 
-#: [messages]chapter4
+#: [messages]wikitolearn-guide-chapter-4
 msgid "Manual/Core concepts: Chapter"
 msgstr ""
 
-#: [messages]chapter5
+#: [messages]wikitolearn-guide-chapter-5
 msgid "Manual/The Visual Editor"
 msgstr ""
 
-#: [messages]chapter6
+#: [messages]wikitolearn-guide-chapter-6
 msgid "Manual/Using templates"
 msgstr ""
 
-#: [messages]chapter7
+#: [messages]wikitolearn-guide-chapter-7
 msgid "Manual/Creating books"
 msgstr ""
 
-#: [messages]chapter8
+#: [messages]wikitolearn-guide-chapter-8
 msgid "Manual/Importing from LaTeX"
 msgstr ""
 
-#: [messages]chapter9
+#: [messages]wikitolearn-guide-chapter-9
 msgid "Manual/Importing from Word"
 msgstr ""
 
-#: [messages]chapter10
+#: [messages]wikitolearn-guide-chapter-10
 msgid "Manual/Create a book"
 msgstr ""
 

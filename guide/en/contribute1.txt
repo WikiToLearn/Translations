@@ -6,14 +6,14 @@ Not only will you learn by re-working your notes, but you will then have a conve
 
 == Step 1: Getting started ==
 Let's begin with something that you have already done: do you have particularly well written notes that you would like to share?
-* If the related course does not yet exist on WikiToLearn, '''[[<ref:chapter2>|create it]]'''.
-* If the course already exists, but the specific topics you want to write about are not present, find out how to '''[[<ref:chapter3>|add new chapters]]'''.
+* If the related course does not yet exist on WikiToLearn, '''[[<ref:wikitolearn-guide-chapter-2>|create it]]'''.
+* If the course already exists, but the specific topics you want to write about are not present, find out how to '''[[<ref:wikitolearn-guide-chapter-3>|add new chapters]]'''.
 * If you want to create concurrent versions of already existing chapters, first evaluate 	whether it would be best just to improve the current version. As a rule of thumb, we try to 	avoid duplicating already written material, but if you believe that you have new suggestions, remember that we enthusiastically support field testing.
 * If you think that everything already exists, and you don't feel like creating something new, simply print all the material you need and start learning from it! There is no better way to help us improve our material than to study from it and give us your feedback.
 
-If you have already typed your notes in LaTeX, don't worry, our LaTeX to Wiki converter  is just what you need: learn [[<ref:chapter8>|here]] how to import your text!
+If you have already typed your notes in LaTeX, don't worry, our LaTeX to Wiki converter  is just what you need: learn [[<ref:wikitolearn-guide-chapter-8>|here]] how to import your text!
 
-If this is the first time you are contributing on WikiToLearn, see the [[<ref:chapter0>|Manual]].
+If this is the first time you are contributing on WikiToLearn, see the [[<ref:wikitolearn-guide-chapter-0>|Manual]].
 
 == Step 2: Engage your group ==
 A strategy that we often see working well is to find 3 or 4 friends and form a group with them. You should then split the classes between you according to a set calendar, writing and reviewing the notes in turns. With less than a couple hours per week of work, you will gain a beautiful copy of the lessons, even better than a textbook, and you will optimise the time for your study.

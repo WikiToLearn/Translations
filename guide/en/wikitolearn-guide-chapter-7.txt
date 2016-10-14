@@ -1,29 +1,42 @@
-Templates are used to add recurring notes to pages in a consistent way, to create navigational boxes, and to provide advanced features like cross portability of text.
+Books are grouped collections of sections that can be easily downloaded as pdf for offline reading.
+Books allow you to create a personalized collection of sections from different chapters or even different courses.
+In that way, you make your own book ready for being printed.
 
-== Inserting templates ==
 
-To insert templates you can use the <code>Insert->Template</code> function from [[<ref:chapter5>|the Visual Editor]].
-Type in the name of the template you want to insert and select the right one.
+== Create a book ==
+To create a book, click on the advanced feature button on the right.
+A set of tools will show up.
+Click on the first book and start the book creator.
+Navigate to the desired section and click on "Add this page to your book" link.
+With the book creator tool you can add pages or take a look to your book.
+If you need more help on how to use the tool, there is a "Help" link on the top right corner of the box.
+Otherwise you can read here.
 
-(add a gif here)
+(add image here)
 
-=== Using templates parameters ===
+'''Note:''' The book creator tool is disabled on pages that are not within the course.
+It's only shown on course, chapter and section pages.
 
-Some templates can have named parameters.
-You can fill such a field by clicking on the field name and specifying the desired value.
+== Save a book ==
+Once pages have been added click on "Show your book" link.
+You will be redirected to a page where you can choose to modify, download or save your book.
 
-[[File:Manual_templates_parameter.png]]
+=== Sort a book ===
+If you want to sort the order of the sections, simply drag and drop the pages.
+If you want to manually add a chapter, click on the "Create chapter" link.
 
-== A list of useful templates ==
+Clicking on download will download the pages of the book as a LaTeX typesetted pdf.
+When you save the book, there are two options:
+save it on your personal page or under the page <code>Projects:Books</code>.
 
-There are lots of useful templates you can use in your page.
-A list of the main ones can be found below.
+'''Note:''' it's strongly recommended to save the book under your user namespace.
 
-'''Mathematics:'''
-* Definition
-* Theorem
-* Example
-* Lemma
+Choose the first option, write the name of your book and click on "Save Book" button.
 
-'''Others:'''
-*
+(add image here)
+
+== Look for books ==
+If you want to see books created by all the users, both public and private,
+click on the "Books" button on the navigation bar.
+
+(add image here)

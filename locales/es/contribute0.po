@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-14 12:45+0200\n"
+"POT-Creation-Date: 2016-10-14 16:52+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -24,8 +24,36 @@ msgid ""
 "you think you can be most useful. Here are some tips to help you get started:"
 msgstr ""
 
-#: guide/en/contribute0.txt:6
+#: guide/en/contribute0.txt:4
+msgid "Student"
+msgstr ""
+
+#: guide/en/contribute0.txt:7
 msgid ""
-"<ref:contribute1>\n"
-"<ref:contribute2>"
+"As a student, you can help WikiToLearn in a very simple way!\n"
+"[[<ref:contribute1>|Just press here]] to know how to integrate WikiToLearn "
+"with your workflow."
+msgstr ""
+
+#: guide/en/contribute0.txt:7
+msgid "Teacher"
+msgstr ""
+
+#: guide/en/contribute0.txt:11
+msgid ""
+"If you are a teacher, we've put together some suggestions of how to "
+"effectively help WikiToLearn [[<ref:contribute2>|here]]."
+msgstr ""
+
+#: guide/en/contribute0.txt:11
+msgid "Getting help"
+msgstr ""
+
+#: guide/en/contribute0.txt:14
+msgid ""
+"To get help and get in touch with the community, we have a few channels."
+msgstr ""
+
+#: guide/en/contribute0.txt:14
+msgid "Do you wish to do more?"
 msgstr ""

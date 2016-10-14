@@ -1,48 +1,41 @@
+Chapters are a collection of sections. They're intended to be used like a chapter of a book and have their own title.
 
-Course is a collection of pages with a well defined tree structure. 
-Every course on WikiToLearn has a unique name. 
-You can create a private course under your namespace or a public/collaborative course where everyone can contribute.
+== Add a chapter ==
+You can add a chapter to a course by navigating to the course main page. 
+Click either on the red pencil button on the right and insert the name of the chapter you want to add. 
+Once done, click on <code>Save Course</code> button.
 
-== Create a course ==
-The first thing to do to create a course is going to the right department and the right topic.
-For example, if you are writing a <code>Quantum Physics</code> course, you need to go to the physics department located at http://en.wikitolearn.org/Physics.
-Find the most appropriate topic and click on it. 
-In the previous example, you should look for a topic named "Quantum Physics" or "Quantum Mechanics".
+[[File:Manual_add_section.gif]]
 
-Click the "Create Course" button: a form will show up.
+== Rename a chapter ==
+To rename a chapter, go to the course main page and click on the red pencil button on the right. 
+A list of all the created chapters will show up.
+Place the mouse on the target chapter and a blue pencil will appear on the right. 
+Click on the pencil and insert the new name for the chapter. 
+Once done, click on the <code>Save course</code>button.
 
-'''Note:''' if there isn't an appropriate topic for the course, you can create one by clicking the "Create Course and Topic" button on the department page.
-The name of the topic will be the same as the name of the course.
+[[File:Manual_rename_section.gif]]
 
-[[File:Manual_create_course.gif]]
+== Delete a chapter ==
+To delete a chapter, go to the course main page and click on the <code>edit course</code> link. 
+A list of all the created chapters will show up. 
+Place the mouse on the targeted chapter and a red bin will appear on the right. 
+If you click on the bin you will notice that your chapter will be placed in a recycling bin. 
+Once done, save the changes by clicking on the <code>Save course</code>button.
 
-You can choose to make the course public or private.
-A public course is located under the related department, while a private course is located under the user namespace.
+[[File:Manual_delete_section.gif]]
 
-It is strongly recommended to create a private course and publish it once completed.
-However, if you decide to create a public course, it will be displayed under the <code>Department/Topic</code> url and everyone can modify it by creating, moving and deleting content.
+=== Restore a chapter ===
+If you have chapters in the recycling bin you can restore them by placing the mouse on the chapters and clicking on the restore icon on the left of the chapter's name.
 
-(maybe another gif here)
+[[File:Manual_Restore_section.gif]]
 
-=== Course Metadata ===
+Always remember to save the changes by clicking on the <code>Save Course</code>button.
 
-It is possible to add additional information to a course.
-This is helpful when you have some external links or PDF with exercises, notes or bibliography that you want to attach to the course.
+== Move a chapter ==
+You can change the order of the chapter's list by clicking on the red pencil button. 
+A list of chapters will show up. 
+Simply drag and drop them to swap their order. 
+Once done, save your changes by clicking on the <code>Save course</code>button.
 
-(add gif here)
-
-To add metadata visit the course root page and click on the "Edit metadata" button.
-Then you can add the additional information in the respective input fields.
-In particular, you can add information about:
-
-* Bibliography
-* Exercises
-* Books
-* External References
-
-== Publish a course ==
-If you created a private course, it will stay under your user namespace unless you decide to publish it.
-To publish a private a course, navigate to the course main page and click on the "Publish Course" button.
-A WikiToLearn's admin will take into account the request and will move the content to the public topic page.
-
-__FORCETOC__
+(add image or gif here)

@@ -1,10 +1,15 @@
-If you have some material written as a <code>.doc</code> document you can upload it to WikiToLearn.
+WikiToLearn is actively developed both on the technical and the content side.
+It's possible to contribute to WikiToLearn in several ways, regardless of the user's skills and experience.
 
-It can be tricky, so here are listed some ways to do that: https://en.wikipedia.org/wiki/Help:WordToWiki#VisualEditor
-If you need help join us at https://chat.wikitolearn.org/channel/importing and feel free to ask for help!
+== Web development ==
+There are lots of app developed by WikiToLearn where you can be useful.
+Web development is split into groups and every group has its maintainer.
+Take a look at http://meta.wikitolearn.org/Tech_Team and feel free to contact the members to ask them more questions.
 
-== Using Visualeditor ==
-The easiest way to copy word documents into WikiToLearn is using visualeditor.
-You can copy the content of the page and past it into visualeditor:
+== Translation ==
+If you want to help with translation you can join the #translation channel at https://chat.wikitolearn.org/channel/translation
 
-(add image here)
+== Bug tracking ==
+We use phabricator to keep tracks of our development and our bugs.
+If you think you have found a bug and want to tell us about it, you need to register to KDE identity here https://identity.kde.org/index.php?r=registration/index
+log in into phabricator and create a ticket on phabricator here: https://phabricator.kde.org/maniphest/task/edit/form/1/?tags=WikiToLearn

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-14 12:45+0200\n"
+"POT-Creation-Date: 2016-10-14 16:52+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -45,15 +45,15 @@ msgstr ""
 msgid ""
 "Let's begin with something that you have already done: do you have "
 "particularly well written notes that you would like to share?\n"
-"If the related course does not yet exist on WikiToLearn, '''[[<ref:chapter2>|"
-"create it]]'''."
+"If the related course does not yet exist on WikiToLearn, '''[[<ref"
+":wikitolearn-guide-chapter-2>|create it]]'''."
 msgstr ""
 
 #: guide/en/contribute1.txt:8
 msgid ""
 "If the course already exists, but the specific topics you want to write "
-"about are not present, find out how to '''[[<ref:chapter3>|add new "
-"chapters]]'''."
+"about are not present, find out how to '''[[<ref:wikitolearn-guide-"
+"chapter-3>|add new chapters]]'''."
 msgstr ""
 
 #: guide/en/contribute1.txt:8
@@ -76,14 +76,14 @@ msgstr ""
 #: guide/en/contribute1.txt:14
 msgid ""
 "If you have already typed your notes in LaTeX, don't worry, our LaTeX to "
-"Wiki converter  is just what you need: learn [[<ref:chapter8>|here]] how to "
-"import your text!"
+"Wiki converter  is just what you need: learn [[<ref:wikitolearn-guide-"
+"chapter-8>|here]] how to import your text!"
 msgstr ""
 
 #: guide/en/contribute1.txt:16
 msgid ""
-"If this is the first time you are contributing on WikiToLearn, see the "
-"[[<ref:chapter0>|Manual]]."
+"If this is the first time you are contributing on WikiToLearn, see the [[<ref"
+":wikitolearn-guide-chapter-0>|Manual]]."
 msgstr ""
 
 #: guide/en/contribute1.txt:16

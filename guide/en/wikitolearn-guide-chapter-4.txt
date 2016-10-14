@@ -1,41 +1,37 @@
-Chapters are a collection of sections. They're intended to be used like a chapter of a book and have their own title.
+__TOC__
 
-== Add a chapter ==
-You can add a chapter to a course by navigating to the course main page. 
-Click either on the red pencil button on the right and insert the name of the chapter you want to add. 
-Once done, click on <code>Save Course</code> button.
+A section is the lowest unit on the Course hierarchy and it consists in a single webpage.
+Every section has its own title and content.
 
-[[File:Manual_add_section.gif]]
+== Add a section ==
+To add a section into a chapter, go the course main page. 
+Find the chapter where you want to add the section and click on the pencil on the right of the chapter's name. 
+Write the name of the section and save the changes by clicking on the <code>save chapter</code> button.
 
-== Rename a chapter ==
-To rename a chapter, go to the course main page and click on the red pencil button on the right. 
-A list of all the created chapters will show up.
-Place the mouse on the target chapter and a blue pencil will appear on the right. 
-Click on the pencil and insert the new name for the chapter. 
-Once done, click on the <code>Save course</code>button.
+== Rename a section ==
+Simply find the chapter where the section is located and click on the pencil on the right of the chapter's name. 
+You will be able to rename the section by clicking on the icon with the blue pencil.
 
 [[File:Manual_rename_section.gif]]
 
-== Delete a chapter ==
-To delete a chapter, go to the course main page and click on the <code>edit course</code> link. 
-A list of all the created chapters will show up. 
-Place the mouse on the targeted chapter and a red bin will appear on the right. 
-If you click on the bin you will notice that your chapter will be placed in a recycling bin. 
-Once done, save the changes by clicking on the <code>Save course</code>button.
+== Delete a section ==
+To delete a section find the chapter where the targeted section is present and edit it.
+You will be able to delete the section by pressing on the trash icon.
 
 [[File:Manual_delete_section.gif]]
 
-=== Restore a chapter ===
-If you have chapters in the recycling bin you can restore them by placing the mouse on the chapters and clicking on the restore icon on the left of the chapter's name.
+=== Restore a section ===
+If you have sections in the recycling bin you can restore them by placing the mouse on the sections and clicking on the restore icon on the left of the section's name.
 
 [[File:Manual_Restore_section.gif]]
 
-Always remember to save the changes by clicking on the <code>Save Course</code>button.
+Always remember to save the changes by clicking on the <code>Save Course</code> button.
 
-== Move a chapter ==
-You can change the order of the chapter's list by clicking on the red pencil button. 
-A list of chapters will show up. 
-Simply drag and drop them to swap their order. 
-Once done, save your changes by clicking on the <code>Save course</code>button.
-
-(add image or gif here)
+== Move a section ==
+To move a section within the same chapter, you can simply use the drag and drop elements.
+We don't support moving sections within different chapters yet.
+For now, if needed, we suggest the following procedure:
+*copy the content of the section on a document;
+*delete the section you'd like to move;
+*create a new section located at the right place;
+*paste the old content and save the page.
