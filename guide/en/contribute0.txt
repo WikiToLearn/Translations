@@ -1,7 +1,8 @@
 {{Special:ContributorsMap}}
 Join our awesome community!
 
-Every page is editable and you can start participating right now wherever you think you can be most useful. Here are some tips to help you get started:
+Every page is editable and you can start participating right now wherever you think you can be most useful.
+Here are some tips to help you get started:
 
 == Student ==
 As a student, you can help WikiToLearn in a very simple way!
