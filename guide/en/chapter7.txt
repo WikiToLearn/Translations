@@ -1,5 +1,6 @@
-Books are a grouped collection of sections that can be easily downloaded as pdf for offline reading.
-Books are useful when you want to create a personalized collection of sections from different chapters or even different courses.
+Books are grouped collections of sections that can be easily downloaded as pdf for offline reading.
+Books allow you to create a personalized collection of sections from different chapters or even different courses.
+In that way, you make your own book ready for being printed.
 
 
 == Create a book ==
