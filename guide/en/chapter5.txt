@@ -1,13 +1,13 @@
-VisualEditor is the main tool you can use to create and edit pages on WikiToLearn. 
+VisualEditor is the main tool you can use to create and edit pages on WikiToLearn.
 Using VisualEditor is very easy!
 If you already have some experience in any kind of text editing software you will have no problem in understanding how VisualEditor works.
 
 == Basic Usage ==
 
 === Activating VisualEditor ===
-When creating a new page, this is a short piece to see what happens, VisualEditor should be enabled by default: the VisualEditor toolbar should appear at the top of the page.
+When creating a new section VisualEditor should be enabled by default: a toolbar should appear at the top of the page.
 
-This is an example of text to see 
+This is an example of text to see
 
 [[File:Manual_Visual_editor_newpage.gif]]
 
@@ -15,7 +15,7 @@ If you want to edit an existing page, just press the <code>Edit</code> button at
 
 
 === Editing ===
-VisualEditor has more or less the same features and functions of any other word processor software, like "style text" and "structure".
+VisualEditor has more or less the same features and functions of any other word processor software, like bold, italics, ordered lists and so on.
 
 === Advanced editing ===
 
@@ -28,9 +28,11 @@ To insert media in the text,  just click the <code>Insert</code> option in the V
 To insert mathematic formulas in the text, just click the <code>Insert</code> option in the VisualEditor toolbar and select <code>Formula</code>: this will open up the Formula Editor window which will allow you to write math formulas easily.
 
 ==== Insert templates ====
-Templates are used to add recurring messages to pages in a consistent way, to create navigational boxes, and to provide cross-language portability of texts.
+Templates are used to add recurring messages to pages in a consistent way.
+They are often used in mathematics sections when you want to write a definition, theorem, lemma, corollary etc.
+They can be inserted within any section of the course.
 
-To insert templates (which are needed for <code>Examples, Definitions, Theorems</code>)  you can use the <code>Insert->Template</code> function. To see the supported Templates check out [[TEMPLATES|TEMPLATES.]]
+To insert templates you can use the <code>Insert->Template</code> function. To see the supported Templates check out [[TEMPLATES|TEMPLATES.]]
 
 === Official Guide ===
 We suggest you also take a look at the official VisualEditor guide linked [https://www.mediawiki.org/wiki/Help:VisualEditor/User_guide here].

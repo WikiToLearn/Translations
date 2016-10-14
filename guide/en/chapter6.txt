@@ -3,6 +3,7 @@ Templates are used to add recurring notes to pages in a consistent way, to creat
 == Inserting templates ==
 
 To insert templates you can use the <code>Insert->Template</code> function from [[<ref:chapter5>|the Visual Editor]].
+Type in the name of the template you want to insert and select the right one.
 
 (add a gif here)
 
@@ -25,4 +26,4 @@ A list of the main ones can be found below.
 * Lemma
 
 '''Others:'''
-* 
+*
