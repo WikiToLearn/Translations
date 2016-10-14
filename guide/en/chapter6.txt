@@ -9,7 +9,7 @@ To insert templates you can use the <code>Insert->Template</code> function from 
 === Using templates parameters ===
 
 Some templates can have named parameters.
-You can fill this field by clicking on the field name and specifying the desired value.
+You can fill such a field by clicking on the field name and specifying the desired value.
 
 [[File:Manual_templates_parameter.png]]
 
