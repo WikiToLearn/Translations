@@ -1,7 +1,16 @@
+{{Special:ContributorsMap}}
 Join our awesome community!
 
 Every page is editable and you can start participating right now wherever you think you can be most useful. Here are some tips to help you get started:
 
-<ref:contribute1>
+== Student ==
+As a student, you can help WikiToLearn in a very simple way!
+[[<ref:contribute1>|Just press here]] to know how to integrate WikiToLearn with your workflow.
 
-<ref:contribute2>
+== Teacher ==
+If you are a teacher, we've put together some suggestions of how to effectively help WikiToLearn [[<ref:contribute2>|here]].
+
+== Getting help ==
+To get help and get in touch with the community, we have a few channels.
+
+== Do you wish to do more? ==

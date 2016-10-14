@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-11 20:02+0200\n"
+"POT-Creation-Date: 2016-10-14 12:45+0200\n"
 "PO-Revision-Date: 2016-10-02 19:12+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -14,9 +14,11 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.13.0\n"
 
 #: guide/en/chapter6.txt:1
+#, fuzzy
 msgid ""
 "Templates are used to add recurring notes to pages in a consistent way, to "
-"create navigational boxes, and to provide all kind of advanced features."
+"create navigational boxes, and to provide advanced features like cross "
+"portability of text."
 msgstr ""
 "I Template sono lo strumento utilizzato per inserire nelle pagine delle "
 "strutture ricorrenti sempre con la stessa formattazione, per creare caselle "
@@ -35,71 +37,35 @@ msgstr ""
 "<code>Insert->Template</code> da [[<ref:chapter5>|the Visual Editor]]."
 
 #: guide/en/chapter6.txt:7
-msgid ""
-"In this example, we will add a definition. At first, we insert a template "
-"from the edit toolbar:"
+msgid "(add a gif here)"
 msgstr ""
-"Nell'esempio seguente, aggiungeremo una definizione al testo. Prima di "
-"tutto, inseriamo un template tramite la barra degli strumenti:"
 
-#: guide/en/chapter6.txt:9
-msgid "[[File:Manual_Templates_insert_start.png]]"
-msgstr "[[File:Manual_Templates_insert_start.png]]"
-
-#: guide/en/chapter6.txt:11
-msgid ""
-"Then, we choose the template named <code>Definition</code>, by writing the "
-"first letters in the box that appears:"
-msgstr ""
-"Fatto ciò, possiamo scegliere il template chiamato <code>Definition</code>, "
-"digitando le prime lettere nella casella di testo, come in figura:"
-
-#: guide/en/chapter6.txt:13
-msgid "[[File:Manual_Templates_select.png]]"
-msgstr "[[File:Manual_Templates_select.png]]"
-
-#: guide/en/chapter6.txt:15
-msgid ""
-"In this case, we don't want to insert any parameter. Thus we just press \""
-"Insert\" and the template is added:"
-msgstr ""
-"In questo caso, non vogliamo aggiungere alcun parametro al template, quindi "
-"premiamo direttamente \"Inserisci\", per aggiungere il template alla pagina:"
-
-#: guide/en/chapter6.txt:17
-msgid "[[File:Manual_templates_finish.png]]"
-msgstr "[[File:Manual_templates_finish.png]]"
-
-#: guide/en/chapter6.txt:19
-msgid "We will now write the definition as a new paragraph."
-msgstr ""
-"Ora possiamo scrivere la definizione, come faremmo con un paragrafo di testo."
-
-#: guide/en/chapter6.txt:19
+#: guide/en/chapter6.txt:7
 msgid "Using templates parameters"
 msgstr "Utilizzo di parametri di modelli"
 
-#: guide/en/chapter6.txt:23
+#: guide/en/chapter6.txt:11
 msgid ""
-"Some templates can have named parameters. In the example above, there is an "
-"optional <code>title</code> parameter.\n"
-"We can fill this field by clicking on the field name and specifying the "
+"Some templates can have named parameters.\n"
+"You can fill such a field by clicking on the field name and specifying the "
 "desired value."
 msgstr ""
-"Alcuni template hanno dei parametri specifici. Nell'esempio seguente, viene "
-"modificato il parametro opzionale <code>title</code>\n"
-"Possiamo compilare questo campo clickando sul nome del campo e specificando "
-"il valore che vogliamo assegnarli."
 
-#: guide/en/chapter6.txt:26
+#: guide/en/chapter6.txt:14
 msgid "[[File:Manual_templates_parameter.png]]"
 msgstr "[[File:Manual_templates_parameter.png]]"
 
-#: guide/en/chapter6.txt:26
+#: guide/en/chapter6.txt:14
 msgid "A list of useful templates"
 msgstr "Lista di template utili"
 
-#: guide/en/chapter6.txt:30
+#: guide/en/chapter6.txt:18
+msgid ""
+"There are lots of useful templates you can use in your page.\n"
+"A list of the main ones can be found below."
+msgstr ""
+
+#: guide/en/chapter6.txt:21
 msgid ""
 "'''Mathematics:'''\n"
 "Definition"
@@ -107,14 +73,63 @@ msgstr ""
 "'''Ambito matematico'''\n"
 "Definizione"
 
-#: guide/en/chapter6.txt:30
+#: guide/en/chapter6.txt:21
 msgid "Theorem"
 msgstr "Teorema"
 
-#: guide/en/chapter6.txt:30
+#: guide/en/chapter6.txt:21
 msgid "Example"
 msgstr "Esempio"
 
-#: guide/en/chapter6.txt:30
+#: guide/en/chapter6.txt:21
 msgid "Lemma"
 msgstr "Lemma"
+
+#: guide/en/chapter6.txt:27
+msgid "'''Others:'''\n"
+msgstr ""
+
+#~ msgid ""
+#~ "In this example, we will add a definition. At first, we insert a template "
+#~ "from the edit toolbar:"
+#~ msgstr ""
+#~ "Nell'esempio seguente, aggiungeremo una definizione al testo. Prima di "
+#~ "tutto, inseriamo un template tramite la barra degli strumenti:"
+
+#~ msgid "[[File:Manual_Templates_insert_start.png]]"
+#~ msgstr "[[File:Manual_Templates_insert_start.png]]"
+
+#~ msgid ""
+#~ "Then, we choose the template named <code>Definition</code>, by writing the "
+#~ "first letters in the box that appears:"
+#~ msgstr ""
+#~ "Fatto ciò, possiamo scegliere il template chiamato <code>Definition</code>, "
+#~ "digitando le prime lettere nella casella di testo, come in figura:"
+
+#~ msgid "[[File:Manual_Templates_select.png]]"
+#~ msgstr "[[File:Manual_Templates_select.png]]"
+
+#~ msgid ""
+#~ "In this case, we don't want to insert any parameter. Thus we just press \""
+#~ "Insert\" and the template is added:"
+#~ msgstr ""
+#~ "In questo caso, non vogliamo aggiungere alcun parametro al template, quindi "
+#~ "premiamo direttamente \"Inserisci\", per aggiungere il template alla pagina:"
+
+#~ msgid "[[File:Manual_templates_finish.png]]"
+#~ msgstr "[[File:Manual_templates_finish.png]]"
+
+#~ msgid "We will now write the definition as a new paragraph."
+#~ msgstr ""
+#~ "Ora possiamo scrivere la definizione, come faremmo con un paragrafo di testo."
+
+#~ msgid ""
+#~ "Some templates can have named parameters. In the example above, there is an "
+#~ "optional <code>title</code> parameter.\n"
+#~ "We can fill this field by clicking on the field name and specifying the "
+#~ "desired value."
+#~ msgstr ""
+#~ "Alcuni template hanno dei parametri specifici. Nell'esempio seguente, viene "
+#~ "modificato il parametro opzionale <code>title</code>\n"
+#~ "Possiamo compilare questo campo clickando sul nome del campo e specificando "
+#~ "il valore che vogliamo assegnarli."

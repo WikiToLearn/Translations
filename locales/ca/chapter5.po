@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-11 20:02+0200\n"
+"POT-Creation-Date: 2016-10-14 12:45+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,9 +15,10 @@ msgstr ""
 #: guide/en/chapter5.txt:1
 msgid ""
 "VisualEditor is the main tool you can use to create and edit pages on "
-"WikiToLearn. Using VisualEditor is very easy and if you already have some "
-"experience in any kind of text editing software you will have no problem "
-"understanding how VisualEditor works."
+"WikiToLearn. \n"
+"Using VisualEditor is very easy!\n"
+"If you already have some experience in any kind of text editing software you "
+"will have no problem in understanding how VisualEditor works."
 msgstr ""
 
 #: guide/en/chapter5.txt:1
@@ -28,42 +29,47 @@ msgstr ""
 msgid "Activating VisualEditor"
 msgstr ""
 
-#: guide/en/chapter5.txt:6
+#: guide/en/chapter5.txt:8
 msgid ""
-"When creating a new page, VisualEditor should be enabled by default: the "
-"VisualEditor toolbar should appear at the top of the page."
+"When creating a new page, this is a short piece to see what happens, "
+"VisualEditor should be enabled by default: the VisualEditor toolbar should "
+"appear at the top of the page."
 msgstr ""
 
-#: guide/en/chapter5.txt:8
+#: guide/en/chapter5.txt:10
+msgid "This is an example of text to see "
+msgstr ""
+
+#: guide/en/chapter5.txt:12
+msgid "[[File:Manual_Visual_editor_newpage.gif]]"
+msgstr ""
+
+#: guide/en/chapter5.txt:14
 msgid ""
 "If you want to edit an existing page, just press the <code>Edit</code> "
 "button at the top of the page and watch VisualEditor load: after a few "
 "seconds it should be ready to use."
 msgstr ""
 
-#: guide/en/chapter5.txt:10
-msgid "[[File:Manual_Visual_editor_newpage.gif]]"
-msgstr ""
-
-#: guide/en/chapter5.txt:10
+#: guide/en/chapter5.txt:14
 msgid "Editing"
 msgstr ""
 
-#: guide/en/chapter5.txt:13
+#: guide/en/chapter5.txt:18
 msgid ""
 "VisualEditor has more or less the same features and functions of any other "
 "word processor software, like \"style text\" and \"structure\"."
 msgstr ""
 
-#: guide/en/chapter5.txt:13
+#: guide/en/chapter5.txt:18
 msgid "Advanced editing"
 msgstr ""
 
-#: guide/en/chapter5.txt:13
+#: guide/en/chapter5.txt:18
 msgid "Insert media"
 msgstr ""
 
-#: guide/en/chapter5.txt:18
+#: guide/en/chapter5.txt:23
 msgid ""
 "To insert media in the text,  just click the <code>Insert</code> option in "
 "the VisualEditor toolbar and select <code>Media</code>: you can either "
@@ -71,15 +77,15 @@ msgid ""
 "for existing media both on WikiToLearn or Wikimedia Commons."
 msgstr ""
 
-#: guide/en/chapter5.txt:20
+#: guide/en/chapter5.txt:25
 msgid "[[File:Manual_Visual_editor_loadmedia.gif]]"
 msgstr ""
 
-#: guide/en/chapter5.txt:20
+#: guide/en/chapter5.txt:25
 msgid "Insert formulas"
 msgstr ""
 
-#: guide/en/chapter5.txt:23
+#: guide/en/chapter5.txt:28
 msgid ""
 "To insert mathematic formulas in the text, just click the <code>Insert</code>"
 " option in the VisualEditor toolbar and select <code>Formula</code>: this "
@@ -87,29 +93,29 @@ msgid ""
 "formulas easily."
 msgstr ""
 
-#: guide/en/chapter5.txt:23
+#: guide/en/chapter5.txt:28
 msgid "Insert templates"
 msgstr ""
 
-#: guide/en/chapter5.txt:26
+#: guide/en/chapter5.txt:31
 msgid ""
 "Templates are used to add recurring messages to pages in a consistent way, "
 "to create navigational boxes, and to provide cross-language portability of "
 "texts."
 msgstr ""
 
-#: guide/en/chapter5.txt:28
+#: guide/en/chapter5.txt:33
 msgid ""
 "To insert templates (which are needed for <code>Examples, Definitions, "
 "Theorems</code>)  you can use the <code>Insert->Template</code> function. To "
 "see the supported Templates check out [[TEMPLATES|TEMPLATES.]]"
 msgstr ""
 
-#: guide/en/chapter5.txt:28
+#: guide/en/chapter5.txt:33
 msgid "Official Guide"
 msgstr ""
 
-#: guide/en/chapter5.txt:31
+#: guide/en/chapter5.txt:36
 msgid ""
 "We suggest you also take a look at the official VisualEditor guide linked "
 "[https://www.mediawiki.org/wiki/Help:VisualEditor/User_guide here]."

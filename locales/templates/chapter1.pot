@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-11 20:02+0200\n"
+"POT-Creation-Date: 2016-10-14 12:45+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,123 +16,147 @@ msgstr ""
 #: guide/en/chapter1.txt:1
 msgid ""
 "WikiToLearn is a portal that aims to create free collaborative and readily "
-"accessible textbooks. Our philosophy can be summarised as \"''Knowledge only "
-"grows if shared''\"."
+"accessible textbooks. \n"
+"Our philosophy can be summarised as \"''Knowledge only grows if shared''\"."
 msgstr ""
 
-#: guide/en/chapter1.txt:3
+#: guide/en/chapter1.txt:4
 msgid "__TOC__"
 msgstr ""
 
-#: guide/en/chapter1.txt:3
+#: guide/en/chapter1.txt:4
 msgid "Conventions"
 msgstr ""
 
-#: guide/en/chapter1.txt:6
+#: guide/en/chapter1.txt:7
 msgid ""
 "WikiToLearn makes extensive use of a hierarchy model, in order to create "
 "books which are consistent with our philosophy.  "
 msgstr ""
 
-#: guide/en/chapter1.txt:8
+#: guide/en/chapter1.txt:9
+msgctxt "guide/en/chapter1.txt:9"
 msgid "(add image here)"
 msgstr ""
 
-#: guide/en/chapter1.txt:8
-msgid "Department"
+#: guide/en/chapter1.txt:9
+msgid "Departments"
 msgstr ""
 
-#: guide/en/chapter1.txt:11
+#: guide/en/chapter1.txt:12
 msgid ""
-"It's a collection of topics, courses and books belonging to the same area. "
+"It's a collection of topics, courses and books belonging to the same area.\n"
 "Departments are listed on the main page."
 msgstr ""
 
-#: guide/en/chapter1.txt:11
-msgid "Topic"
+#: guide/en/chapter1.txt:12
+msgid "Topics"
 msgstr ""
 
-#: guide/en/chapter1.txt:14
+#: guide/en/chapter1.txt:16
 msgid ""
-"Topics are the level underneath departments and contain different courses "
-"related to the same subject. They are used to gather all the courses that "
-"explain the same theme, because every university and faculty could have a "
-"different approach to the subject. For example, <code>Calculus</code>may be "
-"a topic and <code>Calculus for Physics</code>, <code>Calculus for Computer "
-"Science</code>may be a course. (add image here)"
+"Topics are the level underneath Departments and contain different courses "
+"related to the same subject.\n"
+"They are used to gather all the courses that explain the same theme, because "
+"every university and faculty could have a different approach to the subject."
+"\n"
+"For example, <code>Quantum Physics</code> may be a topic and <code>Quantum "
+"Mechanics for graduate students</code>, <code>Advanced Quantum "
+"Mechanics</code> may be a course. "
 msgstr ""
 
-#: guide/en/chapter1.txt:14
-msgid "Course"
+#: guide/en/chapter1.txt:20
+msgctxt "guide/en/chapter1.txt:20"
+msgid "(add image here)"
 msgstr ""
 
-#: guide/en/chapter1.txt:17
+#: guide/en/chapter1.txt:20
+msgid "Courses"
+msgstr ""
+
+#: guide/en/chapter1.txt:23
 msgid ""
-"Course is the most important unit of WikiToLearn. Courses are a collection "
-"of pages structured like a university course. Every course has the prefix "
-"<code>Course:</code>followed by the course name in its url. (add image heee)"
+"Courses are the most important units of WikiToLearn.\n"
+"Courses are collections of pages structured like a university course.\n"
+"Every course has the prefix <code>Course:</code> followed by the course name "
+"in its url. "
 msgstr ""
 
-#: guide/en/chapter1.txt:17
+#: guide/en/chapter1.txt:27
+msgctxt "guide/en/chapter1.txt:27"
+msgid "(add image here)"
+msgstr ""
+
+#: guide/en/chapter1.txt:27
+msgid "Chapters"
+msgstr ""
+
+#: guide/en/chapter1.txt:30
+msgid ""
+"Chapters are the lower level of a course.\n"
+"They gather together some chapters of a book  and they are displayed as "
+"heading titles in the main page of the course."
+msgstr ""
+
+#: guide/en/chapter1.txt:33
+msgid "(Add image here) "
+msgstr ""
+
+#: guide/en/chapter1.txt:33
 msgid "Section"
 msgstr ""
 
-#: guide/en/chapter1.txt:20
+#: guide/en/chapter1.txt:36
 msgid ""
-"Sections are the lower level of a course. They gather together some chapters "
-"of a book  and they are displayed as heading titles in the main page of the "
-"course. (Add image here) "
-msgstr ""
-
-#: guide/en/chapter1.txt:20
-msgid "Chapter"
-msgstr ""
-
-#: guide/en/chapter1.txt:23
-msgid ""
-"Chapters are the basic unit of an entire course. Basically, they're a single "
-"webpage with its own content."
-msgstr ""
-
-#: guide/en/chapter1.txt:23
-msgid "Namespaces"
-msgstr ""
-
-#: guide/en/chapter1.txt:26
-msgid ""
-"Namespaces are a mechanism for grouping pages. You can see the namespace by "
-"looking at the url: if it has a <code>word:something_else</code>then \"word\""
-" is the namespace. In WikiTolearn there are two main namespaces, \"User\" "
-"and \"Course\"."
-msgstr ""
-
-#: guide/en/chapter1.txt:26
-msgid "User namespace"
-msgstr ""
-
-#: guide/en/chapter1.txt:29
-msgid ""
-"When you register on WikiToLearn a page called "
-"<code>User:your_username</code>is created. The User namespace is your "
-"personal page where you can write your own courses and content without "
-"worring about making mistakes. You can see an example here:"
-msgstr ""
-
-#: guide/en/chapter1.txt:31
-msgid "http://en.wikitolearn.org/User:Grigoletti"
-msgstr ""
-
-#: guide/en/chapter1.txt:31
-msgid "Course namespace"
-msgstr ""
-
-#: guide/en/chapter1.txt:34
-msgid ""
-"A Course namespace is similar to the User one, but it has the word "
-"<code>Course:</code>as a prefix to the url. This namespace is used to create "
-"an entire course. You can see an example here: "
+"Sections are the basic unit of an entire course.\n"
+"Basically, they're a single webpage with its own content."
 msgstr ""
 
 #: guide/en/chapter1.txt:36
+msgid "Namespaces"
+msgstr ""
+
+#: guide/en/chapter1.txt:40
+msgid ""
+"Namespaces are a mechanism for grouping pages.\n"
+"You can see the namespace by looking at the url: if it has a "
+"<code>word:something_else</code>then \"word\" is the namespace.\n"
+"In WikiTolearn there are two main namespaces, \"User\" and \"Course\"."
+msgstr ""
+
+#: guide/en/chapter1.txt:40
+msgid "User namespace"
+msgstr ""
+
+#: guide/en/chapter1.txt:45
+msgid ""
+"The User namespace is your personal page where you can write your own "
+"courses and content without worring about making mistakes.\n"
+"You can see an example here:"
+msgstr ""
+
+#: guide/en/chapter1.txt:48
+msgid "http://en.wikitolearn.org/User:Grigoletti"
+msgstr ""
+
+#: guide/en/chapter1.txt:48
+msgid "Course namespace"
+msgstr ""
+
+#: guide/en/chapter1.txt:51
+msgid ""
+"A Course namespace is similar to the User one, but it has the word "
+"<code>Course:</code>as a prefix to the URL*.\n"
+"This namespace is used to create an entire public course.\n"
+"You can see an example here: "
+msgstr ""
+
+#: guide/en/chapter1.txt:55
 msgid "http://en.wikitolearn.org/Course:How_to_use_Linked_Data"
+msgstr ""
+
+#: guide/en/chapter1.txt:55
+msgid ""
+"URL is an acronym for Uniform Resource Locator and is a reference (an "
+"address) to a resource on the Internet."
 msgstr ""

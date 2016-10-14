@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-11 20:02+0200\n"
+"POT-Creation-Date: 2016-10-14 12:45+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,63 +19,97 @@ msgstr ""
 
 #: guide/en/chapter4.txt:3
 msgid ""
-"A chapter is the lowest unit on the Course hierarchy and it consists in a "
-"page. Every chapter has its own title and content."
+"A section is the lowest unit on the Course hierarchy and it consists in a "
+"single webpage.\n"
+"Every section has its own title and content."
 msgstr ""
 
 #: guide/en/chapter4.txt:3
-msgid "Add a chapter"
+msgid "Add a section"
 msgstr ""
 
-#: guide/en/chapter4.txt:6
+#: guide/en/chapter4.txt:7
 msgid ""
-"To add a chapter into a section, go the course main page. Find the section "
-"where you want to add the chapter and click on the <code>edit section</code>"
-"link. Write the name of the chapter on the input field and save the changes "
-"by clicking on the<code>save section</code>button."
+"To add a section into a chapter, go the course main page. \n"
+"Find the chapter where you want to add the section and click on the pencil "
+"on the right of the chapter's name. \n"
+"Write the name of the section and save the changes by clicking on the <code>"
+"save chapter</code> button."
 msgstr ""
 
-#: guide/en/chapter4.txt:6
-msgid "Rename a chapter"
+#: guide/en/chapter4.txt:7
+msgid "Rename a section"
 msgstr ""
 
-#: guide/en/chapter4.txt:10
+#: guide/en/chapter4.txt:12
 msgid ""
-"To rename a chapter, you can do so from the CourseEditor. Simply find the "
-"section where the chapter is present and edit it. You will be able to rename "
-"the chapter by pressing on the small icon with the blue pen."
+"Simply find the chapter where the section is located and click on the pencil "
+"on the right of the chapter's name. \n"
+"You will be able to rename the section by clicking on the icon with the blue "
+"pencil."
 msgstr ""
 
-#: guide/en/chapter4.txt:12
-msgid "[[File:Manual_rename_chapter.gif]]"
+#: guide/en/chapter4.txt:15
+msgid "[[File:Manual_rename_section.gif]]"
 msgstr ""
 
-#: guide/en/chapter4.txt:12
-msgid "Restore a chapter"
-msgstr ""
-
-#: guide/en/chapter4.txt:12
-msgid "Delete a chapter"
+#: guide/en/chapter4.txt:15
+msgid "Delete a section"
 msgstr ""
 
 #: guide/en/chapter4.txt:18
 msgid ""
-"To delete a chapter, you can do so from the CourseEditor. Simply find the "
-"section where the chapter is present and edit it. You will be able to delete "
-"the chapter by pressing on the \"trash\" icon."
+"To delete a section find the chapter where the targeted section is present "
+"and edit it.\n"
+"You will be able to delete the section by pressing on the trash icon."
 msgstr ""
 
-#: guide/en/chapter4.txt:20
-msgid "[[File:Manual_delete_chapter.gif]]"
+#: guide/en/chapter4.txt:21
+msgid "[[File:Manual_delete_section.gif]]"
 msgstr ""
 
-#: guide/en/chapter4.txt:20
-msgid "Move a chapter"
+#: guide/en/chapter4.txt:21
+msgid "Restore a section"
 msgstr ""
 
 #: guide/en/chapter4.txt:24
 msgid ""
-"To move a chapter within the same section, you can simply use the drag and "
+"If you have sections in the recycling bin you can restore them by placing "
+"the mouse on the sections and clicking on the restore icon on the left of "
+"the section's name."
+msgstr ""
+
+#: guide/en/chapter4.txt:26
+msgid "[[File:Manual_Restore_section.gif]]"
+msgstr ""
+
+#: guide/en/chapter4.txt:28
+msgid ""
+"Always remember to save the changes by clicking on the <code>Save "
+"Course</code> button."
+msgstr ""
+
+#: guide/en/chapter4.txt:28
+msgid "Move a section"
+msgstr ""
+
+#: guide/en/chapter4.txt:31
+msgid ""
+"To move a section within the same chapter, you can simply use the drag and "
 "drop elements.\n"
-"We don't yet support moving chapters within different sections."
+"We don't support moving sections within different chapters yet.\n"
+"For now, if needed, we suggest the following procedure:\n"
+"copy the content of the section on a document;"
+msgstr ""
+
+#: guide/en/chapter4.txt:31
+msgid "delete the section you'd like to move;"
+msgstr ""
+
+#: guide/en/chapter4.txt:31
+msgid "create a new section located at the right place;"
+msgstr ""
+
+#: guide/en/chapter4.txt:31
+msgid "paste the old content and save the page."
 msgstr ""

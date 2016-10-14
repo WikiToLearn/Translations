@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-11 20:02+0200\n"
+"POT-Creation-Date: 2016-10-14 12:45+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,19 +14,19 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.13.0\n"
 
 #: guide/en/contribute0.txt:1
-msgid "Join our awesome community!"
+msgid ""
+"{{Special:ContributorsMap}}\n"
+"Join our awesome community!"
 msgstr ""
 
-#: guide/en/contribute0.txt:3
+#: guide/en/contribute0.txt:4
 msgid ""
 "Every page is editable and you can start participating right now wherever "
 "you think you can be most useful. Here are some tips to help you get started:"
 msgstr ""
 
-#: guide/en/contribute0.txt:5
-msgid "<ref:contribute1>"
-msgstr ""
-
-#: guide/en/contribute0.txt:7
-msgid "<ref:contribute2>"
+#: guide/en/contribute0.txt:6
+msgid ""
+"<ref:contribute1>\n"
+"<ref:contribute2>"
 msgstr ""

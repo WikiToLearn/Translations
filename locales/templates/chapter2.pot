@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-11 20:02+0200\n"
+"POT-Creation-Date: 2016-10-14 12:45+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,93 +15,117 @@ msgstr ""
 
 #: guide/en/chapter2.txt:2
 msgid ""
-"Course is a collection of pages with a well defined tree structure. Every "
-"course on WikiToLearn has a unique name. You can create a private course "
-"under your namespace or a public/collaborative course where everyone can "
-"contribute."
+"Course is a collection of pages with a well defined tree structure. \n"
+"Every course on WikiToLearn has a unique name. \n"
+"You can create a private course under your namespace or a public/"
+"collaborative course where everyone can contribute."
 msgstr ""
 
 #: guide/en/chapter2.txt:2
 msgid "Create a course"
 msgstr ""
 
-#: guide/en/chapter2.txt:5
-msgid ""
-"The first thing to do to create a course is going to the right department. "
-"For example, if you are writing a <code>Quantum Physics</code> course then "
-"you need to go to the physics department located at "
-"http://en.wikitolearn.org/Physics"
-msgstr ""
-
 #: guide/en/chapter2.txt:7
-msgid "(TODO: insert a template button on departments to create a course)"
+msgid ""
+"The first thing to do to create a course is going to the right department "
+"and the right topic.\n"
+"For example, if you are writing a <code>Quantum Physics</code> course, you "
+"need to go to the physics department located at "
+"http://en.wikitolearn.org/Physics.\n"
+"Find the most appropriate topic and click on it. \n"
+"In the previous example, you should look for a topic named \"Quantum "
+"Physics\" or \"Quantum Mechanics\"."
 msgstr ""
 
-#: guide/en/chapter2.txt:9
-msgid "When you click on the \"Create course\" button a form shows up."
+#: guide/en/chapter2.txt:12
+msgid "Click the \"Create Course\" button: a form will show up."
 msgstr ""
 
-#: guide/en/chapter2.txt:11
+#: guide/en/chapter2.txt:14
+msgid ""
+"'''Note:''' if there isn't an appropriate topic for the course, you can "
+"create one by clicking the \"Create Course and Topic\" button on the "
+"department page.\n"
+"The name of the topic will be the same as the name of the course."
+msgstr ""
+
+#: guide/en/chapter2.txt:17
 msgid "[[File:Manual_create_course.gif]]"
 msgstr ""
 
-#: guide/en/chapter2.txt:13
+#: guide/en/chapter2.txt:19
 msgid ""
-"You can choose to make the course public or private. A public course is "
-"located under the related department, while a private course is located "
-"under the user namespace."
+"You can choose to make the course public or private.\n"
+"A public course is located under the related department, while a private "
+"course is located under the user namespace."
 msgstr ""
 
-#: guide/en/chapter2.txt:15
+#: guide/en/chapter2.txt:22
 msgid ""
 "It is strongly recommended to create a private course and publish it once "
-"completed."
+"completed.\n"
+"However, if you decide to create a public course, it will be displayed under "
+"the <code>Department/Topic</code> url and everyone can modify it by "
+"creating, moving and deleting content."
 msgstr ""
 
-#: guide/en/chapter2.txt:15
-msgid "Bibliography"
+#: guide/en/chapter2.txt:25
+msgid "(maybe another gif here)"
 msgstr ""
 
-#: guide/en/chapter2.txt:18
-msgid "You can add a bibliography to your course (how?)."
+#: guide/en/chapter2.txt:25
+msgid "Course Metadata"
 msgstr ""
 
-#: guide/en/chapter2.txt:18
-msgid "Exercises"
-msgstr ""
-
-#: guide/en/chapter2.txt:21
-msgid "If you want to add a collections of exercises' links you can (how?)"
-msgstr ""
-
-#: guide/en/chapter2.txt:21
-msgid "Notes"
-msgstr ""
-
-#: guide/en/chapter2.txt:24
-msgid "You can also add external notes."
-msgstr ""
-
-#: guide/en/chapter2.txt:24
-msgid "External links"
-msgstr ""
-
-#: guide/en/chapter2.txt:27
-msgid "For any other related link you can add them here by (how?)"
-msgstr ""
-
-#: guide/en/chapter2.txt:27
-msgid "Publish a course"
-msgstr ""
-
-#: guide/en/chapter2.txt:30
+#: guide/en/chapter2.txt:29
 msgid ""
-"If you have created a private course, it will stay under your user namespace "
-"unless you decide to publish it."
+"It is possible to add additional information to a course.\n"
+"This is helpful when you have some external links or PDF with exercises, "
+"notes or bibliography that you want to attach to the course."
 msgstr ""
 
 #: guide/en/chapter2.txt:32
+msgid "(add gif here)"
+msgstr ""
+
+#: guide/en/chapter2.txt:34
 msgid ""
-"(how?)\n"
-"__FORCETOC__"
+"To add metadata visit the course root page and click on the \"Edit metadata\""
+" button.\n"
+"Then you can add the additional information in the respective input fields.\n"
+"In particular, you can add information about:"
+msgstr ""
+
+#: guide/en/chapter2.txt:34
+msgid "Bibliography"
+msgstr ""
+
+#: guide/en/chapter2.txt:34
+msgid "Exercises"
+msgstr ""
+
+#: guide/en/chapter2.txt:34
+msgid "Books"
+msgstr ""
+
+#: guide/en/chapter2.txt:34
+msgid "External References"
+msgstr ""
+
+#: guide/en/chapter2.txt:34
+msgid "Publish a course"
+msgstr ""
+
+#: guide/en/chapter2.txt:44
+msgid ""
+"If you created a private course, it will stay under your user namespace "
+"unless you decide to publish it.\n"
+"To publish a private a course, navigate to the course main page and click on "
+"the \"Publish Course\" button.\n"
+"A WikiToLearn's admin will take into account the request and will move the "
+"content to the public topic page."
+msgstr ""
+
+#: guide/en/chapter2.txt:48
+msgid "__FORCETOC__"
 msgstr ""

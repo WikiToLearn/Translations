@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-11 20:02+0200\n"
+"POT-Creation-Date: 2016-10-14 12:45+0200\n"
 "PO-Revision-Date: 2016-09-29 13:17+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -14,11 +14,13 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.13.0\n"
 
 #: guide/en/chapter5.txt:1
+#, fuzzy
 msgid ""
 "VisualEditor is the main tool you can use to create and edit pages on "
-"WikiToLearn. Using VisualEditor is very easy and if you already have some "
-"experience in any kind of text editing software you will have no problem "
-"understanding how VisualEditor works."
+"WikiToLearn. \n"
+"Using VisualEditor is very easy!\n"
+"If you already have some experience in any kind of text editing software you "
+"will have no problem in understanding how VisualEditor works."
 msgstr ""
 "VisualEditor è lo strumento principalmente utilizzato per creare e "
 "modificare delle pagine su WikiToLearn. Usare VisualEditor è molto semplice "
@@ -33,16 +35,26 @@ msgstr "Utilizzo base"
 msgid "Activating VisualEditor"
 msgstr "Attivare VisualEditor"
 
-#: guide/en/chapter5.txt:6
+#: guide/en/chapter5.txt:8
+#, fuzzy
 msgid ""
-"When creating a new page, VisualEditor should be enabled by default: the "
-"VisualEditor toolbar should appear at the top of the page."
+"When creating a new page, this is a short piece to see what happens, "
+"VisualEditor should be enabled by default: the VisualEditor toolbar should "
+"appear at the top of the page."
 msgstr ""
 "Quando si crea una nuova pagina, VisualEditor dovrebbe essere abilitato di "
 "default: la toolbar di VisualEditor dovrebbe apparire all'inizio della "
 "pagina."
 
-#: guide/en/chapter5.txt:8
+#: guide/en/chapter5.txt:10
+msgid "This is an example of text to see "
+msgstr ""
+
+#: guide/en/chapter5.txt:12
+msgid "[[File:Manual_Visual_editor_newpage.gif]]"
+msgstr ""
+
+#: guide/en/chapter5.txt:14
 msgid ""
 "If you want to edit an existing page, just press the <code>Edit</code> "
 "button at the top of the page and watch VisualEditor load: after a few "
@@ -53,15 +65,11 @@ msgstr ""
 "caricamento di VisualEditor: dopo alcuni secondi dovrebbe essere pronto "
 "all'uso."
 
-#: guide/en/chapter5.txt:10
-msgid "[[File:Manual_Visual_editor_newpage.gif]]"
-msgstr ""
-
-#: guide/en/chapter5.txt:10
+#: guide/en/chapter5.txt:14
 msgid "Editing"
 msgstr "Modifiche"
 
-#: guide/en/chapter5.txt:13
+#: guide/en/chapter5.txt:18
 msgid ""
 "VisualEditor has more or less the same features and functions of any other "
 "word processor software, like \"style text\" and \"structure\"."
@@ -69,15 +77,15 @@ msgstr ""
 "VisualEditor ha all'incirca le stesse caratteristiche e funzioni di ogni "
 "altro word processor software, come \"stile del testo\" e \"struttura\"."
 
-#: guide/en/chapter5.txt:13
+#: guide/en/chapter5.txt:18
 msgid "Advanced editing"
 msgstr "Modifiche Avanzate"
 
-#: guide/en/chapter5.txt:13
+#: guide/en/chapter5.txt:18
 msgid "Insert media"
 msgstr "Inserire media"
 
-#: guide/en/chapter5.txt:18
+#: guide/en/chapter5.txt:23
 msgid ""
 "To insert media in the text,  just click the <code>Insert</code> option in "
 "the VisualEditor toolbar and select <code>Media</code>: you can either "
@@ -90,15 +98,15 @@ msgstr ""
 "sezione <code>Carica</code> o cercare con <code>Cerca</code> dei file già "
 "esistenti su WikiToLearn o Wikimedia Commons."
 
-#: guide/en/chapter5.txt:20
+#: guide/en/chapter5.txt:25
 msgid "[[File:Manual_Visual_editor_loadmedia.gif]]"
 msgstr ""
 
-#: guide/en/chapter5.txt:20
+#: guide/en/chapter5.txt:25
 msgid "Insert formulas"
 msgstr "Inserire formule"
 
-#: guide/en/chapter5.txt:23
+#: guide/en/chapter5.txt:28
 msgid ""
 "To insert mathematic formulas in the text, just click the <code>Insert</code>"
 " option in the VisualEditor toolbar and select <code>Formula</code>: this "
@@ -111,11 +119,11 @@ msgstr ""
 "delle formule che permetterà di scrivere le formule matematiche "
 "semplicemente. "
 
-#: guide/en/chapter5.txt:23
+#: guide/en/chapter5.txt:28
 msgid "Insert templates"
 msgstr "Inserire template"
 
-#: guide/en/chapter5.txt:26
+#: guide/en/chapter5.txt:31
 msgid ""
 "Templates are used to add recurring messages to pages in a consistent way, "
 "to create navigational boxes, and to provide cross-language portability of "
@@ -125,7 +133,7 @@ msgstr ""
 "ricorrenti a determinate pagine, per creare contenuti di navigazione e per "
 "fornire un supporto multi lingua ai contenuti testuali."
 
-#: guide/en/chapter5.txt:28
+#: guide/en/chapter5.txt:33
 msgid ""
 "To insert templates (which are needed for <code>Examples, Definitions, "
 "Theorems</code>)  you can use the <code>Insert->Template</code> function. To "
@@ -136,11 +144,11 @@ msgstr ""
 "<code>Inserisci->Template</code>. Per verificare i template supportati, "
 "controllare [[TEMPLATES|TEMPLATES.]]."
 
-#: guide/en/chapter5.txt:28
+#: guide/en/chapter5.txt:33
 msgid "Official Guide"
 msgstr "Guida Ufficiale"
 
-#: guide/en/chapter5.txt:31
+#: guide/en/chapter5.txt:36
 msgid ""
 "We suggest you also take a look at the official VisualEditor guide linked "
 "[https://www.mediawiki.org/wiki/Help:VisualEditor/User_guide here]."

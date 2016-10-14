@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-11 20:02+0200\n"
+"POT-Creation-Date: 2016-10-14 12:45+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,93 +14,101 @@ msgstr ""
 
 #: guide/en/chapter3.txt:1
 msgid ""
-"Sections are a collection of chapters. They're intended to be used like a "
-"section  of a book and have their own title."
+"Chapters are a collection of sections. They're intended to be used like a "
+"chapter of a book and have their own title."
 msgstr ""
 
 #: guide/en/chapter3.txt:1
-msgid "Add a section"
+msgid "Add a chapter"
 msgstr ""
 
 #: guide/en/chapter3.txt:4
 msgid ""
-"You can add a section to a course by navigating to the course main page. "
-"Click on the <code>edit course</code> link and insert the name of the "
-"section you want to add. Once done, click on <code>Save Course</code> button."
+"You can add a chapter to a course by navigating to the course main page. \n"
+"Click either on the red pencil button on the right and insert the name of "
+"the chapter you want to add. \n"
+"Once done, click on <code>Save Course</code> button."
 msgstr ""
 
-#: guide/en/chapter3.txt:6
+#: guide/en/chapter3.txt:8
 msgid "[[File:Manual_add_section.gif]]"
 msgstr ""
 
-#: guide/en/chapter3.txt:6
-msgid "Rename a section"
-msgstr ""
-
-#: guide/en/chapter3.txt:9
-msgid ""
-"To rename a section, go to the course main page and click on the <code>edit "
-"course</code>link. A list of all the created sections will show up. Place "
-"the mouse on the target section and a blue pencil will appear on the right. "
-"Click on the pencil and insert the new name of the section. Once done, click "
-"on the <code>Save course</code>button."
+#: guide/en/chapter3.txt:8
+msgid "Rename a chapter"
 msgstr ""
 
 #: guide/en/chapter3.txt:11
+msgid ""
+"To rename a chapter, go to the course main page and click on the red pencil "
+"button on the right. \n"
+"A list of all the created chapters will show up.\n"
+"Place the mouse on the target chapter and a blue pencil will appear on the "
+"right. \n"
+"Click on the pencil and insert the new name for the chapter. \n"
+"Once done, click on the <code>Save course</code>button."
+msgstr ""
+
+#: guide/en/chapter3.txt:17
 msgid "[[File:Manual_rename_section.gif]]"
 msgstr ""
 
-#: guide/en/chapter3.txt:11
-msgid "Delete a section"
+#: guide/en/chapter3.txt:17
+msgid "Delete a chapter"
 msgstr ""
 
-#: guide/en/chapter3.txt:14
+#: guide/en/chapter3.txt:20
 msgid ""
-"To delete a section, go to the course main page and click on the <code>edit "
-"course</code> link. A list of all the created section will show up. Place "
-"the mouse on the targeted section and a red bin will appear on the right. If "
-"you click on the bin you will notice that your section will be placed in a "
-"recycling bin. Once done, save the changes by clicking on the <code>Save "
+"To delete a chapter, go to the course main page and click on the <code>edit "
+"course</code> link. \n"
+"A list of all the created chapters will show up. \n"
+"Place the mouse on the targeted chapter and a red bin will appear on the "
+"right. \n"
+"If you click on the bin you will notice that your chapter will be placed in "
+"a recycling bin. \n"
+"Once done, save the changes by clicking on the <code>Save "
 "course</code>button."
 msgstr ""
 
-#: guide/en/chapter3.txt:16
+#: guide/en/chapter3.txt:26
 msgid "[[File:Manual_delete_section.gif]]"
 msgstr ""
 
-#: guide/en/chapter3.txt:16
-msgid "Restore a section"
+#: guide/en/chapter3.txt:26
+msgid "Restore a chapter"
 msgstr ""
 
-#: guide/en/chapter3.txt:19
+#: guide/en/chapter3.txt:29
 msgid ""
-"If you have sections in the recycling bin you can restore them by placing "
-"the mouse on the sections and clicking on the restore icon on the left of "
-"the section's name."
+"If you have chapters in the recycling bin you can restore them by placing "
+"the mouse on the chapters and clicking on the restore icon on the left of "
+"the chapter's name."
 msgstr ""
 
-#: guide/en/chapter3.txt:21
+#: guide/en/chapter3.txt:31
 msgid "[[File:Manual_Restore_section.gif]]"
 msgstr ""
 
-#: guide/en/chapter3.txt:23
+#: guide/en/chapter3.txt:33
 msgid ""
 "Always remember to save the changes by clicking on the <code>Save "
 "Course</code>button."
 msgstr ""
 
-#: guide/en/chapter3.txt:23
-msgid "Move a section"
+#: guide/en/chapter3.txt:33
+msgid "Move a chapter"
 msgstr ""
 
-#: guide/en/chapter3.txt:26
+#: guide/en/chapter3.txt:36
 msgid ""
-"You can change the order of the section's list by clicking on the <code>edit "
-"course</code>link. A list of sections will show up. Simply drag and drop "
-"them to swap their order. Once done, save your changes by clicking on the "
-"<code>Save course</code>button."
+"You can change the order of the chapter's list by clicking on the red pencil "
+"button. \n"
+"A list of chapters will show up. \n"
+"Simply drag and drop them to swap their order. \n"
+"Once done, save your changes by clicking on the <code>Save "
+"course</code>button."
 msgstr ""
 
-#: guide/en/chapter3.txt:28
+#: guide/en/chapter3.txt:41
 msgid "(add image or gif here)"
 msgstr ""

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-11 20:02+0200\n"
+"POT-Creation-Date: 2016-10-14 12:45+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,7 +15,8 @@ msgstr ""
 #: guide/en/chapter6.txt:1
 msgid ""
 "Templates are used to add recurring notes to pages in a consistent way, to "
-"create navigational boxes, and to provide all kind of advanced features."
+"create navigational boxes, and to provide advanced features like cross "
+"portability of text."
 msgstr ""
 
 #: guide/en/chapter6.txt:1
@@ -29,73 +30,52 @@ msgid ""
 msgstr ""
 
 #: guide/en/chapter6.txt:7
-msgid ""
-"In this example, we will add a definition. At first, we insert a template "
-"from the edit toolbar:"
+msgid "(add a gif here)"
 msgstr ""
 
-#: guide/en/chapter6.txt:9
-msgid "[[File:Manual_Templates_insert_start.png]]"
+#: guide/en/chapter6.txt:7
+msgid "Using templates parameters"
 msgstr ""
 
 #: guide/en/chapter6.txt:11
 msgid ""
-"Then, we choose the template named <code>Definition</code>, by writing the "
-"first letters in the box that appears:"
-msgstr ""
-
-#: guide/en/chapter6.txt:13
-msgid "[[File:Manual_Templates_select.png]]"
-msgstr ""
-
-#: guide/en/chapter6.txt:15
-msgid ""
-"In this case, we don't want to insert any parameter. Thus we just press \""
-"Insert\" and the template is added:"
-msgstr ""
-
-#: guide/en/chapter6.txt:17
-msgid "[[File:Manual_templates_finish.png]]"
-msgstr ""
-
-#: guide/en/chapter6.txt:19
-msgid "We will now write the definition as a new paragraph."
-msgstr ""
-
-#: guide/en/chapter6.txt:19
-msgid "Using templates parameters"
-msgstr ""
-
-#: guide/en/chapter6.txt:23
-msgid ""
-"Some templates can have named parameters. In the example above, there is an "
-"optional <code>title</code> parameter.\n"
-"We can fill this field by clicking on the field name and specifying the "
+"Some templates can have named parameters.\n"
+"You can fill such a field by clicking on the field name and specifying the "
 "desired value."
 msgstr ""
 
-#: guide/en/chapter6.txt:26
+#: guide/en/chapter6.txt:14
 msgid "[[File:Manual_templates_parameter.png]]"
 msgstr ""
 
-#: guide/en/chapter6.txt:26
+#: guide/en/chapter6.txt:14
 msgid "A list of useful templates"
 msgstr ""
 
-#: guide/en/chapter6.txt:30
+#: guide/en/chapter6.txt:18
+msgid ""
+"There are lots of useful templates you can use in your page.\n"
+"A list of the main ones can be found below."
+msgstr ""
+
+#: guide/en/chapter6.txt:21
 msgid ""
 "'''Mathematics:'''\n"
 "Definition"
 msgstr ""
 
-#: guide/en/chapter6.txt:30
+#: guide/en/chapter6.txt:21
 msgid "Theorem"
 msgstr ""
 
-#: guide/en/chapter6.txt:30
+#: guide/en/chapter6.txt:21
 msgid "Example"
 msgstr ""
 
-#: guide/en/chapter6.txt:30
+#: guide/en/chapter6.txt:21
 msgid "Lemma"
+msgstr ""
+
+#: guide/en/chapter6.txt:27
+msgid "'''Others:'''\n"
 msgstr ""
