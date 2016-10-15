@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-15 20:25+0200\n"
+"POT-Creation-Date: 2016-10-15 20:35+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,9 +22,39 @@ msgid "Edit Course"
 msgstr ""
 
 #: [messages]editmetadata
-msgid "Edit metadata (admin only)"
+msgid "Edit Metadata"
 msgstr ""
 
 #: [messages]editsection
 msgid "Edit section"
+msgstr ""
+
+#: [messages]bibliography
+msgid "Bibliography"
+msgstr ""
+
+#: [messages]exercises
+msgid "Exercises"
+msgstr ""
+
+#: [messages]books
+msgid "Books"
+msgstr ""
+
+#: [messages]editchapter
+msgid "Edit Chapter"
+msgstr ""
+
+#: [messages]downloadpdfbooks
+msgid "Download PDF Books"
+msgstr ""
+
+#: [messages]coursereadytobepublished
+msgid ""
+"This course is ready to be published! An administrator will do it as soon as "
+"possible."
+msgstr ""
+
+#: [messages]pagewillbedeleted
+msgid "This page will be deleted as soon as possible"
 msgstr ""
