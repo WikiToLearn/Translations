@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-14 12:45+0200\n"
+"POT-Creation-Date: 2016-10-15 20:35+0200\n"
 "PO-Revision-Date: 2016-10-02 20:41+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -14,47 +14,47 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Translate Toolkit 1.13.0\n"
 
-#: [messages]chapter0
+#: [messages]wikitolearn-guide-chapter-0
 msgid "Manual"
 msgstr "Manuale"
 
-#: [messages]chapter1
+#: [messages]wikitolearn-guide-chapter-1
 msgid "Manual/The structure of WikiToLearn"
 msgstr "Manuale/Struttura di WikiToLearn"
 
-#: [messages]chapter2
+#: [messages]wikitolearn-guide-chapter-2
 msgid "Manual/Core concepts: Course"
 msgstr "Manuale/Concetti fondamentali: Corso"
 
-#: [messages]chapter3
+#: [messages]wikitolearn-guide-chapter-3
 msgid "Manual/Core concepts: Section"
 msgstr "Manuale/Concetti fondamentali: Sezione"
 
-#: [messages]chapter4
+#: [messages]wikitolearn-guide-chapter-4
 msgid "Manual/Core concepts: Chapter"
 msgstr "Munuale/Concetti fondamentali: Capitolo"
 
-#: [messages]chapter5
+#: [messages]wikitolearn-guide-chapter-5
 msgid "Manual/The Visual Editor"
 msgstr "Manuale/Il Visual Editor"
 
-#: [messages]chapter6
+#: [messages]wikitolearn-guide-chapter-6
 msgid "Manual/Using templates"
 msgstr "Manuale/L'uso dei template"
 
-#: [messages]chapter7
+#: [messages]wikitolearn-guide-chapter-7
 msgid "Manual/Creating books"
 msgstr "Manuale/Creare un libro"
 
-#: [messages]chapter8
+#: [messages]wikitolearn-guide-chapter-8
 msgid "Manual/Importing from LaTeX"
 msgstr "Manuale/Importare da LaTex"
 
-#: [messages]chapter9
+#: [messages]wikitolearn-guide-chapter-9
 msgid "Manual/Importing from Word"
 msgstr "Manuale/Importare da Word"
 
-#: [messages]chapter10
+#: [messages]wikitolearn-guide-chapter-10
 #, fuzzy
 msgid "Manual/Create a book"
 msgstr "Manuale/Creare un libro"
