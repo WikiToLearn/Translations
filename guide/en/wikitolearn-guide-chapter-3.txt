@@ -12,7 +12,7 @@ To rename a chapter, go to the course main page and click on the red pencil butt
 A list of all the created chapters will show up.
 Place the mouse on the target chapter and a blue pencil will appear on the right. 
 Click on the pencil and insert the new name for the chapter. 
-Once done, click on the <code>Save course</code>button.
+Once done, click on the <code>Save course</code> button.
 
 [[File:Manual_rename_section.gif]]
 
@@ -21,7 +21,7 @@ To delete a chapter, go to the course main page and click on the <code>edit cour
 A list of all the created chapters will show up. 
 Place the mouse on the targeted chapter and a red bin will appear on the right. 
 If you click on the bin you will notice that your chapter will be placed in a recycling bin. 
-Once done, save the changes by clicking on the <code>Save course</code>button.
+Once done, save the changes by clicking on the <code>Save course</code> button.
 
 [[File:Manual_delete_section.gif]]
 
@@ -30,12 +30,12 @@ If you have chapters in the recycling bin you can restore them by placing the mo
 
 [[File:Manual_Restore_section.gif]]
 
-Always remember to save the changes by clicking on the <code>Save Course</code>button.
+Always remember to save the changes by clicking on the <code>Save Course</code> button.
 
 == Move a chapter ==
 You can change the order of the chapter's list by clicking on the red pencil button. 
 A list of chapters will show up. 
 Simply drag and drop them to swap their order. 
-Once done, save your changes by clicking on the <code>Save course</code>button.
+Once done, save your changes by clicking on the <code>Save course</code> button.
 
 (add image or gif here)

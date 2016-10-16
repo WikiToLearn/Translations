@@ -24,7 +24,7 @@ The website will convert your latex into a WikiToLearn ready-to-paste content.
 
 You can just enter some text in latex syntax
 (without worrying about latex preamble)
-or you can even use latex macros and enviroments
+or you can even use latex macros and environments
 (in this case the \begin{document} is necessary).
 
 === Python script ===

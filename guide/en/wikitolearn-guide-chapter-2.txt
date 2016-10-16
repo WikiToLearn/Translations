@@ -42,7 +42,7 @@ In particular, you can add information about:
 
 == Publish a course ==
 If you created a private course, it will stay under your user namespace unless you decide to publish it.
-To publish a private a course, navigate to the course main page and click on the "Publish Course" button.
+To publish a private course, navigate to the course main page and click on the "Publish Course" button.
 A WikiToLearn's admin will take into account the request and will move the content to the public topic page.
 
 __FORCETOC__
