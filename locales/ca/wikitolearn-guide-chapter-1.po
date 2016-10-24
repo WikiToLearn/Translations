@@ -1,16 +1,19 @@
+# Freek de Kruijf <freekdekruijf@kde.nl>, 2016.
 #. extracted from guide/en/wikitolearn-guide-chapter-1.txt
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-15 20:35+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2016-10-20 23:45+0200\n"
+"Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
+"Language-Team: Dutch <kde-i18n-nl@kde.org>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:1
 msgid ""
@@ -21,11 +24,11 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:4
 msgid "__TOC__"
-msgstr ""
+msgstr "__TOC__"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:4
 msgid "Conventions"
-msgstr ""
+msgstr "Conventies"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:7
 msgid ""
@@ -36,42 +39,45 @@ msgstr ""
 #: guide/en/wikitolearn-guide-chapter-1.txt:9
 msgctxt "guide/en/wikitolearn-guide-chapter-1.txt:9"
 msgid "(add image here)"
-msgstr ""
+msgstr "(hier afbeelding toevoegen)"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:9
 msgid "Departments"
-msgstr ""
+msgstr "Afdelingen"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:12
 msgid ""
 "It's a collection of topics, courses and books belonging to the same area.\n"
 "Departments are listed on the main page."
 msgstr ""
+"Het is een verzameling onderwerpen, lessen en boeken vallend onder hetzelfde "
+"gebied.\n"
+"Afdelingen zitten in een lijst op de hoofdpagina."
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:12
 msgid "Topics"
-msgstr ""
+msgstr "Onderwerpen"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:16
 msgid ""
 "Topics are the level underneath Departments and contain different courses "
 "related to the same subject.\n"
 "They are used to gather all the courses that explain the same theme, because "
-"every university and faculty could have a different approach to the subject."
-"\n"
+"every university and faculty could have a different approach to the "
+"subject.\n"
 "For example, <code>Quantum Physics</code> may be a topic and <code>Quantum "
-"Mechanics for graduate students</code>, <code>Advanced Quantum "
-"Mechanics</code> may be a course."
+"Mechanics for graduate students</code>, <code>Advanced Quantum Mechanics</"
+"code> may be a course."
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:20
 msgctxt "guide/en/wikitolearn-guide-chapter-1.txt:20"
 msgid "(add image here)"
-msgstr ""
+msgstr "(hier afbeelding toevoegen)"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:20
 msgid "Courses"
-msgstr ""
+msgstr "Cursussen"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:23
 msgid ""
@@ -84,11 +90,11 @@ msgstr ""
 #: guide/en/wikitolearn-guide-chapter-1.txt:27
 msgctxt "guide/en/wikitolearn-guide-chapter-1.txt:27"
 msgid "(add image here)"
-msgstr ""
+msgstr "(hier afbeelding toevoegen)"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:27
 msgid "Chapters"
-msgstr ""
+msgstr "Hoofdstukken"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:30
 msgid ""
@@ -103,7 +109,7 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:33
 msgid "Section"
-msgstr ""
+msgstr "Sectie"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:36
 msgid ""
@@ -113,13 +119,13 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:36
 msgid "Namespaces"
-msgstr ""
+msgstr "Naamruimtes"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:40
 msgid ""
 "Namespaces are a mechanism for grouping pages.\n"
-"You can see the namespace by looking at the url: if it has a "
-"<code>word:something_else</code>then \"word\" is the namespace.\n"
+"You can see the namespace by looking at the url: if it has a <code>word:"
+"something_else</code>then \"word\" is the namespace.\n"
 "In WikiTolearn there are two main namespaces, \"User\" and \"Course\"."
 msgstr ""
 

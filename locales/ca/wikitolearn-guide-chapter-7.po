@@ -1,16 +1,19 @@
+# Freek de Kruijf <freekdekruijf@kde.nl>, 2016.
 #. extracted from guide/en/wikitolearn-guide-chapter-7.txt
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-15 20:35+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2016-10-16 23:17+0200\n"
+"Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
+"Language-Team: Dutch <kde-i18n-nl@kde.org>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:1
 msgid ""
@@ -23,7 +26,7 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:1
 msgid "Create a book"
-msgstr ""
+msgstr "Een boek aanmaken"
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:7
 msgid ""
@@ -88,8 +91,8 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:34
 msgid ""
-"Choose the first option, write the name of your book and click on \"Save "
-"Book\" button."
+"Choose the first option, write the name of your book and click on \"Save Book"
+"\" button."
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:36

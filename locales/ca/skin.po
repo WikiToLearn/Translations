@@ -1,71 +1,74 @@
+# Freek de Kruijf <freekdekruijf@kde.nl>, 2016.
 #. extracted from skin/en.json
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-15 20:35+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2016-10-16 00:11+0200\n"
+"Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
+"Language-Team: Dutch <kde-i18n-nl@kde.org>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #: .wikitolearnskin-departments-2-image
 msgid "images/badges/chemistry.png"
-msgstr ""
+msgstr "images/badges/chemistry.png"
 
 #: .wikitolearnskin-join-us-readmore
 msgid "Read more..."
-msgstr ""
+msgstr "Lees meer..."
 
 #: .wikitolearnskin-departments-8-link
 msgid "/Physics"
-msgstr ""
+msgstr "/Natuurkunde"
 
 #: .wikitolearnskin-navbar-contribute
 msgid "Join Us"
-msgstr ""
+msgstr "Doe ook mee"
 
 #: .wikitolearnskin-departments-4-status
 msgctxt ".wikitolearnskin-departments-4-status"
 msgid "disabled"
-msgstr ""
+msgstr "uitgeschakeld"
 
 #: .wikitolearnskin-navbar-tools-reports-link
 msgid "//reports.wikitolearn.org"
-msgstr ""
+msgstr "//reports.wikitolearn.org"
 
 #: .wikitolearnskin-departments-2-name
 msgid "Chemistry"
-msgstr ""
+msgstr "Scheikunde"
 
 #: .wikitolearnskin-departments-3-image
 msgid "images/badges/computerscience.png"
-msgstr ""
+msgstr "images/badges/computerscience.png"
 
 #: .wikitolearnskin-departments-1-link
 msgid "/Business"
-msgstr ""
+msgstr "/Zakelijk"
 
 #: .wikitolearnskin-media-learn-more-link
 msgctxt ".wikitolearnskin-media-learn-more-link"
 msgid "/#"
-msgstr ""
+msgstr "/#"
 
 #: .wikitolearnskin-footer-kit-channels-text
 msgid "chat.wikitolearn.org"
-msgstr ""
+msgstr "chat.wikitolearn.org"
 
 #: .wikitolearnskin-departments-4-image
 msgid "images/badges/engineering.png"
-msgstr ""
+msgstr "images/badges/engineering.png"
 
 #: .wikitolearnskin-testimonials-second-image-path
 msgctxt ".wikitolearnskin-testimonials-second-image-path"
 msgid "images/placeholder-user.png"
-msgstr ""
+msgstr "images/placeholder-user.png"
 
 #: .wikitolearnskin-read-more-stories-button
 msgid "Read more stories about WikiToLearn"
@@ -73,7 +76,7 @@ msgstr ""
 
 #: .wikitolearnskin-navbar-language-selector
 msgid "Language"
-msgstr ""
+msgstr "Taal"
 
 #: .wikitolearnskin-departments-1-image
 msgid "images/badges/business.png"
@@ -94,7 +97,7 @@ msgstr ""
 
 #: .wikitolearnskin-previous-button-title
 msgid "Previous"
-msgstr ""
+msgstr "Vorige"
 
 #: .wikitolearnskin-departments-8-image
 msgid "images/badges/physics.png"
@@ -110,16 +113,16 @@ msgstr ""
 
 #: .wikitolearnskin-departments-1-name
 msgid "Business"
-msgstr ""
+msgstr "Zakelijk"
 
 #: .wikitolearnskin-departments-1-status
 msgctxt ".wikitolearnskin-departments-1-status"
 msgid "disabled"
-msgstr ""
+msgstr "uitgeschakeld"
 
 #: .wikitolearnskin-advanced-button-title
 msgid "Advanced"
-msgstr ""
+msgstr "Geavanceerd"
 
 #: .wikitolearnskin-departments-9-name
 msgid "Social Sciences"
@@ -131,7 +134,7 @@ msgstr ""
 
 #: .wikitolearnskin-next-button-title
 msgid "Next"
-msgstr ""
+msgstr "Volgende"
 
 #: .wikitolearnskin-departments-5-image
 msgctxt ".wikitolearnskin-departments-5-image"
@@ -144,11 +147,11 @@ msgstr ""
 
 #: .wikitolearnskin-departments-4-name
 msgid "Engineering"
-msgstr ""
+msgstr "Techniek"
 
 #: .wikitolearnskin-navbar-tools-reports
 msgid "Reports"
-msgstr ""
+msgstr "Rapporten"
 
 #: .wikitolearnskin-navbar-tools-guide
 msgid "User guides"
@@ -161,11 +164,11 @@ msgstr ""
 
 #: .wikitolearnskin-departments-7-name
 msgid "Medicine"
-msgstr ""
+msgstr "Medicijnen"
 
 #: .wikitolearnskin-user-tools-logs-title
 msgid "Logs"
-msgstr ""
+msgstr "Logs"
 
 #: .wikitolearnskin-footer-learn-more
 msgid "Learn more"
@@ -178,7 +181,7 @@ msgstr ""
 
 #: .wikitolearnskin-departments-2-link
 msgid "/Chemistry"
-msgstr ""
+msgstr "/Scheikunde"
 
 #: .wikitolearnskin-footer-follow-us
 msgctxt ".wikitolearnskin-footer-follow-us"
@@ -196,7 +199,7 @@ msgstr ""
 
 #: .wikitolearnskin-departments-6-link
 msgid "/Mathematics"
-msgstr ""
+msgstr "/Wiskunde"
 
 #: .wikitolearnskin-footer-hosted-by
 msgid "Hosted by"
@@ -204,16 +207,16 @@ msgstr ""
 
 #: .wikitolearnskin-join-us-button
 msgid "Join us"
-msgstr ""
+msgstr "Doe ook mee"
 
 #: .wikitolearnskin-departments-6-name
 msgid "Mathematics"
-msgstr ""
+msgstr "Wiskunde"
 
 #: .wikitolearnskin-navbar-tools
 msgctxt ".wikitolearnskin-navbar-tools"
 msgid "Tools"
-msgstr ""
+msgstr "Hulpmiddelen"
 
 #: .wikitolearnskin-testimonials-first-image-path
 msgctxt ".wikitolearnskin-testimonials-first-image-path"
@@ -222,15 +225,15 @@ msgstr ""
 
 #: .wikitolearnskin-navbar-about
 msgid "About"
-msgstr ""
+msgstr "Over"
 
 #: .wikitolearnskin-navbar-tools-guide-link
 msgid "Manual"
-msgstr ""
+msgstr "Handleiding"
 
 #: .wikitolearnskin-departments-3-link
 msgid "/Computer_Science"
-msgstr ""
+msgstr "/Computerkunde"
 
 #: .wikitolearnskin-footer-academic
 msgid "Academic institutions"
@@ -238,11 +241,11 @@ msgstr ""
 
 #: .wikitolearnskin-departments-7-link
 msgid "/Medicine"
-msgstr ""
+msgstr "/Medicijnen"
 
 #: .wikitolearnskin-navbar-tools-chat
 msgid "Chat"
-msgstr ""
+msgstr "Chat"
 
 #: .wikitolearnskin-read-more-stories-button-link
 msgctxt ".wikitolearnskin-read-more-stories-button-link"
@@ -251,7 +254,7 @@ msgstr ""
 
 #: .wikitolearnskin-footer-changes
 msgid "Recent changes"
-msgstr ""
+msgstr "Recente wijzigingen"
 
 #: .wikitolearnskin-departments-10-name
 msgid "Before University"
@@ -264,7 +267,7 @@ msgstr ""
 
 #: .wikitolearnskin-footer-contacts
 msgid "Contacts"
-msgstr ""
+msgstr "Contactpersonen"
 
 #: .wikitolearnskin-footer-special-pages
 msgid "Special pages"
@@ -272,7 +275,7 @@ msgstr ""
 
 #: .wikitolearnskin-user-tools-title
 msgid "User"
-msgstr ""
+msgstr "Gebruiker"
 
 #: .wikitolearnskin-publish-course-tool
 msgid "Publish course"
@@ -290,11 +293,11 @@ msgstr ""
 #: .wikitolearnskin-departments-3-status
 msgctxt ".wikitolearnskin-departments-3-status"
 msgid "enabled"
-msgstr ""
+msgstr "ingeschakeld"
 
 #: .wikitolearnskin-download-button-title
 msgid "Download"
-msgstr ""
+msgstr "Downloaden"
 
 #: .wikitolearnskin-footer-keep-in-touch
 msgctxt ".wikitolearnskin-footer-keep-in-touch"
@@ -313,8 +316,8 @@ msgstr ""
 #: .wikitolearnskin-media-text
 msgid ""
 "WikiToLearn wants to provide free, collaborative and accessible text books "
-"to the whole world. Our philosophy is synthetized in the sentence: “"
-"knowledge only grows if shared”. We provide a platform where learners and "
+"to the whole world. Our philosophy is synthetized in the sentence: "
+"“knowledge only grows if shared”. We provide a platform where learners and "
 "teachers can together complete, refine and re-assemble notes, lecture notes "
 "in order to create text books, tailored precisely to their needs, so that "
 "you can “stand on the shoulders of giants”."
@@ -334,7 +337,7 @@ msgstr ""
 
 #: .wikitolearnskin-departments-4-link
 msgid "/Engineering"
-msgstr ""
+msgstr "/Techniek"
 
 #: .wikitolearnskin-footer-kit-channels-link
 msgctxt ".wikitolearnskin-footer-kit-channels-link"
@@ -357,12 +360,12 @@ msgstr ""
 #: .wikitolearnskin-footer-tools
 msgctxt ".wikitolearnskin-footer-tools"
 msgid "Tools"
-msgstr ""
+msgstr "Hulpmiddelen"
 
 #: .wikitolearnskin-departments-8-status
 msgctxt ".wikitolearnskin-departments-8-status"
 msgid "enabled"
-msgstr ""
+msgstr "ingeschakeld"
 
 #: .wikitolearnskin-departments-7-image
 msgid "images/badges/medicine.png"
@@ -371,11 +374,11 @@ msgstr ""
 #: .wikitolearnskin-departments-10-status
 msgctxt ".wikitolearnskin-departments-10-status"
 msgid "disabled"
-msgstr ""
+msgstr "uitgeschakeld"
 
 #: .wikitolearnskin-departments-8-name
 msgid "Physics"
-msgstr ""
+msgstr "Natuurkunde"
 
 #: .wikitolearnskin-departments-5-link
 msgctxt ".wikitolearnskin-departments-5-link"
@@ -385,17 +388,17 @@ msgstr ""
 #: .wikitolearnskin-departments-5-status
 msgctxt ".wikitolearnskin-departments-5-status"
 msgid "disabled"
-msgstr ""
+msgstr "uitgeschakeld"
 
 #: .wikitolearnskin-departments-9-status
 msgctxt ".wikitolearnskin-departments-9-status"
 msgid "disabled"
-msgstr ""
+msgstr "uitgeschakeld"
 
 #: .wikitolearnskin-departments-6-status
 msgctxt ".wikitolearnskin-departments-6-status"
 msgid "enabled"
-msgstr ""
+msgstr "ingeschakeld"
 
 #: .wikitolearnskin-cookies-learn-more
 msgid "Learn More"
@@ -404,7 +407,7 @@ msgstr ""
 #: .wikitolearnskin-departments-7-status
 msgctxt ".wikitolearnskin-departments-7-status"
 msgid "disabled"
-msgstr ""
+msgstr "uitgeschakeld"
 
 #: .wikitolearnskin-cookies-text
 msgid ""
@@ -418,9 +421,9 @@ msgstr ""
 
 #: .wikitolearnskin-cookies-dismiss
 msgid "Got it!"
-msgstr ""
+msgstr "Begrepen!"
 
 #: .wikitolearnskin-departments-2-status
 msgctxt ".wikitolearnskin-departments-2-status"
 msgid "disabled"
-msgstr ""
+msgstr "uitgeschakeld"

@@ -1,16 +1,19 @@
+# Freek de Kruijf <freekdekruijf@kde.nl>, 2016.
 #. extracted from guide/en/wikitolearn-guide-chapter-8.txt
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-15 20:35+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2016-10-16 18:23+0200\n"
+"PO-Revision-Date: 2016-10-16 23:17+0200\n"
+"Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
+"Language-Team: Dutch <kde-i18n-nl@kde.org>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:1
 msgid ""
@@ -20,7 +23,7 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:1
 msgid "Import content"
-msgstr ""
+msgstr "Importeer inhoud"
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:4
 msgid ""
@@ -51,8 +54,8 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:15
 msgid ""
-"It's open source and you can find the code here: "
-"https://github.com/WikiToLearn/texla"
+"It's open source and you can find the code here: https://github.com/"
+"WikiToLearn/texla"
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:17
@@ -67,8 +70,8 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:20
 msgid ""
-"If you want to use TeXLa without installing anything, visit "
-"https://texla.wikitolearn.org/"
+"If you want to use TeXLa without installing anything, visit https://texla."
+"wikitolearn.org/"
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:22
@@ -83,13 +86,13 @@ msgstr ""
 msgid ""
 "You can just enter some text in latex syntax\n"
 "(without worrying about latex preamble)\n"
-"or you can even use latex macros and enviroments\n"
+"or you can even use latex macros and environments\n"
 "(in this case the \\begin{document} is necessary)."
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:25
 msgid "Python script"
-msgstr ""
+msgstr "Pythonscript"
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:32
 msgid ""
@@ -104,6 +107,6 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:37
 msgid ""
-"A more detailed documentation on how to use TeXlA can be found here: "
-"http://meta.wikitolearn.org/Texla"
+"A more detailed documentation on how to use TeXlA can be found here: http://"
+"meta.wikitolearn.org/Texla"
 msgstr ""

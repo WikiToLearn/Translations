@@ -1,59 +1,64 @@
+# Freek de Kruijf <freekdekruijf@kde.nl>, 2016.
 #. extracted from wtl-messages/en.ini
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-15 20:35+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2016-10-16 23:20+0200\n"
+"Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
+"Language-Team: Dutch <kde-i18n-nl@kde.org>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #: [messages]externalreferences
 msgid "External References"
-msgstr ""
+msgstr "Externe referenties"
 
 #: [messages]editcourse
 msgid "Edit Course"
-msgstr ""
+msgstr "Les bewerken"
 
 #: [messages]editmetadata
 msgid "Edit Metadata"
-msgstr ""
+msgstr "Metadata wijzigen"
 
 #: [messages]editsection
 msgid "Edit section"
-msgstr ""
+msgstr "Sectie bewerken"
 
 #: [messages]bibliography
 msgid "Bibliography"
-msgstr ""
+msgstr "Bibliografie"
 
 #: [messages]exercises
 msgid "Exercises"
-msgstr ""
+msgstr "Oefeningen"
 
 #: [messages]books
 msgid "Books"
-msgstr ""
+msgstr "Boeken"
 
 #: [messages]editchapter
 msgid "Edit Chapter"
-msgstr ""
+msgstr "Hoofdstuk bewerken"
 
 #: [messages]downloadpdfbooks
 msgid "Download PDF Books"
-msgstr ""
+msgstr "PDF-boeken downloaden"
 
 #: [messages]coursereadytobepublished
 msgid ""
 "This course is ready to be published! An administrator will do it as soon as "
 "possible."
 msgstr ""
+"Deze les is gereed om te worden gepubliceerd! Een beheerder zal dat zo "
+"spoedig mogelijk doen."
 
 #: [messages]pagewillbedeleted
 msgid "This page will be deleted as soon as possible"
-msgstr ""
+msgstr "Deze pagina zal zo spoedig mogelijk worden verwijderd"
