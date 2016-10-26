@@ -1,13 +1,13 @@
 #!/usr/bin/env python2
 
-import sys
+import sys, codecs
 import configparser, os
 
 config = configparser.ConfigParser()
-config.readfp(open(sys.argv[2],'r'))
+config.readfp(codecs.open(sys.argv[2],'r','utf8'))
 
 enconfig = configparser.ConfigParser()
-enconfig.readfp(open(sys.argv[1],'r'))
+enconfig.readfp(codecs.open(sys.argv[1],'r','utf8'))
 
 for identifier, string in config.items("messages"):
     if len(string) == 0:
@@ -16,7 +16,7 @@ for identifier, string in config.items("messages"):
     out = "<section begin=" + identifier
     out += " />" + string
     out += "<section end=" + identifier +  " /> "
-    print out
+    print out.encode('utf8')
 #     outarr.append(out)
 # outfile = open('mediawiki/'+f+'.mw', 'w')
 # outfile.write('\n'.join(outarr)+'\n')
