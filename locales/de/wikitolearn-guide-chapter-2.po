@@ -1,15 +1,19 @@
+# Burkhard Lück <lueck@hube-lueck.de>, 2016.
+# Frederik Schwarzer <schwarzer@kde.org>, 2016.
 #. extracted from guide/en/wikitolearn-guide-chapter-2.txt
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-15 20:35+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2016-10-27 00:51+0200\n"
+"PO-Revision-Date: 2016-10-18 23:48+0100\n"
+"Last-Translator: Frederik Schwarzer <schwarzer@kde.org>\n"
+"Language-Team: German <kde-i18n-de@kde.org>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Translate Toolkit 1.13.0\n"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:2
@@ -22,7 +26,7 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:2
 msgid "Create a course"
-msgstr ""
+msgstr "Einen Kurs erstellen"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:7
 msgid ""
@@ -50,7 +54,7 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:17
 msgid "[[File:Manual_create_course.gif]]"
-msgstr ""
+msgstr "[[File:Manual_create_course.gif]]"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:19
 msgid ""
@@ -74,7 +78,7 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:25
 msgid "Course Metadata"
-msgstr ""
+msgstr "Kurs-Metadaten"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:29
 msgid ""
@@ -85,7 +89,7 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:32
 msgid "(add gif here)"
-msgstr ""
+msgstr "(Gif hier hinzufügen)"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:34
 msgid ""
@@ -97,29 +101,29 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:34
 msgid "Bibliography"
-msgstr ""
+msgstr "Literaturverzeichnis"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:34
 msgid "Exercises"
-msgstr ""
+msgstr "Übungen"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:34
 msgid "Books"
-msgstr ""
+msgstr "Bücher"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:34
 msgid "External References"
-msgstr ""
+msgstr "Externe Referenzen"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:34
 msgid "Publish a course"
-msgstr ""
+msgstr "Einen Kurs veröffentlichen"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:44
 msgid ""
 "If you created a private course, it will stay under your user namespace "
 "unless you decide to publish it.\n"
-"To publish a private a course, navigate to the course main page and click on "
+"To publish a private course, navigate to the course main page and click on "
 "the \"Publish Course\" button.\n"
 "A WikiToLearn's admin will take into account the request and will move the "
 "content to the public topic page."
@@ -127,4 +131,4 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:48
 msgid "__FORCETOC__"
-msgstr ""
+msgstr "__FORCETOC__"

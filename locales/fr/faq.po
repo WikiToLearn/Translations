@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-15 20:35+0200\n"
+"POT-Creation-Date: 2016-10-27 00:51+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,25 +21,11 @@ msgid "'''Can I move a section into another chapter?'''"
 msgstr ""
 
 #: guide/en/faq.txt:1
-msgctxt "guide/en/faq.txt:1"
-msgid "*"
-msgstr ""
-
-#: guide/en/faq.txt:1
 msgid "'''Can I save my course offline?'''"
-msgstr ""
-
-#: guide/en/faq.txt:1
-msgctxt "guide/en/faq.txt:1"
-msgid "*"
 msgstr ""
 
 #: guide/en/faq.txt:1
 msgid ""
 "I'm writing the name of the book and saving it under my user namespace but "
-"the"
-msgstr ""
-
-#: guide/en/faq.txt:8
-msgid "\"Save book\" button is disabled. What should I do?\n"
+"the \"Save book\" button is disabled. What should I do?"
 msgstr ""

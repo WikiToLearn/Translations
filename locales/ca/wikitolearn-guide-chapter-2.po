@@ -1,19 +1,23 @@
-# Freek de Kruijf <freekdekruijf@kde.nl>, 2016.
+# Translation of wikitolearn-guide-chapter-2.po to Catalan
+# Copyright (C) 2016 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2016.
 #. extracted from guide/en/wikitolearn-guide-chapter-2.txt
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: wikitolearn-guide-chapter-2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-16 18:23+0200\n"
-"PO-Revision-Date: 2016-10-16 23:14+0200\n"
-"Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
-"Language-Team: Dutch <kde-i18n-nl@kde.org>\n"
-"Language: nl\n"
+"POT-Creation-Date: 2016-10-27 00:51+0200\n"
+"PO-Revision-Date: 2016-10-17 21:20+0100\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:2
 msgid ""
@@ -22,26 +26,38 @@ msgid ""
 "You can create a private course under your namespace or a public/"
 "collaborative course where everyone can contribute."
 msgstr ""
+"El és una col·lecció de pàgines amb una estructura en arbre ben definida.\n"
+"Cada curs al WikiToLearn té un nom únic.\n"
+"Podeu crear un curs privat sota el vostre espai de nom o un curs públic/col·"
+"laboratiu en el qual tothom hi podrà contribuir."
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:2
 msgid "Create a course"
-msgstr ""
+msgstr "Crear un curs"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:7
 msgid ""
 "The first thing to do to create a course is going to the right department "
 "and the right topic.\n"
 "For example, if you are writing a <code>Quantum Physics</code> course, you "
-"need to go to the physics department located at http://en.wikitolearn.org/"
-"Physics.\n"
+"need to go to the physics department located at "
+"http://en.wikitolearn.org/Physics.\n"
 "Find the most appropriate topic and click on it. \n"
-"In the previous example, you should look for a topic named \"Quantum Physics"
-"\" or \"Quantum Mechanics\"."
+"In the previous example, you should look for a topic named \"Quantum "
+"Physics\" or \"Quantum Mechanics\"."
 msgstr ""
+"El primer que cal fer per crear un curs és anar al departament correcte i al "
+"tema apropiat.\n"
+"Per exemple, si esteu escrivint un curs de <code>Física quàntica</code>, per "
+"descomptat haureu d'anar al departament de física ubicat a "
+"http://en.wikitolearn.org/Physics.\n"
+"Trobeu el tema més apropiat i feu-hi clic.\n"
+"En l'exemple anterior, haureu de cercar un tema anomenat «Física quàntica» o "
+"«Mecànica quàntica»."
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:12
 msgid "Click the \"Create Course\" button: a form will show up."
-msgstr ""
+msgstr "Feu clic al botó «Crea un curs»: es mostrarà un formulari."
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:14
 msgid ""
@@ -50,10 +66,13 @@ msgid ""
 "department page.\n"
 "The name of the topic will be the same as the name of the course."
 msgstr ""
+"'''Nota:''' si no és un tema apropiat per al curs, podeu crear-ne un fent "
+"clic al botó «Crea un curs i tema» a la pàgina del departament.\n"
+"El nom del tema serà el mateix que el nom del curs."
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:17
 msgid "[[File:Manual_create_course.gif]]"
-msgstr ""
+msgstr "[[File:Manual_create_course.gif]]"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:19
 msgid ""
@@ -61,6 +80,9 @@ msgid ""
 "A public course is located under the related department, while a private "
 "course is located under the user namespace."
 msgstr ""
+"Podeu optar per fer el curs públic o privat.\n"
+"Un curs públic s'ubica sota el departament relacionat, mentre que un curs "
+"privat s'ubica sota l'espai de nom de l'usuari."
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:22
 msgid ""
@@ -70,14 +92,18 @@ msgid ""
 "the <code>Department/Topic</code> url and everyone can modify it by "
 "creating, moving and deleting content."
 msgstr ""
+"És altament recomanable crear un curs privat i public una vegada completat.\n"
+"No obstant això, si decidiu crear un curs públic, que es mostrarà sota l'URL "
+"<code>Departament/Tema</code> i tothom podrà modificar-lo tot creant, movent "
+"i eliminant el contingut."
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:25
 msgid "(maybe another gif here)"
-msgstr ""
+msgstr "(potser un altre GIF aquí)"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:25
 msgid "Course Metadata"
-msgstr ""
+msgstr "Metadades del curs"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:29
 msgid ""
@@ -85,38 +111,46 @@ msgid ""
 "This is helpful when you have some external links or PDF with exercises, "
 "notes or bibliography that you want to attach to the course."
 msgstr ""
+"És possible afegir informació addicional a un curs.\n"
+"Això és útil quan es tenen alguns enllaços externs o PDF amb exercicis, "
+"notes o bibliografia que voleu adjuntar al curs."
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:32
 msgid "(add gif here)"
-msgstr ""
+msgstr "(afegiu un GIF aquí)"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:34
 msgid ""
-"To add metadata visit the course root page and click on the \"Edit metadata"
-"\" button.\n"
+"To add metadata visit the course root page and click on the \"Edit metadata\""
+" button.\n"
 "Then you can add the additional information in the respective input fields.\n"
 "In particular, you can add information about:"
 msgstr ""
+"Per afegir les metadades, visiteu la pàgina arrel del curs i feu clic al "
+"botó «Edita les metadades».\n"
+"A continuació, podreu afegir la informació addicional en els camps d'entrada "
+"respectius.\n"
+"En particular, podeu afegir informació sobre:"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:34
 msgid "Bibliography"
-msgstr "Bibliografie"
+msgstr "Bibliografia"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:34
 msgid "Exercises"
-msgstr "Oefeningen"
+msgstr "Exercicis"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:34
 msgid "Books"
-msgstr "Boeken"
+msgstr "Llibres"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:34
 msgid "External References"
-msgstr "Externe referenties"
+msgstr "Referències externes"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:34
 msgid "Publish a course"
-msgstr ""
+msgstr "Publicar un curs"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:44
 msgid ""
@@ -127,7 +161,13 @@ msgid ""
 "A WikiToLearn's admin will take into account the request and will move the "
 "content to the public topic page."
 msgstr ""
+"Si heu creat un curs privat, aquest romandrà sota l'espai de nom de l'usuari "
+"llevat que decidiu publicar-lo.\n"
+"Per a publicar un curs privat, aneu a la pàgina principal del curs i feu "
+"clic al botó «Publica el curs».\n"
+"Un administrador de WikiToLearn tindrà en compte la sol·licitud i mourà el "
+"contingut a la pàgina pública del tema."
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:48
 msgid "__FORCETOC__"
-msgstr ""
+msgstr "__FORCETOC__"

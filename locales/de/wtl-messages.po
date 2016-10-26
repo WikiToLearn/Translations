@@ -1,59 +1,65 @@
+# Burkhard Lück <lueck@hube-lueck.de>, 2016.
+# Frederik Schwarzer <schwarzer@kde.org>, 2016.
 #. extracted from wtl-messages/en.ini
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-15 20:35+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2016-10-27 00:51+0200\n"
+"PO-Revision-Date: 2016-10-18 23:35+0100\n"
+"Last-Translator: Frederik Schwarzer <schwarzer@kde.org>\n"
+"Language-Team: German <kde-i18n-de@kde.org>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Translate Toolkit 1.13.0\n"
 
 #: [messages]externalreferences
 msgid "External References"
-msgstr ""
+msgstr "Externe Referenzen"
 
 #: [messages]editcourse
 msgid "Edit Course"
-msgstr ""
-
-#: [messages]editmetadata
-msgid "Edit Metadata"
-msgstr ""
+msgstr "Kurs bearbeiten"
 
 #: [messages]editsection
 msgid "Edit section"
-msgstr ""
+msgstr "Abschnitt bearbeiten"
 
 #: [messages]bibliography
 msgid "Bibliography"
-msgstr ""
+msgstr "Literaturverzeichnis"
 
 #: [messages]exercises
 msgid "Exercises"
-msgstr ""
+msgstr "Übungen"
 
 #: [messages]books
 msgid "Books"
-msgstr ""
+msgstr "Bücher"
+
+#: [messages]editmetadata
+msgid "Edit Metadata"
+msgstr "Metadaten bearbeiten"
 
 #: [messages]editchapter
 msgid "Edit Chapter"
-msgstr ""
+msgstr "Kapitel bearbeiten"
 
 #: [messages]downloadpdfbooks
 msgid "Download PDF Books"
-msgstr ""
+msgstr "PDF-Bücher herunterladen"
 
 #: [messages]coursereadytobepublished
 msgid ""
 "This course is ready to be published! An administrator will do it as soon as "
 "possible."
 msgstr ""
+"Dieser Kurs kann nun veröffentlicht werden. Ein Administrator wird dies in "
+"Kürze tun."
 
 #: [messages]pagewillbedeleted
 msgid "This page will be deleted as soon as possible"
-msgstr ""
+msgstr "Diese Seite wird in Kürze gelöscht werden"

@@ -1,19 +1,23 @@
-# Freek de Kruijf <freekdekruijf@kde.nl>, 2016.
+# Translation of wikitolearn-guide-chapter-4.po to Catalan
+# Copyright (C) 2016 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2016.
 #. extracted from guide/en/wikitolearn-guide-chapter-4.txt
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: wikitolearn-guide-chapter-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-15 20:35+0200\n"
-"PO-Revision-Date: 2016-10-16 23:15+0200\n"
-"Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
-"Language-Team: Dutch <kde-i18n-nl@kde.org>\n"
-"Language: nl\n"
+"POT-Creation-Date: 2016-10-27 00:51+0200\n"
+"PO-Revision-Date: 2016-10-16 19:24+0100\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:1
 msgid "__TOC__"
@@ -25,23 +29,31 @@ msgid ""
 "single webpage.\n"
 "Every section has its own title and content."
 msgstr ""
+"Una secció és la unitat més baixa en la jerarquia de «Course» i consisteix "
+"en una sola pàgina web.\n"
+"Cada secció té el seu propi títol i contingut."
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:3
 msgid "Add a section"
-msgstr "Een sectie toevoegen"
+msgstr "Afegir una secció"
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:7
 msgid ""
 "To add a section into a chapter, go the course main page. \n"
 "Find the chapter where you want to add the section and click on the pencil "
 "on the right of the chapter's name. \n"
-"Write the name of the section and save the changes by clicking on the "
-"<code>save chapter</code> button."
+"Write the name of the section and save the changes by clicking on the <code>"
+"save chapter</code> button."
 msgstr ""
+"Per afegir una secció en un capítol, aneu a la pàgina principal del curs.\n"
+"Trobeu el capítol en el qual voleu afegir la secció i feu clic al llapis que "
+"hi ha a la dreta del nom del capítol.\n"
+"Escriviu el nom de la secció i deseu els canvis fent clic al botó <code>Desa "
+"el capítol</code>."
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:7
 msgid "Rename a section"
-msgstr ""
+msgstr "Reanomenar una secció"
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:12
 msgid ""
@@ -50,14 +62,18 @@ msgid ""
 "You will be able to rename the section by clicking on the icon with the blue "
 "pencil."
 msgstr ""
+"Només cal trobar el capítol on es troba la secció i fer clic al llapis que "
+"hi ha a la dreta del nom del capítol.\n"
+"Sereu capaç de canviar el nom de la secció fent clic sobre la icona amb el "
+"llapis blau."
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:15
 msgid "[[File:Manual_rename_section.gif]]"
-msgstr ""
+msgstr "[[File:Manual_rename_section.gif]]"
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:15
 msgid "Delete a section"
-msgstr ""
+msgstr "Eliminar una secció"
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:18
 msgid ""
@@ -65,14 +81,17 @@ msgid ""
 "and edit it.\n"
 "You will be able to delete the section by pressing on the trash icon."
 msgstr ""
+"Per eliminar una secció, trobeu el capítol on es troba la secció específica "
+"i editeu-lo.\n"
+"Sereu capaç d'eliminar la secció fent clic sobre la icona de la paperera."
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:21
 msgid "[[File:Manual_delete_section.gif]]"
-msgstr ""
+msgstr "[[File:Manual_delete_section.gif]]"
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:21
 msgid "Restore a section"
-msgstr ""
+msgstr "Restaurar una secció"
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:24
 msgid ""
@@ -80,20 +99,24 @@ msgid ""
 "the mouse on the sections and clicking on the restore icon on the left of "
 "the section's name."
 msgstr ""
+"Si teniu seccions al contenidor de reciclatge, les podreu restaurar situant "
+"el ratolí sobre les seccions i fent clic a la icona de restaurar que hi ha a "
+"l'esquerra del nom de la secció."
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:26
 msgid "[[File:Manual_Restore_section.gif]]"
-msgstr ""
+msgstr "[[File:Manual_Restore_section.gif]]"
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:28
 msgid ""
-"Always remember to save the changes by clicking on the <code>Save Course</"
-"code> button."
+"Always remember to save the changes by clicking on the <code>Save "
+"Course</code> button."
 msgstr ""
+"Recordeu sempre desar els canvis fent clic al botó <code>Desa el curs</code>."
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:28
 msgid "Move a section"
-msgstr ""
+msgstr "Moure una secció"
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:31
 msgid ""
@@ -103,15 +126,20 @@ msgid ""
 "For now, if needed, we suggest the following procedure:\n"
 "copy the content of the section on a document;"
 msgstr ""
+"Per a moure una secció dins del mateix capítol, només heu d'utilitzar "
+"l'acció arrossega i deixa.\n"
+"Encara no s'admet moure les seccions dins dels diferents capítols.\n"
+"Per ara, si cal, suggerim el següent procediment:\n"
+"copiar el contingut de la secció en un document;"
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:31
 msgid "delete the section you'd like to move;"
-msgstr ""
+msgstr "eliminar la secció voleu moure;"
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:31
 msgid "create a new section located at the right place;"
-msgstr ""
+msgstr "crear una nova secció ubicada al lloc correcte;"
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:31
 msgid "paste the old content and save the page."
-msgstr ""
+msgstr "enganxar el contingut antic i desar la pàgina."

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-15 20:35+0200\n"
+"POT-Creation-Date: 2016-10-27 00:51+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,10 +20,6 @@ msgstr ""
 msgid "Edit Course"
 msgstr ""
 
-#: [messages]editmetadata
-msgid "Edit Metadata"
-msgstr ""
-
 #: [messages]editsection
 msgid "Edit section"
 msgstr ""
@@ -38,6 +34,10 @@ msgstr ""
 
 #: [messages]books
 msgid "Books"
+msgstr ""
+
+#: [messages]editmetadata
+msgid "Edit Metadata"
 msgstr ""
 
 #: [messages]editchapter

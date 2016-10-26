@@ -1,15 +1,19 @@
+# Burkhard Lück <lueck@hube-lueck.de>, 2016.
+# Frederik Schwarzer <schwarzer@kde.org>, 2016.
 #. extracted from guide/en/wikitolearn-guide-chapter-10.txt
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-15 20:35+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2016-10-27 00:51+0200\n"
+"PO-Revision-Date: 2016-10-18 23:49+0100\n"
+"Last-Translator: Frederik Schwarzer <schwarzer@kde.org>\n"
+"Language-Team: German <kde-i18n-de@kde.org>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Translate Toolkit 1.13.0\n"
 
 #: guide/en/wikitolearn-guide-chapter-10.txt:1
@@ -22,7 +26,7 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-10.txt:1
 msgid "Web development"
-msgstr ""
+msgstr "Web-Entwicklung"
 
 #: guide/en/wikitolearn-guide-chapter-10.txt:5
 msgid ""
@@ -34,7 +38,7 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-10.txt:5
 msgid "Translation"
-msgstr ""
+msgstr "Übersetzung"
 
 #: guide/en/wikitolearn-guide-chapter-10.txt:10
 msgid ""
@@ -44,7 +48,7 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-10.txt:10
 msgid "Bug tracking"
-msgstr ""
+msgstr "Fehlerdatenbank"
 
 #: guide/en/wikitolearn-guide-chapter-10.txt:13
 msgid ""

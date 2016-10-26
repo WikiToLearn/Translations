@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-15 20:35+0200\n"
+"POT-Creation-Date: 2016-10-27 00:51+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -46,7 +46,7 @@ msgid ""
 "Place the mouse on the target chapter and a blue pencil will appear on the "
 "right. \n"
 "Click on the pencil and insert the new name for the chapter. \n"
-"Once done, click on the <code>Save course</code>button."
+"Once done, click on the <code>Save course</code> button."
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:17
@@ -66,8 +66,8 @@ msgid ""
 "right. \n"
 "If you click on the bin you will notice that your chapter will be placed in "
 "a recycling bin. \n"
-"Once done, save the changes by clicking on the <code>Save "
-"course</code>button."
+"Once done, save the changes by clicking on the <code>Save course</code> "
+"button."
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:26
@@ -92,7 +92,7 @@ msgstr ""
 #: guide/en/wikitolearn-guide-chapter-3.txt:33
 msgid ""
 "Always remember to save the changes by clicking on the <code>Save "
-"Course</code>button."
+"Course</code> button."
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:33
@@ -105,8 +105,8 @@ msgid ""
 "button. \n"
 "A list of chapters will show up. \n"
 "Simply drag and drop them to swap their order. \n"
-"Once done, save your changes by clicking on the <code>Save "
-"course</code>button."
+"Once done, save your changes by clicking on the <code>Save course</code> "
+"button."
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:41

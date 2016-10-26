@@ -1,45 +1,52 @@
-# Freek de Kruijf <freekdekruijf@kde.nl>, 2016.
+# Translation of faq.po to Catalan
+# Copyright (C) 2016 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2016.
 #. extracted from guide/en/faq.txt
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: faq\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-15 20:35+0200\n"
-"PO-Revision-Date: 2016-10-18 10:34+0100\n"
-"Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
-"Language-Team: Dutch <kde-i18n-nl@kde.org>\n"
-"Language: nl\n"
+"POT-Creation-Date: 2016-10-27 00:51+0200\n"
+"PO-Revision-Date: 2016-10-15 23:56+0100\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 2.0\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
 
 #: guide/en/faq.txt:1
 msgid "Frequently Asked Question"
-msgstr "Veel voorkomende vragen (FAQ)"
+msgstr "Preguntes més freqüents"
 
 #: guide/en/faq.txt:1
 msgid "'''Can I move a section into another chapter?'''"
-msgstr "'''Kan ik een sectie naar een ander hoofdstuk verplaatsen?'''"
-
-#: guide/en/faq.txt:1
-msgctxt "guide/en/faq.txt:1"
-msgid "*"
-msgstr "*"
+msgstr "'''Puc moure una secció a un altre capítol?'''"
 
 #: guide/en/faq.txt:1
 msgid "'''Can I save my course offline?'''"
-msgstr "'''Kan ik mijn les offline opslaan?'''"
+msgstr "'''Puc desar el meu curs fora de línia?'''"
 
 #: guide/en/faq.txt:1
 msgid ""
 "I'm writing the name of the book and saving it under my user namespace but "
-"the"
+"the \"Save book\" button is disabled. What should I do?"
 msgstr ""
-"I ben bezig de naam van het boek te schrijven en op te slaan onder mijn "
-"gebruikersnaamruimte maar de"
 
-#: guide/en/faq.txt:8
-msgid "\"Save book\" button is disabled. What should I do?\n"
-msgstr "knop \"Boek opslaan\" is uitgeschakeld. Wat moet ik doen?\n"
+#~ msgctxt "guide/en/faq.txt:1"
+#~ msgid "*"
+#~ msgstr "*"
+
+#~ msgid ""
+#~ "I'm writing the name of the book and saving it under my user namespace but "
+#~ "the"
+#~ msgstr ""
+#~ "Estic escrivint el nom del llibre i desant-lo sota el meu espai de nom "
+#~ "d'usuari, però el"
+
+#~ msgid "\"Save book\" button is disabled. What should I do?\n"
+#~ msgstr "botó «Desa el llibre» està desactivat. Què hauria de fer?\n"

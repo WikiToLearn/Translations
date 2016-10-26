@@ -1,19 +1,23 @@
-# Freek de Kruijf <freekdekruijf@kde.nl>, 2016.
+# Translation of wikitolearn-guide-chapter-6.po to Catalan
+# Copyright (C) 2016 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2016.
 #. extracted from guide/en/wikitolearn-guide-chapter-6.txt
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: wikitolearn-guide-chapter-6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-15 20:35+0200\n"
-"PO-Revision-Date: 2016-10-16 23:17+0200\n"
-"Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
-"Language-Team: Dutch <kde-i18n-nl@kde.org>\n"
-"Language: nl\n"
+"POT-Creation-Date: 2016-10-27 00:51+0200\n"
+"PO-Revision-Date: 2016-10-17 20:31+0100\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:1
 msgid ""
@@ -21,10 +25,13 @@ msgid ""
 "create navigational boxes, and to provide advanced features like cross "
 "portability of text."
 msgstr ""
+"Les plantilles s'utilitzen per afegir notes recurrents a les pàgines d'una "
+"manera consistent, per crear quadres de navegació, i per proporcionar "
+"funcions avançades, com la portabilitat del text."
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:1
 msgid "Inserting templates"
-msgstr "Sjablonen invoegen"
+msgstr "Inserir plantilles"
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:5
 msgid ""
@@ -32,14 +39,19 @@ msgid ""
 "from [[<ref:wikitolearn-guide-chapter-5>|the Visual Editor]].\n"
 "Type in the name of the template you want to insert and select the right one."
 msgstr ""
+"Per inserir plantilles podeu utilitzar la funció <code>Insereix -> "
+"Plantilla</code> des de l'[[<ref:wikitolearn-guide-chapter-5>|editor "
+"visual]].\n"
+"Escriviu en el nom de la plantilla que voleu inserir i seleccioneu la més "
+"adequada."
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:8
 msgid "(add a gif here)"
-msgstr ""
+msgstr "(afegiu un GIF aquí)"
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:8
 msgid "Using templates parameters"
-msgstr ""
+msgstr "Usar paràmetres amb les plantilles"
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:12
 msgid ""
@@ -47,41 +59,50 @@ msgid ""
 "You can fill such a field by clicking on the field name and specifying the "
 "desired value."
 msgstr ""
+"Algunes plantilles poden tenir paràmetres amb nom.\n"
+"Podeu omplir un d'aquests camps fent clic al nom del camp i especificant el "
+"valor desitjat."
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:15
 msgid "[[File:Manual_templates_parameter.png]]"
-msgstr ""
+msgstr "[[File:Manual_templates_parameter.png]]"
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:15
 msgid "A list of useful templates"
-msgstr ""
+msgstr "Una llista de plantilles útils"
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:19
 msgid ""
 "There are lots of useful templates you can use in your page.\n"
 "A list of the main ones can be found below."
 msgstr ""
+"Hi ha un munt d'útils plantilles que podeu utilitzar a la vostra pàgina.\n"
+"Trobareu a continuació una llista de les més importants."
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:22
 msgid ""
 "'''Mathematics:'''\n"
 "Definition"
 msgstr ""
+"'''Matemàtiques:'''\n"
+"Definició"
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:22
 msgid "Theorem"
-msgstr ""
+msgstr "Teorema"
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:22
 msgid "Example"
-msgstr "Voorbeeld"
+msgstr "Exemple"
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:22
 msgid "Lemma"
-msgstr ""
+msgstr "Lema"
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:28
 msgid ""
 "'''Others:'''\n"
 "*"
 msgstr ""
+"'''Altres:'''\n"
+"*"

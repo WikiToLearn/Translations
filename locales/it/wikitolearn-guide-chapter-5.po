@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-15 20:35+0200\n"
+"POT-Creation-Date: 2016-10-27 00:51+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -86,10 +86,10 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:28
 msgid ""
-"To insert mathematic formulas in the text, just click the <code>Insert</code>"
-" option in the VisualEditor toolbar and select <code>Formula</code>: this "
-"will open up the Formula Editor window which will allow you to write math "
-"formulas easily."
+"To insert mathematical formulas in the text, just click the "
+"<code>Insert</code> option in the VisualEditor toolbar and select "
+"<code>Formula</code>: this will open up the Formula Editor window which will "
+"allow you to write math formulas easily."
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:28

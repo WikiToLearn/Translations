@@ -1,19 +1,23 @@
-# Freek de Kruijf <freekdekruijf@kde.nl>, 2016.
+# Translation of wikitolearn-guide-chapter-7.po to Catalan
+# Copyright (C) 2016 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2016.
 #. extracted from guide/en/wikitolearn-guide-chapter-7.txt
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: wikitolearn-guide-chapter-7\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-15 20:35+0200\n"
-"PO-Revision-Date: 2016-10-16 23:17+0200\n"
-"Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
-"Language-Team: Dutch <kde-i18n-nl@kde.org>\n"
-"Language: nl\n"
+"POT-Creation-Date: 2016-10-27 00:51+0200\n"
+"PO-Revision-Date: 2016-10-17 21:13+0100\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:1
 msgid ""
@@ -23,10 +27,15 @@ msgid ""
 "different chapters or even different courses.\n"
 "In that way, you make your own book ready for being printed."
 msgstr ""
+"Els llibres s'agrupen en col·leccions de les seccions que es poden baixar "
+"amb facilitat com a PDF per a llegir-los sense connexió.\n"
+"Els llibres permeten crear una col·lecció personalitzada de les seccions a "
+"partir de capítols diferents o fins i tot de cursos diferents.\n"
+"D'aquesta manera, creareu el vostre propi llibre a punt per a ser imprès."
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:1
 msgid "Create a book"
-msgstr "Een boek aanmaken"
+msgstr "Crear un llibre"
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:7
 msgid ""
@@ -40,11 +49,22 @@ msgid ""
 "the top right corner of the box.\n"
 "Otherwise you can read here."
 msgstr ""
+"Per crear un llibre, feu clic al botó de característica avançada que hi ha a "
+"la dreta.\n"
+"Es mostrarà un conjunt d'eines.\n"
+"Feu clic al primer llibre i iniciareu el creador de llibres.\n"
+"Navegueu cap a la secció desitjada i feu clic a l'enllaç «Afegeix aquesta "
+"pàgina al meu llibre».\n"
+"Amb l'eina creador de llibres, podreu afegir pàgines o fer una ullada al "
+"llibre.\n"
+"Si preciseu més ajuda sobre com utilitzar l'eina, hi ha un enllaç «Ajuda» a "
+"la cantonada superior dreta del quadre.\n"
+"Altrament, podeu llegir aquí."
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:15
 msgctxt "guide/en/wikitolearn-guide-chapter-7.txt:15"
 msgid "(add image here)"
-msgstr ""
+msgstr "(afegiu una imatge aquí)"
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:17
 msgid ""
@@ -52,10 +72,13 @@ msgid ""
 "the course.\n"
 "It's only shown on course, chapter and section pages."
 msgstr ""
+"'''Nota:''' El creador de llibres està desactivat en les pàgines que no es "
+"troben dins del curs.\n"
+"Només apareixerà a les pàgines de cursos, capítols i seccions."
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:17
 msgid "Save a book"
-msgstr ""
+msgstr "Desar un llibre"
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:21
 msgid ""
@@ -63,10 +86,13 @@ msgid ""
 "You will be redirected to a page where you can choose to modify, download or "
 "save your book."
 msgstr ""
+"Un cop afegides les pàgines, feu clic a l'enllaç «Mostra el meu llibre».\n"
+"Sereu redirigit a una pàgina on podreu optar per modificar, baixar o desar "
+"el llibre."
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:21
 msgid "Sort a book"
-msgstr ""
+msgstr "Ordenar un llibre"
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:25
 msgid ""
@@ -74,6 +100,9 @@ msgid ""
 "pages.\n"
 "If you want to manually add a chapter, click on the \"Create chapter\" link."
 msgstr ""
+"Si voleu ordenar l'ordre de les seccions, simplement arrossegueu i deixeu "
+"les pàgines.\n"
+"Si voleu afegir manualment un capítol, feu clic a l'enllaç «Crea un capítol»."
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:28
 msgid ""
@@ -82,35 +111,47 @@ msgid ""
 "When you save the book, there are two options:\n"
 "save it on your personal page or under the page <code>Projects:Books</code>."
 msgstr ""
+"En fer clic a baixa, es baixaran les pàgines del llibre com un PDF en format "
+"LaTeX.\n"
+"Quan deseu el llibre, hi ha dues opcions:\n"
+"deseu-lo a la vostra pàgina personal o sota la pàgina "
+"<code>Projectes:Llibres</code>."
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:32
 msgid ""
 "'''Note:''' it's strongly recommended to save the book under your user "
 "namespace."
 msgstr ""
+"'''Nota:''' és molt recomanable que deseu el llibre sota l'espai de nom de "
+"l'usuari."
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:34
 msgid ""
-"Choose the first option, write the name of your book and click on \"Save Book"
-"\" button."
+"Choose the first option, write the name of your book and click on \"Save "
+"Book\" button."
 msgstr ""
+"Escolliu la primera opció, escriviu el nom del vostre llibre i feu clic al "
+"botó «Desa el llibre»."
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:36
 msgctxt "guide/en/wikitolearn-guide-chapter-7.txt:36"
 msgid "(add image here)"
-msgstr ""
+msgstr "(afegiu una imatge aquí)"
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:36
 msgid "Look for books"
-msgstr ""
+msgstr "Cercar els llibres"
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:39
 msgid ""
 "If you want to see books created by all the users, both public and private,\n"
 "click on the \"Books\" button on the navigation bar."
 msgstr ""
+"Si voleu veure els llibres creats per tots els usuaris, tant públics com "
+"privats,\n"
+"feu clic al botó «Llibres» a la barra de navegació."
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:42
 msgctxt "guide/en/wikitolearn-guide-chapter-7.txt:42"
 msgid "(add image here)"
-msgstr ""
+msgstr "(afegiu una imatge aquí)"

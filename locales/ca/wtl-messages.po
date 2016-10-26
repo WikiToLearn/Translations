@@ -1,64 +1,68 @@
-# Freek de Kruijf <freekdekruijf@kde.nl>, 2016.
+# Translation of wtl-messages.po to Catalan
+# Copyright (C) 2016 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2016.
 #. extracted from wtl-messages/en.ini
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: wtl-messages\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-15 20:35+0200\n"
-"PO-Revision-Date: 2016-10-16 23:20+0200\n"
-"Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
-"Language-Team: Dutch <kde-i18n-nl@kde.org>\n"
-"Language: nl\n"
+"POT-Creation-Date: 2016-10-27 00:51+0200\n"
+"PO-Revision-Date: 2016-10-15 23:23+0100\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
 
 #: [messages]externalreferences
 msgid "External References"
-msgstr "Externe referenties"
+msgstr "Referències externes"
 
 #: [messages]editcourse
 msgid "Edit Course"
-msgstr "Les bewerken"
-
-#: [messages]editmetadata
-msgid "Edit Metadata"
-msgstr "Metadata wijzigen"
+msgstr "Edita el curs"
 
 #: [messages]editsection
 msgid "Edit section"
-msgstr "Sectie bewerken"
+msgstr "Edita la secció"
 
 #: [messages]bibliography
 msgid "Bibliography"
-msgstr "Bibliografie"
+msgstr "Bibliografia"
 
 #: [messages]exercises
 msgid "Exercises"
-msgstr "Oefeningen"
+msgstr "Exercicis"
 
 #: [messages]books
 msgid "Books"
-msgstr "Boeken"
+msgstr "Llibres"
+
+#: [messages]editmetadata
+msgid "Edit Metadata"
+msgstr "Edita les metadades"
 
 #: [messages]editchapter
 msgid "Edit Chapter"
-msgstr "Hoofdstuk bewerken"
+msgstr "Edita el capítol"
 
 #: [messages]downloadpdfbooks
 msgid "Download PDF Books"
-msgstr "PDF-boeken downloaden"
+msgstr "Baixa els llibres en PDF"
 
 #: [messages]coursereadytobepublished
 msgid ""
 "This course is ready to be published! An administrator will do it as soon as "
 "possible."
 msgstr ""
-"Deze les is gereed om te worden gepubliceerd! Een beheerder zal dat zo "
-"spoedig mogelijk doen."
+"Aquest curs ja es pot publicar! Un administrador ho farà tan aviat com sigui "
+"possible."
 
 #: [messages]pagewillbedeleted
 msgid "This page will be deleted as soon as possible"
-msgstr "Deze pagina zal zo spoedig mogelijk worden verwijderd"
+msgstr "Aquesta pàgina serà eliminada tan aviat com sigui possible"

@@ -1,31 +1,39 @@
-# Freek de Kruijf <freekdekruijf@kde.nl>, 2016.
+# Translation of wikitolearn-guide-chapter-10.po to Catalan
+# Copyright (C) 2016 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2016.
 #. extracted from guide/en/wikitolearn-guide-chapter-10.txt
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: wikitolearn-guide-chapter-10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-15 20:35+0200\n"
-"PO-Revision-Date: 2016-10-16 23:22+0200\n"
-"Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
-"Language-Team: Dutch <kde-i18n-nl@kde.org>\n"
-"Language: nl\n"
+"POT-Creation-Date: 2016-10-27 00:51+0200\n"
+"PO-Revision-Date: 2016-10-18 18:44+0100\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
 
 #: guide/en/wikitolearn-guide-chapter-10.txt:1
 msgid ""
-"WikiToLearn is actively developed both on the technical and the content "
-"side.\n"
+"WikiToLearn is actively developed both on the technical and the content side."
+"\n"
 "It's possible to contribute to WikiToLearn in several ways, regardless of "
 "the user's skills and experience."
 msgstr ""
+"WinkToLearn està en desenvolupament actiu tant en el costat tècnic com en "
+"del contingut.\n"
+"És possible contribuir al WikiToLearn de diverses maneres, independentment "
+"de les habilitats i l'experiència de l'usuari."
 
 #: guide/en/wikitolearn-guide-chapter-10.txt:1
 msgid "Web development"
-msgstr "Webontwikkeling"
+msgstr "Desenvolupament del web"
 
 #: guide/en/wikitolearn-guide-chapter-10.txt:5
 msgid ""
@@ -34,29 +42,42 @@ msgid ""
 "Take a look at http://meta.wikitolearn.org/Tech_Team and feel free to "
 "contact the members to ask them more questions."
 msgstr ""
+"Hi ha un munt d'aplicacions desenvolupades pel WikiToLearn a on podreu ser "
+"d'utilitat.\n"
+"El desenvolupament del web es divideix en grups, i cada grup té el seu "
+"mantenidor.\n"
+"Feu una ullada a http://meta.wikitolearn.org/Tech_Team i no dubteu en posar-"
+"vos en contacte amb els membres per a fer-los més preguntes."
 
 #: guide/en/wikitolearn-guide-chapter-10.txt:5
 msgid "Translation"
-msgstr "Vertaling"
+msgstr "Traducció"
 
 #: guide/en/wikitolearn-guide-chapter-10.txt:10
 msgid ""
 "If you want to help with translation you can join the #translation channel "
 "at https://chat.wikitolearn.org/channel/translation"
 msgstr ""
-"Als u wilt helpen met vertalen dan kunt u meedoen in het kanaal #translation "
-"op https://chat.wikitolearn.org/channel/translation"
+"Si voleu ajudar amb la traducció, podeu unir-vos al canal #translation a "
+"https://chat.wikitolearn.org/channel/translation"
 
 #: guide/en/wikitolearn-guide-chapter-10.txt:10
 msgid "Bug tracking"
-msgstr "Bugs volgen"
+msgstr "Seguiment dels errors"
 
 #: guide/en/wikitolearn-guide-chapter-10.txt:13
 msgid ""
 "We use phabricator to keep tracks of our development and our bugs.\n"
 "If you think you have found a bug and want to tell us about it, you need to "
-"register to KDE identity here https://identity.kde.org/index.php?"
-"r=registration/index\n"
-"log in into phabricator and create a ticket on phabricator here: https://"
-"phabricator.kde.org/maniphest/task/edit/form/1/?tags=WikiToLearn"
+"register to KDE identity here "
+"https://identity.kde.org/index.php?r=registration/index\n"
+"log in into phabricator and create a ticket on phabricator here: "
+"https://phabricator.kde.org/maniphest/task/edit/form/1/?tags=WikiToLearn"
 msgstr ""
+"Utilitzem el «phabricator» per a mantenir un registre del nostre "
+"desenvolupament i dels nostres errors.\n"
+"Si penseu que heu trobat un error i ens en voleu parlar, cal registrar-se "
+"amb la Identitat del KDE aquí "
+"https://identity.kde.org/index.php?r=registration/indexInicieu la sessió al "
+"«phabricator» i creeu un «ticket» aquí: "
+"https://phabricator.kde.org/maniphest/task/edit/form/1/?tags=WikiToLearn"

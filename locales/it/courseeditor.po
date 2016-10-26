@@ -1,17 +1,15 @@
 #. extracted from courseeditor/en.json
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-15 20:35+0200\n"
-"PO-Revision-Date: 2016-10-03 17:48+0200\n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: it_IT\n"
+"POT-Creation-Date: 2016-10-27 00:51+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Translate Toolkit 1.13.0\n"
 
 #: .courseeditor-alert-message
@@ -19,145 +17,143 @@ msgid ""
 "Hey, there is a course with the same title yet! <br> Choose another title or "
 "start to contribute immediately to the existing course."
 msgstr ""
-"Attenzione, esiste già un corso con lo stesso titolo! <br> Scegli un altro "
-"titolo o inizia a contribuire immediatamente al corso esistente."
 
 #: .courseeditor-error-operation
 msgid "Sorry, something went wrong! :(<br>"
-msgstr "Mi dispiace, qualcosa è andato storto! :(<br>"
+msgstr ""
 
 #: .courseeditor-error-operation-action-add
 msgid "Add"
-msgstr "Aggiungi"
+msgstr ""
 
 #: .courseeditor-input-course-placeholder
 msgid "Insert the title of the course"
-msgstr "Inserisci il titolo del corso"
+msgstr ""
 
 #: .courseeditor-validate-form
 msgid "Please, insert a topic and a name"
-msgstr "Prego, inserisci un topic e un nome"
+msgstr ""
 
 #: .courseeditor-message-dialog-title
 msgid "Oops..."
-msgstr "Oops..."
+msgstr ""
 
 #: .courseeditor-input-department-label
 msgid "Department:"
-msgstr "Dipartimenti:"
+msgstr ""
 
 #: .courseeditor-input-description-placeholder
 msgid "Insert a description"
-msgstr "Inserisci una descrizione"
+msgstr ""
 
 #: .courseeditor-input-description-label
 msgid "Description:"
-msgstr "Descrizione:"
+msgstr ""
 
 #: .courseeditor-error-operation-action-rename
 msgctxt ".courseeditor-error-operation-action-rename"
 msgid "Rename"
-msgstr "Rinomina"
+msgstr ""
 
 #: .courseeditor-message-dialog-cancel
 msgctxt ".courseeditor-message-dialog-cancel"
 msgid "Cancel"
-msgstr "Annulla"
+msgstr ""
 
 #: .courseeditor-organize-chapters
 msgid "You can organize, add and delete chapters"
-msgstr "Puoi organizzare, aggiungere ed eliminare capitoli"
+msgstr ""
 
 #: .courseeditor-message-dialog-create-new
 msgid "Create new"
-msgstr "Crea nuovo corso"
+msgstr ""
 
 #: .courseeditor-radiobutton-namespace
 msgid ""
 "Do you want to creatre a private course in your personal page or a public "
 "one?"
-msgstr "Vuoi creare un corso privato sulla tua pagina personale o uno pubblico?"
+msgstr ""
 
 #: .courseeditor-input-course-label
 msgid "Title:"
-msgstr "Titolo:"
+msgstr ""
 
 #: .courseeditor-cancel
 msgctxt ".courseeditor-cancel"
 msgid "Cancel"
-msgstr "Annulla"
+msgstr ""
 
 #: .courseeditor
 msgid "Course editor"
-msgstr "Course editor"
+msgstr ""
 
 #: .courseeditor-error-operation-action-delete
 msgid "Delete"
-msgstr "Cancella"
+msgstr ""
 
 #: .courseeditor-error-operation-fail
 msgid " fails!"
-msgstr "errore!"
+msgstr ""
 
 #: .courseeditor-recycle-bin
 msgid "Recycle bin"
-msgstr "Cestino"
+msgstr ""
 
 #: .courseeditor-save-section
 msgid "Save Section"
-msgstr "Salva sezione"
+msgstr ""
 
 #: .courseeditor-message-dialog-message
 msgid ""
 "There's an element in the recycle bin with the same name, what do you want "
 "to do?"
-msgstr "C'è già un elemento nel cestino con lo stesso nome, che cosa vuoi fare?"
+msgstr ""
 
 #: .courseeditor-error-operation-action-update
 msgid "Update"
-msgstr "Aggiorna"
+msgstr ""
 
 #: .courseeditor-radiobutton-namespace-private
 msgid "Private"
-msgstr "Privato"
+msgstr ""
 
 #: .courseeditor-add-new-section
 msgid "Add a new section"
-msgstr "Aggiungi una sezione"
+msgstr ""
 
 #: .courseeditor-save-course
 msgid "Save course"
-msgstr "Salva corso"
+msgstr ""
 
 #: .courseeditor-organize-sections
 msgid "You can organize, add and delete sections"
-msgstr "Puoi organizzare, aggiungere e cancellare sezioni"
+msgstr ""
 
 #: .courseeditor-rename
 msgctxt ".courseeditor-rename"
 msgid "Rename"
-msgstr "Rinonima"
+msgstr ""
 
 #: .courseeditor-radiobutton-namespace-public
 msgid "Public"
-msgstr "Pubblico"
+msgstr ""
 
 #: .courseeditor-input-topic-label
 msgid "Topic:"
-msgstr "Argomento:"
+msgstr ""
 
 #: .courseeditor-error-operation-action-purge
 msgid "Purge"
-msgstr "Rigenera"
+msgstr ""
 
 #: .courseeditor-message-dialog-restore
 msgid "Restore"
-msgstr "Ripristina"
+msgstr ""
 
 #: .courseeditor-edit-dialog
 msgid "Edit"
-msgstr "Modifica"
+msgstr ""
 
 #: .courseeditor-add-new-chapter
 msgid "Add New Chapter"
-msgstr "Aggiungi un capitolo"
+msgstr ""
