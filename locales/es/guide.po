@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 14:19+0200\n"
+"POT-Creation-Date: 2016-10-27 15:08+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -66,4 +66,8 @@ msgstr ""
 
 #: [messages]contribute2
 msgid "How to help/Teacher"
+msgstr ""
+
+#: [messages]about1
+msgid "About"
 msgstr ""

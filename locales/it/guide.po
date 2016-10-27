@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 14:19+0200\n"
+"POT-Creation-Date: 2016-10-27 15:08+0200\n"
 "PO-Revision-Date: 2016-10-21 00:41+0100\n"
 "Last-Translator: Paolo Zamponi <zapaolo@email.it>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -70,6 +70,10 @@ msgstr "Come aiutare/Studente"
 #: [messages]contribute2
 msgid "How to help/Teacher"
 msgstr "Come aiutare/Insegnante"
+
+#: [messages]about1
+msgid "About"
+msgstr ""
 
 #~ msgid "Manual/Create a book"
 #~ msgstr "Manuale/Crea un libro"
