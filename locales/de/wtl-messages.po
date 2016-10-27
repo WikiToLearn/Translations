@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 13:33+0200\n"
+"POT-Creation-Date: 2016-10-27 14:19+0200\n"
 "PO-Revision-Date: 2016-10-18 23:35+0100\n"
 "Last-Translator: Frederik Schwarzer <schwarzer@kde.org>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
@@ -63,3 +63,39 @@ msgstr ""
 #: [messages]pagewillbedeleted
 msgid "This page will be deleted as soon as possible"
 msgstr "Diese Seite wird in Kürze gelöscht werden"
+
+#: [messages]computersciencedepartment
+msgid "Computer Science"
+msgstr ""
+
+#: [messages]mathsdepartment
+msgid "Mathematics"
+msgstr ""
+
+#: [messages]physicsdep
+msgid "Physics"
+msgstr ""
+
+#: [messages]businessdep
+msgid "Business"
+msgstr ""
+
+#: [messages]humanitiesdep
+msgid "Humanities"
+msgstr ""
+
+#: [messages]medicinedep
+msgid "Medicine"
+msgstr ""
+
+#: [messages]natsciencesdep
+msgid "Natural Sciences"
+msgstr ""
+
+#: [messages]socialsciencesdep
+msgid "Social Sciences"
+msgstr ""
+
+#: [messages]preunidep
+msgid "Pre-University"
+msgstr ""

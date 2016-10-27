@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 13:33+0200\n"
+"POT-Creation-Date: 2016-10-27 14:19+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,138 +13,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.13.0\n"
 
-#: .wikitolearnskin-departments-2-image
-msgid "images/badges/math.png"
+#: .wikitolearnskin-advanced-button-title
+msgid "Advanced"
 msgstr ""
 
-#: .wikitolearnskin-testimonials-first-quote
+#: .wikitolearnskin-cookies-text
 msgid ""
-"I joined WikiToLearn not only out of curiosity, but also because of the  "
-"collaborational spirit. Now it's like having a second family in Milan, who I "
-"enjoy visiting and spending time with."
-msgstr ""
-
-#: .wikitolearnskin-join-us-readmore
-msgid "Read more..."
-msgstr ""
-
-#: .wikitolearnskin-footer-blog-text
-msgid "blog.wikitolearn.org"
-msgstr ""
-
-#: .wikitolearnskin-departments-8-link
-msgid "/Natural Sciences"
-msgstr ""
-
-#: .wikitolearnskin-navbar-contribute
-msgid "Join Us"
-msgstr ""
-
-#: .wikitolearnskin-departments-4-status
-msgctxt ".wikitolearnskin-departments-4-status"
-msgid "disabled"
-msgstr ""
-
-#: .wikitolearnskin-navbar-tools-reports-link
-msgid "//reports.wikitolearn.org"
-msgstr ""
-
-#: .wikitolearnskin-departments-2-name
-msgid "Mathematics"
-msgstr ""
-
-#: .wikitolearnskin-departments-3-image
-msgid "images/badges/physics.png"
-msgstr ""
-
-#: .wikitolearnskin-departments-1-link
-msgid "/Computer Science"
-msgstr ""
-
-#: .wikitolearnskin-media-learn-more-link
-msgid "/#"
-msgstr ""
-
-#: .wikitolearnskin-departments-4-image
-msgid "images/badges/business.png"
-msgstr ""
-
-#: .wikitolearnskin-testimonials-second-image-path
-msgid "images/users/srijan.jpg"
-msgstr ""
-
-#: .wikitolearnskin-footer-tools
-msgctxt ".wikitolearnskin-footer-tools"
-msgid "Tools"
-msgstr ""
-
-#: .wikitolearnskin-navbar-language-selector
-msgid "Language"
-msgstr ""
-
-#: .wikitolearnskin-departments-1-image
-msgid "images/badges/computerscience.png"
-msgstr ""
-
-#: .wikitolearnskin-contributors-6-link
-msgid "https://www.kde.org/"
-msgstr ""
-
-#: .wikitolearnskin-departments-6-image
-msgid "images/badges/humanities.png"
-msgstr ""
-
-#: .wikitolearnskin-undo-publish-course-tool
-msgid "Undo course publication"
-msgstr ""
-
-#: .wikitolearnskin-departments-10-link
-msgid "/Pre-University"
+"This website uses cookies to ensure you get the best experience on our "
+"website"
 msgstr ""
 
 #: .wikitolearnskin-navbar-login
 msgid "Login"
 msgstr ""
 
-#: .wikitolearnskin-departments-8-image
-msgid "images/badges/chemistry.png"
+#: .wikitolearnskin-join-us-readmore
+msgid "Read more..."
 msgstr ""
 
-#: .wikitolearnskin-media-video-url
-msgid "//www.youtube.com/embed/BTS-YKnJYv0?rel=0"
-msgstr ""
-
-#: .wikitolearnskin-home-claim
-msgid "Learn with the best. Create books. Share <i>knowledge</i>."
-msgstr ""
-
-#: .wikitolearnskin-departments-1-name
-msgid "Computer Science"
-msgstr ""
-
-#: .wikitolearnskin-departments-1-status
-msgctxt ".wikitolearnskin-departments-1-status"
-msgid "enabled"
-msgstr ""
-
-#: .wikitolearnskin-advanced-button-title
-msgid "Advanced"
-msgstr ""
-
-#: .wikitolearnskin-previous-button-title
-msgid "Previous"
-msgstr ""
-
-#: .wikitolearnskin-departments-9-name
-msgid "Social Sciences"
+#: .wikitolearnskin-user-tools-emailuser-title
+msgid "Email User"
 msgstr ""
 
 #: .wikitolearnskin-navbar-tools-community-portal-link
 msgid "//meta.wikitolearn.org"
 msgstr ""
 
-#: .wikitolearnskin-contributors-3-link
-msgid "https://www.sissa.it/"
+#: .wikitolearnskin-navbar-contribute-link
+msgid "//join.wikitolearn.org"
+msgstr ""
+
+#: .wikitolearnskin-media-learn-more-link
+msgid "/#"
+msgstr ""
+
+#: .wikitolearnskin-footer-changes
+msgid "Recent changes"
+msgstr ""
+
+#: .wikitolearnskin-footer-blog-text
+msgid "Developer blogs"
 msgstr ""
 
 #: .wikitolearnskin-contributors-4-image
@@ -155,6 +63,11 @@ msgstr ""
 msgid "chat.wikitolearn.org"
 msgstr ""
 
+#: .wikitolearnskin-read-more-stories-button-link
+msgctxt ".wikitolearnskin-read-more-stories-button-link"
+msgid "#"
+msgstr ""
+
 #: .wikitolearnskin-next-button-title
 msgid "Next"
 msgstr ""
@@ -163,24 +76,57 @@ msgstr ""
 msgid "http://www.unimib.it/"
 msgstr ""
 
-#: .wikitolearnskin-departments-5-image
-msgid "images/badges/engineering.png"
+#: .wikitolearnskin-navbar-tools-link
+msgctxt ".wikitolearnskin-navbar-tools-link"
+msgid "#"
+msgstr ""
+
+#: .wikitolearnskin-navbar-contribute
+msgid "Join Us"
+msgstr ""
+
+#: .wikitolearnskin-footer-contacts
+msgid "Contacts"
+msgstr ""
+
+#: .wikitolearnskin-cookies-dismiss
+msgid "Got it!"
+msgstr ""
+
+#: .wikitolearnskin-testimonials-first-name
+msgid "Daniele Pannozzo, Roma, Università la Sapienza"
+msgstr ""
+
+#: .wikitolearnskin-navbar-tools-reports-link
+msgid "//reports.wikitolearn.org"
+msgstr ""
+
+#: .wikitolearnskin-latest-report-text
+msgid "Read latest report"
 msgstr ""
 
 #: .wikitolearnskin-navbar-tools-community-portal
 msgid "Community portal"
 msgstr ""
 
-#: .wikitolearnskin-departments-4-name
-msgid "Business"
+#: .wikitolearnskin-navbar-createaccount
+msgid "Register"
 msgstr ""
 
-#: .wikitolearnskin-testimonials-second-name
-msgid "Srijan Agrawal, Amrita University, Amritapuri Campus"
+#: .wikitolearnskin-footer-blog-link
+msgid "https://blogs.wikitolearn.org"
 msgstr ""
 
-#: .wikitolearnskin-navbar-tools-reports
-msgid "Reports"
+#: .wikitolearnskin-contributions-from
+msgid "Contributions from"
+msgstr ""
+
+#: .wikitolearnskin-latest-report-link
+msgid "https://reports.wikitolearn.org"
+msgstr ""
+
+#: .wikitolearnskin-contributors-2-link
+msgid "https://home.cern/"
 msgstr ""
 
 #: .wikitolearnskin-navbar-tools-guide
@@ -191,13 +137,35 @@ msgstr ""
 msgid "images/logos/hep.png"
 msgstr ""
 
-#: .wikitolearnskin-navbar-tools-chat-link
-msgctxt ".wikitolearnskin-navbar-tools-chat-link"
-msgid "https://chat.wikitolearn.org"
+#: .wikitolearnskin-testimonials-first-quote
+msgid ""
+"I joined WikiToLearn not only out of curiosity, but also because of the  "
+"collaborational spirit. Now it's like having a second family in Milan, who I "
+"enjoy visiting and spending time with."
 msgstr ""
 
-#: .wikitolearnskin-departments-7-name
-msgid "Medicine"
+#: .wikitolearnskin-footer-special-pages
+msgid "Special pages"
+msgstr ""
+
+#: .wikitolearnskin-join-us-button-link
+msgid "/Special:CreateAccount"
+msgstr ""
+
+#: .wikitolearnskin-contributors-6-link
+msgid "https://www.kde.org/"
+msgstr ""
+
+#: .wikitolearnskin-contributors-3-link
+msgid "https://www.sissa.it/"
+msgstr ""
+
+#: .wikitolearnskin-contributors-3-image
+msgid "images/logos/sissa.png"
+msgstr ""
+
+#: .wikitolearnskin-departments-count
+msgid "10"
 msgstr ""
 
 #: .wikitolearnskin-user-tools-logs-title
@@ -208,149 +176,38 @@ msgstr ""
 msgid "Learn more"
 msgstr ""
 
-#: .skinname-wikitolearnskin
-msgid "WikiToLearn"
-msgstr ""
-
-#: .wikitolearnskin-latest-report-link
-msgid "https://reports.wikitolearn.org"
-msgstr ""
-
-#: .wikitolearnskin-departments-9-link
-msgid "/Social Sciences"
-msgstr ""
-
-#: .wikitolearnskin-departments-2-link
-msgid "/Mathematics"
-msgstr ""
-
-#: .wikitolearnskin-footer-follow-us
-msgctxt ".wikitolearnskin-footer-follow-us"
-msgid "Follow us"
-msgstr ""
-
-#: .wikitolearnskin-navbar-about-link
-msgid "/About"
-msgstr ""
-
-#: .wikitolearnskin-footer-academic-link
-msgid "//meta.wikitolearn.org/Academic_institutions"
-msgstr ""
-
-#: .wikitolearnskin-departments-6-link
-msgid "/Humanities"
-msgstr ""
-
-#: .wikitolearnskin-footer-hosted-by
-msgid "Hosted by"
-msgstr ""
-
-#: .wikitolearnskin-join-us-button
-msgid "Join us"
-msgstr ""
-
-#: .wikitolearnskin-departments-6-name
-msgid "Humanities"
-msgstr ""
-
-#: .wikitolearnskin-navbar-tools
-msgctxt ".wikitolearnskin-navbar-tools"
-msgid "Tools"
-msgstr ""
-
-#: .wikitolearnskin-testimonials-first-image-path
-msgid "images/users/dan.jpg"
-msgstr ""
-
-#: .wikitolearnskin-navbar-about
-msgid "About"
-msgstr ""
-
-#: .wikitolearnskin-navbar-tools-guide-link
-msgid "Manual"
-msgstr ""
-
-#: .wikitolearnskin-departments-3-link
-msgid "/Physics"
-msgstr ""
-
-#: .wikitolearnskin-footer-academic
-msgid "Academic institutions"
-msgstr ""
-
-#: .wikitolearnskin-departments-7-link
-msgid "/Medicine"
-msgstr ""
-
-#: .wikitolearnskin-navbar-tools-chat
-msgid "Chat"
-msgstr ""
-
-#: .wikitolearnskin-read-more-stories-button-link
-msgctxt ".wikitolearnskin-read-more-stories-button-link"
-msgid "#"
-msgstr ""
-
-#: .wikitolearnskin-footer-changes
-msgid "Recent changes"
-msgstr ""
-
-#: .wikitolearnskin-departments-10-name
-msgid "Pre-University"
-msgstr ""
-
-#: .wikitolearnskin-navbar-tools-link
-msgctxt ".wikitolearnskin-navbar-tools-link"
-msgid "#"
-msgstr ""
-
-#: .wikitolearnskin-footer-contacts
-msgid "Contacts"
-msgstr ""
-
-#: .wikitolearnskin-latest-report-text
-msgid "Read latest report"
-msgstr ""
-
-#: .wikitolearnskin-navbar-createaccount
-msgid "Register"
-msgstr ""
-
-#: .wikitolearnskin-footer-special-pages
-msgid "Special pages"
-msgstr ""
-
-#: .wikitolearnskin-user-tools-title
-msgid "User"
-msgstr ""
-
-#: .wikitolearnskin-contributors-3-image
-msgid "images/logos/sissa.png"
-msgstr ""
-
-#: .wikitolearnskin-publish-course-tool
-msgid "Publish course"
-msgstr ""
-
-#: .wikitolearnskin-departments-9-image
-msgid "images/badges/social.png"
-msgstr ""
-
 #: .wikitolearnskin-media-learn-more
 msgid "Read more"
 msgstr ""
 
-#: .wikitolearnskin-contributors-1-image
-msgid "images/logos/bicocca.jpg"
+#: .skinname-wikitolearnskin
+msgid "WikiToLearn"
 msgstr ""
 
-#: .wikitolearnskin-departments-3-status
-msgctxt ".wikitolearnskin-departments-3-status"
-msgid "enabled"
+#: .wikitolearnskin-footer-tools
+msgctxt ".wikitolearnskin-footer-tools"
+msgid "Tools"
+msgstr ""
+
+#: .wikitolearnskin-navbar-tools-chat-link
+msgctxt ".wikitolearnskin-navbar-tools-chat-link"
+msgid "https://chat.wikitolearn.org"
+msgstr ""
+
+#: .wikitolearnskin-navbar-language-selector
+msgid "Language"
+msgstr ""
+
+#: .wikitolearnskin-home-claim
+msgid "Learn with the best. Create books. Share <i>knowledge</i>."
 msgstr ""
 
 #: .wikitolearnskin-download-button-title
 msgid "Download"
+msgstr ""
+
+#: .wikitolearnskin-navbar-tools-reports
+msgid "Reports"
 msgstr ""
 
 #: .wikitolearnskin-footer-keep-in-touch
@@ -362,16 +219,34 @@ msgstr ""
 msgid "http://hepsoftwarefoundation.org/"
 msgstr ""
 
-#: .wikitolearnskin-departments-3-name
-msgid "Physics"
-msgstr ""
-
 #: .wikitolearnskin-contributors-4-link
 msgid "http://www.wikimedia.it/"
 msgstr ""
 
+#: .wikitolearnskin-footer-follow-us
+msgctxt ".wikitolearnskin-footer-follow-us"
+msgid "Follow us"
+msgstr ""
+
+#: .wikitolearnskin-footer-chat-link
+msgctxt ".wikitolearnskin-footer-chat-link"
+msgid "https://chat.wikitolearn.org"
+msgstr ""
+
+#: .wikitolearnskin-navbar-about-link
+msgid "/About"
+msgstr ""
+
 #: .wikitolearnskin-contributors-6-image
 msgid "images/logos/kde.svg"
+msgstr ""
+
+#: .wikitolearnskin-read-more-stories-button
+msgid "Read more stories about WikiToLearn"
+msgstr ""
+
+#: .wikitolearnskin-footer-academic-link
+msgid "//meta.wikitolearn.org/Academic_institutions"
 msgstr ""
 
 #: .wikitolearnskin-contributors-2-image
@@ -386,26 +261,46 @@ msgid ""
 "content."
 msgstr ""
 
-#: .wikitolearnskin-contributions-from
-msgid "Contributions from"
+#: .wikitolearnskin-cookies-learn-more
+msgid "Learn More"
 msgstr ""
 
-#: .wikitolearnskin-departments-10-image
-msgid "images/badges/beforeuni.png"
+#: .wikitolearnskin-testimonials-second-name
+msgid "Srijan Agrawal, Amrita University, Amritapuri Campus"
 msgstr ""
 
-#: .wikitolearnskin-join-us-button-link
-msgid "/Special:CreateAccount"
+#: .wikitolearnskin-user-tools-title
+msgid "User"
 msgstr ""
 
-#: .wikitolearnskin-departments-4-link
-msgid "/Business"
+#: .wikitolearnskin-footer-hosted-by
+msgid "Hosted by"
 msgstr ""
 
-#: .wikitolearnskin-cookies-text
+#: .wikitolearnskin-undo-publish-course-tool
+msgid "Undo course publication"
+msgstr ""
+
+#: .wikitolearnskin-join-us-button
+msgid "Join us"
+msgstr ""
+
+#: .wikitolearnskin-testimonials-second-image-path
+msgid "images/users/srijan.jpg"
+msgstr ""
+
+#: .wikitolearnskin-publish-course-tool
+msgid "Publish course"
+msgstr ""
+
+#: .wikitolearnskin-desc
 msgid ""
-"This website uses cookies to ensure you get the best experience on our "
-"website"
+"Our hand-made skin, with many custom functionalities and improvements that "
+"allows you to browse WikiToLearn how it was meant to be."
+msgstr ""
+
+#: .wikitolearnskin-previous-button-title
+msgid "Previous"
 msgstr ""
 
 #: .wikitolearnskin-testimonials-second-quote
@@ -415,82 +310,41 @@ msgid ""
 "and cultural ones!"
 msgstr ""
 
-#: .wikitolearnskin-contributors-2-link
-msgid "https://home.cern/"
+#: .wikitolearnskin-media-title
+msgid "Collaborative Textbooks"
 msgstr ""
 
-#: .wikitolearnskin-user-tools-emailuser-title
-msgid "Email User"
+#: .wikitolearnskin-contributors-1-image
+msgid "images/logos/bicocca.jpg"
 msgstr ""
 
-#: .wikitolearnskin-navbar-contribute-link
-msgid "//join.wikitolearn.org"
+#: .wikitolearnskin-navbar-tools-chat
+msgid "Chat"
 msgstr ""
 
-#: .wikitolearnskin-departments-5-name
-msgid "Engineering"
+#: .wikitolearnskin-testimonials-first-image-path
+msgid "images/users/dan.jpg"
 msgstr ""
 
-#: .wikitolearnskin-read-more-stories-button
-msgid "Read more stories about WikiToLearn"
+#: .wikitolearnskin-media-video-url
+msgid "//www.youtube.com/embed/BTS-YKnJYv0?rel=0"
 msgstr ""
 
-#: .wikitolearnskin-departments-8-status
-msgctxt ".wikitolearnskin-departments-8-status"
-msgid "disabled"
+#: .wikitolearnskin-navbar-about
+msgid "About"
 msgstr ""
 
-#: .wikitolearnskin-testimonials-first-name
-msgid "Daniele Pannozzo, Roma, Università la Sapienza"
+#: .wikitolearnskin-navbar-tools-guide-link
+msgid "Manual"
 msgstr ""
 
-#: .wikitolearnskin-departments-7-image
-msgid "images/badges/medicine.png"
+#: .wikitolearnskin-footer-academic
+msgid "Academic institutions"
 msgstr ""
 
-#: .wikitolearnskin-footer-blog-link
-msgid "https://blog.wikitolearn.org"
-msgstr ""
-
-#: .wikitolearnskin-departments-10-status
-msgctxt ".wikitolearnskin-departments-10-status"
-msgid "disabled"
-msgstr ""
-
-#: .wikitolearnskin-departments-8-name
-msgid "Natural Sciences"
-msgstr ""
-
-#: .wikitolearnskin-departments-count
-msgid "10"
-msgstr ""
-
-#: .wikitolearnskin-departments-5-link
-msgid "/Engineering"
-msgstr ""
-
-#: .wikitolearnskin-departments-5-status
-msgctxt ".wikitolearnskin-departments-5-status"
-msgid "disabled"
-msgstr ""
-
-#: .wikitolearnskin-departments-9-status
-msgctxt ".wikitolearnskin-departments-9-status"
-msgid "disabled"
-msgstr ""
-
-#: .wikitolearnskin-departments-6-status
-msgctxt ".wikitolearnskin-departments-6-status"
-msgid "disabled"
-msgstr ""
-
-#: .wikitolearnskin-footer-chat-link
-msgctxt ".wikitolearnskin-footer-chat-link"
-msgid "https://chat.wikitolearn.org"
-msgstr ""
-
-#: .wikitolearnskin-cookies-learn-more
-msgid "Learn More"
+#: .wikitolearnskin-navbar-tools
+msgctxt ".wikitolearnskin-navbar-tools"
+msgid "Tools"
 msgstr ""
 
 #: .wikitolearnskin-meta-tag-description
@@ -499,28 +353,4 @@ msgid ""
 "WikiToLearn provides free, collaborative and accessible text books. "
 "Academics worldwide contribute in sharing knowledge by creating high quality "
 "content."
-msgstr ""
-
-#: .wikitolearnskin-departments-7-status
-msgctxt ".wikitolearnskin-departments-7-status"
-msgid "disabled"
-msgstr ""
-
-#: .wikitolearnskin-desc
-msgid ""
-"Our hand-made skin, with many custom functionalities and improvements that "
-"allows you to browse WikiToLearn how it was meant to be."
-msgstr ""
-
-#: .wikitolearnskin-media-title
-msgid "Collaborative Textbooks"
-msgstr ""
-
-#: .wikitolearnskin-cookies-dismiss
-msgid "Got it!"
-msgstr ""
-
-#: .wikitolearnskin-departments-2-status
-msgctxt ".wikitolearnskin-departments-2-status"
-msgid "enabled"
 msgstr ""
