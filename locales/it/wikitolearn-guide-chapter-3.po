@@ -1,34 +1,43 @@
 #. extracted from guide/en/wikitolearn-guide-chapter-3.txt
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 00:51+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2016-10-27 01:47+0200\n"
+"PO-Revision-Date: 2016-09-19 22:01+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.13.0\n"
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:1
+#, fuzzy
 msgid ""
 "Chapters are a collection of sections. They're intended to be used like a "
 "chapter of a book and have their own title."
 msgstr ""
+"Le sezioni sono un insieme di capitoli. Sono pensate per essere usate come "
+"delle sezioni di un libro e ognuna ha il proprio titolo."
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:1
 msgid "Add a chapter"
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:4
+#, fuzzy
 msgid ""
 "You can add a chapter to a course by navigating to the course main page. \n"
 "Click either on the red pencil button on the right and insert the name of "
 "the chapter you want to add. \n"
 "Once done, click on <code>Save Course</code> button."
 msgstr ""
+"Si può aggiungere una sezione a un corso andando sulla pagina principale del "
+"corso. Cliccare sul link <code>Modifica Corso</code> e inserire il nome "
+"della sezione che si vuole aggiungere. Una volta fatto, cliccare su <code>"
+"Salva Corso</code>."
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:8
 msgid "[[File:Manual_add_section.gif]]"
@@ -39,6 +48,7 @@ msgid "Rename a chapter"
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:11
+#, fuzzy
 msgid ""
 "To rename a chapter, go to the course main page and click on the red pencil "
 "button on the right. \n"
@@ -48,6 +58,12 @@ msgid ""
 "Click on the pencil and insert the new name for the chapter. \n"
 "Once done, click on the <code>Save course</code> button."
 msgstr ""
+"Per rinominare una sezione, bisogna andare sulla pagina principale del corso "
+"e cliccare sul link <code>Modifica Corso</code>. Apparirà una lista di tutte "
+"le sezioni che sono state create. Collocare poi il mouse sulla sezione "
+"desiderata e sulla destra apparirà una matita blu. Cliccare sulla matita e "
+"inserire il nuovo nome della sezione. Una volta fatto, cliccare su <code>"
+"Salva Corso</code>."
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:17
 msgid "[[File:Manual_rename_section.gif]]"
@@ -58,6 +74,7 @@ msgid "Delete a chapter"
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:20
+#, fuzzy
 msgid ""
 "To delete a chapter, go to the course main page and click on the <code>edit "
 "course</code> link. \n"
@@ -69,6 +86,12 @@ msgid ""
 "Once done, save the changes by clicking on the <code>Save course</code> "
 "button."
 msgstr ""
+"Per cancellare una sezione bisogna andare sulla pagina principale del corso "
+"e cliccare sul link <code>Modifica Corso</code>. Apparirà una lista di tutte "
+"le sezioni che sono state create. Spostare il mouse sulla sezione desiderata "
+"e sulla destra apparirà un cestino rosso. Se si clicca su di esso si potrà "
+"notare che la sezione selezionata verrà posta nel cestino. Una volta fatto, "
+"cliccare su <code>Salva Corso</code> per salvare le modifiche."
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:26
 msgid "[[File:Manual_delete_section.gif]]"
@@ -79,27 +102,35 @@ msgid "Restore a chapter"
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:29
+#, fuzzy
 msgid ""
 "If you have chapters in the recycling bin you can restore them by placing "
 "the mouse on the chapters and clicking on the restore icon on the left of "
 "the chapter's name."
 msgstr ""
+"Se si hanno delle sezioni nel cestino, esse possono essere ripristinare "
+"muovendo il mouse sulle sezioni e cliccando sull'icona di ripristino alla "
+"sinistra del nome della sezione selezionata."
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:31
 msgid "[[File:Manual_Restore_section.gif]]"
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:33
+#, fuzzy
 msgid ""
 "Always remember to save the changes by clicking on the <code>Save "
 "Course</code> button."
 msgstr ""
+"Ricordare sempre di salvare le modifiche cliccando su <code>Salva "
+"Corso</code>."
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:33
 msgid "Move a chapter"
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:36
+#, fuzzy
 msgid ""
 "You can change the order of the chapter's list by clicking on the red pencil "
 "button. \n"
@@ -108,7 +139,26 @@ msgid ""
 "Once done, save your changes by clicking on the <code>Save course</code> "
 "button."
 msgstr ""
+"È possibile cambiare l'ordine delle sezioni nella lista cliccando sul link "
+"<code>Modifica Corso</code>. Apparirà la lista delle sezioni. Per modificare "
+"l'ordine delle sezioni è sufficiente trascinarle e ricollocarle.  Una volta "
+"fatto, cliccare su <code>Salva Corso</code> per salvare le modifiche."
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:41
 msgid "(add image or gif here)"
 msgstr ""
+
+#~ msgid "Add a section"
+#~ msgstr "Aggiungere una sezione"
+
+#~ msgid "Rename a section"
+#~ msgstr "Rinominare una sezione"
+
+#~ msgid "Delete a section"
+#~ msgstr "Cancellare una sezione"
+
+#~ msgid "Restore a section"
+#~ msgstr "Ripristinare una sezione"
+
+#~ msgid "Move a section"
+#~ msgstr "Spostare una sezione"
