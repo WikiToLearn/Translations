@@ -1,13 +1,13 @@
-# Gianluca Rigoletti <gianluca.rigoletti@gmail.com>, 2016.
+# Paolo Zamponi <zapaolo@email.it>, 2016.
 #. extracted from guide/en/wikitolearn-guide-chapter-1.txt
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 14:19+0200\n"
-"PO-Revision-Date: 2016-09-19 21:20+0200\n"
-"Last-Translator: Gianluca Rigoletti <gianluca.rigoletti@gmail.com>\n"
-"Language-Team: Italian <kde-i18n-doc@kde.org>\n"
+"POT-Creation-Date: 2016-10-27 15:08+0200\n"
+"PO-Revision-Date: 2016-10-27 00:23+0100\n"
+"Last-Translator: Paolo Zamponi <zapaolo@email.it>\n"
+"Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,9 +22,10 @@ msgid ""
 "accessible textbooks.\n"
 "Our philosophy can be summarised as \"''Knowledge only grows if shared''\"."
 msgstr ""
-"WikiToLearn è un portale che punta a creare libri di testo gratuiti, "
-"liberamente accessibili e creati collettivamente. La nostra filosofia può "
-"essere riassunta come \"La conoscenza cresce solo se condivisa\"."
+"WikiToLearn è un portale che mira a creare la libera collaborazione e libri "
+"di testo facilmente accessibili.\n"
+"La nostra filosofia può essere sintetizzata come \"''Il sapere si accresce "
+"solo se condiviso''\"."
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:4
 msgid "__TOC__"
@@ -35,35 +36,31 @@ msgid "Conventions"
 msgstr "Convenzioni"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:7
-#, fuzzy
 msgid ""
 "WikiToLearn makes extensive use of a hierarchy model, in order to create "
 "books which are consistent with our philosophy."
 msgstr ""
-"WikiToLearn fa largo uso di un modello gerarchico, in modo da poter creare "
-"libri che sono coerenti con la nostra filosofia."
+"WikiToLearn fa largo uso di un modello gerarchico, al fine di creare dei "
+"libri che siano coerenti con la nostra filosofia."
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:7
-#, fuzzy
 msgid "Departments"
 msgstr "Dipartimenti"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:10
-#, fuzzy
 msgid ""
 "It's a collection of topics, courses and books belonging to the same area.\n"
 "Departments are listed on the main page."
 msgstr ""
-"È un raggruppamento di argomenti, corsi e libri appartenenti alla stessa "
-"area. I dipartimenti sono elencati nella pagina principale."
+"È una raccolta di argomenti, corsi e libri che appartengono alla stessa area."
+"\n"
+"I dipartimenti sono elencati nella pagina principale."
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:10
-#, fuzzy
 msgid "Topics"
-msgstr "Argomento"
+msgstr "Argomenti"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:14
-#, fuzzy
 msgid ""
 "Topics are the level underneath Departments and contain different courses "
 "related to the same subject.\n"
@@ -74,31 +71,35 @@ msgid ""
 "Mechanics for graduate students</code>, <code>Advanced Quantum "
 "Mechanics</code> may be a course."
 msgstr ""
-"Gli argomenti sono il livello sotto i dipartimenti e contengono diversi "
-"corsi riguardanti lo stesso tema. Sono utilizzati per raggruppare tutti i "
-"corsi che spiegano lo stesso argomento, poiché ogni università e facoltà "
-"potrebbe adottare un approccio differente per esporlo. Per esempio, "
-"<code>Analisi</code>potrebbe essere l'argomento e <code>Analisi per "
-"Fisica</code>, <code>Analisi per Informatica</code>potrebbero essere i "
-"corsi. (aggiungere immagine)"
+"Gli argomenti sono il livello sotto i dipartimenti, e contengono vari corsi "
+"collegati alla stessa materia.\n"
+"Sono usati per riunire tutti i corsi che trattano lo stesso tema, perché "
+"ogni università o facoltà può avere un diverso approccio alla materia.\n"
+"Per esempio la <code>fisica quantistica</code> può essere una materia, "
+"mentre la <code>meccanica quantistica per gli studenti universitari</code> o "
+"la <code>meccanica quantistica avanzata</code> possono essere un corso."
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:14
-#, fuzzy
 msgid "Courses"
-msgstr "Corso"
+msgstr "Corsi"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:19
+#, fuzzy
 msgid ""
 "Courses are the most important units of WikiToLearn.\n"
 "Courses are collections of chapters, which gather the pages (sections).\n"
 "Every course has the prefix <code>Course:</code> followed by the course name "
 "in its URL."
 msgstr ""
+"I corsi sono le unità più importanti di WikiToLearn.\n"
+"I corsi sono delle raccolte di capitoli, che raccolgono le pagine (sezioni)."
+"\n"
+"Ogni corso ha il prefisso <code>Course:</code>, seguito dal nome del corso "
+"nel suo url."
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:19
-#, fuzzy
 msgid "Chapters"
-msgstr "Capitolo"
+msgstr "Capitoli"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:24
 #, fuzzy
@@ -107,38 +108,37 @@ msgid ""
 "They gather together some sections of a book and they are displayed as "
 "heading titles in the main page of the course."
 msgstr ""
-"Le sezioni sono il livello inferiore al corso. Raggruppano alcuni capitoli "
-"del libro e sono visualizzati come titoli di testa nella pagina principale "
-"del corso. (aggiungi immagine)"
+"I capitoli sono il livello più basso di un corso.\n"
+"Raccolgono insieme alcune sezioni di un libro, e sono visualizzati come "
+"titoli nella pagina principale del corso."
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:24
 msgid "Section"
 msgstr "Sezione"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:28
-#, fuzzy
 msgid ""
 "Sections are the basic unit of an entire course.\n"
 "Basically, they're a single webpage with its own content."
 msgstr ""
-"I capitoli sono le unità fondamentali di un intero corso. Sono "
-"essenzialmente una singola pagina web con il suo contenuto."
+"Le sezioni sono le unità di base di un intero corso.\n"
+"Fondamentalmente sono una singola pagina web con il suo contenuto."
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:28
 msgid "Namespaces"
 msgstr "Namespace"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:32
-#, fuzzy
 msgid ""
 "Namespaces are a mechanism for grouping pages.\n"
 "You can see the namespace by looking at the url: if it has a "
 "<code>word:something_else</code>then \"word\" is the namespace.\n"
 "In WikiTolearn there are two main namespaces, \"User\" and \"Course\"."
 msgstr ""
-"I namespace sono un meccanismo utilizzato per raggruppare delle pagine. Si "
-"può vedere il namespace guardando l'url: se mostra "
-"<code>parola:qualcosa</code> allora \"parola\" è il namespace."
+"I namespace sono un meccanismo per raggruppare le pagine.\n"
+"Puoi vedere il namespace guardando l'url: se ha un "
+"<code>parola:qualcos_altro</code> allora \"parola\" è il namespace.\n"
+"In Wikitolearn ci sono due namespace principali, \"Utente\" e \"Corso\"."
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:32
 msgid "User namespace"
@@ -150,6 +150,9 @@ msgid ""
 "courses and content without worring about making mistakes.\n"
 "You can see an example here:"
 msgstr ""
+"Il namespace utente è la tua pagina personale dove puoi scrivere i tuoi "
+"corsi e i contenuti, senza preoccuparti di fare errori.\n"
+"Qui puoi vedere un esempio:"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:40
 msgid "http://en.wikitolearn.org/User:Grigoletti"
@@ -157,7 +160,7 @@ msgstr "http://en.wikitolearn.org/User:Grigoletti"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:40
 msgid "Course namespace"
-msgstr "Namespace corso"
+msgstr "Namespace Course"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:43
 msgid ""
@@ -173,45 +176,49 @@ msgstr ""
 msgid "http://en.wikitolearn.org/Course:How_to_use_Linked_Data"
 msgstr "http://en.wikitolearn.org/Course:How_to_use_Linked_Data"
 
-#, fuzzy
 #~ msgctxt "guide/en/wikitolearn-guide-chapter-1.txt:9"
 #~ msgid "(add image here)"
-#~ msgstr "(aggiungere immagine)"
+#~ msgstr "(aggiungi un'immagine qui)"
 
-#, fuzzy
 #~ msgctxt "guide/en/wikitolearn-guide-chapter-1.txt:20"
 #~ msgid "(add image here)"
-#~ msgstr "(aggiungere immagine)"
+#~ msgstr "(aggiungi un'immagine qui)"
 
-#, fuzzy
 #~ msgctxt "guide/en/wikitolearn-guide-chapter-1.txt:27"
 #~ msgid "(add image here)"
-#~ msgstr "(aggiungere immagine)"
+#~ msgstr "(aggiungi un'immagine qui)"
 
-#, fuzzy
 #~ msgid "(Add image here)"
-#~ msgstr "(aggiungere immagine)"
+#~ msgstr "(Aggiungi un'immagine qui)"
 
-#, fuzzy
 #~ msgid ""
 #~ "A Course namespace is similar to the User one, but it has the word "
 #~ "<code>Course:</code>as a prefix to the URL*.\n"
 #~ "This namespace is used to create an entire public course.\n"
 #~ "You can see an example here:"
 #~ msgstr ""
-#~ "Un namespace Corso è simile a quello Utente, ma ha la parola "
-#~ "<code>Corso:</code> come prefisso dell'url. Questo namespace è usato per "
-#~ "creare un corso intero. Puoi trovare un esempio qui:"
+#~ "Un namespace corso è simile a quello utente, ma nel prefisso dell'URL* "
+#~ "compare la parola <code>Course:</code>.\n"
+#~ "Questo namespace è usato per creare un intero corso pubblico.\n"
+#~ "Puoi vedere un esempio qui:"
 
 #~ msgid ""
-#~ "Course is the most important unit of WikiToLearn. Courses are a collection "
-#~ "of pages structured like a university course. Every course has the prefix "
-#~ "<code>Course:</code>followed by the course name in its url. (add image heee)"
+#~ "URL is an acronym for Uniform Resource Locator and is a reference (an "
+#~ "address) to a resource on the Internet."
+#~ msgstr ""
+#~ "URL è un acronimo di Uniform Resource Locator, ed è un riferimento (un "
+#~ "indirizzo) ad una risorsa su internet."
+
+#~ msgid ""
+#~ "Course is the most important unit of WikiToLearn. Courses are a "
+#~ "collection of pages structured like a university course. Every course has "
+#~ "the prefix <code>Course:</code>followed by the course name in its url. "
+#~ "(add image heee)"
 #~ msgstr ""
 #~ "I corsi sono le unità più importanti di WikiToLearn. Sono un insieme di "
-#~ "pagine strutturate come un corso universitario. Ogni corso ha il prefisso  "
-#~ "<code>Corso:</code> seguito dal nome del corso nella sua url. (aggiungere "
-#~ "immagine)"
+#~ "pagine strutturate come un corso universitario. Ogni corso ha il "
+#~ "prefisso  <code>Corso:</code> seguito dal nome del corso nella sua url. "
+#~ "(aggiungere immagine)"
 
 #~ msgid ""
 #~ "When you register on WikiToLearn a page called <code>User:your_username</"
@@ -220,6 +227,6 @@ msgstr "http://en.wikitolearn.org/Course:How_to_use_Linked_Data"
 #~ "You can see an example here:"
 #~ msgstr ""
 #~ "Quando ci si registra su WikiToLearn, viene creata una pagina chiamata "
-#~ "<code>Utente:il_tuo_nome_utente</code>. Il namespace Utente è la tua pagina "
-#~ "personale dove puoi scrivere i tuoi corsi e i tuoi contenuti senza "
+#~ "<code>Utente:il_tuo_nome_utente</code>. Il namespace Utente è la tua "
+#~ "pagina personale dove puoi scrivere i tuoi corsi e i tuoi contenuti senza "
 #~ "preoccuparti di fare errori. Puoi trovare un esempio qui:"

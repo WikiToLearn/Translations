@@ -1,16 +1,18 @@
+# Paolo Zamponi <zapaolo@email.it>, 2016.
 #. extracted from guide/en/wikitolearn-guide-chapter-2.txt
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 14:19+0200\n"
-"PO-Revision-Date: 2016-09-19 21:39+0200\n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: it_IT\n"
+"POT-Creation-Date: 2016-10-27 15:08+0200\n"
+"PO-Revision-Date: 2016-10-27 00:50+0100\n"
+"Last-Translator: Paolo Zamponi <zapaolo@email.it>\n"
+"Language-Team: Italian <kde-i18n-it@kde.org>\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Translate Toolkit 1.13.0\n"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:2
@@ -21,16 +23,18 @@ msgid ""
 "You can create a private course under your namespace or a public/"
 "collaborative course where everyone can contribute."
 msgstr ""
-"Il corso è un insieme di pagine con una struttura ad albero ben definita. "
-"Ogni corso su WikiToLearn ha un nome specifico. Si può creare un corso "
-"privato con il proprio namespace oppure un corso pubblico/in collaborazione "
-"al quale ognuno può contribuire."
+"Un corso è una raccolta di pagine con una struttura ad albero ben definita. "
+"\n"
+"Ogni corso ha un nome univoco in WikiToLearn. \n"
+"Puoi creare un corso privato nel tuo namespace, oppure uno pubblico o "
+"collaborativo in cui ognuno possa contribuire."
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:2
 msgid "Create a course"
 msgstr "Creare un corso"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:7
+#, fuzzy
 msgid ""
 "The first thing to do to create a course is going to the right department "
 "and the right topic.\n"
@@ -41,10 +45,18 @@ msgid ""
 "In the previous example, you should look for a topic named \"Quantum "
 "Physics\" or \"Quantum Mechanics\"."
 msgstr ""
+"La prima cosa da fare per creare un corso è quella di andare nel "
+"dipartimento e nell'argomento appropriati.\n"
+"Per esempio, se ne stai scrivendo uno di <code>fisica quantistica</code> "
+"devi andare nel dipartimento che trovi in https://it.wikitolearn.org/Fisica."
+"\n"
+"Trova l'argomento più appropriato, quindi facci clic sopra. \n"
+"Nell'esempio precedente avresti dovuto cercare un argomento chiamato \""
+"fisica quantistica\" oppure \"meccanica quantistica\"."
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:12
 msgid "Click the \"Create Course\" button: a form will show up."
-msgstr ""
+msgstr "Fai clic sul pulsante \"Crea il corso\": comparirà un modulo."
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:14
 msgid ""
@@ -53,21 +65,24 @@ msgid ""
 "department page.\n"
 "The name of the topic will be the same as the name of the course."
 msgstr ""
+"'''Nota:''' se non c'è un argomento appropriato per il corso, lo puoi creare:"
+" fai clic sul pulsante \"Crea il corso e l'argomento\" nella pagina del "
+"dipartimento.\n"
+"Il nome dell'argomento sarà lo stesso di quello del corso."
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:17
 msgid "[[File:Manual_create_course.gif]]"
-msgstr ""
+msgstr "[[File:Manual_create_course.gif]]"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:19
-#, fuzzy
 msgid ""
 "You can choose to make the course public or private.\n"
 "A public course is located under the related department, while a private "
 "course is located under the user namespace."
 msgstr ""
-"Si può scegliere di creare un corso pubblico o privato. Un corso pubblico è "
-"posto nel relativo dipartimento, mentre un corso privato viene visualizzato "
-"sotto il namespace dell'utente."
+"Puoi scegliere se fare un corso pubblico oppure privato.\n"
+"Un corso pubblico si trova nel dipartimento relativo, mentre uno privato nel "
+"namespace utente."
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:22
 msgid ""
@@ -77,10 +92,15 @@ msgid ""
 "the <code>Department/Topic</code> url and everyone can modify it by "
 "creating, moving and deleting content."
 msgstr ""
+"Si raccomanda caldamente di creare un corso privato e di pubblicarlo solo "
+"dopo averlo completato.\n"
+"Tuttavia, se decidi di creare un corso pubblico, questo sarà visualizzato "
+"nell'url <code>Dipartimento/Argomento</code>: chiunque potrà modificarlo "
+"aggiungendo, spostando o rimuovendo del contenuto."
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:22
 msgid "Course Metadata"
-msgstr ""
+msgstr "Metadati del corso"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:27
 msgid ""
@@ -88,6 +108,9 @@ msgid ""
 "This is helpful when you have some external links or PDF with exercises, "
 "notes or bibliography that you want to attach to the course."
 msgstr ""
+"È possibile aggiungere delle informazioni addizionali ad un corso.\n"
+"Questo è utile se hai dei collegamenti esterni, o dei file PDF con esercizi, "
+"appunti o bibliografia che vuoi unire al corso."
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:30
 msgid ""
@@ -96,22 +119,27 @@ msgid ""
 "Then you can add the additional information in the respective input fields.\n"
 "In particular, you can add information about:"
 msgstr ""
+"Per aggiungere dei metadati visita la pagina principale del corso, e fai "
+"clic sul pulsante \"Modifica i metadati\".\n"
+"Puoi quindi aggiungere le informazioni aggiuntive nei rispettivi campi di "
+"immissione.\n"
+"In particolare puoi aggiungere delle informazioni riguardo a:"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:30
 msgid "Bibliography"
-msgstr "Bibliografia"
+msgstr "La bibliografia"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:30
 msgid "Exercises"
-msgstr "Esercizi"
+msgstr "Gli esercizi"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:30
 msgid "Books"
-msgstr ""
+msgstr "I libri"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:30
 msgid "External References"
-msgstr ""
+msgstr "I riferimenti esterni"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:30
 msgid "Publish a course"
@@ -126,21 +154,33 @@ msgid ""
 "A WikiToLearn's admin will take into account the request and will move the "
 "content to the public topic page."
 msgstr ""
+"Se hai creato un corso privato questo rimarrà nel tuo namespace utente, a "
+"meno che tu non decida di pubblicarlo.\n"
+"Per pubblicare un corso privato spostati nella pagina principale del corso, "
+"e fai clic sul pulsante \"Pubblica il corso\".\n"
+"Un amministratore di WikiToLearn prenderà in considerazione la richiesta, e "
+"sposterà il contenuto in una pagina pubblica."
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:44
 msgid "__FORCETOC__"
-msgstr ""
+msgstr "__FORCETOC__"
+
+#~ msgid "(maybe another gif here)"
+#~ msgstr "(magari un'altra una gif qui)"
+
+#~ msgid "(add gif here)"
+#~ msgstr "(aggiungi una gif qui)"
 
 #~ msgid ""
-#~ "The first thing to do to create a course is going to the right department. "
-#~ "For example, if you are writing a <code>Quantum Physics</code> course then "
-#~ "you need to go to the physics department located at http://en.wikitolearn."
-#~ "org/Physics"
+#~ "The first thing to do to create a course is going to the right "
+#~ "department. For example, if you are writing a <code>Quantum Physics</"
+#~ "code> course then you need to go to the physics department located at "
+#~ "http://en.wikitolearn.org/Physics"
 #~ msgstr ""
 #~ "La prima cosa da fare per creare un corso è andare nel dipartimento "
 #~ "corretto. Per esempio, se stai scrivendo un corso di <code>Fisica "
-#~ "Quantistica</code> devi andare nel dipartimento di fisica al link https://it."
-#~ "wikitolearn.org/Fisica"
+#~ "Quantistica</code> devi andare nel dipartimento di fisica al link https://"
+#~ "it.wikitolearn.org/Fisica"
 
 #~ msgid "When you click on the \"Create course\" button a form shows up."
 #~ msgstr "Quando si clicca sul pulsante \"Crea un corso\" appare un modulo."
@@ -168,8 +208,8 @@ msgstr ""
 #~ msgstr "Link esterni"
 
 #~ msgid ""
-#~ "If you have created a private course, it will stay under your user namespace "
-#~ "unless you decide to publish it."
+#~ "If you have created a private course, it will stay under your user "
+#~ "namespace unless you decide to publish it."
 #~ msgstr ""
-#~ "Se si è creato un corso privato, esso apparirà sotto il proprio namespace a "
-#~ "meno che non si decida si pubblicarlo."
+#~ "Se si è creato un corso privato, esso apparirà sotto il proprio namespace "
+#~ "a meno che non si decida si pubblicarlo."
