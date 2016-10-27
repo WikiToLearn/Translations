@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 01:47+0200\n"
+"POT-Creation-Date: 2016-10-27 13:33+0200\n"
 "PO-Revision-Date: 2016-10-21 00:21+0100\n"
 "Last-Translator: Paolo Zamponi <zapaolo@email.it>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -17,58 +17,162 @@ msgstr ""
 
 #: guide/en/contribute0.txt:1
 msgid ""
-"{{Special:ContributorsMap}}\n"
-"Join our awesome community!"
+"To join the WikiToLearn community, you simply have to follow a few easy "
+"steps!"
 msgstr ""
-"{{Special:ContributorsMap}}\n"
-"Unisciti alla nostra meravigliosa comunità!"
+
+#: guide/en/contribute0.txt:1
+msgid "1 - Create a wiki account"
+msgstr ""
 
 #: guide/en/contribute0.txt:4
 msgid ""
-"Every page is editable and you can start participating right now wherever "
-"you think you can be most useful. Here are some tips to help you get started:"
+"This is very easy, you simply [[Special:CreateAccount|click here]], and you "
+"will be able to create your account. Don't forget the e-mail address!"
 msgstr ""
-"Tutte le pagine sono modificabili, e puoi iniziare a partecipare adesso se "
-"pensi che puoi essere più utile. Ecco alcuni consigli per aiutarti ad "
-"iniziare:"
 
 #: guide/en/contribute0.txt:4
-msgid "Student"
-msgstr "Studente"
+msgid "2 - Create a chat account"
+msgstr ""
 
 #: guide/en/contribute0.txt:7
 msgid ""
-"As a student, you can help WikiToLearn in a very simple way!\n"
-"[[<ref:contribute1>|Just press here]] to know how to integrate WikiToLearn "
-"with your workflow."
+"To keep in touch with the community and get help, we use a real time chat "
+"system which [https://chat.wikitolearn.org you can find here]. You will be "
+"redirected to a channel called [https://chat.wikitolearn.org/channel/general "
+"#general]. It is used to speak in general about WikiToLearn. To get help for "
+"editing, you can join channels such as [https://chat.wikitolearn.org/channel"
+"/help-en #help-en] or [https://chat.wikitolearn.org/channel/help-it #help-it]"
+", for help in your preferred language. There also channels that group users "
+"coming from the same place. Check out [[Join the WikiToLearn community!/"
+"Contributors map|on our map]] to see if there are other contributors near "
+"you, and join their channels. If you want to start such a group, just open a "
+"new channel (called #h-<city>) and invite to join all users who could be "
+"interested. See our guide to the chat on our manual, for further information!"
 msgstr ""
-"Come studente puoi aiutare WikiToLearn in maniera molto semplice!\n"
-"[[<ref:contribute1>|Premi qui]] per scoprire come integrare WikiToLearn con "
-"il tuo flusso di lavoro."
 
-#: guide/en/contribute0.txt:7
-msgid "Teacher"
-msgstr "Insegnante"
-
-#: guide/en/contribute0.txt:11
+#: guide/en/contribute0.txt:9
 msgid ""
-"If you are a teacher, we've put together some suggestions of how to "
-"effectively help WikiToLearn [[<ref:contribute2>|here]]."
+"'''Note that username and password for the chat are unfortunately not the "
+"same as for your wiki account! We are working to fix this as soon as we "
+"can!'''"
 msgstr ""
-"Se sei un'insegnante, [[<ref:contribute2>|qui]] abbiamo messo insieme alcuni "
-"suggerimenti su come aiutare efficacemente WikiToLearn."
 
-#: guide/en/contribute0.txt:11
-msgid "Getting help"
-msgstr "Ottenere aiuto"
+#: guide/en/contribute0.txt:9
+msgid "3 - Choose a topic you know about and start editing"
+msgstr ""
+
+#: guide/en/contribute0.txt:12
+msgid ""
+"Create a course and start editing! You can either choose to revise existing "
+"text, contribute new chapters to existing manuals, or you can create your "
+"own thing from scratch."
+msgstr ""
 
 #: guide/en/contribute0.txt:14
 msgid ""
-"To get help and get in touch with the community, we have a few channels."
+"For the latter, you simply need to go on the department most suited for your "
+"material and clicking on the \"Create a course\" link in the blue box!"
 msgstr ""
-"Abbiamo alcuni canali per ottenere aiuto e per entrare in contatto con la "
-"comunità."
 
-#: guide/en/contribute0.txt:14
-msgid "Do you wish to do more?"
-msgstr "Vorresti fare di più?"
+#: guide/en/contribute0.txt:16
+msgid ""
+"Here are more instructions, in case you are a [[<ref:contribute1>|Student]] "
+"or a [[<ref:contribute2>|Teacher]]."
+msgstr ""
+
+#: guide/en/contribute0.txt:16
+msgid "4 - Subscribe to the news channel"
+msgstr ""
+
+#: guide/en/contribute0.txt:19
+msgid ""
+"We communicate and updates in several ways. You can check out [https://"
+"blogs.wikitolearn.org our blogs], or, for more infrequent but meaningful "
+"updates, we suggest subscribing [https://telegram.me/WikiToLearnNews to our "
+"Telegram news channel]. We also have a [https://www.facebook.com/WikiToLearn "
+"Facebook page] and a [https://twitter.com/wikitolearn Twitter account], as "
+"well as a [https://www.youtube.com/channel/UC-52KlrKkeA2HcwFzjTGSEw YouTube "
+"channel]."
+msgstr ""
+
+#: guide/en/contribute0.txt:19
+msgid "5 - Spread the word!"
+msgstr ""
+
+#: guide/en/contribute0.txt:22
+msgid ""
+"WikiToLearn is only possible thanks to a community of enthusiastic users "
+"around the world that take on the responsibility of sharing knowledge. But "
+"sharing knowledge also means you should share the knowledge that we exist! "
+";-) A growing community is a great community, and we should all help to make "
+"this happen!"
+msgstr ""
+
+#: guide/en/contribute0.txt:22
+msgid "6 - Want to do more?"
+msgstr ""
+
+#: guide/en/contribute0.txt:25
+msgid ""
+"You can be a developer, a translator, an evangelist, and many other things "
+"we still haven't thought of! Just get in touch by writing on "
+"[https://chat.wikitolearn.org/channel/general #general] and somebody will "
+"likely be there to guide you. :-)"
+msgstr ""
+
+#: guide/en/contribute0.txt:27
+msgid ""
+"P.S. Did you know we regularly participate in [https://developers.google.com"
+"/open-source/gsoc/ Google Summer of Code] and [https://developers.google.com"
+"/open-source/gci/ Google Code In]?"
+msgstr ""
+
+#~ msgid ""
+#~ "{{Special:ContributorsMap}}\n"
+#~ "Join our awesome community!"
+#~ msgstr ""
+#~ "{{Special:ContributorsMap}}\n"
+#~ "Unisciti alla nostra meravigliosa comunità!"
+
+#~ msgid ""
+#~ "Every page is editable and you can start participating right now wherever "
+#~ "you think you can be most useful. Here are some tips to help you get started:"
+#~ msgstr ""
+#~ "Tutte le pagine sono modificabili, e puoi iniziare a partecipare adesso se "
+#~ "pensi che puoi essere più utile. Ecco alcuni consigli per aiutarti ad "
+#~ "iniziare:"
+
+#~ msgid "Student"
+#~ msgstr "Studente"
+
+#~ msgid ""
+#~ "As a student, you can help WikiToLearn in a very simple way!\n"
+#~ "[[<ref:contribute1>|Just press here]] to know how to integrate WikiToLearn "
+#~ "with your workflow."
+#~ msgstr ""
+#~ "Come studente puoi aiutare WikiToLearn in maniera molto semplice!\n"
+#~ "[[<ref:contribute1>|Premi qui]] per scoprire come integrare WikiToLearn con "
+#~ "il tuo flusso di lavoro."
+
+#~ msgid "Teacher"
+#~ msgstr "Insegnante"
+
+#~ msgid ""
+#~ "If you are a teacher, we've put together some suggestions of how to "
+#~ "effectively help WikiToLearn [[<ref:contribute2>|here]]."
+#~ msgstr ""
+#~ "Se sei un'insegnante, [[<ref:contribute2>|qui]] abbiamo messo insieme alcuni "
+#~ "suggerimenti su come aiutare efficacemente WikiToLearn."
+
+#~ msgid "Getting help"
+#~ msgstr "Ottenere aiuto"
+
+#~ msgid ""
+#~ "To get help and get in touch with the community, we have a few channels."
+#~ msgstr ""
+#~ "Abbiamo alcuni canali per ottenere aiuto e per entrare in contatto con la "
+#~ "comunità."
+
+#~ msgid "Do you wish to do more?"
+#~ msgstr "Vorresti fare di più?"

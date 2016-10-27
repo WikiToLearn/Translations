@@ -34,4 +34,4 @@ All the documentation on the configuration and installation is written here: htt
 
 === Further documentation ===
 
-A more detailed documentation on how to use TeXlA can be found here: http://meta.wikitolearn.org/Texla
+A more detailed documentation on how to use TeXLa can be found here: http://meta.wikitolearn.org/Texla

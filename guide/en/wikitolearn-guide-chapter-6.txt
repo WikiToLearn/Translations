@@ -5,8 +5,6 @@ Templates are used to add recurring notes to pages in a consistent way, to creat
 To insert templates you can use the <code>Insert->Template</code> function from [[<ref:wikitolearn-guide-chapter-5>|the Visual Editor]].
 Type in the name of the template you want to insert and select the right one.
 
-(add a gif here)
-
 === Using templates parameters ===
 
 Some templates can have named parameters.
@@ -14,16 +12,8 @@ You can fill such a field by clicking on the field name and specifying the desir
 
 [[File:Manual_templates_parameter.png]]
 
-== A list of useful templates ==
+== Inserting environments ==
+For mathematics, you often want to mark things as being a Theorem, a Proof, a Definition, or another entity.
+You can do so by clicking on the "Add environment" button in the editor, and choosing the desired environment.
 
-There are lots of useful templates you can use in your page.
-A list of the main ones can be found below.
-
-'''Mathematics:'''
-* Definition
-* Theorem
-* Example
-* Lemma
-
-'''Others:'''
-*
+Note: when you add an environment, you will see some text called "END ENVIRONMENT" or similar. This is just for your convenience to know you are writing inside the selected environment, but it won't show in the page displayed to the user.

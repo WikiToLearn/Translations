@@ -1,16 +1,27 @@
-{{Special:ContributorsMap}}
-Join our awesome community!
+To join the WikiToLearn community, you simply have to follow a few easy steps!
 
-Every page is editable and you can start participating right now wherever you think you can be most useful. Here are some tips to help you get started:
+=== 1 - Create a wiki account ===
+This is very easy, you simply [[Special:CreateAccount|click here]], and you will be able to create your account. Don't forget the e-mail address!
 
-== Student ==
-As a student, you can help WikiToLearn in a very simple way!
-[[<ref:contribute1>|Just press here]] to know how to integrate WikiToLearn with your workflow.
+=== 2 - Create a chat account ===
+To keep in touch with the community and get help, we use a real time chat system which [https://chat.wikitolearn.org you can find here]. You will be redirected to a channel called [https://chat.wikitolearn.org/channel/general #general]. It is used to speak in general about WikiToLearn. To get help for editing, you can join channels such as [https://chat.wikitolearn.org/channel/help-en #help-en] or [https://chat.wikitolearn.org/channel/help-it #help-it], for help in your preferred language. There also channels that group users coming from the same place. Check out [[Join the WikiToLearn community!/Contributors map|on our map]] to see if there are other contributors near you, and join their channels. If you want to start such a group, just open a new channel (called #h-<city>) and invite to join all users who could be interested. See our guide to the chat on our manual, for further information!
 
-== Teacher ==
-If you are a teacher, we've put together some suggestions of how to effectively help WikiToLearn [[<ref:contribute2>|here]].
+'''Note that username and password for the chat are unfortunately not the same as for your wiki account! We are working to fix this as soon as we can!'''
 
-== Getting help ==
-To get help and get in touch with the community, we have a few channels.
+=== 3 - Choose a topic you know about and start editing ===
+Create a course and start editing! You can either choose to revise existing text, contribute new chapters to existing manuals, or you can create your own thing from scratch.
 
-== Do you wish to do more? ==
+For the latter, you simply need to go on the department most suited for your material and clicking on the "Create a course" link in the blue box!
+
+Here are more instructions, in case you are a [[<ref:contribute1>|Student]] or a [[<ref:contribute2>|Teacher]].
+
+=== 4 - Subscribe to the news channel ===
+We communicate and updates in several ways. You can check out [https://blogs.wikitolearn.org our blogs], or, for more infrequent but meaningful updates, we suggest subscribing [https://telegram.me/WikiToLearnNews to our Telegram news channel]. We also have a [https://www.facebook.com/WikiToLearn Facebook page] and a [https://twitter.com/wikitolearn Twitter account], as well as a [https://www.youtube.com/channel/UC-52KlrKkeA2HcwFzjTGSEw YouTube channel].
+
+=== 5 - Spread the word! ===
+WikiToLearn is only possible thanks to a community of enthusiastic users around the world that take on the responsibility of sharing knowledge. But sharing knowledge also means you should share the knowledge that we exist! ;-) A growing community is a great community, and we should all help to make this happen!
+
+=== 6 - Want to do more? ===
+You can be a developer, a translator, an evangelist, and many other things we still haven't thought of! Just get in touch by writing on [https://chat.wikitolearn.org/channel/general #general] and somebody will likely be there to guide you. :-)
+
+P.S. Did you know we regularly participate in [https://developers.google.com/open-source/gsoc/ Google Summer of Code] and [https://developers.google.com/open-source/gci/ Google Code In]?

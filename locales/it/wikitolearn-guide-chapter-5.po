@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 01:47+0200\n"
+"POT-Creation-Date: 2016-10-27 13:33+0200\n"
 "PO-Revision-Date: 2016-09-21 16:19+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -135,7 +135,8 @@ msgstr ""
 #: guide/en/wikitolearn-guide-chapter-5.txt:35
 msgid ""
 "To insert templates you can use the <code>Insert->Template</code> function. "
-"To see the supported Templates check out [[TEMPLATES|TEMPLATES.]]"
+"To know more about the Templates and have examples on the ones to use please "
+"check out [[<ref:wikitolearn-guide-chapter-6>|the Templates page]]."
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:35

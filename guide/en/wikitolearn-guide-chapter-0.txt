@@ -16,4 +16,4 @@
 * [[<ref:wikitolearn-guide-chapter-9>|Importing from Word]]
 
 === Development ===
-* [[<ref:wikitolearn-guide-chapter-10>|Contribution guide]]
+* [[<ref:wikitolearn-guide-chapter-10>|Some more contribution possibilities]]

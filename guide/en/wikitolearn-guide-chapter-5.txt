@@ -32,7 +32,7 @@ Templates are used to add recurring messages to pages in a consistent way.
 They are often used in mathematics sections when you want to write a definition, theorem, lemma, corollary etc.
 They can be inserted within any section of the course.
 
-To insert templates you can use the <code>Insert->Template</code> function. To see the supported Templates check out [[TEMPLATES|TEMPLATES.]]
+To insert templates you can use the <code>Insert->Template</code> function. To know more about the Templates and have examples on the ones to use please check out [[<ref:wikitolearn-guide-chapter-6>|the Templates page]].
 
 === Official Guide ===
 We suggest you also take a look at the official VisualEditor guide linked [https://www.mediawiki.org/wiki/Help:VisualEditor/User_guide here].

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 01:47+0200\n"
+"POT-Creation-Date: 2016-10-27 13:33+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,7 +25,7 @@ msgstr ""
 msgid "Create a book"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-7.txt:7
+#: guide/en/wikitolearn-guide-chapter-7.txt:6
 msgid ""
 "To create a book, click on the advanced feature button on the right.\n"
 "A set of tools will show up.\n"
@@ -38,41 +38,36 @@ msgid ""
 "Otherwise you can read here."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-7.txt:15
-msgctxt "guide/en/wikitolearn-guide-chapter-7.txt:15"
-msgid "(add image here)"
-msgstr ""
-
-#: guide/en/wikitolearn-guide-chapter-7.txt:17
+#: guide/en/wikitolearn-guide-chapter-7.txt:14
 msgid ""
 "'''Note:''' The book creator tool is disabled on pages that are not within "
 "the course.\n"
 "It's only shown on course, chapter and section pages."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-7.txt:17
+#: guide/en/wikitolearn-guide-chapter-7.txt:14
 msgid "Save a book"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-7.txt:21
+#: guide/en/wikitolearn-guide-chapter-7.txt:18
 msgid ""
 "Once pages have been added click on \"Show your book\" link.\n"
 "You will be redirected to a page where you can choose to modify, download or "
 "save your book."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-7.txt:21
+#: guide/en/wikitolearn-guide-chapter-7.txt:18
 msgid "Sort a book"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-7.txt:25
+#: guide/en/wikitolearn-guide-chapter-7.txt:22
 msgid ""
 "If you want to sort the order of the sections, simply drag and drop the "
 "pages.\n"
 "If you want to manually add a chapter, click on the \"Create chapter\" link."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-7.txt:28
+#: guide/en/wikitolearn-guide-chapter-7.txt:25
 msgid ""
 "Clicking on download will download the pages of the book as a LaTeX "
 "typesetted pdf.\n"
@@ -80,34 +75,24 @@ msgid ""
 "save it on your personal page or under the page <code>Projects:Books</code>."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-7.txt:32
+#: guide/en/wikitolearn-guide-chapter-7.txt:29
 msgid ""
 "'''Note:''' it's strongly recommended to save the book under your user "
 "namespace."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-7.txt:34
+#: guide/en/wikitolearn-guide-chapter-7.txt:31
 msgid ""
 "Choose the first option, write the name of your book and click on \"Save "
 "Book\" button."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-7.txt:36
-msgctxt "guide/en/wikitolearn-guide-chapter-7.txt:36"
-msgid "(add image here)"
+#: guide/en/wikitolearn-guide-chapter-7.txt:31
+msgid "Search for books"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-7.txt:36
-msgid "Look for books"
-msgstr ""
-
-#: guide/en/wikitolearn-guide-chapter-7.txt:39
+#: guide/en/wikitolearn-guide-chapter-7.txt:34
 msgid ""
 "If you want to see books created by all the users, both public and private,\n"
 "click on the \"Books\" button on the navigation bar."
-msgstr ""
-
-#: guide/en/wikitolearn-guide-chapter-7.txt:42
-msgctxt "guide/en/wikitolearn-guide-chapter-7.txt:42"
-msgid "(add image here)"
 msgstr ""

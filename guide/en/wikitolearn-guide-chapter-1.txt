@@ -1,12 +1,10 @@
-WikiToLearn is a portal that aims to create free collaborative and readily accessible textbooks.
+WikiToLearn is a community that aims to create free, collaborative and accessible textbooks.
 Our philosophy can be summarised as "''Knowledge only grows if shared''".
 
 __TOC__
 
 == Conventions ==
 WikiToLearn makes extensive use of a hierarchy model, in order to create books which are consistent with our philosophy.
-
-(add image here)
 
 === Departments ===
 It's a collection of topics, courses and books belonging to the same area.
@@ -17,20 +15,14 @@ Topics are the level underneath Departments and contain different courses relate
 They are used to gather all the courses that explain the same theme, because every university and faculty could have a different approach to the subject.
 For example, <code>Quantum Physics</code> may be a topic and <code>Quantum Mechanics for graduate students</code>, <code>Advanced Quantum Mechanics</code> may be a course.
 
-(add image here)
-
 === Courses ===
 Courses are the most important units of WikiToLearn.
 Courses are collections of chapters, which gather the pages (sections).
-Every course has the prefix <code>Course:</code> followed by the course name in its url.
-
-(add image here)
+Every course has the prefix <code>Course:</code> followed by the course name in its URL.
 
 === Chapters ===
 Chapters are the lower level of a course.
-They gather together some sections of a book  and they are displayed as heading titles in the main page of the course.
-
-(Add image here)
+They gather together some sections of a book and they are displayed as heading titles in the main page of the course.
 
 === Section ===
 Sections are the basic unit of an entire course.
@@ -48,10 +40,8 @@ You can see an example here:
 http://en.wikitolearn.org/User:Grigoletti
 
 === Course namespace ===
-A Course namespace is similar to the User one, but it has the word <code>Course:</code>as a prefix to the URL*.
+A Course namespace is similar to the User one, but it has the word <code>Course:</code>as a prefix to the URL<ref>URL is an acronym for Uniform Resource Locator and is a reference (an address) to a resource on the Internet</ref>.
 This namespace is used to create an entire public course.
 You can see an example here:
 
 http://en.wikitolearn.org/Course:How_to_use_Linked_Data
-
-* URL is an acronym for Uniform Resource Locator and is a reference (an address) to a resource on the Internet.

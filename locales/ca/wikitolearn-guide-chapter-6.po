@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wikitolearn-guide-chapter-6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 01:47+0200\n"
+"POT-Creation-Date: 2016-10-27 13:33+0200\n"
 "PO-Revision-Date: 2016-10-17 20:31+0100\n"
 "Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -45,15 +45,11 @@ msgstr ""
 "Escriviu en el nom de la plantilla que voleu inserir i seleccioneu la més "
 "adequada."
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:8
-msgid "(add a gif here)"
-msgstr "(afegiu un GIF aquí)"
-
-#: guide/en/wikitolearn-guide-chapter-6.txt:8
+#: guide/en/wikitolearn-guide-chapter-6.txt:5
 msgid "Using templates parameters"
 msgstr "Usar paràmetres amb les plantilles"
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:12
+#: guide/en/wikitolearn-guide-chapter-6.txt:10
 msgid ""
 "Some templates can have named parameters.\n"
 "You can fill such a field by clicking on the field name and specifying the "
@@ -63,46 +59,62 @@ msgstr ""
 "Podeu omplir un d'aquests camps fent clic al nom del camp i especificant el "
 "valor desitjat."
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:15
+#: guide/en/wikitolearn-guide-chapter-6.txt:13
 msgid "[[File:Manual_templates_parameter.png]]"
 msgstr "[[File:Manual_templates_parameter.png]]"
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:15
-msgid "A list of useful templates"
-msgstr "Una llista de plantilles útils"
+#: guide/en/wikitolearn-guide-chapter-6.txt:13
+msgid "Inserting environments"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-6.txt:16
+msgid ""
+"For mathematics, you often want to mark things as being a Theorem, a Proof, "
+"a Definition, or another entity.\n"
+"You can do so by clicking on the \"Add environment\" button in the editor, "
+"and choosing the desired environment."
+msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:19
 msgid ""
-"There are lots of useful templates you can use in your page.\n"
-"A list of the main ones can be found below."
+"Note: when you add an environment, you will see some text called \"END "
+"ENVIRONMENT\" or similar. This is just for your convenience to know you are "
+"writing inside the selected environment, but it won't show in the page "
+"displayed to the user."
 msgstr ""
-"Hi ha un munt d'útils plantilles que podeu utilitzar a la vostra pàgina.\n"
-"Trobareu a continuació una llista de les més importants."
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:22
-msgid ""
-"'''Mathematics:'''\n"
-"Definition"
-msgstr ""
-"'''Matemàtiques:'''\n"
-"Definició"
+#~ msgid "(add a gif here)"
+#~ msgstr "(afegiu un GIF aquí)"
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:22
-msgid "Theorem"
-msgstr "Teorema"
+#~ msgid "A list of useful templates"
+#~ msgstr "Una llista de plantilles útils"
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:22
-msgid "Example"
-msgstr "Exemple"
+#~ msgid ""
+#~ "There are lots of useful templates you can use in your page.\n"
+#~ "A list of the main ones can be found below."
+#~ msgstr ""
+#~ "Hi ha un munt d'útils plantilles que podeu utilitzar a la vostra pàgina.\n"
+#~ "Trobareu a continuació una llista de les més importants."
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:22
-msgid "Lemma"
-msgstr "Lema"
+#~ msgid ""
+#~ "'''Mathematics:'''\n"
+#~ "Definition"
+#~ msgstr ""
+#~ "'''Matemàtiques:'''\n"
+#~ "Definició"
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:28
-msgid ""
-"'''Others:'''\n"
-"*"
-msgstr ""
-"'''Altres:'''\n"
-"*"
+#~ msgid "Theorem"
+#~ msgstr "Teorema"
+
+#~ msgid "Example"
+#~ msgstr "Exemple"
+
+#~ msgid "Lemma"
+#~ msgstr "Lema"
+
+#~ msgid ""
+#~ "'''Others:'''\n"
+#~ "*"
+#~ msgstr ""
+#~ "'''Altres:'''\n"
+#~ "*"

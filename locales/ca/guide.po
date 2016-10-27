@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: guide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 01:47+0200\n"
+"POT-Creation-Date: 2016-10-27 13:33+0200\n"
 "PO-Revision-Date: 2016-10-16 00:00+0100\n"
 "Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -60,8 +60,8 @@ msgid "Manual/Importing from Word"
 msgstr "Manual/Importar des de «Word»"
 
 #: [messages]wikitolearn-guide-chapter-10
-msgid "Manual/Create a book"
-msgstr "Manual/Crear un llibre"
+msgid "Manual/Contribution guide"
+msgstr ""
 
 #: [messages]contribute0
 msgid "How to help"
@@ -74,3 +74,6 @@ msgstr "Com ajudar/Estudiant"
 #: [messages]contribute2
 msgid "How to help/Teacher"
 msgstr "Com ajudar/Professor"
+
+#~ msgid "Manual/Create a book"
+#~ msgstr "Manual/Crear un llibre"

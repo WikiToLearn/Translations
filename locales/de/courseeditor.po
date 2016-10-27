@@ -1,21 +1,22 @@
 # Administrator <sysadmin@wikitolearn.org>, 2016. #zanata
+#. extracted from courseeditor/en.json
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-11 00:01+0200\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Article-Language: de\n"
-"Article-Title: CourseEditor\n"
-"Source-Article: CourseEditor\n"
+"POT-Creation-Date: 2016-10-27 13:33+0200\n"
 "PO-Revision-Date: 2016-10-10 09:54+0000\n"
 "Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
 "Language-Team: German\n"
 "Language: de\n"
-"X-Generator: Zanata 3.9.5\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
+"Source-Article: CourseEditor\n"
+"Article-Title: CourseEditor\n"
+"Article-Language: de\n"
 
 #: .courseeditor-input-imported-label
 msgid "<b>Imported</b>"
@@ -35,8 +36,8 @@ msgstr "Kursfachbereich einfügen"
 
 #: .courseeditor-error-operation
 msgid ""
-"Sorry, something went wrong! <i class='fa fa-frown-o' aria-hidden=true'></"
-"i><br>"
+"Sorry, something went wrong! <i class='fa fa-frown-o' aria-"
+"hidden=true'></i><br>"
 msgstr ""
 "Entschuldigung, etwas schiefgelaufen ist! <i class='fa fa-frown-o' aria-"
 "hidden='true'></i><br>"
@@ -113,8 +114,12 @@ msgid "Create!"
 msgstr "Erstellen!"
 
 #: .courseeditor-operation-action-purge
-msgid "Purge"
-msgstr "Entferne"
+msgid "Update index"
+msgstr ""
+
+#: .courseeditor-pending-courses
+msgid "Pending courses"
+msgstr ""
 
 #: .courseeditor-input-originalauthors-label
 msgid "Original authors:"
@@ -154,13 +159,13 @@ msgid "Add"
 msgstr "Hinzufügen"
 
 #: .courseeditor-input-bibliography-label
-msgid "Bibliografia:"
+#, fuzzy
+msgid "Bibliography:"
 msgstr "Bibliographie:"
 
 #: .courseeditor-radiobutton-namespace
 msgid ""
-"Do you want to create a private course in your personal page or a public "
-"one?"
+"Do you want to create a private course in your personal page or a public one?"
 msgstr ""
 "Möchtest du einen privaten Kurs auf deinen Seiten oder einen öffentlichen zu "
 "erstellen?"
@@ -168,6 +173,10 @@ msgstr ""
 #: .courseeditor-input-course-label
 msgid "Title:"
 msgstr "Überschrift:"
+
+#: .courseeditor-alert-message-success-publish
+msgid "The course is now available here:"
+msgstr ""
 
 #: .courseeditor-cancel
 msgctxt ".courseeditor-cancel"
@@ -180,13 +189,12 @@ msgid "Delete"
 msgstr ""
 
 #: .courseeditor-input-books-placeholder
-msgid "Insersci i libri"
-msgstr "Bücher einfügen"
+msgid "Insert the books"
+msgstr ""
 
 #: .courseeditor-credits-info
 msgid "CourseEditor is an extension to create and manage courses."
-msgstr ""
-"CourseEditor ist eine Anwendung um Kurse zu erstellen und organizieren."
+msgstr "CourseEditor ist eine Anwendung um Kurse zu erstellen und organizieren."
 
 #: .courseeditor
 msgid "Course editor"
@@ -197,8 +205,9 @@ msgid "You can organize, add and delete chapters"
 msgstr "Here kanst du die Kapitel organiseren, hinzufügen und entfernen"
 
 #: .courseeditor-input-books-label
-msgid "Libri:"
-msgstr "Bücher:"
+#, fuzzy
+msgid "Books:"
+msgstr "Bücher"
 
 #: .courseeditor-operation-action-rename-update-task
 msgid "Update links"
@@ -232,6 +241,10 @@ msgstr "Here kanst du die Abschnitte organiseren, hinzufügen und entfernen"
 msgid "Delete chapters of"
 msgstr "Löchen Kapitel von"
 
+#: .courseeditor-operation-action-move-metadati
+msgid "Move metadata"
+msgstr ""
+
 #: .courseeditor-operation-action-update-collection
 msgid "Update book"
 msgstr "Buch aktualisiere"
@@ -260,6 +273,10 @@ msgstr ""
 "Hey, es gibt ein Kurs mit einem solchen Titel, stellen Sie sicher, es ist "
 "nicht ganz das, was Sie suchen!<br>"
 
+#: .courseeditor-publish-course-pagetitle
+msgid "Publish courses"
+msgstr ""
+
 #: .courseeditor-save-course
 msgid "Save course"
 msgstr "Kurs speichern"
@@ -278,14 +295,18 @@ msgctxt ".courseeditor-rename"
 msgid "Rename"
 msgstr ""
 
+#: .courseeditor-operation-action-remove-ready-texts
+msgid "Remove ReadyToBePublished"
+msgstr ""
+
 #: .courseeditor-operation-action-rename
 msgctxt ".courseeditor-operation-action-rename"
 msgid "Rename"
 msgstr ""
 
 #: .courseeditor-input-bibliography-placeholder
-msgid "Insersci la bibliografia"
-msgstr "Bibliographie einfügen"
+msgid "Insert the bibliography"
+msgstr ""
 
 #: .courseeditor-input-externalreferences-label
 msgid "External references:"
@@ -298,6 +319,14 @@ msgstr "Gegenstand:"
 #: .courseeditor-createcourse-pagetitle
 msgid "Create course"
 msgstr "Kurs erstellen"
+
+#: .courseeditor-alert-message-success-publish-add-to
+msgid "You must add it to a topic and department"
+msgstr ""
+
+#: .courseeditor-operation-action-move-root
+msgid "Move"
+msgstr ""
 
 #: .courseeditor-input-exercises-placeholder
 msgid "Insersci gli esercizi"
@@ -340,3 +369,14 @@ msgstr "Externe Zitaten einfügen"
 msgid "saved_book"
 msgstr "Gespeichert_buch"
 
+#~ msgid "Purge"
+#~ msgstr "Entferne"
+
+#~ msgid "Insersci i libri"
+#~ msgstr "Bücher einfügen"
+
+#~ msgid "Libri:"
+#~ msgstr "Bücher:"
+
+#~ msgid "Insersci la bibliografia"
+#~ msgstr "Bibliographie einfügen"

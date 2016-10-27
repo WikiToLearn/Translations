@@ -2,7 +2,6 @@ Books are grouped collections of sections that can be easily downloaded as pdf f
 Books allow you to create a personalized collection of sections from different chapters or even different courses.
 In that way, you make your own book ready for being printed.
 
-
 == Create a book ==
 To create a book, click on the advanced feature button on the right.
 A set of tools will show up.
@@ -11,8 +10,6 @@ Navigate to the desired section and click on "Add this page to your book" link.
 With the book creator tool you can add pages or take a look to your book.
 If you need more help on how to use the tool, there is a "Help" link on the top right corner of the box.
 Otherwise you can read here.
-
-(add image here)
 
 '''Note:''' The book creator tool is disabled on pages that are not within the course.
 It's only shown on course, chapter and section pages.
@@ -33,10 +30,6 @@ save it on your personal page or under the page <code>Projects:Books</code>.
 
 Choose the first option, write the name of your book and click on "Save Book" button.
 
-(add image here)
-
-== Look for books ==
+== Search for books ==
 If you want to see books created by all the users, both public and private,
 click on the "Books" button on the navigation bar.
-
-(add image here)

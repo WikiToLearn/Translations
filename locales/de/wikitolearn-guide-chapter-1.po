@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 01:47+0200\n"
+"POT-Creation-Date: 2016-10-27 13:33+0200\n"
 "PO-Revision-Date: 2016-10-16 20:55+0100\n"
 "Last-Translator: Burkhard Lück <lueck@hube-lueck.de>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:1
 msgid ""
-"WikiToLearn is a portal that aims to create free collaborative and readily "
+"WikiToLearn is a community that aims to create free, collaborative and "
 "accessible textbooks.\n"
 "Our philosophy can be summarised as \"''Knowledge only grows if shared''\"."
 msgstr ""
@@ -36,26 +36,21 @@ msgid ""
 "books which are consistent with our philosophy."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:9
-msgctxt "guide/en/wikitolearn-guide-chapter-1.txt:9"
-msgid "(add image here)"
-msgstr "(Bild hier hinzufügen)"
-
-#: guide/en/wikitolearn-guide-chapter-1.txt:9
+#: guide/en/wikitolearn-guide-chapter-1.txt:7
 msgid "Departments"
 msgstr "Abteilungen"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:12
+#: guide/en/wikitolearn-guide-chapter-1.txt:10
 msgid ""
 "It's a collection of topics, courses and books belonging to the same area.\n"
 "Departments are listed on the main page."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:12
+#: guide/en/wikitolearn-guide-chapter-1.txt:10
 msgid "Topics"
 msgstr "Themen"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:16
+#: guide/en/wikitolearn-guide-chapter-1.txt:14
 msgid ""
 "Topics are the level underneath Departments and contain different courses "
 "related to the same subject.\n"
@@ -67,58 +62,44 @@ msgid ""
 "Mechanics</code> may be a course."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:20
-msgctxt "guide/en/wikitolearn-guide-chapter-1.txt:20"
-msgid "(add image here)"
-msgstr "(Bild hier hinzufügen)"
-
-#: guide/en/wikitolearn-guide-chapter-1.txt:20
+#: guide/en/wikitolearn-guide-chapter-1.txt:14
 msgid "Courses"
 msgstr "Kurse"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:23
+#: guide/en/wikitolearn-guide-chapter-1.txt:19
 msgid ""
 "Courses are the most important units of WikiToLearn.\n"
 "Courses are collections of chapters, which gather the pages (sections).\n"
 "Every course has the prefix <code>Course:</code> followed by the course name "
-"in its url."
+"in its URL."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:27
-msgctxt "guide/en/wikitolearn-guide-chapter-1.txt:27"
-msgid "(add image here)"
-msgstr "(Bild hier hinzufügen)"
-
-#: guide/en/wikitolearn-guide-chapter-1.txt:27
+#: guide/en/wikitolearn-guide-chapter-1.txt:19
 msgid "Chapters"
 msgstr "Kapitel"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:30
+#: guide/en/wikitolearn-guide-chapter-1.txt:24
 msgid ""
 "Chapters are the lower level of a course.\n"
-"They gather together some sections of a book  and they are displayed as "
+"They gather together some sections of a book and they are displayed as "
 "heading titles in the main page of the course."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:33
-msgid "(Add image here)"
-msgstr "(Bild hier hinzufügen)"
-
-#: guide/en/wikitolearn-guide-chapter-1.txt:33
+#: guide/en/wikitolearn-guide-chapter-1.txt:24
 msgid "Section"
 msgstr "Abschnitt"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:36
+#: guide/en/wikitolearn-guide-chapter-1.txt:28
 msgid ""
 "Sections are the basic unit of an entire course.\n"
 "Basically, they're a single webpage with its own content."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:36
+#: guide/en/wikitolearn-guide-chapter-1.txt:28
 msgid "Namespaces"
 msgstr "Namensräume"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:40
+#: guide/en/wikitolearn-guide-chapter-1.txt:32
 msgid ""
 "Namespaces are a mechanism for grouping pages.\n"
 "You can see the namespace by looking at the url: if it has a "
@@ -126,39 +107,50 @@ msgid ""
 "In WikiTolearn there are two main namespaces, \"User\" and \"Course\"."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:40
+#: guide/en/wikitolearn-guide-chapter-1.txt:32
 msgid "User namespace"
 msgstr "Benutzer-Namensraum"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:45
+#: guide/en/wikitolearn-guide-chapter-1.txt:37
 msgid ""
 "The User namespace is your personal page where you can write your own "
 "courses and content without worring about making mistakes.\n"
 "You can see an example here:"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:48
+#: guide/en/wikitolearn-guide-chapter-1.txt:40
 msgid "http://en.wikitolearn.org/User:Grigoletti"
 msgstr "http://en.wikitolearn.org/User:Grigoletti"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:48
+#: guide/en/wikitolearn-guide-chapter-1.txt:40
 msgid "Course namespace"
 msgstr "Kurs-Namensraum"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:51
+#: guide/en/wikitolearn-guide-chapter-1.txt:43
 msgid ""
 "A Course namespace is similar to the User one, but it has the word "
-"<code>Course:</code>as a prefix to the URL*.\n"
+"<code>Course:</code>as a prefix to the URL<ref>URL is an acronym for Uniform "
+"Resource Locator and is a reference (an address) to a resource on the "
+"Internet</ref>.\n"
 "This namespace is used to create an entire public course.\n"
 "You can see an example here:"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:55
+#: guide/en/wikitolearn-guide-chapter-1.txt:47
 msgid "http://en.wikitolearn.org/Course:How_to_use_Linked_Data"
 msgstr "http://en.wikitolearn.org/Course:How_to_use_Linked_Data"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:55
-msgid ""
-"URL is an acronym for Uniform Resource Locator and is a reference (an "
-"address) to a resource on the Internet."
-msgstr ""
+#~ msgctxt "guide/en/wikitolearn-guide-chapter-1.txt:9"
+#~ msgid "(add image here)"
+#~ msgstr "(Bild hier hinzufügen)"
+
+#~ msgctxt "guide/en/wikitolearn-guide-chapter-1.txt:20"
+#~ msgid "(add image here)"
+#~ msgstr "(Bild hier hinzufügen)"
+
+#~ msgctxt "guide/en/wikitolearn-guide-chapter-1.txt:27"
+#~ msgid "(add image here)"
+#~ msgstr "(Bild hier hinzufügen)"
+
+#~ msgid "(Add image here)"
+#~ msgstr "(Bild hier hinzufügen)"
