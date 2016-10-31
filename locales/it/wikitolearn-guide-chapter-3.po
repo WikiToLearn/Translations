@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 15:08+0200\n"
-"PO-Revision-Date: 2016-10-27 01:22+0100\n"
+"POT-Creation-Date: 2016-10-31 15:04+0200\n"
+"PO-Revision-Date: 2016-10-28 23:25+0100\n"
 "Last-Translator: Paolo Zamponi <zapaolo@email.it>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "Language: it\n"
@@ -28,7 +28,6 @@ msgid "Add a chapter"
 msgstr "Aggiungere un capitolo"
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:4
-#, fuzzy
 msgid ""
 "You can add a chapter to a course by navigating to the course main page.\n"
 "Click either on the red pencil button on the right and insert the name of "
@@ -50,7 +49,6 @@ msgid "Rename a chapter"
 msgstr "Rinominare un capitolo"
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:11
-#, fuzzy
 msgid ""
 "To rename a chapter, go to the course main page and click on the red pencil "
 "button on the right.\n"
@@ -74,10 +72,9 @@ msgstr "[[File:Manual_rename_section.gif]]"
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:17
 msgid "Delete a chapter"
-msgstr "Cancellare un capitolo"
+msgstr "Eliminare un capitolo"
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:20
-#, fuzzy
 msgid ""
 "To delete a chapter, go to the course main page and click on the <code>edit "
 "course</code> link.\n"
@@ -89,7 +86,7 @@ msgid ""
 "Once done, save the changes by clicking on the <code>Save course</code> "
 "button."
 msgstr ""
-"Per cancellare un capitolo vai nella pagina principale del corso e fai clic "
+"Per eliminare un capitolo vai nella pagina principale del corso e fai clic "
 "sul collegamento <code>modifica il corso</code>. \n"
 "Verrà mostrato un elenco di tutti i capitoli creati.\n"
 "Metti il mouse sul capitolo desiderato, ed apparirà sulla destra un cestino "
@@ -134,7 +131,6 @@ msgid "Move a chapter"
 msgstr "Spostare un capitolo"
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:36
-#, fuzzy
 msgid ""
 "You can change the order of the chapter's list by clicking on the red pencil "
 "button.\n"

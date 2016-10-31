@@ -1,13 +1,15 @@
+# Paolo Zamponi <zapaolo@email.it>, 2016.
+# Luigi Toscano <luigi.toscano@tiscali.it>, 2016.
 #. extracted from guide/en/wikitolearn-guide-chapter-6.txt
 msgid ""
 msgstr ""
-"Project-Id-Version: wikitolearn-guide-chapter-6\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 15:08+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Italian <LL@li.org>\n"
-"Language: \n"
+"POT-Creation-Date: 2016-10-31 15:04+0200\n"
+"PO-Revision-Date: 2016-10-30 23:44+0100\n"
+"Last-Translator: Luigi Toscano <luigi.toscano@tiscali.it>\n"
+"Language-Team: Italian <kde-i18n-it@kde.org>\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,10 +22,13 @@ msgid ""
 "create navigational boxes, and to provide advanced features like cross "
 "portability of text."
 msgstr ""
+"I modelli sono utilizzati per aggiungere in modo coerente degli appunti "
+"ricorrenti a determinate pagine, per creare contenuti di navigazione e per "
+"fornire delle funzionalità avanzate come la portabilità incrociata del testo."
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:1
 msgid "Inserting templates"
-msgstr ""
+msgstr "Inserire i modelli "
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:5
 msgid ""
@@ -31,10 +36,13 @@ msgid ""
 "from [[<ref:wikitolearn-guide-chapter-5>|the Visual Editor]].\n"
 "Type in the name of the template you want to insert and select the right one."
 msgstr ""
+"Per inserire i modelli puoi usare la funzione <code>Inserisci->Modello</code>"
+" del [[<ref:wikitolearn-guide-chapter-5>|Visual Editor]].\n"
+"Scrivi nel nome del modello che vuoi inserire e seleziona quello corretto."
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:5
 msgid "Using templates parameters"
-msgstr ""
+msgstr "Usare i parametri dei modelli"
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:10
 msgid ""
@@ -42,14 +50,17 @@ msgid ""
 "You can fill such a field by clicking on the field name and specifying the "
 "desired value."
 msgstr ""
+"Alcuni modelli possono avere dei parametri con nome.\n"
+"È possibile compilare tale campo facendo clic sul suo nome e specificando il "
+"valore desiderato."
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:13
 msgid "[[File:Manual_templates_parameter.png]]"
-msgstr ""
+msgstr "[[File:Manual_templates_parameter.png]]"
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:13
 msgid "Inserting environments"
-msgstr ""
+msgstr "Inserire ambienti"
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:16
 msgid ""
@@ -58,6 +69,10 @@ msgid ""
 "You can do so by clicking on the \"Add environment\" button in the editor, "
 "and choosing the desired environment."
 msgstr ""
+"Nella matematica spesso c'è la necessità di marcare del testo come un "
+"teorema, una dimostrazione, una definizione, o un'altra entità.\n"
+"Puoi farlo facendo clic sul pulsante «Aggiungi ambiente» nell'editor, e "
+"scegliendo l'ambiente desiderato."
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:19
 msgid ""
@@ -66,3 +81,7 @@ msgid ""
 "writing inside the selected environment, but it won't show in the page "
 "displayed to the user."
 msgstr ""
+"Nota: quando aggiungi un ambiente, vedrai del testo sulla falsariga di «END "
+"ENVIRONMENT». Questo è solo un aiuto per sapere che stai scrivendo "
+"all'interno dell'ambiente selezionato, ma non apparirà nella pagina mostrata "
+"all'utente."

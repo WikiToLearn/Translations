@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 15:08+0200\n"
+"POT-Creation-Date: 2016-10-31 15:04+0200\n"
 "PO-Revision-Date: 2016-10-27 00:50+0100\n"
 "Last-Translator: Paolo Zamponi <zapaolo@email.it>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -16,7 +16,6 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.13.0\n"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:2
-#, fuzzy
 msgid ""
 "Course is a collection of pages with a well defined tree structure.\n"
 "Every course on WikiToLearn has a unique name.\n"
@@ -34,7 +33,6 @@ msgid "Create a course"
 msgstr "Creare un corso"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:7
-#, fuzzy
 msgid ""
 "The first thing to do to create a course is going to the right department "
 "and the right topic.\n"

@@ -1,12 +1,15 @@
+# Anna Cazzaniga <a.cazzaniga2@yahoo.it>, 2016.
+# Paolo Zamponi <zapaolo@email.it>, 2016.
+# Luigi Toscano <luigi.toscano@tiscali.it>, 2016.
 #. extracted from guide/en/wikitolearn-guide-chapter-5.txt
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 15:08+0200\n"
-"PO-Revision-Date: 2016-09-21 16:19+0200\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"POT-Creation-Date: 2016-10-31 15:04+0200\n"
+"PO-Revision-Date: 2016-10-30 23:39+0100\n"
+"Last-Translator: Luigi Toscano <luigi.toscano@tiscali.it>\n"
+"Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "Language: it_IT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,7 +18,6 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.13.0\n"
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:1
-#, fuzzy
 msgid ""
 "VisualEditor is the main tool you can use to create and edit pages on "
 "WikiToLearn.\n"
@@ -23,36 +25,36 @@ msgid ""
 "If you already have some experience in any kind of text editing software you "
 "will have no problem in understanding how VisualEditor works."
 msgstr ""
-"VisualEditor è lo strumento principalmente utilizzato per creare e "
-"modificare delle pagine su WikiToLearn. Usare VisualEditor è molto semplice "
-"e se si possiede già un minimo di esperienza con qualsiasi altro software di "
-"text editing non sarà difficile comprenderne il funzionamento."
+"VisualEditor è lo strumento utilizzato principalmente per creare e per "
+"modificare le pagine su WikiToLearn.\n"
+"Usarlo è molto semplice!\n"
+"Non sarà difficile comprenderne il funzionamento se possiedi già un minimo "
+"di esperienza con un qualsiasi altro software di videoscrittura."
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:1
 msgid "Basic Usage"
-msgstr "Utilizzo base"
+msgstr "Utilizzo di base"
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:1
 msgid "Activating VisualEditor"
 msgstr "Attivare VisualEditor"
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:8
-#, fuzzy
 msgid ""
 "When creating a new section VisualEditor should be enabled by default: a "
 "toolbar should appear at the top of the page."
 msgstr ""
-"Quando si crea una nuova pagina, VisualEditor dovrebbe essere abilitato di "
-"default: la toolbar di VisualEditor dovrebbe apparire all'inizio della "
-"pagina."
+"VisualEditor dovrebbe essere abilitato in modo predefinito quando si crea "
+"una nuova sezione: una barra degli strumenti dovrebbe apparire nella parte "
+"alta della pagina."
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:10
 msgid "This is an example of text to see"
-msgstr ""
+msgstr "Questo è un esempio di testo da vedere"
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:12
 msgid "[[File:Manual_Visual_editor_newpage.gif]]"
-msgstr ""
+msgstr "[[File:Manual_Visual_editor_newpage.gif]]"
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:14
 msgid ""
@@ -60,31 +62,31 @@ msgid ""
 "button at the top of the page and watch VisualEditor load: after a few "
 "seconds it should be ready to use."
 msgstr ""
-"Se si desidera modificare una pagina già esistente, premere semplicemente il "
-"pulsante <code>Modifica</code> all'inizio della pagina e aspettare il "
+"Se desideri modificare una pagina già esistente premi semplicemente il "
+"pulsante <code>Modifica</code> in alto nella pagina, e aspetta il "
 "caricamento di VisualEditor: dopo alcuni secondi dovrebbe essere pronto "
 "all'uso."
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:14
 msgid "Editing"
-msgstr "Modifiche"
+msgstr "Modifica"
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:18
-#, fuzzy
 msgid ""
 "VisualEditor has more or less the same features and functions of any other "
 "word processor software, like bold, italics, ordered lists and so on."
 msgstr ""
-"VisualEditor ha all'incirca le stesse caratteristiche e funzioni di ogni "
-"altro word processor software, come \"stile del testo\" e \"struttura\"."
+"VisualEditor ha all'incirca le stesse caratteristiche e funzioni di un "
+"qualsiasi elaboratore di testi, come grassetto, corsivo, elenchi ordinati e "
+"così via."
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:18
 msgid "Advanced editing"
-msgstr "Modifiche Avanzate"
+msgstr "Modifica avanzata"
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:18
 msgid "Insert media"
-msgstr "Inserire media"
+msgstr "Inserire un elemento multimediale"
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:23
 msgid ""
@@ -93,37 +95,36 @@ msgid ""
 "upload new files using the <code>Upload</code> tab or <code>Search</code> "
 "for existing media both on WikiToLearn or Wikimedia Commons."
 msgstr ""
-"Per inserire dei media nel testo, selezionare l'opzione "
-"<code>Inserisci</code> sulla toolbar di VisualEditor e cliccare su <code>"
-"File Multimediali</code>: è possibile caricare dei nuovi file usando la "
-"sezione <code>Carica</code> o cercare con <code>Cerca</code> dei file già "
-"esistenti su WikiToLearn o Wikimedia Commons."
+"Per inserire degli elemento multimediali nel testo seleziona l'opzione "
+"<code>Inserisci</code> nella barra degli strumenti di VisualEditor, e fai "
+"clic su <code>File Multimediali</code>: è possibile sia caricare dei nuovi "
+"file usando la scheda <code>Carica</code>, sia cercare con <code>Cerca</code>"
+" dei file già esistenti su WikiToLearn o su Wikimedia Commons."
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:25
 msgid "[[File:Manual_Visual_editor_loadmedia.gif]]"
-msgstr ""
+msgstr "[[File:Manual_Visual_editor_loadmedia.gif]]"
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:25
 msgid "Insert formulas"
 msgstr "Inserire formule"
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:28
-#, fuzzy
 msgid ""
 "To insert mathematical formulas in the text, just click the "
 "<code>Insert</code> option in the VisualEditor toolbar and select "
 "<code>Formula</code>: this will open up the Formula Editor window which will "
 "allow you to write math formulas easily."
 msgstr ""
-"Per inserire delle formule matematiche al testo è sufficiente cliccare "
-"sull'opzione <code>Inserisci</code> sulla toolbar di VisualEditor e "
-"selezionare <code>Formula</code>: questa selezione farà aprire l'Editor "
-"delle formule che permetterà di scrivere le formule matematiche "
-"semplicemente. "
+"Per inserire delle formule matematiche nel testo è sufficiente fare clic "
+"sull'opzione <code>Inserisci</code> nella barra degli strumenti di "
+"VisualEditor e selezionare <code>Formula</code>: questo farà aprire la "
+"finestra dell'editor delle formule, che ti permetterà di scrivere "
+"semplicemente le formule matematiche."
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:28
 msgid "Insert templates"
-msgstr "Inserire template"
+msgstr "Inserire i modelli"
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:31
 msgid ""
@@ -132,6 +133,11 @@ msgid ""
 "definition, theorem, lemma, corollary etc.\n"
 "They can be inserted within any section of the course."
 msgstr ""
+"I modelli sono utilizzati per aggiungere in modo coerente dei messaggi "
+"ricorrenti alle pagine.\n"
+"Sono spesso usati nelle sezioni matematiche per scrivere definizioni, "
+"teoremi, lemmi, corollari, ecc.\n"
+"Possono ovviamente essere inseriti in ogni sezione."
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:35
 msgid ""
@@ -139,20 +145,22 @@ msgid ""
 "To know more about the Templates and have examples on the ones to use please "
 "check out [[<ref:wikitolearn-guide-chapter-6>|the Templates page]]."
 msgstr ""
+"Per inserire dei modelli, puoi usare la funzione "
+"<code>Inserisci->Modello</code>. Per sapere di più sui modelli ed avere "
+"esempi su quelli di usare consulta [[<ref:wikitolearn-guide-chapter-6>|la "
+"pagina dei modelli]]."
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:35
 msgid "Official Guide"
 msgstr "Guida Ufficiale"
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:38
-#, fuzzy
 msgid ""
 "We suggest you also take a look at the official VisualEditor guide linked "
 "[https://www.mediawiki.org/wiki/Help:VisualEditor/User_guide here]."
 msgstr ""
-"Vi consigliamo inoltre di dare un'occhiata alla guida ufficiale di "
-"VisualEditor al link [https://www.mediawiki.org/wiki/Help:VisualEditor/"
-"User_guide here]."
+"Consigliamo inoltre di dare un'occhiata alla guida ufficiale di VisualEditor "
+"[https://www.mediawiki.org/wiki/Help:VisualEditor/User_guide qui]."
 
 #~ msgid ""
 #~ "Templates are used to add recurring messages to pages in a consistent "

@@ -1,13 +1,14 @@
+# Paolo Zamponi <zapaolo@email.it>, 2016.
 #. extracted from guide/en/wikitolearn-guide-chapter-8.txt
 msgid ""
 msgstr ""
-"Project-Id-Version: wikitolearn-guide-chapter-8\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 15:08+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Italian <LL@li.org>\n"
-"Language: \n"
+"POT-Creation-Date: 2016-10-31 15:04+0200\n"
+"PO-Revision-Date: 2016-10-29 17:24+0100\n"
+"Last-Translator: Paolo Zamponi <zapaolo@email.it>\n"
+"Language-Team: Italian <kde-i18n-it@kde.org>\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,10 +20,11 @@ msgid ""
 "If you already have some content written with LaTeX you can upload it to "
 "WikiToLearn."
 msgstr ""
+"Se hai già dei contenuti scritti con LaTeX puoi caricarli su WikiToLearn."
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:1
 msgid "Import content"
-msgstr ""
+msgstr "Importare i contenuti"
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:4
 msgid ""
@@ -31,10 +33,14 @@ msgid ""
 "The importing team will get in touch with you and upload the course under "
 "your user namespace."
 msgstr ""
+"Se hai già un corso scritto con LaTeX e vuoi importarlo, manda un messaggio "
+"a latex@wikitolearn.org.\n"
+"La squadra di importazione si metterà in contatto con te, e caricherà il "
+"corso nel tuo namespace utente."
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:4
 msgid "Convert content"
-msgstr ""
+msgstr "Convertire i contenuti"
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:8
 msgid ""
@@ -43,6 +49,10 @@ msgid ""
 "the markup WikiToLearn uses to write content pages.\n"
 "The main tool is called TeXLa."
 msgstr ""
+"Abbiamo sviluppato un insieme di strumenti utili per convertire il materiale "
+"LaTeX in wikitext,\n"
+"il marcatore che WikiToLearn utilizza per scrivere le pagine di contenuti.\n"
+"Lo strumento principale si chiama TeXLa."
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:12
 msgid ""
@@ -50,28 +60,37 @@ msgid ""
 "lectures\n"
 "written by students, professors, techs, etc."
 msgstr ""
+"TeXLa è un elaboratore LaTeX scritto in Python; di solito lo usiamo per "
+"importare i corsi e le lezioni\n"
+"scritte da studenti, professori, tecnici ecc."
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:15
 msgid ""
 "It's open source and you can find the code here: "
 "https://github.com/WikiToLearn/texla"
 msgstr ""
+"È open source, e puoi trovare il codice qui: "
+"https://github.com/WikiToLearn/texla"
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:17
 msgid ""
 "There are a couple of different ways you can use TeXLa: the web client or "
 "the native python script."
 msgstr ""
+"Puoi usare TeXLa in due modi diversi: con il client web o con lo script "
+"nativo in Python."
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:17
 msgid "Web client"
-msgstr ""
+msgstr "Client web"
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:20
 msgid ""
 "If you want to use TeXLa without installing anything, visit "
 "https://texla.wikitolearn.org/"
 msgstr ""
+"Se vuoi usare TeXLa senza dover installare niente visita "
+"https://texla.wikitolearn.org/"
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:22
 msgid ""
@@ -80,6 +99,10 @@ msgid ""
 "The website will convert your latex into a WikiToLearn ready-to-paste "
 "content."
 msgstr ""
+"Puoi scrivere i contenuti in LaTeX nell'area di testo, oppure caricare un "
+"file <code>.tex</code>.\n"
+"Il sito web convertirà i tuoi contenuti LaTeX in una forma adatta ad essere "
+"usata in WikiToLearn."
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:25
 msgid ""
@@ -88,10 +111,14 @@ msgid ""
 "or you can even use latex macros and environments\n"
 "(in this case the \\begin{document} is necessary)."
 msgstr ""
+"Puoi semplicemente scrivere del testo con la sintassi di LaTeX\n"
+"(senza preoccuparti del suo preambolo)\n"
+"oppure anche usare le macro di LaTeX e gli ambienti\n"
+"(in questo caso è necessario usare \\begin{document})."
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:25
 msgid "Python script"
-msgstr ""
+msgstr "Script Python"
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:32
 msgid ""
@@ -99,13 +126,19 @@ msgid ""
 "All the documentation on the configuration and installation is written here: "
 "https://github.com/WikiToLearn/texla/blob/master/README.mdown"
 msgstr ""
+"Puoi anche scegliere di usare lo script nativo in Python per convertire i "
+"tuoi file.\n"
+"Tutta la documentazione sulla configurazione e sull'installazione è qui: "
+"https://github.com/WikiToLearn/texla/blob/master/README.mdown"
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:32
 msgid "Further documentation"
-msgstr ""
+msgstr "Ulteriore documentazione"
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:37
 msgid ""
 "A more detailed documentation on how to use TeXLa can be found here: "
 "http://meta.wikitolearn.org/Texla"
 msgstr ""
+"Una documentazione più dettagliata sull'uso di TeXLa può essere trovata qui: "
+"http://meta.wikitolearn.org/Texla"

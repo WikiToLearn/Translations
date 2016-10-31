@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 15:08+0200\n"
-"PO-Revision-Date: 2016-10-27 00:23+0100\n"
+"POT-Creation-Date: 2016-10-31 15:04+0200\n"
+"PO-Revision-Date: 2016-10-29 23:03+0200\n"
 "Last-Translator: Paolo Zamponi <zapaolo@email.it>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "Language: it\n"
@@ -16,14 +16,13 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.13.0\n"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:1
-#, fuzzy
 msgid ""
 "WikiToLearn is a community that aims to create free, collaborative and "
 "accessible textbooks.\n"
 "Our philosophy can be summarised as \"''Knowledge only grows if shared''\"."
 msgstr ""
-"WikiToLearn è un portale che mira a creare la libera collaborazione e libri "
-"di testo facilmente accessibili.\n"
+"WikiToLearn è un portale che mira a creare libri di testo liberi, "
+"collaborativi e facilmente accessibili.\n"
 "La nostra filosofia può essere sintetizzata come \"''Il sapere si accresce "
 "solo se condiviso''\"."
 
@@ -84,7 +83,6 @@ msgid "Courses"
 msgstr "Corsi"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:19
-#, fuzzy
 msgid ""
 "Courses are the most important units of WikiToLearn.\n"
 "Courses are collections of chapters, which gather the pages (sections).\n"
@@ -95,14 +93,13 @@ msgstr ""
 "I corsi sono delle raccolte di capitoli, che raccolgono le pagine (sezioni)."
 "\n"
 "Ogni corso ha il prefisso <code>Course:</code>, seguito dal nome del corso "
-"nel suo url."
+"nel suo URL."
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:19
 msgid "Chapters"
 msgstr "Capitoli"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:24
-#, fuzzy
 msgid ""
 "Chapters are the lower level of a course.\n"
 "They gather together some sections of a book and they are displayed as "
@@ -142,7 +139,7 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:32
 msgid "User namespace"
-msgstr "Namespace utente"
+msgstr "Namespace User"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:37
 msgid ""
@@ -150,8 +147,8 @@ msgid ""
 "courses and content without worring about making mistakes.\n"
 "You can see an example here:"
 msgstr ""
-"Il namespace utente è la tua pagina personale dove puoi scrivere i tuoi "
-"corsi e i contenuti, senza preoccuparti di fare errori.\n"
+"Il namespace User è la tua pagina personale dove puoi scrivere i tuoi corsi "
+"e i contenuti, senza preoccuparti di fare errori.\n"
 "Qui puoi vedere un esempio:"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:40
@@ -171,6 +168,12 @@ msgid ""
 "This namespace is used to create an entire public course.\n"
 "You can see an example here:"
 msgstr ""
+"Un namespace Course è simile a quello utente, ma nel prefisso dell'URL* "
+"compare la parola <code>Course:</code><ref>URL è un acronimo di Uniform "
+"Resource Locator, ed è un riferimento (un indirizzo) ad una risorsa su "
+"internet.</ref>.\n"
+"Questo namespace è usato per creare un intero corso pubblico.\n"
+"Puoi vedere un esempio qui:"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:47
 msgid "http://en.wikitolearn.org/Course:How_to_use_Linked_Data"
@@ -190,17 +193,6 @@ msgstr "http://en.wikitolearn.org/Course:How_to_use_Linked_Data"
 
 #~ msgid "(Add image here)"
 #~ msgstr "(Aggiungi un'immagine qui)"
-
-#~ msgid ""
-#~ "A Course namespace is similar to the User one, but it has the word "
-#~ "<code>Course:</code>as a prefix to the URL*.\n"
-#~ "This namespace is used to create an entire public course.\n"
-#~ "You can see an example here:"
-#~ msgstr ""
-#~ "Un namespace corso è simile a quello utente, ma nel prefisso dell'URL* "
-#~ "compare la parola <code>Course:</code>.\n"
-#~ "Questo namespace è usato per creare un intero corso pubblico.\n"
-#~ "Puoi vedere un esempio qui:"
 
 #~ msgid ""
 #~ "URL is an acronym for Uniform Resource Locator and is a reference (an "

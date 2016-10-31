@@ -1,13 +1,14 @@
+# Paolo Zamponi <zapaolo@email.it>, 2016.
 #. extracted from guide/en/wikitolearn-guide-chapter-7.txt
 msgid ""
 msgstr ""
-"Project-Id-Version: wikitolearn-guide-chapter-7\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 15:08+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Italian <LL@li.org>\n"
-"Language: \n"
+"POT-Creation-Date: 2016-10-31 15:04+0200\n"
+"PO-Revision-Date: 2016-10-28 01:11+0100\n"
+"Last-Translator: Paolo Zamponi <zapaolo@email.it>\n"
+"Language-Team: Italian <kde-i18n-it@kde.org>\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,10 +23,15 @@ msgid ""
 "different chapters or even different courses.\n"
 "In that way, you make your own book ready for being printed."
 msgstr ""
+"I libri sono raccolte raggruppate di sezioni che possono essere facilmente "
+"scaricati in pdf per la lettura non in linea.\n"
+"Ti permettono di creare una raccolta personalizzata di sezioni di diversi "
+"capitoli, o anche di diversi corsi.\n"
+"In questo modo rendi il tuo libro pronto per essere stampato."
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:1
 msgid "Create a book"
-msgstr ""
+msgstr "Creare un libro"
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:6
 msgid ""
@@ -39,6 +45,17 @@ msgid ""
 "the top right corner of the box.\n"
 "Otherwise you can read here."
 msgstr ""
+"Per creare un libro fai clic sul pulsante con funzionalità avanzate che si "
+"trova sulla destra.\n"
+"Ti verrà mostrato un insieme di strumenti.\n"
+"Fai clic sul primo libro, e avvia il creatore di libri.\n"
+"Spostati nella sezione desiderata e fai clic sul collegamento «Aggiungi "
+"questa pagina al tuo libro».\n"
+"Con lo strumento di creazione dei libri puoi aggiungere le pagine o dare "
+"un'occhiata al tuo libro.\n"
+"Se hai bisogno di ulteriore aiuto su come usare questo strumento trovi un "
+"collegamento «Aiuto» nell'angolo in alto a destra.\n"
+"Altrimenti puoi leggere qui."
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:14
 msgid ""
@@ -46,10 +63,13 @@ msgid ""
 "the course.\n"
 "It's only shown on course, chapter and section pages."
 msgstr ""
+"'''Nota:''' lo strumento per la creazione di libri è disabilitato nelle "
+"pagine che non appartengono al corso.\n"
+"Viene mostrato solo nei corsi, nei capitoli e nelle sezioni."
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:14
 msgid "Save a book"
-msgstr ""
+msgstr "Salvare un libro"
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:18
 msgid ""
@@ -57,10 +77,14 @@ msgid ""
 "You will be redirected to a page where you can choose to modify, download or "
 "save your book."
 msgstr ""
+"Una volta che le pagine sono state aggiunte, fai clic sul collegamento «"
+"Mostra il tuo libro».\n"
+"Sarai reindirizzato ad una pagina in cui puoi scegliere di modificare, di "
+"scaricare o di salvare il tuo libro."
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:18
 msgid "Sort a book"
-msgstr ""
+msgstr "Ordinare un libro"
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:22
 msgid ""
@@ -68,6 +92,9 @@ msgid ""
 "pages.\n"
 "If you want to manually add a chapter, click on the \"Create chapter\" link."
 msgstr ""
+"Se vuoi ordinare in base alle sezioni, trascina semplicemente la pagina.\n"
+"Se vuoi aggiungere manualmente un capitolo, fai clic sul collegamento «Crea "
+"capitolo»."
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:25
 msgid ""
@@ -76,25 +103,37 @@ msgid ""
 "When you save the book, there are two options:\n"
 "save it on your personal page or under the page <code>Projects:Books</code>."
 msgstr ""
+"Facendo clic sullo scaricamento, le pagine del libro saranno scaricate come "
+"LaTeX composto in pdf.\n"
+"Hai due opzioni per salvare il tuo libro:\n"
+"puoi salvarlo nella tua pagina personale, oppure nella pagina "
+"<code>Progetti:Libri</code>."
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:29
 msgid ""
 "'''Note:''' it's strongly recommended to save the book under your user "
 "namespace."
 msgstr ""
+"'''Nota:''' ti raccomandiamo caldamente di salvare il libro nel tuo "
+"namespace utente."
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:31
 msgid ""
 "Choose the first option, write the name of your book and click on \"Save "
 "Book\" button."
 msgstr ""
+"Scegli la prima opzione, scrivi il nome del tuo libro e fai clic sul "
+"pulsante «Salva il libro»."
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:31
 msgid "Search for books"
-msgstr ""
+msgstr "Cercare libri"
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:34
 msgid ""
 "If you want to see books created by all the users, both public and private,\n"
 "click on the \"Books\" button on the navigation bar."
 msgstr ""
+"Se vuoi vedere i libri creati da tutti gli utenti, sia pubblici che privati,"
+"\n"
+"fai clic sul pulsante «Libri» della barra di navigazione."
