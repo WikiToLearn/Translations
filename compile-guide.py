@@ -17,6 +17,7 @@ enconfig.readfp(codecs.open(sys.argv[1],'r', 'utf8'))
 for identifier, string in config.items("messages"):
     if len(string) == 0:
        string = enconfig.get("messages", identifier)
+    string = string.encode('utf-8')
 
     print 'xxxxxxSEPARATORBEGINxxxxxx'
     print "'''"+string+"'''"
@@ -27,7 +28,7 @@ for identifier, string in config.items("messages"):
             tstring = config.get("messages", match)
             raw_line = codecs.decode(raw_line, 'utf8')
             raw_line.replace(wstring.decode('utf-8'), tstring)
-            raw_line = raw_line.replace(wstring, tstring)
+            raw_line = raw_line.replace(wstring, tstring).encode('utf-8')
         print raw_line
 
     print 'xxxxxxSEPARATORENDxxxxxx'
