@@ -6,6 +6,7 @@ Remember that you need to provide proper credentials to log in the website with 
 
 Example format of the file:
 
+```
 ("en", "wikitolearn", "WikiToBot", "password")
 ("deven", "wikitolearn", "WikiToBot", "password")
 ("it", "wikitolearn", "WikiToBot", "password")
@@ -14,5 +15,4 @@ Example format of the file:
 ("devfr", "wikitolearn", "WikiToBot", "password")
 ("ca", "wikitolearn", "WikiToBot", "password")
 ("devca", "wikitolearn", "WikiToBot", "password")
-
-
+```
