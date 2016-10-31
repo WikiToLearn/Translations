@@ -1,5 +1,16 @@
 #!/bin/bash
 
+set -e
+
+for b in txt2po ini2po json2po po2txt po2ini po2json
+do
+    if ! which $b &> /dev/null
+    then
+        echo "Missing "$b
+        exit 1
+    fi
+done
+
 # List of directories with en.json to translate
 JSON="courseeditor skin"
 # List of directories with ini files to translate
