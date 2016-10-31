@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wikitolearn-guide-chapter-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-31 15:04+0200\n"
+"POT-Creation-Date: 2016-10-31 17:17+0200\n"
 "PO-Revision-Date: 2016-10-16 19:24+0100\n"
 "Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -51,11 +51,15 @@ msgstr ""
 "Escriviu el nom de la secció i deseu els canvis fent clic al botó <code>Desa "
 "el capítol</code>."
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:7
+#: guide/en/wikitolearn-guide-chapter-4.txt:11
+msgid "[[File:Add_section_wtl.gif]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-4.txt:11
 msgid "Rename a section"
 msgstr "Reanomenar una secció"
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:12
+#: guide/en/wikitolearn-guide-chapter-4.txt:14
 msgid ""
 "Simply find the chapter where the section is located and click on the pencil "
 "on the right of the chapter's name. \n"
@@ -67,15 +71,15 @@ msgstr ""
 "Sereu capaç de canviar el nom de la secció fent clic sobre la icona amb el "
 "llapis blau."
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:15
-msgid "[[File:Manual_rename_section.gif]]"
-msgstr "[[File:Manual_rename_section.gif]]"
+#: guide/en/wikitolearn-guide-chapter-4.txt:17
+msgid "[[File:Rename_section_wtl.gif]]"
+msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:15
+#: guide/en/wikitolearn-guide-chapter-4.txt:17
 msgid "Delete a section"
 msgstr "Eliminar una secció"
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:18
+#: guide/en/wikitolearn-guide-chapter-4.txt:20
 msgid ""
 "To delete a section find the chapter where the targeted section is present "
 "and edit it.\n"
@@ -85,15 +89,15 @@ msgstr ""
 "i editeu-lo.\n"
 "Sereu capaç d'eliminar la secció fent clic sobre la icona de la paperera."
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:21
-msgid "[[File:Manual_delete_section.gif]]"
-msgstr "[[File:Manual_delete_section.gif]]"
+#: guide/en/wikitolearn-guide-chapter-4.txt:23
+msgid "[[File:Delete_section_wtl.gif]]"
+msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:21
+#: guide/en/wikitolearn-guide-chapter-4.txt:23
 msgid "Restore a section"
 msgstr "Restaurar una secció"
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:24
+#: guide/en/wikitolearn-guide-chapter-4.txt:26
 msgid ""
 "If you have sections in the recycling bin you can restore them by placing "
 "the mouse on the sections and clicking on the restore icon on the left of "
@@ -103,22 +107,22 @@ msgstr ""
 "el ratolí sobre les seccions i fent clic a la icona de restaurar que hi ha a "
 "l'esquerra del nom de la secció."
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:26
-msgid "[[File:Manual_Restore_section.gif]]"
-msgstr "[[File:Manual_Restore_section.gif]]"
-
 #: guide/en/wikitolearn-guide-chapter-4.txt:28
+msgid "[[File:Restore_section_wtl.gif]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-4.txt:30
 msgid ""
 "Always remember to save the changes by clicking on the <code>Save "
 "Course</code> button."
 msgstr ""
 "Recordeu sempre desar els canvis fent clic al botó <code>Desa el curs</code>."
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:28
+#: guide/en/wikitolearn-guide-chapter-4.txt:30
 msgid "Move a section"
 msgstr "Moure una secció"
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:31
+#: guide/en/wikitolearn-guide-chapter-4.txt:33
 msgid ""
 "To move a section within the same chapter, you can simply use the drag and "
 "drop elements.\n"
@@ -132,14 +136,27 @@ msgstr ""
 "Per ara, si cal, suggerim el següent procediment:\n"
 "copiar el contingut de la secció en un document;"
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:31
+#: guide/en/wikitolearn-guide-chapter-4.txt:33
 msgid "delete the section you'd like to move;"
 msgstr "eliminar la secció voleu moure;"
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:31
+#: guide/en/wikitolearn-guide-chapter-4.txt:33
 msgid "create a new section located at the right place;"
 msgstr "crear una nova secció ubicada al lloc correcte;"
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:31
+#: guide/en/wikitolearn-guide-chapter-4.txt:33
 msgid "paste the old content and save the page."
 msgstr "enganxar el contingut antic i desar la pàgina."
+
+#: guide/en/wikitolearn-guide-chapter-4.txt:41
+msgid "[[File:Move_section_wtl.gif]]"
+msgstr ""
+
+#~ msgid "[[File:Manual_rename_section.gif]]"
+#~ msgstr "[[File:Manual_rename_section.gif]]"
+
+#~ msgid "[[File:Manual_delete_section.gif]]"
+#~ msgstr "[[File:Manual_delete_section.gif]]"
+
+#~ msgid "[[File:Manual_Restore_section.gif]]"
+#~ msgstr "[[File:Manual_Restore_section.gif]]"

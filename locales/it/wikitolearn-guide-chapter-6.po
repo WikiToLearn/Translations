@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-31 15:04+0200\n"
+"POT-Creation-Date: 2016-10-31 17:17+0200\n"
 "PO-Revision-Date: 2016-10-30 23:44+0100\n"
 "Last-Translator: Luigi Toscano <luigi.toscano@tiscali.it>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -40,11 +40,15 @@ msgstr ""
 " del [[<ref:wikitolearn-guide-chapter-5>|Visual Editor]].\n"
 "Scrivi nel nome del modello che vuoi inserire e seleziona quello corretto."
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:5
+#: guide/en/wikitolearn-guide-chapter-6.txt:8
+msgid "[[File:]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-6.txt:8
 msgid "Using templates parameters"
 msgstr "Usare i parametri dei modelli"
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:10
+#: guide/en/wikitolearn-guide-chapter-6.txt:12
 msgid ""
 "Some templates can have named parameters.\n"
 "You can fill such a field by clicking on the field name and specifying the "
@@ -54,15 +58,15 @@ msgstr ""
 "È possibile compilare tale campo facendo clic sul suo nome e specificando il "
 "valore desiderato."
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:13
+#: guide/en/wikitolearn-guide-chapter-6.txt:15
 msgid "[[File:Manual_templates_parameter.png]]"
 msgstr "[[File:Manual_templates_parameter.png]]"
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:13
+#: guide/en/wikitolearn-guide-chapter-6.txt:15
 msgid "Inserting environments"
 msgstr "Inserire ambienti"
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:16
+#: guide/en/wikitolearn-guide-chapter-6.txt:18
 msgid ""
 "For mathematics, you often want to mark things as being a Theorem, a Proof, "
 "a Definition, or another entity.\n"
@@ -74,7 +78,15 @@ msgstr ""
 "Puoi farlo facendo clic sul pulsante «Aggiungi ambiente» nell'editor, e "
 "scegliendo l'ambiente desiderato."
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:19
+#: guide/en/wikitolearn-guide-chapter-6.txt:21
+msgid "[[File:Theorem_insertion_wtl.gif]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-6.txt:23
+msgid "[[File:Theorem_title.gif]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-6.txt:25
 msgid ""
 "Note: when you add an environment, you will see some text called \"END "
 "ENVIRONMENT\" or similar. This is just for your convenience to know you are "

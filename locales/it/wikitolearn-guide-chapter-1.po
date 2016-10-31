@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-31 15:04+0200\n"
+"POT-Creation-Date: 2016-10-31 17:17+0200\n"
 "PO-Revision-Date: 2016-10-29 23:03+0200\n"
 "Last-Translator: Paolo Zamponi <zapaolo@email.it>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -78,11 +78,15 @@ msgstr ""
 "mentre la <code>meccanica quantistica per gli studenti universitari</code> o "
 "la <code>meccanica quantistica avanzata</code> possono essere un corso."
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:14
+#: guide/en/wikitolearn-guide-chapter-1.txt:18
+msgid "[[File:Topic_example_wtl.png]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-1.txt:18
 msgid "Courses"
 msgstr "Corsi"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:19
+#: guide/en/wikitolearn-guide-chapter-1.txt:21
 msgid ""
 "Courses are the most important units of WikiToLearn.\n"
 "Courses are collections of chapters, which gather the pages (sections).\n"
@@ -95,11 +99,15 @@ msgstr ""
 "Ogni corso ha il prefisso <code>Course:</code>, seguito dal nome del corso "
 "nel suo URL."
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:19
+#: guide/en/wikitolearn-guide-chapter-1.txt:25
+msgid "[[File:Course_example_wtl.png]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-1.txt:25
 msgid "Chapters"
 msgstr "Capitoli"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:24
+#: guide/en/wikitolearn-guide-chapter-1.txt:28
 msgid ""
 "Chapters are the lower level of a course.\n"
 "They gather together some sections of a book and they are displayed as "
@@ -109,11 +117,15 @@ msgstr ""
 "Raccolgono insieme alcune sezioni di un libro, e sono visualizzati come "
 "titoli nella pagina principale del corso."
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:24
+#: guide/en/wikitolearn-guide-chapter-1.txt:31
+msgid "[[File:Chapter_example_wtl.gif]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-1.txt:31
 msgid "Section"
 msgstr "Sezione"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:28
+#: guide/en/wikitolearn-guide-chapter-1.txt:34
 msgid ""
 "Sections are the basic unit of an entire course.\n"
 "Basically, they're a single webpage with its own content."
@@ -121,11 +133,15 @@ msgstr ""
 "Le sezioni sono le unità di base di un intero corso.\n"
 "Fondamentalmente sono una singola pagina web con il suo contenuto."
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:28
+#: guide/en/wikitolearn-guide-chapter-1.txt:37
+msgid "[[File:Section_example.gif]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-1.txt:37
 msgid "Namespaces"
 msgstr "Namespace"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:32
+#: guide/en/wikitolearn-guide-chapter-1.txt:40
 msgid ""
 "Namespaces are a mechanism for grouping pages.\n"
 "You can see the namespace by looking at the url: if it has a "
@@ -137,11 +153,11 @@ msgstr ""
 "<code>parola:qualcos_altro</code> allora \"parola\" è il namespace.\n"
 "In Wikitolearn ci sono due namespace principali, \"Utente\" e \"Corso\"."
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:32
+#: guide/en/wikitolearn-guide-chapter-1.txt:40
 msgid "User namespace"
 msgstr "Namespace User"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:37
+#: guide/en/wikitolearn-guide-chapter-1.txt:45
 msgid ""
 "The User namespace is your personal page where you can write your own "
 "courses and content without worring about making mistakes.\n"
@@ -151,15 +167,15 @@ msgstr ""
 "e i contenuti, senza preoccuparti di fare errori.\n"
 "Qui puoi vedere un esempio:"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:40
+#: guide/en/wikitolearn-guide-chapter-1.txt:48
 msgid "http://en.wikitolearn.org/User:Grigoletti"
 msgstr "http://en.wikitolearn.org/User:Grigoletti"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:40
+#: guide/en/wikitolearn-guide-chapter-1.txt:48
 msgid "Course namespace"
 msgstr "Namespace Course"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:43
+#: guide/en/wikitolearn-guide-chapter-1.txt:51
 msgid ""
 "A Course namespace is similar to the User one, but it has the word "
 "<code>Course:</code>as a prefix to the URL<ref>URL is an acronym for Uniform "
@@ -175,7 +191,7 @@ msgstr ""
 "Questo namespace è usato per creare un intero corso pubblico.\n"
 "Puoi vedere un esempio qui:"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:47
+#: guide/en/wikitolearn-guide-chapter-1.txt:55
 msgid "http://en.wikitolearn.org/Course:How_to_use_Linked_Data"
 msgstr "http://en.wikitolearn.org/Course:How_to_use_Linked_Data"
 

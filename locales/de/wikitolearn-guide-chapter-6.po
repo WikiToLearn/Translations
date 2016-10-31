@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-31 15:04+0200\n"
+"POT-Creation-Date: 2016-10-31 17:17+0200\n"
 "PO-Revision-Date: 2016-10-18 23:41+0100\n"
 "Last-Translator: Frederik Schwarzer <schwarzer@kde.org>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
@@ -34,26 +34,30 @@ msgid ""
 "Type in the name of the template you want to insert and select the right one."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:5
+#: guide/en/wikitolearn-guide-chapter-6.txt:8
+msgid "[[File:]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-6.txt:8
 msgid "Using templates parameters"
 msgstr "Vorlagenparameter verwenden"
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:10
+#: guide/en/wikitolearn-guide-chapter-6.txt:12
 msgid ""
 "Some templates can have named parameters.\n"
 "You can fill such a field by clicking on the field name and specifying the "
 "desired value."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:13
+#: guide/en/wikitolearn-guide-chapter-6.txt:15
 msgid "[[File:Manual_templates_parameter.png]]"
 msgstr "[[File:Manual_templates_parameter.png]]"
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:13
+#: guide/en/wikitolearn-guide-chapter-6.txt:15
 msgid "Inserting environments"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:16
+#: guide/en/wikitolearn-guide-chapter-6.txt:18
 msgid ""
 "For mathematics, you often want to mark things as being a Theorem, a Proof, "
 "a Definition, or another entity.\n"
@@ -61,7 +65,15 @@ msgid ""
 "and choosing the desired environment."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:19
+#: guide/en/wikitolearn-guide-chapter-6.txt:21
+msgid "[[File:Theorem_insertion_wtl.gif]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-6.txt:23
+msgid "[[File:Theorem_title.gif]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-6.txt:25
 msgid ""
 "Note: when you add an environment, you will see some text called \"END "
 "ENVIRONMENT\" or similar. This is just for your convenience to know you are "

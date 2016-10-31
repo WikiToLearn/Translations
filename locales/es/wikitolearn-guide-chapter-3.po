@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-31 15:04+0200\n"
+"POT-Creation-Date: 2016-10-31 17:17+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,7 +31,7 @@ msgid ""
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:8
-msgid "[[File:Manual_add_section.gif]]"
+msgid "[[File:Add_chapter_wtl.gif]]"
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:8
@@ -50,7 +50,7 @@ msgid ""
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:17
-msgid "[[File:Manual_rename_section.gif]]"
+msgid "[[File:Rename_chapter_wtl.gif]]"
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:17
@@ -71,7 +71,7 @@ msgid ""
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:26
-msgid "[[File:Manual_delete_section.gif]]"
+msgid "[[File:Delete_chapter_wtl.gif]]"
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:26
@@ -86,7 +86,7 @@ msgid ""
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:31
-msgid "[[File:Manual_Restore_section.gif]]"
+msgid "[[File:Restore_chapter_wtl.gif]]"
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:33
@@ -107,4 +107,8 @@ msgid ""
 "Simply drag and drop them to swap their order.\n"
 "Once done, save your changes by clicking on the <code>Save course</code> "
 "button."
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-3.txt:41
+msgid "[[File:Move_chapter_wtl.gif]]"
 msgstr ""

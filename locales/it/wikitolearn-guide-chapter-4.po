@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-31 15:04+0200\n"
+"POT-Creation-Date: 2016-10-31 17:17+0200\n"
 "PO-Revision-Date: 2016-10-30 23:34+0100\n"
 "Last-Translator: Luigi Toscano <luigi.toscano@tiscali.it>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -49,11 +49,15 @@ msgstr ""
 "Scrivi quindi il nome della sezione e salva le modifiche facendo clic sul "
 "pulsante <code>salva il capitolo</code>."
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:7
+#: guide/en/wikitolearn-guide-chapter-4.txt:11
+msgid "[[File:Add_section_wtl.gif]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-4.txt:11
 msgid "Rename a section"
 msgstr "Rinominare una sezione"
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:12
+#: guide/en/wikitolearn-guide-chapter-4.txt:14
 msgid ""
 "Simply find the chapter where the section is located and click on the pencil "
 "on the right of the chapter's name. \n"
@@ -64,15 +68,15 @@ msgstr ""
 "matita a destra del nome del capitolo.\n"
 "Potrai rinominare la sezione facendo clic sull'icona con la matita blu."
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:15
-msgid "[[File:Manual_rename_section.gif]]"
-msgstr "[[File:Manual_rename_section.gif]]"
+#: guide/en/wikitolearn-guide-chapter-4.txt:17
+msgid "[[File:Rename_section_wtl.gif]]"
+msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:15
+#: guide/en/wikitolearn-guide-chapter-4.txt:17
 msgid "Delete a section"
 msgstr "Eliminare una sezione"
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:18
+#: guide/en/wikitolearn-guide-chapter-4.txt:20
 msgid ""
 "To delete a section find the chapter where the targeted section is present "
 "and edit it.\n"
@@ -82,15 +86,15 @@ msgstr ""
 "modificalo.\n"
 "Potrai eliminare la sezione premendo l'icona del cestino."
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:21
-msgid "[[File:Manual_delete_section.gif]]"
-msgstr "[[File:Manual_delete_section.gif]]"
+#: guide/en/wikitolearn-guide-chapter-4.txt:23
+msgid "[[File:Delete_section_wtl.gif]]"
+msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:21
+#: guide/en/wikitolearn-guide-chapter-4.txt:23
 msgid "Restore a section"
 msgstr "Ripristinare una sezione"
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:24
+#: guide/en/wikitolearn-guide-chapter-4.txt:26
 msgid ""
 "If you have sections in the recycling bin you can restore them by placing "
 "the mouse on the sections and clicking on the restore icon on the left of "
@@ -100,11 +104,11 @@ msgstr ""
 "sulle sezioni e facendo clic sull'icona di ripristino alla sinistra del nome "
 "della sezione."
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:26
-msgid "[[File:Manual_Restore_section.gif]]"
-msgstr "[[File:Manual_Restore_section.gif]]"
-
 #: guide/en/wikitolearn-guide-chapter-4.txt:28
+msgid "[[File:Restore_section_wtl.gif]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-4.txt:30
 msgid ""
 "Always remember to save the changes by clicking on the <code>Save "
 "Course</code> button."
@@ -112,11 +116,11 @@ msgstr ""
 "Ricordati sempre di salvare le modifiche facendo clic sul pulsante <code>"
 "Salva il corso</code>."
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:28
+#: guide/en/wikitolearn-guide-chapter-4.txt:30
 msgid "Move a section"
 msgstr "Spostare una sezione"
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:31
+#: guide/en/wikitolearn-guide-chapter-4.txt:33
 msgid ""
 "To move a section within the same chapter, you can simply use the drag and "
 "drop elements.\n"
@@ -131,17 +135,30 @@ msgstr ""
 "Per ora, se necessario, suggeriamo la seguente procedura:\n"
 "copia il contenuto della sezione in un documento;"
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:31
+#: guide/en/wikitolearn-guide-chapter-4.txt:33
 msgid "delete the section you'd like to move;"
 msgstr "elimina la sezione che vorresti spostare;"
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:31
+#: guide/en/wikitolearn-guide-chapter-4.txt:33
 msgid "create a new section located at the right place;"
 msgstr "crea una nuova sezione nel posto giusto;"
 
-#: guide/en/wikitolearn-guide-chapter-4.txt:31
+#: guide/en/wikitolearn-guide-chapter-4.txt:33
 msgid "paste the old content and save the page."
 msgstr "incolla il vecchio contenuto e salva la pagina."
+
+#: guide/en/wikitolearn-guide-chapter-4.txt:41
+msgid "[[File:Move_section_wtl.gif]]"
+msgstr ""
+
+#~ msgid "[[File:Manual_rename_section.gif]]"
+#~ msgstr "[[File:Manual_rename_section.gif]]"
+
+#~ msgid "[[File:Manual_delete_section.gif]]"
+#~ msgstr "[[File:Manual_delete_section.gif]]"
+
+#~ msgid "[[File:Manual_Restore_section.gif]]"
+#~ msgstr "[[File:Manual_Restore_section.gif]]"
 
 #~ msgid "Add a chapter"
 #~ msgstr "Aggiungere un capitolo"

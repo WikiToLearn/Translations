@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-31 15:04+0200\n"
+"POT-Creation-Date: 2016-10-31 17:17+0200\n"
 "PO-Revision-Date: 2016-10-28 01:11+0100\n"
 "Last-Translator: Paolo Zamponi <zapaolo@email.it>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -58,6 +58,10 @@ msgstr ""
 "Altrimenti puoi leggere qui."
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:14
+msgid "[[File:Book_creation_wtl.gif]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-7.txt:16
 msgid ""
 "'''Note:''' The book creator tool is disabled on pages that are not within "
 "the course.\n"
@@ -67,11 +71,11 @@ msgstr ""
 "pagine che non appartengono al corso.\n"
 "Viene mostrato solo nei corsi, nei capitoli e nelle sezioni."
 
-#: guide/en/wikitolearn-guide-chapter-7.txt:14
+#: guide/en/wikitolearn-guide-chapter-7.txt:16
 msgid "Save a book"
 msgstr "Salvare un libro"
 
-#: guide/en/wikitolearn-guide-chapter-7.txt:18
+#: guide/en/wikitolearn-guide-chapter-7.txt:20
 msgid ""
 "Once pages have been added click on \"Show your book\" link.\n"
 "You will be redirected to a page where you can choose to modify, download or "
@@ -82,11 +86,15 @@ msgstr ""
 "Sarai reindirizzato ad una pagina in cui puoi scegliere di modificare, di "
 "scaricare o di salvare il tuo libro."
 
-#: guide/en/wikitolearn-guide-chapter-7.txt:18
+#: guide/en/wikitolearn-guide-chapter-7.txt:23
+msgid "[[File:Book_chapter_creation_wtl.gif]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-7.txt:23
 msgid "Sort a book"
 msgstr "Ordinare un libro"
 
-#: guide/en/wikitolearn-guide-chapter-7.txt:22
+#: guide/en/wikitolearn-guide-chapter-7.txt:26
 msgid ""
 "If you want to sort the order of the sections, simply drag and drop the "
 "pages.\n"
@@ -96,7 +104,11 @@ msgstr ""
 "Se vuoi aggiungere manualmente un capitolo, fai clic sul collegamento «Crea "
 "capitolo»."
 
-#: guide/en/wikitolearn-guide-chapter-7.txt:25
+#: guide/en/wikitolearn-guide-chapter-7.txt:29
+msgid "[[File:Book_chapter_section_management_wtl.gif]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-7.txt:31
 msgid ""
 "Clicking on download will download the pages of the book as a LaTeX "
 "typesetted pdf.\n"
@@ -109,7 +121,11 @@ msgstr ""
 "puoi salvarlo nella tua pagina personale, oppure nella pagina "
 "<code>Progetti:Libri</code>."
 
-#: guide/en/wikitolearn-guide-chapter-7.txt:29
+#: guide/en/wikitolearn-guide-chapter-7.txt:35
+msgid "[[File:Book_download_wtl.gif]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-7.txt:37
 msgid ""
 "'''Note:''' it's strongly recommended to save the book under your user "
 "namespace."
@@ -117,7 +133,7 @@ msgstr ""
 "'''Nota:''' ti raccomandiamo caldamente di salvare il libro nel tuo "
 "namespace utente."
 
-#: guide/en/wikitolearn-guide-chapter-7.txt:31
+#: guide/en/wikitolearn-guide-chapter-7.txt:39
 msgid ""
 "Choose the first option, write the name of your book and click on \"Save "
 "Book\" button."
@@ -125,11 +141,11 @@ msgstr ""
 "Scegli la prima opzione, scrivi il nome del tuo libro e fai clic sul "
 "pulsante «Salva il libro»."
 
-#: guide/en/wikitolearn-guide-chapter-7.txt:31
+#: guide/en/wikitolearn-guide-chapter-7.txt:39
 msgid "Search for books"
 msgstr "Cercare libri"
 
-#: guide/en/wikitolearn-guide-chapter-7.txt:34
+#: guide/en/wikitolearn-guide-chapter-7.txt:42
 msgid ""
 "If you want to see books created by all the users, both public and private,\n"
 "click on the \"Books\" button on the navigation bar."

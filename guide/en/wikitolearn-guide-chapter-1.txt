@@ -15,18 +15,26 @@ Topics are the level underneath Departments and contain different courses relate
 They are used to gather all the courses that explain the same theme, because every university and faculty could have a different approach to the subject.
 For example, <code>Quantum Physics</code> may be a topic and <code>Quantum Mechanics for graduate students</code>, <code>Advanced Quantum Mechanics</code> may be a course.
 
+[[File:Topic_example_wtl.png]]
+
 === Courses ===
 Courses are the most important units of WikiToLearn.
 Courses are collections of chapters, which gather the pages (sections).
 Every course has the prefix <code>Course:</code> followed by the course name in its URL.
 
+[[File:Course_example_wtl.png]]
+
 === Chapters ===
 Chapters are the lower level of a course.
 They gather together some sections of a book and they are displayed as heading titles in the main page of the course.
 
+[[File:Chapter_example_wtl.gif]]
+
 === Section ===
 Sections are the basic unit of an entire course.
 Basically, they're a single webpage with its own content.
+
+[[File:Section_example.gif]]
 
 == Namespaces ==
 Namespaces are a mechanism for grouping pages.

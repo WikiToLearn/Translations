@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wikitolearn-guide-chapter-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-31 15:04+0200\n"
+"POT-Creation-Date: 2016-10-31 17:17+0200\n"
 "PO-Revision-Date: 2016-10-16 18:30+0100\n"
 "Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -83,11 +83,15 @@ msgstr ""
 "quàntica per a estudiants graduats</code>, <code>Mecànica quàntica "
 "avançada</code> poden ser un curs."
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:14
+#: guide/en/wikitolearn-guide-chapter-1.txt:18
+msgid "[[File:Topic_example_wtl.png]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-1.txt:18
 msgid "Courses"
 msgstr "Cursos"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:19
+#: guide/en/wikitolearn-guide-chapter-1.txt:21
 #, fuzzy
 msgid ""
 "Courses are the most important units of WikiToLearn.\n"
@@ -101,11 +105,15 @@ msgstr ""
 "Cada curs té el prefix <code>Course:</code> seguit pel nom del curs en el "
 "seu URL."
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:19
+#: guide/en/wikitolearn-guide-chapter-1.txt:25
+msgid "[[File:Course_example_wtl.png]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-1.txt:25
 msgid "Chapters"
 msgstr "Capítols"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:24
+#: guide/en/wikitolearn-guide-chapter-1.txt:28
 #, fuzzy
 msgid ""
 "Chapters are the lower level of a course.\n"
@@ -116,11 +124,15 @@ msgstr ""
 "Reuneixen algunes seccions d'un llibre i es mostren com a titulars a la "
 "pàgina principal del curs."
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:24
+#: guide/en/wikitolearn-guide-chapter-1.txt:31
+msgid "[[File:Chapter_example_wtl.gif]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-1.txt:31
 msgid "Section"
 msgstr "Secció"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:28
+#: guide/en/wikitolearn-guide-chapter-1.txt:34
 msgid ""
 "Sections are the basic unit of an entire course.\n"
 "Basically, they're a single webpage with its own content."
@@ -128,11 +140,15 @@ msgstr ""
 "Les seccions són la unitat bàsica de tot un curs.\n"
 "Bàsicament, són una sola pàgina web amb el seu propi contingut."
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:28
+#: guide/en/wikitolearn-guide-chapter-1.txt:37
+msgid "[[File:Section_example.gif]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-1.txt:37
 msgid "Namespaces"
 msgstr "Espais de nom"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:32
+#: guide/en/wikitolearn-guide-chapter-1.txt:40
 msgid ""
 "Namespaces are a mechanism for grouping pages.\n"
 "You can see the namespace by looking at the url: if it has a "
@@ -144,11 +160,11 @@ msgstr ""
 "<code>word:quelcom_més</code>, llabors «word» serà l'espai de nom.\n"
 "Al WikiToLearn hi ha dos espais de nom principals, «User» i «Course»."
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:32
+#: guide/en/wikitolearn-guide-chapter-1.txt:40
 msgid "User namespace"
 msgstr "Espai de nom de l'usuari"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:37
+#: guide/en/wikitolearn-guide-chapter-1.txt:45
 msgid ""
 "The User namespace is your personal page where you can write your own "
 "courses and content without worring about making mistakes.\n"
@@ -159,15 +175,15 @@ msgstr ""
 "vos per cometre errors.\n"
 "Podeu veure'n un exemple aquí:"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:40
+#: guide/en/wikitolearn-guide-chapter-1.txt:48
 msgid "http://en.wikitolearn.org/User:Grigoletti"
 msgstr "http://en.wikitolearn.org/User:Grigoletti"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:40
+#: guide/en/wikitolearn-guide-chapter-1.txt:48
 msgid "Course namespace"
 msgstr "Espai de nom del curs"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:43
+#: guide/en/wikitolearn-guide-chapter-1.txt:51
 msgid ""
 "A Course namespace is similar to the User one, but it has the word "
 "<code>Course:</code>as a prefix to the URL<ref>URL is an acronym for Uniform "
@@ -177,7 +193,7 @@ msgid ""
 "You can see an example here:"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:47
+#: guide/en/wikitolearn-guide-chapter-1.txt:55
 msgid "http://en.wikitolearn.org/Course:How_to_use_Linked_Data"
 msgstr "http://en.wikitolearn.org/Course:How_to_use_Linked_Data"
 

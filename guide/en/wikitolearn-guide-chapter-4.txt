@@ -8,22 +8,24 @@ To add a section into a chapter, go the course main page.
 Find the chapter where you want to add the section and click on the pencil on the right of the chapter's name. 
 Write the name of the section and save the changes by clicking on the <code>save chapter</code> button.
 
+[[File:Add_section_wtl.gif]]
+
 == Rename a section ==
 Simply find the chapter where the section is located and click on the pencil on the right of the chapter's name. 
 You will be able to rename the section by clicking on the icon with the blue pencil.
 
-[[File:Manual_rename_section.gif]]
+[[File:Rename_section_wtl.gif]]
 
 == Delete a section ==
 To delete a section find the chapter where the targeted section is present and edit it.
 You will be able to delete the section by pressing on the trash icon.
 
-[[File:Manual_delete_section.gif]]
+[[File:Delete_section_wtl.gif]]
 
 === Restore a section ===
 If you have sections in the recycling bin you can restore them by placing the mouse on the sections and clicking on the restore icon on the left of the section's name.
 
-[[File:Manual_Restore_section.gif]]
+[[File:Restore_section_wtl.gif]]
 
 Always remember to save the changes by clicking on the <code>Save Course</code> button.
 
@@ -35,3 +37,5 @@ For now, if needed, we suggest the following procedure:
 *delete the section you'd like to move;
 *create a new section located at the right place;
 *paste the old content and save the page.
+
+[[File:Move_section_wtl.gif]]

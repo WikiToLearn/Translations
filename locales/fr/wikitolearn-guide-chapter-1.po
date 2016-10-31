@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-31 15:04+0200\n"
+"POT-Creation-Date: 2016-10-31 17:17+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -59,11 +59,15 @@ msgid ""
 "Mechanics</code> may be a course."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:14
+#: guide/en/wikitolearn-guide-chapter-1.txt:18
+msgid "[[File:Topic_example_wtl.png]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-1.txt:18
 msgid "Courses"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:19
+#: guide/en/wikitolearn-guide-chapter-1.txt:21
 msgid ""
 "Courses are the most important units of WikiToLearn.\n"
 "Courses are collections of chapters, which gather the pages (sections).\n"
@@ -71,32 +75,44 @@ msgid ""
 "in its URL."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:19
+#: guide/en/wikitolearn-guide-chapter-1.txt:25
+msgid "[[File:Course_example_wtl.png]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-1.txt:25
 msgid "Chapters"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:24
+#: guide/en/wikitolearn-guide-chapter-1.txt:28
 msgid ""
 "Chapters are the lower level of a course.\n"
 "They gather together some sections of a book and they are displayed as "
 "heading titles in the main page of the course."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:24
+#: guide/en/wikitolearn-guide-chapter-1.txt:31
+msgid "[[File:Chapter_example_wtl.gif]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-1.txt:31
 msgid "Section"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:28
+#: guide/en/wikitolearn-guide-chapter-1.txt:34
 msgid ""
 "Sections are the basic unit of an entire course.\n"
 "Basically, they're a single webpage with its own content."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:28
+#: guide/en/wikitolearn-guide-chapter-1.txt:37
+msgid "[[File:Section_example.gif]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-1.txt:37
 msgid "Namespaces"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:32
+#: guide/en/wikitolearn-guide-chapter-1.txt:40
 msgid ""
 "Namespaces are a mechanism for grouping pages.\n"
 "You can see the namespace by looking at the url: if it has a "
@@ -104,26 +120,26 @@ msgid ""
 "In WikiTolearn there are two main namespaces, \"User\" and \"Course\"."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:32
+#: guide/en/wikitolearn-guide-chapter-1.txt:40
 msgid "User namespace"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:37
+#: guide/en/wikitolearn-guide-chapter-1.txt:45
 msgid ""
 "The User namespace is your personal page where you can write your own "
 "courses and content without worring about making mistakes.\n"
 "You can see an example here:"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:40
+#: guide/en/wikitolearn-guide-chapter-1.txt:48
 msgid "http://en.wikitolearn.org/User:Grigoletti"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:40
+#: guide/en/wikitolearn-guide-chapter-1.txt:48
 msgid "Course namespace"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:43
+#: guide/en/wikitolearn-guide-chapter-1.txt:51
 msgid ""
 "A Course namespace is similar to the User one, but it has the word "
 "<code>Course:</code>as a prefix to the URL<ref>URL is an acronym for Uniform "
@@ -133,6 +149,6 @@ msgid ""
 "You can see an example here:"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:47
+#: guide/en/wikitolearn-guide-chapter-1.txt:55
 msgid "http://en.wikitolearn.org/Course:How_to_use_Linked_Data"
 msgstr ""

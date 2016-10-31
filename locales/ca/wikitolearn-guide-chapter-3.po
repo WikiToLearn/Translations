@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wikitolearn-guide-chapter-3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-31 15:04+0200\n"
+"POT-Creation-Date: 2016-10-31 17:17+0200\n"
 "PO-Revision-Date: 2016-10-17 20:14+0100\n"
 "Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -46,8 +46,8 @@ msgstr ""
 "Un cop fet això, feu clic al botó <code>Desa el curs</code>."
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:8
-msgid "[[File:Manual_add_section.gif]]"
-msgstr "[[File:Manual_add_section.gif]]"
+msgid "[[File:Add_chapter_wtl.gif]]"
+msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:8
 msgid "Rename a chapter"
@@ -73,8 +73,8 @@ msgstr ""
 "Un cop fet això, feu clic al botó <code>Desa el curs</code>."
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:17
-msgid "[[File:Manual_rename_section.gif]]"
-msgstr "[[File:Manual_rename_section.gif]]"
+msgid "[[File:Rename_chapter_wtl.gif]]"
+msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:17
 msgid "Delete a chapter"
@@ -104,8 +104,8 @@ msgstr ""
 "curs</code>."
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:26
-msgid "[[File:Manual_delete_section.gif]]"
-msgstr "[[File:Manual_delete_section.gif]]"
+msgid "[[File:Delete_chapter_wtl.gif]]"
+msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:26
 msgid "Restore a chapter"
@@ -122,8 +122,8 @@ msgstr ""
 "l'esquerra del nom del capítol."
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:31
-msgid "[[File:Manual_Restore_section.gif]]"
-msgstr "[[File:Manual_Restore_section.gif]]"
+msgid "[[File:Restore_chapter_wtl.gif]]"
+msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-3.txt:33
 msgid ""
@@ -152,6 +152,22 @@ msgstr ""
 "Només cal arrossegar i deixar anar per a canviar el seu ordre.\n"
 "Un cop fet això, deseu els canvis fent clic al botó <code>Desa el "
 "curs</code>."
+
+#: guide/en/wikitolearn-guide-chapter-3.txt:41
+msgid "[[File:Move_chapter_wtl.gif]]"
+msgstr ""
+
+#~ msgid "[[File:Manual_add_section.gif]]"
+#~ msgstr "[[File:Manual_add_section.gif]]"
+
+#~ msgid "[[File:Manual_rename_section.gif]]"
+#~ msgstr "[[File:Manual_rename_section.gif]]"
+
+#~ msgid "[[File:Manual_delete_section.gif]]"
+#~ msgstr "[[File:Manual_delete_section.gif]]"
+
+#~ msgid "[[File:Manual_Restore_section.gif]]"
+#~ msgstr "[[File:Manual_Restore_section.gif]]"
 
 #~ msgid "(add image or gif here)"
 #~ msgstr "(afegiu un GIF aquí)"
