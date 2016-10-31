@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-31 17:17+0200\n"
+"POT-Creation-Date: 2016-10-31 18:55+0200\n"
 "PO-Revision-Date: 2016-10-30 23:44+0100\n"
 "Last-Translator: Luigi Toscano <luigi.toscano@tiscali.it>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -22,13 +22,13 @@ msgid ""
 "create navigational boxes, and to provide advanced features like cross "
 "portability of text."
 msgstr ""
-"I modelli sono utilizzati per aggiungere in modo coerente degli appunti "
+"I templates sono utilizzati per aggiungere in modo coerente degli appunti "
 "ricorrenti a determinate pagine, per creare contenuti di navigazione e per "
 "fornire delle funzionalità avanzate come la portabilità incrociata del testo."
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:1
 msgid "Inserting templates"
-msgstr "Inserire i modelli "
+msgstr "Inserire i templates "
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:5
 msgid ""
@@ -36,8 +36,9 @@ msgid ""
 "from [[<ref:wikitolearn-guide-chapter-5>|the Visual Editor]].\n"
 "Type in the name of the template you want to insert and select the right one."
 msgstr ""
-"Per inserire i modelli puoi usare la funzione <code>Inserisci->Modello</code>"
-" del [[<ref:wikitolearn-guide-chapter-5>|Visual Editor]].\n"
+"Per inserire i templates puoi usare la funzione "
+"<code>Inserisci->Modello</code> del [[<ref:wikitolearn-guide-chapter-5>|"
+"Visual Editor]].\n"
 "Scrivi nel nome del modello che vuoi inserire e seleziona quello corretto."
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:8
@@ -46,7 +47,7 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:8
 msgid "Using templates parameters"
-msgstr "Usare i parametri dei modelli"
+msgstr "Usare i parametri dei templates"
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:12
 msgid ""
@@ -54,7 +55,7 @@ msgid ""
 "You can fill such a field by clicking on the field name and specifying the "
 "desired value."
 msgstr ""
-"Alcuni modelli possono avere dei parametri con nome.\n"
+"Alcuni templates possono avere dei parametri con nome.\n"
 "È possibile compilare tale campo facendo clic sul suo nome e specificando il "
 "valore desiderato."
 
@@ -83,7 +84,7 @@ msgid "[[File:Theorem_insertion_wtl.gif]]"
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:23
-msgid "[[File:Theorem_title.gif]]"
+msgid "[[File:Theorem_title_wtl.gif]]"
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-6.txt:25

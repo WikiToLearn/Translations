@@ -27,6 +27,8 @@ To insert media in the text,  just click the <code>Insert</code> option in the V
 ==== Insert formulas ====
 To insert mathematical formulas in the text, just click the <code>Insert</code> option in the VisualEditor toolbar and select <code>Formula</code>: this will open up the Formula Editor window which will allow you to write math formulas easily.
 
+[[File:Math_insertion.gif]]
+
 ==== Insert templates ====
 Templates are used to add recurring messages to pages in a consistent way.
 They are often used in mathematics sections when you want to write a definition, theorem, lemma, corollary etc.

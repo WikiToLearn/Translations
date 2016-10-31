@@ -20,6 +20,6 @@ You can do so by clicking on the "Add environment" button in the editor, and cho
 
 [[File:Theorem_insertion_wtl.gif]]
 
-[[File:Theorem_title.gif]]
+[[File:Theorem_title_wtl.gif]]
 
 Note: when you add an environment, you will see some text called "END ENVIRONMENT" or similar. This is just for your convenience to know you are writing inside the selected environment, but it won't show in the page displayed to the user.

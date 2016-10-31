@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wikitolearn-guide-chapter-5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-31 17:17+0200\n"
+"POT-Creation-Date: 2016-10-31 18:55+0200\n"
 "PO-Revision-Date: 2016-10-17 20:14+0100\n"
 "Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -122,11 +122,15 @@ msgstr ""
 "seleccioneu <code>Fórmula</code>: això obrirà la finestra de l'editor de "
 "fórmules que us permetrà escriure fórmules matemàtiques amb facilitat."
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:28
+#: guide/en/wikitolearn-guide-chapter-5.txt:30
+msgid "[[File:Math_insertion.gif]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-5.txt:30
 msgid "Insert templates"
 msgstr "Inserir plantilles"
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:31
+#: guide/en/wikitolearn-guide-chapter-5.txt:33
 msgid ""
 "Templates are used to add recurring messages to pages in a consistent way.\n"
 "They are often used in mathematics sections when you want to write a "
@@ -139,18 +143,18 @@ msgstr ""
 "definició, teorema, lema, corol·lari, etc.\n"
 "Poden inserir-se dins de qualsevol secció del curs."
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:35
+#: guide/en/wikitolearn-guide-chapter-5.txt:37
 msgid ""
 "To insert templates you can use the <code>Insert->Template</code> function. "
 "To know more about the Templates and have examples on the ones to use please "
 "check out [[<ref:wikitolearn-guide-chapter-6>|the Templates page]]."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:35
+#: guide/en/wikitolearn-guide-chapter-5.txt:37
 msgid "Official Guide"
 msgstr "Guia oficial"
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:38
+#: guide/en/wikitolearn-guide-chapter-5.txt:40
 msgid ""
 "We suggest you also take a look at the official VisualEditor guide linked "
 "[https://www.mediawiki.org/wiki/Help:VisualEditor/User_guide here]."

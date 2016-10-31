@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-31 17:17+0200\n"
+"POT-Creation-Date: 2016-10-31 18:55+0200\n"
 "PO-Revision-Date: 2016-10-30 23:22+0100\n"
 "Last-Translator: Paolo Zamponi <zapaolo@email.it>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -49,7 +49,7 @@ msgstr "[[<ref:wikitolearn-guide-chapter-5>|L'editor visuale]]"
 
 #: guide/en/wikitolearn-guide-chapter-0.txt:1
 msgid "[[<ref:wikitolearn-guide-chapter-6>|Using templates]]"
-msgstr "[[<ref:wikitolearn-guide-chapter-6>|Usare i modelli]]"
+msgstr "[[<ref:wikitolearn-guide-chapter-6>|Usare i templates]]"
 
 #: guide/en/wikitolearn-guide-chapter-0.txt:1
 msgid "[[<ref:wikitolearn-guide-chapter-7>|Creating books]]"

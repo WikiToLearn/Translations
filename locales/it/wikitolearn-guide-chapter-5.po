@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-31 17:17+0200\n"
+"POT-Creation-Date: 2016-10-31 18:55+0200\n"
 "PO-Revision-Date: 2016-10-30 23:39+0100\n"
 "Last-Translator: Luigi Toscano <luigi.toscano@tiscali.it>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -122,39 +122,43 @@ msgstr ""
 "finestra dell'editor delle formule, che ti permetterà di scrivere "
 "semplicemente le formule matematiche."
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:28
-msgid "Insert templates"
-msgstr "Inserire i modelli"
+#: guide/en/wikitolearn-guide-chapter-5.txt:30
+msgid "[[File:Math_insertion.gif]]"
+msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:31
+#: guide/en/wikitolearn-guide-chapter-5.txt:30
+msgid "Insert templates"
+msgstr "Inserire i templates"
+
+#: guide/en/wikitolearn-guide-chapter-5.txt:33
 msgid ""
 "Templates are used to add recurring messages to pages in a consistent way.\n"
 "They are often used in mathematics sections when you want to write a "
 "definition, theorem, lemma, corollary etc.\n"
 "They can be inserted within any section of the course."
 msgstr ""
-"I modelli sono utilizzati per aggiungere in modo coerente dei messaggi "
+"I templates sono utilizzati per aggiungere in modo coerente dei messaggi "
 "ricorrenti alle pagine.\n"
 "Sono spesso usati nelle sezioni matematiche per scrivere definizioni, "
 "teoremi, lemmi, corollari, ecc.\n"
 "Possono ovviamente essere inseriti in ogni sezione."
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:35
+#: guide/en/wikitolearn-guide-chapter-5.txt:37
 msgid ""
 "To insert templates you can use the <code>Insert->Template</code> function. "
 "To know more about the Templates and have examples on the ones to use please "
 "check out [[<ref:wikitolearn-guide-chapter-6>|the Templates page]]."
 msgstr ""
-"Per inserire dei modelli, puoi usare la funzione "
-"<code>Inserisci->Modello</code>. Per sapere di più sui modelli ed avere "
+"Per inserire dei templates, puoi usare la funzione "
+"<code>Inserisci->Modello</code>. Per sapere di più sui templates ed avere "
 "esempi su quelli di usare consulta [[<ref:wikitolearn-guide-chapter-6>|la "
-"pagina dei modelli]]."
+"pagina dei templates]]."
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:35
+#: guide/en/wikitolearn-guide-chapter-5.txt:37
 msgid "Official Guide"
 msgstr "Guida Ufficiale"
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:38
+#: guide/en/wikitolearn-guide-chapter-5.txt:40
 msgid ""
 "We suggest you also take a look at the official VisualEditor guide linked "
 "[https://www.mediawiki.org/wiki/Help:VisualEditor/User_guide here]."
