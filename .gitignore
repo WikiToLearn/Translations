@@ -13,3 +13,4 @@ es.*
 it.*
 *.json
 *.mo
+/locales/*/.svn/
