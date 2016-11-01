@@ -12,8 +12,6 @@ Type in the name of the template you want to insert and select the right one.
 Some templates can have named parameters.
 You can fill such a field by clicking on the field name and specifying the desired value.
 
-[[File:Manual_templates_parameter.png]]
-
 == Inserting environments ==
 For mathematics, you often want to mark things as being a Theorem, a Proof, a Definition, or another entity.
 You can do so by clicking on the "Add environment" button in the editor, and choosing the desired environment.

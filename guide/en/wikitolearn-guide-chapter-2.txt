@@ -27,6 +27,8 @@ However, if you decide to create a public course, it will be displayed under the
 It is possible to add additional information to a course.
 This is helpful when you have some external links or PDF with exercises, notes or bibliography that you want to attach to the course.
 
+[[File:Add_metadata_wtl.gif]]
+
 To add metadata visit the course root page and click on the "Edit metadata" button.
 Then you can add the additional information in the respective input fields.
 In particular, you can add information about:
@@ -40,5 +42,7 @@ In particular, you can add information about:
 If you created a private course, it will stay under your user namespace unless you decide to publish it.
 To publish a private course, navigate to the course main page and click on the "Publish Course" button.
 A WikiToLearn's admin will take into account the request and will move the content to the public topic page.
+
+[[File:Publish_private_course_wtl.gif]]
 
 __FORCETOC__

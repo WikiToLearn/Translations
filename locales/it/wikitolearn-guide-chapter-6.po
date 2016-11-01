@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-31 19:26+0200\n"
+"POT-Creation-Date: 2016-11-01 10:36+0200\n"
 "PO-Revision-Date: 2016-10-30 23:44+0100\n"
 "Last-Translator: Luigi Toscano <luigi.toscano@tiscali.it>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -59,15 +59,11 @@ msgstr ""
 "È possibile compilare tale campo facendo clic sul suo nome e specificando il "
 "valore desiderato."
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:15
-msgid "[[File:Manual_templates_parameter.png]]"
-msgstr "[[File:Manual_templates_parameter.png]]"
-
-#: guide/en/wikitolearn-guide-chapter-6.txt:15
+#: guide/en/wikitolearn-guide-chapter-6.txt:12
 msgid "Inserting environments"
 msgstr "Inserire ambienti"
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:18
+#: guide/en/wikitolearn-guide-chapter-6.txt:16
 msgid ""
 "For mathematics, you often want to mark things as being a Theorem, a Proof, "
 "a Definition, or another entity.\n"
@@ -79,11 +75,11 @@ msgstr ""
 "Puoi farlo facendo clic sul pulsante «Aggiungi ambiente» nell'editor, e "
 "scegliendo l'ambiente desiderato."
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:21
+#: guide/en/wikitolearn-guide-chapter-6.txt:19
 msgid "[[File:Theorem_title_wtl.gif]]"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:23
+#: guide/en/wikitolearn-guide-chapter-6.txt:21
 msgid ""
 "Note: when you add an environment, you will see some text called \"END "
 "ENVIRONMENT\" or similar. This is just for your convenience to know you are "
@@ -94,3 +90,6 @@ msgstr ""
 "ENVIRONMENT». Questo è solo un aiuto per sapere che stai scrivendo "
 "all'interno dell'ambiente selezionato, ma non apparirà nella pagina mostrata "
 "all'utente."
+
+#~ msgid "[[File:Manual_templates_parameter.png]]"
+#~ msgstr "[[File:Manual_templates_parameter.png]]"

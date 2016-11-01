@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-31 19:26+0200\n"
+"POT-Creation-Date: 2016-11-01 10:36+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -81,6 +81,10 @@ msgid ""
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:30
+msgid "[[File:Add_metadata_wtl.gif]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-2.txt:32
 msgid ""
 "To add metadata visit the course root page and click on the \"Edit metadata\""
 " button.\n"
@@ -88,27 +92,27 @@ msgid ""
 "In particular, you can add information about:"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:30
+#: guide/en/wikitolearn-guide-chapter-2.txt:32
 msgid "Bibliography"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:30
+#: guide/en/wikitolearn-guide-chapter-2.txt:32
 msgid "Exercises"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:30
+#: guide/en/wikitolearn-guide-chapter-2.txt:32
 msgid "Books"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:30
+#: guide/en/wikitolearn-guide-chapter-2.txt:32
 msgid "External References"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:30
+#: guide/en/wikitolearn-guide-chapter-2.txt:32
 msgid "Publish a course"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:40
+#: guide/en/wikitolearn-guide-chapter-2.txt:42
 msgid ""
 "If you created a private course, it will stay under your user namespace "
 "unless you decide to publish it.\n"
@@ -118,6 +122,10 @@ msgid ""
 "content to the public topic page."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:44
+#: guide/en/wikitolearn-guide-chapter-2.txt:46
+msgid "[[File:Publish_private_course_wtl.gif]]"
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-2.txt:48
 msgid "__FORCETOC__"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wikitolearn-guide-chapter-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-31 19:26+0200\n"
+"POT-Creation-Date: 2016-11-01 10:36+0200\n"
 "PO-Revision-Date: 2016-10-16 18:30+0100\n"
 "Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -125,7 +125,7 @@ msgstr ""
 "pàgina principal del curs."
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:31
-msgid "[[File:Chapter_example_wtl.gif]]"
+msgid "[[File:Chapter_example_wtl.png]]"
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:31
@@ -141,7 +141,7 @@ msgstr ""
 "Bàsicament, són una sola pàgina web amb el seu propi contingut."
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:37
-msgid "[[File:Section_example.gif]]"
+msgid "[[File:Section_example_wtl.png]]"
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:37

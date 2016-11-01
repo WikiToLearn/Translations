@@ -25,7 +25,7 @@ You will be able to delete the section by pressing on the trash icon.
 === Restore a section ===
 If you have sections in the recycling bin you can restore them by placing the mouse on the sections and clicking on the restore icon on the left of the section's name.
 
-[[File:Restore_section_wtl.gif]]
+[[File:Resttore_section_wtl.gif]]
 
 Always remember to save the changes by clicking on the <code>Save Course</code> button.
 

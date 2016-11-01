@@ -28,13 +28,13 @@ Every course has the prefix <code>Course:</code> followed by the course name in 
 Chapters are the lower level of a course.
 They gather together some sections of a book and they are displayed as heading titles in the main page of the course.
 
-[[File:Chapter_example_wtl.gif]]
+[[File:Chapter_example_wtl.png]]
 
 === Section ===
 Sections are the basic unit of an entire course.
 Basically, they're a single webpage with its own content.
 
-[[File:Section_example.gif]]
+[[File:Section_example_wtl.png]]
 
 == Namespaces ==
 Namespaces are a mechanism for grouping pages.

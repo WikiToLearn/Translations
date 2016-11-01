@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-31 19:26+0200\n"
+"POT-Creation-Date: 2016-11-01 10:36+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -83,7 +83,7 @@ msgid ""
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:28
-msgid "[[File:Restore_section_wtl.gif]]"
+msgid "[[File:Resttore_section_wtl.gif]]"
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:30

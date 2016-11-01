@@ -7,10 +7,6 @@ If you already have some experience in any kind of text editing software you wil
 === Activating VisualEditor ===
 When creating a new section VisualEditor should be enabled by default: a toolbar should appear at the top of the page.
 
-This is an example of text to see
-
-[[File:Manual_Visual_editor_newpage.gif]]
-
 If you want to edit an existing page, just press the <code>Edit</code> button at the top of the page and watch VisualEditor load: after a few seconds it should be ready to use.
 
 
@@ -22,12 +18,10 @@ VisualEditor has more or less the same features and functions of any other word 
 ==== Insert media ====
 To insert media in the text,  just click the <code>Insert</code> option in the VisualEditor toolbar and select <code>Media</code>: you can either upload new files using the <code>Upload</code> tab or <code>Search</code> for existing media both on WikiToLearn or Wikimedia Commons.
 
-[[File:Manual_Visual_editor_loadmedia.gif]]
-
 ==== Insert formulas ====
 To insert mathematical formulas in the text, just click the <code>Insert</code> option in the VisualEditor toolbar and select <code>Formula</code>: this will open up the Formula Editor window which will allow you to write math formulas easily.
 
-[[File:Math_insertion.gif]]
+[[File:Math_insertion_wtl.gif]]
 
 ==== Insert templates ====
 Templates are used to add recurring messages to pages in a consistent way.

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wikitolearn-guide-chapter-6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-31 19:26+0200\n"
+"POT-Creation-Date: 2016-11-01 10:36+0200\n"
 "PO-Revision-Date: 2016-10-17 20:31+0100\n"
 "Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -63,15 +63,11 @@ msgstr ""
 "Podeu omplir un d'aquests camps fent clic al nom del camp i especificant el "
 "valor desitjat."
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:15
-msgid "[[File:Manual_templates_parameter.png]]"
-msgstr "[[File:Manual_templates_parameter.png]]"
-
-#: guide/en/wikitolearn-guide-chapter-6.txt:15
+#: guide/en/wikitolearn-guide-chapter-6.txt:12
 msgid "Inserting environments"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:18
+#: guide/en/wikitolearn-guide-chapter-6.txt:16
 msgid ""
 "For mathematics, you often want to mark things as being a Theorem, a Proof, "
 "a Definition, or another entity.\n"
@@ -79,17 +75,20 @@ msgid ""
 "and choosing the desired environment."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:21
+#: guide/en/wikitolearn-guide-chapter-6.txt:19
 msgid "[[File:Theorem_title_wtl.gif]]"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-6.txt:23
+#: guide/en/wikitolearn-guide-chapter-6.txt:21
 msgid ""
 "Note: when you add an environment, you will see some text called \"END "
 "ENVIRONMENT\" or similar. This is just for your convenience to know you are "
 "writing inside the selected environment, but it won't show in the page "
 "displayed to the user."
 msgstr ""
+
+#~ msgid "[[File:Manual_templates_parameter.png]]"
+#~ msgstr "[[File:Manual_templates_parameter.png]]"
 
 #~ msgid "(add a gif here)"
 #~ msgstr "(afegiu un GIF aquí)"

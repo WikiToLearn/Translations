@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: guide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-31 19:26+0200\n"
+"POT-Creation-Date: 2016-11-01 10:36+0200\n"
 "PO-Revision-Date: 2016-10-16 00:00+0100\n"
 "Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -32,12 +32,12 @@ msgid "Manual/Core concepts: Course"
 msgstr "Manual/Conceptes bàsics: Curs"
 
 #: [messages]wikitolearn-guide-chapter-3
-msgid "Manual/Core concepts: Section"
-msgstr "Manual/Conceptes bàsics: Secció"
-
-#: [messages]wikitolearn-guide-chapter-4
 msgid "Manual/Core concepts: Chapter"
 msgstr "Manual/Conceptes bàsics: Capítol"
+
+#: [messages]wikitolearn-guide-chapter-4
+msgid "Manual/Core concepts: Section"
+msgstr "Manual/Conceptes bàsics: Secció"
 
 #: [messages]wikitolearn-guide-chapter-5
 msgid "Manual/The Visual Editor"

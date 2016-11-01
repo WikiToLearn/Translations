@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-31 19:26+0200\n"
+"POT-Creation-Date: 2016-11-01 10:36+0200\n"
 "PO-Revision-Date: 2016-10-16 20:55+0100\n"
 "Last-Translator: Burkhard Lück <lueck@hube-lueck.de>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
@@ -94,7 +94,7 @@ msgid ""
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:31
-msgid "[[File:Chapter_example_wtl.gif]]"
+msgid "[[File:Chapter_example_wtl.png]]"
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:31
@@ -108,7 +108,7 @@ msgid ""
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:37
-msgid "[[File:Section_example.gif]]"
+msgid "[[File:Section_example_wtl.png]]"
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:37

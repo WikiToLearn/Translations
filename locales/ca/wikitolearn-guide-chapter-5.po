@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wikitolearn-guide-chapter-5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-31 19:26+0200\n"
+"POT-Creation-Date: 2016-11-01 10:36+0200\n"
 "PO-Revision-Date: 2016-10-17 20:14+0100\n"
 "Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -50,14 +50,6 @@ msgstr ""
 "d'aparèixer una barra d'eines a la part superior de la pàgina."
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:10
-msgid "This is an example of text to see"
-msgstr "Aquest és un exemple del text que veureu"
-
-#: guide/en/wikitolearn-guide-chapter-5.txt:12
-msgid "[[File:Manual_Visual_editor_newpage.gif]]"
-msgstr "[[File:Manual_Visual_editor_newpage.gif]]"
-
-#: guide/en/wikitolearn-guide-chapter-5.txt:14
 msgid ""
 "If you want to edit an existing page, just press the <code>Edit</code> "
 "button at the top of the page and watch VisualEditor load: after a few "
@@ -68,11 +60,11 @@ msgstr ""
 "carrega l'editor visual: al cap d'uns segons hauria d'estar llest per al seu "
 "ús."
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:14
+#: guide/en/wikitolearn-guide-chapter-5.txt:10
 msgid "Editing"
 msgstr "Edició"
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:18
+#: guide/en/wikitolearn-guide-chapter-5.txt:14
 msgid ""
 "VisualEditor has more or less the same features and functions of any other "
 "word processor software, like bold, italics, ordered lists and so on."
@@ -81,15 +73,15 @@ msgstr ""
 "qualsevol altre programari processador de textos, com negreta, cursiva, "
 "llistes ordenades i així successivament."
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:18
+#: guide/en/wikitolearn-guide-chapter-5.txt:14
 msgid "Advanced editing"
 msgstr "Edició avançada"
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:18
+#: guide/en/wikitolearn-guide-chapter-5.txt:14
 msgid "Insert media"
 msgstr "Inserir un suport"
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:23
+#: guide/en/wikitolearn-guide-chapter-5.txt:19
 msgid ""
 "To insert media in the text,  just click the <code>Insert</code> option in "
 "the VisualEditor toolbar and select <code>Media</code>: you can either "
@@ -102,15 +94,11 @@ msgstr ""
 "<code>Cerca</code> per als suports existents tant al WikiToLearn o al "
 "Wikimedia Commons."
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:25
-msgid "[[File:Manual_Visual_editor_loadmedia.gif]]"
-msgstr "[[File:Manual_Visual_editor_loadmedia.gif]]"
-
-#: guide/en/wikitolearn-guide-chapter-5.txt:25
+#: guide/en/wikitolearn-guide-chapter-5.txt:19
 msgid "Insert formulas"
 msgstr "Inserir fórmules"
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:28
+#: guide/en/wikitolearn-guide-chapter-5.txt:22
 msgid ""
 "To insert mathematical formulas in the text, just click the "
 "<code>Insert</code> option in the VisualEditor toolbar and select "
@@ -122,15 +110,15 @@ msgstr ""
 "seleccioneu <code>Fórmula</code>: això obrirà la finestra de l'editor de "
 "fórmules que us permetrà escriure fórmules matemàtiques amb facilitat."
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:30
-msgid "[[File:Math_insertion.gif]]"
+#: guide/en/wikitolearn-guide-chapter-5.txt:24
+msgid "[[File:Math_insertion_wtl.gif]]"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:30
+#: guide/en/wikitolearn-guide-chapter-5.txt:24
 msgid "Insert templates"
 msgstr "Inserir plantilles"
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:33
+#: guide/en/wikitolearn-guide-chapter-5.txt:27
 msgid ""
 "Templates are used to add recurring messages to pages in a consistent way.\n"
 "They are often used in mathematics sections when you want to write a "
@@ -143,24 +131,33 @@ msgstr ""
 "definició, teorema, lema, corol·lari, etc.\n"
 "Poden inserir-se dins de qualsevol secció del curs."
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:37
+#: guide/en/wikitolearn-guide-chapter-5.txt:31
 msgid ""
 "To insert templates you can use the <code>Insert->Template</code> function. "
 "To know more about the Templates and have examples on the ones to use please "
 "check out [[<ref:wikitolearn-guide-chapter-6>|the Templates page]]."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:37
+#: guide/en/wikitolearn-guide-chapter-5.txt:31
 msgid "Official Guide"
 msgstr "Guia oficial"
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:40
+#: guide/en/wikitolearn-guide-chapter-5.txt:34
 msgid ""
 "We suggest you also take a look at the official VisualEditor guide linked "
 "[https://www.mediawiki.org/wiki/Help:VisualEditor/User_guide here]."
 msgstr ""
 "Suggerim que també feu una ullada a la guia oficial de l'editor visual que "
 "es troba [https://www.mediawiki.org/wiki/Help:VisualEditor/User_guide aquí]."
+
+#~ msgid "This is an example of text to see"
+#~ msgstr "Aquest és un exemple del text que veureu"
+
+#~ msgid "[[File:Manual_Visual_editor_newpage.gif]]"
+#~ msgstr "[[File:Manual_Visual_editor_newpage.gif]]"
+
+#~ msgid "[[File:Manual_Visual_editor_loadmedia.gif]]"
+#~ msgstr "[[File:Manual_Visual_editor_loadmedia.gif]]"
 
 #~ msgid ""
 #~ "To insert templates you can use the <code>Insert->Template</code> function. "

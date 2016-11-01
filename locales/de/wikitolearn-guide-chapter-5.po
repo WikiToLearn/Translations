@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-31 19:26+0200\n"
+"POT-Creation-Date: 2016-11-01 10:36+0200\n"
 "PO-Revision-Date: 2016-10-18 23:43+0100\n"
 "Last-Translator: Frederik Schwarzer <schwarzer@kde.org>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
@@ -40,39 +40,31 @@ msgid ""
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:10
-msgid "This is an example of text to see"
-msgstr "Dies ist angezeigter Beispieltext"
-
-#: guide/en/wikitolearn-guide-chapter-5.txt:12
-msgid "[[File:Manual_Visual_editor_newpage.gif]]"
-msgstr "[[File:Manual_Visual_editor_newpage.gif]]"
-
-#: guide/en/wikitolearn-guide-chapter-5.txt:14
 msgid ""
 "If you want to edit an existing page, just press the <code>Edit</code> "
 "button at the top of the page and watch VisualEditor load: after a few "
 "seconds it should be ready to use."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:14
+#: guide/en/wikitolearn-guide-chapter-5.txt:10
 msgid "Editing"
 msgstr "Bearbeitung"
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:18
+#: guide/en/wikitolearn-guide-chapter-5.txt:14
 msgid ""
 "VisualEditor has more or less the same features and functions of any other "
 "word processor software, like bold, italics, ordered lists and so on."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:18
+#: guide/en/wikitolearn-guide-chapter-5.txt:14
 msgid "Advanced editing"
 msgstr "Erweitertes Bearbeiten"
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:18
+#: guide/en/wikitolearn-guide-chapter-5.txt:14
 msgid "Insert media"
 msgstr "Medien einfügen"
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:23
+#: guide/en/wikitolearn-guide-chapter-5.txt:19
 msgid ""
 "To insert media in the text,  just click the <code>Insert</code> option in "
 "the VisualEditor toolbar and select <code>Media</code>: you can either "
@@ -80,15 +72,11 @@ msgid ""
 "for existing media both on WikiToLearn or Wikimedia Commons."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:25
-msgid "[[File:Manual_Visual_editor_loadmedia.gif]]"
-msgstr "[[File:Manual_Visual_editor_loadmedia.gif]]"
-
-#: guide/en/wikitolearn-guide-chapter-5.txt:25
+#: guide/en/wikitolearn-guide-chapter-5.txt:19
 msgid "Insert formulas"
 msgstr "Formeln einfügen"
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:28
+#: guide/en/wikitolearn-guide-chapter-5.txt:22
 msgid ""
 "To insert mathematical formulas in the text, just click the "
 "<code>Insert</code> option in the VisualEditor toolbar and select "
@@ -96,15 +84,15 @@ msgid ""
 "allow you to write math formulas easily."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:30
-msgid "[[File:Math_insertion.gif]]"
+#: guide/en/wikitolearn-guide-chapter-5.txt:24
+msgid "[[File:Math_insertion_wtl.gif]]"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:30
+#: guide/en/wikitolearn-guide-chapter-5.txt:24
 msgid "Insert templates"
 msgstr "Vorlagen einfügen"
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:33
+#: guide/en/wikitolearn-guide-chapter-5.txt:27
 msgid ""
 "Templates are used to add recurring messages to pages in a consistent way.\n"
 "They are often used in mathematics sections when you want to write a "
@@ -112,19 +100,28 @@ msgid ""
 "They can be inserted within any section of the course."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:37
+#: guide/en/wikitolearn-guide-chapter-5.txt:31
 msgid ""
 "To insert templates you can use the <code>Insert->Template</code> function. "
 "To know more about the Templates and have examples on the ones to use please "
 "check out [[<ref:wikitolearn-guide-chapter-6>|the Templates page]]."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:37
+#: guide/en/wikitolearn-guide-chapter-5.txt:31
 msgid "Official Guide"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-5.txt:40
+#: guide/en/wikitolearn-guide-chapter-5.txt:34
 msgid ""
 "We suggest you also take a look at the official VisualEditor guide linked "
 "[https://www.mediawiki.org/wiki/Help:VisualEditor/User_guide here]."
 msgstr ""
+
+#~ msgid "This is an example of text to see"
+#~ msgstr "Dies ist angezeigter Beispieltext"
+
+#~ msgid "[[File:Manual_Visual_editor_newpage.gif]]"
+#~ msgstr "[[File:Manual_Visual_editor_newpage.gif]]"
+
+#~ msgid "[[File:Manual_Visual_editor_loadmedia.gif]]"
+#~ msgstr "[[File:Manual_Visual_editor_loadmedia.gif]]"

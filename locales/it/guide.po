@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-31 19:26+0200\n"
+"POT-Creation-Date: 2016-11-01 10:36+0200\n"
 "PO-Revision-Date: 2016-10-21 00:41+0100\n"
 "Last-Translator: Paolo Zamponi <zapaolo@email.it>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -28,12 +28,12 @@ msgid "Manual/Core concepts: Course"
 msgstr "Manuale/Concetto principale: Corso"
 
 #: [messages]wikitolearn-guide-chapter-3
-msgid "Manual/Core concepts: Section"
-msgstr "Manuale/Concetto principale: Sezione"
-
-#: [messages]wikitolearn-guide-chapter-4
 msgid "Manual/Core concepts: Chapter"
 msgstr "Manuale/Concetto principale: Capitolo"
+
+#: [messages]wikitolearn-guide-chapter-4
+msgid "Manual/Core concepts: Section"
+msgstr "Manuale/Concetto principale: Sezione"
 
 #: [messages]wikitolearn-guide-chapter-5
 msgid "Manual/The Visual Editor"
