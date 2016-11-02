@@ -5,9 +5,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-02 14:37+0200\n"
-"PO-Revision-Date: 2016-10-18 23:35+0100\n"
-"Last-Translator: Frederik Schwarzer <schwarzer@kde.org>\n"
+"POT-Creation-Date: 2016-11-02 14:46+0200\n"
+"PO-Revision-Date: 2016-10-29 21:38+0100\n"
+"Last-Translator: Burkhard Lück <lueck@hube-lueck.de>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -66,35 +66,35 @@ msgstr "Diese Seite wird in Kürze gelöscht werden"
 
 #: [messages]computersciencedepartment
 msgid "Computer Science"
-msgstr ""
+msgstr "Computer-Wissenschaften"
 
 #: [messages]mathsdepartment
 msgid "Mathematics"
-msgstr ""
+msgstr "Mathematik"
 
 #: [messages]physicsdep
 msgid "Physics"
-msgstr ""
+msgstr "Physik"
 
 #: [messages]businessdep
 msgid "Business"
-msgstr ""
+msgstr "Geschäftlich"
 
 #: [messages]humanitiesdep
 msgid "Humanities"
-msgstr ""
+msgstr "Geisteswissenschaft"
 
 #: [messages]medicinedep
 msgid "Medicine"
-msgstr ""
+msgstr "Medizin"
 
 #: [messages]natsciencesdep
 msgid "Natural Sciences"
-msgstr ""
+msgstr "Naturwissenschaften"
 
 #: [messages]socialsciencesdep
 msgid "Social Sciences"
-msgstr ""
+msgstr "Sozialwissenschaften"
 
 #: [messages]preunidep
 msgid "Pre-University"
