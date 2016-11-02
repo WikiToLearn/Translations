@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-01 10:36+0200\n"
+"POT-Creation-Date: 2016-11-02 14:37+0200\n"
 "PO-Revision-Date: 2016-10-10 09:54+0000\n"
 "Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
 "Language-Team: German\n"
@@ -125,10 +125,6 @@ msgstr ""
 msgid "Original authors:"
 msgstr "Originalautoren:"
 
-#: .courseeditor-newcourses-section-title
-msgid "New courses"
-msgstr "Neue Kurse"
-
 #: .courseeditor-progressdialog-wait
 msgid "Wait creation in progress..."
 msgstr "Warten Schöpfung läuft..."
@@ -150,6 +146,10 @@ msgstr ""
 msgid "Create new"
 msgstr "Neue erstellen"
 
+#: .courseeditor-operation-action-move-metadata
+msgid "Move metadata"
+msgstr ""
+
 #: .courseeditor-save-levelTwo
 msgid "Save chapter"
 msgstr "Abschnitt speichern"
@@ -170,12 +170,16 @@ msgstr ""
 "Möchtest du einen privaten Kurs auf deinen Seiten oder einen öffentlichen zu "
 "erstellen?"
 
+#: .courseeditor-alert-message-success-publish
+msgid "The course is now available here:"
+msgstr ""
+
 #: .courseeditor-input-course-label
 msgid "Title:"
 msgstr "Überschrift:"
 
-#: .courseeditor-alert-message-success-publish
-msgid "The course is now available here:"
+#: .courseeditor-newtopics-section-title
+msgid "New topics"
 msgstr ""
 
 #: .courseeditor-cancel
@@ -240,10 +244,6 @@ msgstr "Here kanst du die Abschnitte organiseren, hinzufügen und entfernen"
 #: .courseeditor-operation-action-delete-levelsTwo-task
 msgid "Delete chapters of"
 msgstr "Löchen Kapitel von"
-
-#: .courseeditor-operation-action-move-metadati
-msgid "Move metadata"
-msgstr ""
 
 #: .courseeditor-operation-action-update-collection
 msgid "Update book"
@@ -368,6 +368,9 @@ msgstr "Externe Zitaten einfügen"
 #: .courseeditor-collection-savedbook-template
 msgid "saved_book"
 msgstr "Gespeichert_buch"
+
+#~ msgid "New courses"
+#~ msgstr "Neue Kurse"
 
 #~ msgid "Purge"
 #~ msgstr "Entferne"

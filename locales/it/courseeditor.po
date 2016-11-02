@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-01 10:36+0200\n"
+"POT-Creation-Date: 2016-11-02 14:37+0200\n"
 "PO-Revision-Date: 2016-10-27 01:57+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -119,10 +119,6 @@ msgstr ""
 msgid "Original authors:"
 msgstr ""
 
-#: .courseeditor-newcourses-section-title
-msgid "New courses"
-msgstr ""
-
 #: .courseeditor-progressdialog-wait
 msgid "Wait creation in progress..."
 msgstr ""
@@ -142,6 +138,10 @@ msgstr "Annulla"
 msgid "Create new"
 msgstr "Crea nuovo corso"
 
+#: .courseeditor-operation-action-move-metadata
+msgid "Move metadata"
+msgstr ""
+
 #: .courseeditor-save-levelTwo
 msgid "Save chapter"
 msgstr ""
@@ -160,12 +160,16 @@ msgid ""
 "Do you want to create a private course in your personal page or a public one?"
 msgstr "Vuoi creare un corso privato sulla tua pagina personale o uno pubblico?"
 
+#: .courseeditor-alert-message-success-publish
+msgid "The course is now available here:"
+msgstr ""
+
 #: .courseeditor-input-course-label
 msgid "Title:"
 msgstr "Titolo:"
 
-#: .courseeditor-alert-message-success-publish
-msgid "The course is now available here:"
+#: .courseeditor-newtopics-section-title
+msgid "New topics"
 msgstr ""
 
 #: .courseeditor-cancel
@@ -227,10 +231,6 @@ msgstr "Puoi organizzare, aggiungere e cancellare sezioni"
 
 #: .courseeditor-operation-action-delete-levelsTwo-task
 msgid "Delete chapters of"
-msgstr ""
-
-#: .courseeditor-operation-action-move-metadati
-msgid "Move metadata"
 msgstr ""
 
 #: .courseeditor-operation-action-update-collection

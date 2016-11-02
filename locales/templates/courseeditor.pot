@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-01 10:36+0200\n"
+"POT-Creation-Date: 2016-11-02 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -115,10 +115,6 @@ msgstr ""
 msgid "Original authors:"
 msgstr ""
 
-#: .courseeditor-newcourses-section-title
-msgid "New courses"
-msgstr ""
-
 #: .courseeditor-progressdialog-wait
 msgid "Wait creation in progress..."
 msgstr ""
@@ -138,6 +134,10 @@ msgstr ""
 msgid "Create new"
 msgstr ""
 
+#: .courseeditor-operation-action-move-metadata
+msgid "Move metadata"
+msgstr ""
+
 #: .courseeditor-save-levelTwo
 msgid "Save chapter"
 msgstr ""
@@ -155,12 +155,16 @@ msgid ""
 "Do you want to create a private course in your personal page or a public one?"
 msgstr ""
 
+#: .courseeditor-alert-message-success-publish
+msgid "The course is now available here:"
+msgstr ""
+
 #: .courseeditor-input-course-label
 msgid "Title:"
 msgstr ""
 
-#: .courseeditor-alert-message-success-publish
-msgid "The course is now available here:"
+#: .courseeditor-newtopics-section-title
+msgid "New topics"
 msgstr ""
 
 #: .courseeditor-cancel
@@ -221,10 +225,6 @@ msgstr ""
 
 #: .courseeditor-operation-action-delete-levelsTwo-task
 msgid "Delete chapters of"
-msgstr ""
-
-#: .courseeditor-operation-action-move-metadati
-msgid "Move metadata"
 msgstr ""
 
 #: .courseeditor-operation-action-update-collection

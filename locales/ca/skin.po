@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: skin\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-01 10:36+0200\n"
+"POT-Creation-Date: 2016-11-02 14:37+0200\n"
 "PO-Revision-Date: 2016-10-17 21:18+0100\n"
 "Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -19,50 +19,115 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Translate Toolkit 1.13.0\n"
 
-#: .wikitolearnskin-advanced-button-title
-msgid "Advanced"
-msgstr "Avançat"
-
-#: .wikitolearnskin-cookies-text
+#: .wikitolearnskin-testimonials-first-quote
 msgid ""
-"This website uses cookies to ensure you get the best experience on our "
-"website"
-msgstr ""
-"Aquest lloc web fa servir galetes per assegurar-vos que obteniu la millor "
-"experiència al nostre lloc web"
-
-#: .wikitolearnskin-navbar-login
-msgid "Login"
+"I joined WikiToLearn not only out of curiosity, but also because of the  "
+"collaborational spirit. Now it's like having a second family in Milan, who I "
+"enjoy visiting and spending time with."
 msgstr ""
 
 #: .wikitolearnskin-join-us-readmore
 msgid "Read more..."
 msgstr "Llegiu més..."
 
-#: .wikitolearnskin-user-tools-emailuser-title
-msgid "Email User"
-msgstr "Correu electrònic de l'usuari"
+#: .wikitolearnskin-footer-blog-text
+msgid "Developer blogs"
+msgstr ""
 
-#: .wikitolearnskin-navbar-tools-community-portal-link
-msgid "//meta.wikitolearn.org"
-msgstr "//meta.wikitolearn.org"
+#: .wikitolearnskin-navbar-contribute
+msgid "Join Us"
+msgstr "Uniu-vos"
 
-#: .wikitolearnskin-navbar-contribute-link
-#, fuzzy
-msgid "//join.wikitolearn.org"
-msgstr "//meta.wikitolearn.org"
+#: .wikitolearnskin-navbar-tools-reports-link
+msgid "//reports.wikitolearn.org"
+msgstr "//reports.wikitolearn.org"
+
+#: .wikitolearnskin-testimonials-third-name
+msgid "Srijan Agrawal, Amrita University, Amritapuri Campus"
+msgstr ""
+
+#: .wikitolearnskin-join-other
+msgid "Hacker"
+msgstr ""
 
 #: .wikitolearnskin-media-learn-more-link
 #, fuzzy
 msgid "/#"
 msgstr "/#"
 
-#: .wikitolearnskin-footer-changes
-msgid "Recent changes"
-msgstr "Canvis recents"
+#: .wikitolearnskin-join-other-text
+msgid ""
+"WikiToLearn is a wide project, open to any kind of contribution. Are you an "
+"open-source enthusiast and do you want to support our community? Do you like "
+"coding or do you want to help us with translations? In our project anyone "
+"can give his help, do not hesitate anymore: find out more on how you can put "
+"your best efforts in WikiToLearn!"
+msgstr ""
 
-#: .wikitolearnskin-footer-blog-text
-msgid "Developer blogs"
+#: .wikitolearnskin-join-step-chat-title
+msgid "Chat with us"
+msgstr ""
+
+#: .wikitolearnskin-testimonials-second-image-path
+#, fuzzy
+msgid "images/placeholder-user.png"
+msgstr "images/placeholder-user.png"
+
+#: .wikitolearnskin-read-more-stories-button-link
+msgctxt ".wikitolearnskin-read-more-stories-button-link"
+msgid "#"
+msgstr "#"
+
+#: .wikitolearnskin-join-student
+msgid "Student"
+msgstr ""
+
+#: .wikitolearnskin-navbar-language-selector
+msgid "Language"
+msgstr "Idioma"
+
+#: .wikitolearnskin-contributors-6-link
+msgid "https://www.kde.org/"
+msgstr ""
+
+#: .wikitolearnskin-join-professor-text
+msgid ""
+"Are you looking for a way to be aware of your students' understanding of "
+"your lessons? Would you like to contribute to make educational material "
+"freely accessible, reliable and complete? Your knowledge is fundamental to "
+"ensure high standards for the content on WikiToLearn!"
+msgstr ""
+
+#: .wikitolearnskin-undo-publish-course-tool
+msgid "Undo course publication"
+msgstr "Desfés la publicació del curs"
+
+#: .wikitolearnskin-navbar-login
+msgid "Login"
+msgstr ""
+
+#: .wikitolearnskin-media-video-url
+msgid "//www.youtube.com/embed/BTS-YKnJYv0?rel=0"
+msgstr ""
+
+#: .wikitolearnskin-home-claim
+msgid "Learn with the best. Create books. Share <i>knowledge</i>."
+msgstr "Apreneu amb el millor. Creeu llibres. Compartiu el <i>coneixement</i>."
+
+#: .wikitolearnskin-advanced-button-title
+msgid "Advanced"
+msgstr "Avançat"
+
+#: .wikitolearnskin-previous-button-title
+msgid "Previous"
+msgstr "Anterior"
+
+#: .wikitolearnskin-navbar-tools-community-portal-link
+msgid "//meta.wikitolearn.org"
+msgstr "//meta.wikitolearn.org"
+
+#: .wikitolearnskin-contributors-3-link
+msgid "https://www.sissa.it/"
 msgstr ""
 
 #: .wikitolearnskin-contributors-4-image
@@ -73,11 +138,6 @@ msgstr ""
 msgid "chat.wikitolearn.org"
 msgstr "chat.wikitolearn.org"
 
-#: .wikitolearnskin-read-more-stories-button-link
-msgctxt ".wikitolearnskin-read-more-stories-button-link"
-msgid "#"
-msgstr "#"
-
 #: .wikitolearnskin-next-button-title
 msgid "Next"
 msgstr "Següent"
@@ -86,99 +146,44 @@ msgstr "Següent"
 msgid "http://www.unimib.it/"
 msgstr ""
 
-#: .wikitolearnskin-navbar-tools-link
-msgctxt ".wikitolearnskin-navbar-tools-link"
-msgid "#"
-msgstr "#"
-
-#: .wikitolearnskin-navbar-contribute
-msgid "Join Us"
-msgstr "Uniu-vos"
-
-#: .wikitolearnskin-footer-contacts
-msgid "Contacts"
-msgstr "Contactes"
-
-#: .wikitolearnskin-cookies-dismiss
-msgid "Got it!"
-msgstr "S'ha fet!"
-
 #: .wikitolearnskin-testimonials-first-name
-msgid "Daniele Pannozzo, Roma, Università la Sapienza"
-msgstr ""
-
-#: .wikitolearnskin-navbar-tools-reports-link
-msgid "//reports.wikitolearn.org"
-msgstr "//reports.wikitolearn.org"
-
-#: .wikitolearnskin-latest-report-text
-msgid "Read latest report"
+msgid "Daniele Pannozzo, 'La Sapienza' University, Rome"
 msgstr ""
 
 #: .wikitolearnskin-navbar-tools-community-portal
 msgid "Community portal"
 msgstr "Portal de la comunitat"
 
-#: .wikitolearnskin-navbar-createaccount
-msgid "Register"
+#: .wikitolearnskin-join-step-account-content
+msgid ""
+"The first step in joining WikiTolearn is creating an account on the website. "
+"It's easy and essential for a new contributor."
 msgstr ""
 
-#: .wikitolearnskin-footer-blog-link
-#, fuzzy
-msgid "https://blogs.wikitolearn.org"
-msgstr "https://chat.wikitolearn.org"
-
-#: .wikitolearnskin-contributions-from
-msgid "Contributions from"
-msgstr "Contribucions des de"
-
-#: .wikitolearnskin-latest-report-link
-#, fuzzy
-msgid "https://reports.wikitolearn.org"
-msgstr "//reports.wikitolearn.org"
-
-#: .wikitolearnskin-contributors-2-link
-msgid "https://home.cern/"
+#: .wikitolearnskin-testimonials-second-name
+msgid ""
+"Marco Paganoni, Physics Department Director, University of Milano Bicocca"
 msgstr ""
 
 #: .wikitolearnskin-navbar-tools-guide
-msgid "User guides"
-msgstr "Guies d'usuari"
+msgid "User Manual"
+msgstr ""
 
 #: .wikitolearnskin-contributors-5-image
 msgid "images/logos/hep.png"
 msgstr ""
 
-#: .wikitolearnskin-testimonials-first-quote
-msgid ""
-"I joined WikiToLearn not only out of curiosity, but also because of the  "
-"collaborational spirit. Now it's like having a second family in Milan, who I "
-"enjoy visiting and spending time with."
-msgstr ""
+#: .wikitolearnskin-join-step-guide-button-link
+#, fuzzy
+msgctxt ".wikitolearnskin-join-step-guide-button-link"
+msgid "/Manual"
+msgstr "Manual"
 
-#: .wikitolearnskin-footer-special-pages
-msgid "Special pages"
-msgstr "Pàgines especials"
-
-#: .wikitolearnskin-join-us-button-link
-msgid "/Special:CreateAccount"
-msgstr "/Special:CreateAccount"
-
-#: .wikitolearnskin-contributors-6-link
-msgid "https://www.kde.org/"
-msgstr ""
-
-#: .wikitolearnskin-contributors-3-link
-msgid "https://www.sissa.it/"
-msgstr ""
-
-#: .wikitolearnskin-contributors-3-image
-msgid "images/logos/sissa.png"
-msgstr ""
-
-#: .wikitolearnskin-departments-count
-msgid "10"
-msgstr ""
+#: .wikitolearnskin-navbar-tools-chat-link
+#, fuzzy
+msgctxt ".wikitolearnskin-navbar-tools-chat-link"
+msgid "https://chat.wikitolearn.org"
+msgstr "https://chat.wikitolearn.org"
 
 #: .wikitolearnskin-user-tools-logs-title
 msgid "Logs"
@@ -188,40 +193,145 @@ msgstr "Registres"
 msgid "Learn more"
 msgstr "Apreneu més"
 
-#: .wikitolearnskin-media-learn-more
-msgid "Read more"
-msgstr "Llegiu més"
-
 #: .skinname-wikitolearnskin
 msgid "WikiToLearn"
 msgstr ""
 
-#: .wikitolearnskin-footer-tools
-msgctxt ".wikitolearnskin-footer-tools"
+#: .wikitolearnskin-latest-report-link
+#, fuzzy
+msgid "https://reports.wikitolearn.org"
+msgstr "//reports.wikitolearn.org"
+
+#: .wikitolearnskin-user-tools-emailuser-title
+msgid "Email User"
+msgstr "Correu electrònic de l'usuari"
+
+#: .wikitolearnskin-footer-follow-us
+msgctxt ".wikitolearnskin-footer-follow-us"
+msgid "Follow us"
+msgstr "Seguiu-nos"
+
+#: .wikitolearnskin-navbar-about-link
+#, fuzzy
+msgid "/About"
+msgstr "Quant a"
+
+#: .wikitolearnskin-read-more-stories-button
+msgid "Read more stories about WikiToLearn"
+msgstr "Llegiu més històries sobre WikiToLearn"
+
+#: .wikitolearnskin-footer-academic-link
+msgid "//meta.wikitolearn.org/Academic_institutions"
+msgstr "//meta.wikitolearn.org/Academic_institutions"
+
+#: .wikitolearnskin-join-step-social-content
+msgid ""
+"Don't forget to follow us on social networks! You will always be up-to-date "
+"with the latest news and developments of WikiToLearn. If you have any "
+"further question you can also <a href='mailto:info@wikitolearn.org'>email "
+"us</a>."
+msgstr ""
+
+#: .wikitolearnskin-footer-hosted-by
+msgid "Hosted by"
+msgstr "Allotjat per"
+
+#: .wikitolearnskin-join-us-button
+msgid "Join us"
+msgstr "Uniu-vos"
+
+#: .wikitolearnskin-navbar-tools
+#, fuzzy
+msgctxt ".wikitolearnskin-navbar-tools"
 msgid "Tools"
 msgstr "Eines"
 
-#: .wikitolearnskin-navbar-tools-chat-link
+#: .wikitolearnskin-testimonials-first-image-path
+msgid "images/users/dan.jpg"
+msgstr ""
+
+#: .wikitolearnskin-join-why-join
+msgid "Why join?"
+msgstr ""
+
+#: .wikitolearnskin-navbar-about
+msgid "About"
+msgstr "Quant a"
+
+#: .wikitolearnskin-navbar-tools-guide-link
 #, fuzzy
-msgctxt ".wikitolearnskin-navbar-tools-chat-link"
-msgid "https://chat.wikitolearn.org"
-msgstr "https://chat.wikitolearn.org"
+msgctxt ".wikitolearnskin-navbar-tools-guide-link"
+msgid "/Manual"
+msgstr "Manual"
 
-#: .wikitolearnskin-navbar-language-selector
-msgid "Language"
-msgstr "Idioma"
+#: .wikitolearnskin-footer-academic
+msgid "Academic institutions"
+msgstr "Institucions acadèmiques"
 
-#: .wikitolearnskin-home-claim
-msgid "Learn with the best. Create books. Share <i>knowledge</i>."
-msgstr "Apreneu amb el millor. Creeu llibres. Compartiu el <i>coneixement</i>."
+#: .wikitolearnskin-navbar-tools-chat
+msgid "Chat"
+msgstr "Xat"
+
+#: .wikitolearnskin-join-step-account-button-text
+msgctxt ".wikitolearnskin-join-step-account-button-text"
+msgid "Create an account"
+msgstr ""
+
+#: .wikitolearnskin-footer-changes
+msgid "Recent changes"
+msgstr "Canvis recents"
+
+#: .wikitolearnskin-navbar-tools-link
+msgctxt ".wikitolearnskin-navbar-tools-link"
+msgid "#"
+msgstr "#"
+
+#: .wikitolearnskin-footer-contacts
+msgid "Contacts"
+msgstr "Contactes"
+
+#: .wikitolearnskin-latest-report-text
+msgid "Read latest report"
+msgstr ""
+
+#: .wikitolearnskin-navbar-createaccount
+msgid "Register"
+msgstr ""
+
+#: .wikitolearnskin-footer-special-pages
+msgid "Special pages"
+msgstr "Pàgines especials"
+
+#: .wikitolearnskin-user-tools-title
+msgid "User"
+msgstr "Usuari"
+
+#: .wikitolearnskin-contributors-3-image
+msgid "images/logos/sissa.png"
+msgstr ""
+
+#: .wikitolearnskin-publish-course-tool
+msgid "Publish course"
+msgstr "Publica el curs"
+
+#: .wikitolearnskin-media-learn-more
+#, fuzzy
+msgctxt ".wikitolearnskin-media-learn-more"
+msgid "Read more"
+msgstr "Llegiu més"
+
+#: .wikitolearnskin-contributors-1-image
+msgid "images/logos/bicocca.jpg"
+msgstr ""
+
+#: .wikitolearnskin-join-step-guide-button-text
+msgctxt ".wikitolearnskin-join-step-guide-button-text"
+msgid "Read the manual"
+msgstr ""
 
 #: .wikitolearnskin-download-button-title
 msgid "Download"
 msgstr "Baixa"
-
-#: .wikitolearnskin-navbar-tools-reports
-msgid "Reports"
-msgstr "Informes"
 
 #: .wikitolearnskin-footer-keep-in-touch
 msgctxt ".wikitolearnskin-footer-keep-in-touch"
@@ -232,41 +342,37 @@ msgstr "Seguiu-nos"
 msgid "http://hepsoftwarefoundation.org/"
 msgstr ""
 
+#: .wikitolearnskin-testimonials-third-image-path
+msgid "images/users/srijan.jpg"
+msgstr ""
+
 #: .wikitolearnskin-contributors-4-link
 msgid "http://www.wikimedia.it/"
 msgstr ""
 
-#: .wikitolearnskin-footer-follow-us
-msgctxt ".wikitolearnskin-footer-follow-us"
-msgid "Follow us"
-msgstr "Seguiu-nos"
-
-#: .wikitolearnskin-footer-chat-link
-#, fuzzy
-msgctxt ".wikitolearnskin-footer-chat-link"
-msgid "https://chat.wikitolearn.org"
-msgstr "https://chat.wikitolearn.org"
-
-#: .wikitolearnskin-navbar-about-link
-#, fuzzy
-msgid "/About"
-msgstr "Quant a"
+#: .wikitolearnskin-join-create-account
+msgctxt ".wikitolearnskin-join-create-account"
+msgid "Create an account"
+msgstr ""
 
 #: .wikitolearnskin-contributors-6-image
 msgid "images/logos/kde.svg"
 msgstr ""
 
-#: .wikitolearnskin-read-more-stories-button
-msgid "Read more stories about WikiToLearn"
-msgstr "Llegiu més històries sobre WikiToLearn"
-
-#: .wikitolearnskin-footer-academic-link
-msgid "//meta.wikitolearn.org/Academic_institutions"
-msgstr "//meta.wikitolearn.org/Academic_institutions"
+#: .wikitolearnskin-join-step-guide-title
+msgctxt ".wikitolearnskin-join-step-guide-title"
+msgid "Read the manual"
+msgstr ""
 
 #: .wikitolearnskin-contributors-2-image
 msgid "images/logos/cern.jpg"
 msgstr ""
+
+#: .wikitolearnskin-join-read-more
+#, fuzzy
+msgctxt ".wikitolearnskin-join-read-more"
+msgid "Read more"
+msgstr "Llegiu més"
 
 #: .wikitolearnskin-media-text
 msgctxt ".wikitolearnskin-media-text"
@@ -276,37 +382,13 @@ msgid ""
 "content."
 msgstr ""
 
-#: .wikitolearnskin-cookies-learn-more
-msgid "Learn More"
-msgstr "Apreneu més"
+#: .wikitolearnskin-contributions-from
+msgid "Contributions from"
+msgstr "Contribucions des de"
 
-#: .wikitolearnskin-testimonials-second-name
-msgid "Srijan Agrawal, Amrita University, Amritapuri Campus"
-msgstr ""
-
-#: .wikitolearnskin-user-tools-title
-msgid "User"
-msgstr "Usuari"
-
-#: .wikitolearnskin-footer-hosted-by
-msgid "Hosted by"
-msgstr "Allotjat per"
-
-#: .wikitolearnskin-undo-publish-course-tool
-msgid "Undo course publication"
-msgstr "Desfés la publicació del curs"
-
-#: .wikitolearnskin-join-us-button
-msgid "Join us"
-msgstr "Uniu-vos"
-
-#: .wikitolearnskin-testimonials-second-image-path
-msgid "images/users/srijan.jpg"
-msgstr ""
-
-#: .wikitolearnskin-publish-course-tool
-msgid "Publish course"
-msgstr "Publica el curs"
+#: .wikitolearnskin-join-us-button-link
+msgid "/Special:CreateAccount"
+msgstr "/Special:CreateAccount"
 
 #: .wikitolearnskin-desc
 msgid ""
@@ -314,54 +396,113 @@ msgid ""
 "allows you to browse WikiToLearn how it was meant to be."
 msgstr ""
 
-#: .wikitolearnskin-previous-button-title
-msgid "Previous"
-msgstr "Anterior"
-
 #: .wikitolearnskin-testimonials-second-quote
+msgid ""
+"It is encouraging to see a wide community of young people moved by the noble "
+"aim of spreading knowledge and culture. WikiTolearn is  much more than "
+"cutting edge technology!"
+msgstr ""
+
+#: .wikitolearnskin-contributors-2-link
+msgid "https://home.cern/"
+msgstr ""
+
+#: .wikitolearnskin-join-step-chat-button-text
+msgid "Open chat"
+msgstr ""
+
+#: .wikitolearnskin-join-professor-link
+msgid "/Teacher"
+msgstr ""
+
+#: .wikitolearnskin-navbar-contribute-link
+#, fuzzy
+msgid "//join.wikitolearn.org"
+msgstr "//meta.wikitolearn.org"
+
+#: .wikitolearnskin-join-next-steps
+msgid "Next steps"
+msgstr ""
+
+#: .wikitolearnskin-cookies-dismiss
+msgid "Got it!"
+msgstr "S'ha fet!"
+
+#: .wikitolearnskin-join-step-account-title
+msgctxt ".wikitolearnskin-join-step-account-title"
+msgid "Create an account"
+msgstr ""
+
+#: .wikitolearnskin-join-step-chat-content
+msgid ""
+"Do you need support? Still unsure about how you can help? We communicate and "
+"coordinate our community via rocketchat. Press the button, register a chat "
+"account and you are to talk with us!"
+msgstr ""
+
+#: .wikitolearnskin-join-student-link
+msgid "/Student"
+msgstr ""
+
+#: .wikitolearnskin-join-professor
+msgid "Teacher"
+msgstr ""
+
+#: .wikitolearnskin-footer-blog-link
+#, fuzzy
+msgid "https://blogs.wikitolearn.org"
+msgstr "https://chat.wikitolearn.org"
+
+#: .wikitolearnskin-join-title
+msgid "Join WikiToLearn!"
+msgstr ""
+
+#: .wikitolearnskin-testimonials-third-quote
 msgid ""
 "WikiToLearn, for me, is like a second family! It has taught me that love for "
 "knowledge and learning can overcome all kind of barriers, even geographical "
 "and cultural ones!"
 msgstr ""
 
-#: .wikitolearnskin-media-title
-msgid "Collaborative Textbooks"
-msgstr "Llibres de text col·laboratius"
-
-#: .wikitolearnskin-contributors-1-image
-msgid "images/logos/bicocca.jpg"
-msgstr ""
-
-#: .wikitolearnskin-navbar-tools-chat
-msgid "Chat"
-msgstr "Xat"
-
-#: .wikitolearnskin-testimonials-first-image-path
-msgid "images/users/dan.jpg"
-msgstr ""
-
-#: .wikitolearnskin-media-video-url
-msgid "//www.youtube.com/embed/BTS-YKnJYv0?rel=0"
-msgstr ""
-
-#: .wikitolearnskin-navbar-about
-msgid "About"
-msgstr "Quant a"
-
-#: .wikitolearnskin-navbar-tools-guide-link
-msgid "Manual"
-msgstr "Manual"
-
-#: .wikitolearnskin-footer-academic
-msgid "Academic institutions"
-msgstr "Institucions acadèmiques"
-
-#: .wikitolearnskin-navbar-tools
-#, fuzzy
-msgctxt ".wikitolearnskin-navbar-tools"
+#: .wikitolearnskin-footer-tools
+msgctxt ".wikitolearnskin-footer-tools"
 msgid "Tools"
 msgstr "Eines"
+
+#: .wikitolearnskin-departments-count
+msgid "10"
+msgstr ""
+
+#: .wikitolearnskin-join-page
+msgid "Join"
+msgstr ""
+
+#: .wikitolearnskin-navbar-tools-reports
+msgid "Reports"
+msgstr "Informes"
+
+#: .wikitolearnskin-join-step-chat-button-link
+#, fuzzy
+msgid "//chat.wikitolearn.org"
+msgstr "chat.wikitolearn.org"
+
+#: .wikitolearnskin-footer-chat-link
+#, fuzzy
+msgctxt ".wikitolearnskin-footer-chat-link"
+msgid "https://chat.wikitolearn.org"
+msgstr "https://chat.wikitolearn.org"
+
+#: .wikitolearnskin-join-other-link
+msgid "/Hacker"
+msgstr ""
+
+#: .wikitolearnskin-cookies-learn-more
+msgid "Learn More"
+msgstr "Apreneu més"
+
+#: .wikitolearnskin-join-step-social-title
+msgid "Keep in touch"
+msgstr ""
 
 #: .wikitolearnskin-meta-tag-description
 msgctxt ".wikitolearnskin-meta-tag-description"
@@ -370,6 +511,38 @@ msgid ""
 "Academics worldwide contribute in sharing knowledge by creating high quality "
 "content."
 msgstr ""
+
+#: .wikitolearnskin-join-step-guide-content
+msgid ""
+"We wrote a detailed and easy to read guide about the website. Please give it "
+"a look before contributing, so you can learn all the tips and tricks of "
+"WikiToLearn."
+msgstr ""
+
+#: .wikitolearnskin-cookies-text
+msgid ""
+"This website uses cookies to ensure you get the best experience on our "
+"website"
+msgstr ""
+"Aquest lloc web fa servir galetes per assegurar-vos que obteniu la millor "
+"experiència al nostre lloc web"
+
+#: .wikitolearnskin-media-title
+msgid "Collaborative Textbooks"
+msgstr "Llibres de text col·laboratius"
+
+#: .wikitolearnskin-join-student-text
+msgid ""
+"Do you want to share your notes with the whole world? Do you want to create "
+"books precisely tailored to your needs? WikiToLearn and its tools for book "
+"editing, importing and exporting are what you are looking for!"
+msgstr ""
+
+#~ msgid "User guides"
+#~ msgstr "Guies d'usuari"
+
+#~ msgid "Manual"
+#~ msgstr "Manual"
 
 #~ msgid "images/badges/math.png"
 #~ msgstr "images/badges/math.png"
@@ -514,10 +687,6 @@ msgstr ""
 #~ msgid "images/badges/placeholder.png"
 #~ msgstr "images/badges/placeholder.png"
 
-#, fuzzy
-#~ msgid "/Manual"
-#~ msgstr "Manual"
-
 #~ msgid "Chemistry"
 #~ msgstr "Química"
 
@@ -551,10 +720,6 @@ msgstr ""
 #~ msgctxt ".wikitolearnskin-departments-9-link"
 #~ msgid "/#"
 #~ msgstr "/#"
-
-#~ msgctxt ".wikitolearnskin-testimonials-third-image-path"
-#~ msgid "images/placeholder-user.png"
-#~ msgstr "images/placeholder-user.png"
 
 #, fuzzy
 #~ msgctxt ".wikitolearnskin-navbar-third-option"
