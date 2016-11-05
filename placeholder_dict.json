@@ -1,4 +1,5 @@
 {
+    "About": "about1",
     "File:Add_chapter_wtl.gif": "FILE_20",
     "File:Add_metadata_wtl.gif": "FILE_9",
     "File:Add_section_wtl.gif": "FILE_15",
@@ -24,15 +25,20 @@
     "File:Theorem_title_wtl.gif": "FILE_7",
     "File:Topic_example_wtl.png": "FILE_0",
     "File:paste-from-word.gif": "FILE_5",
+    "Hacker": "hacker1",
     "Manual": "wikitolearn-guide-chapter-0",
     "Manual/Contribution guide": "wikitolearn-guide-chapter-10",
     "Manual/Core concepts: Chapter": "wikitolearn-guide-chapter-3",
     "Manual/Core concepts: Course": "wikitolearn-guide-chapter-2",
     "Manual/Core concepts: Section": "wikitolearn-guide-chapter-4",
+    "Manual/Core_concepts:_Chapter": "FILE_41",
     "Manual/Creating books": "wikitolearn-guide-chapter-7",
     "Manual/Importing from LaTeX": "wikitolearn-guide-chapter-8",
     "Manual/Importing from Word": "wikitolearn-guide-chapter-9",
     "Manual/The Visual Editor": "wikitolearn-guide-chapter-5",
     "Manual/The structure of WikiToLearn": "wikitolearn-guide-chapter-1",
-    "Manual/Using templates": "wikitolearn-guide-chapter-6"
+    "Manual/Using templates": "wikitolearn-guide-chapter-6",
+    "Project:Messages": "wtl-messages",
+    "Student": "student1",
+    "Teacher": "teacher1"
 }

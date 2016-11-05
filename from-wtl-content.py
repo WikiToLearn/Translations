@@ -13,6 +13,11 @@ download_dir = "input/"
 if not os.path.exists(download_dir):
     os.makedirs(download_dir)
 
+
+wikipages_download_dir = "{}wikipages/".format(download_dir)
+if not os.path.exists(wikipages_download_dir):
+    os.makedirs(wikipages_download_dir)
+
 source_for_pot = "source_for_pot/"
 if not os.path.exists(source_for_pot):
     os.makedirs(source_for_pot)
@@ -32,19 +37,28 @@ i18n_json_files_urls[
 wikitolearn_main_git_repo = "https://github.com/WikiToLearn/WikiToLearn"
 wikitolearn_main_git_repo_download_dir = "{}/WikiToLearn".format(download_dir)
 
-root_website_api_for_user_manual = "https://en.wikitolearn.org/api.php"
+root_website_api_for_wikipages = "https://en.wikitolearn.org/api.php"
+
 root_page_for_user_manual = "Manual"
-manual_download_dir = "{}Manual/".format(download_dir)
 
-print("Download for: Manual")
-if not os.path.exists(manual_download_dir):
-    os.makedirs(manual_download_dir)
+single_pages_title_to_be_downloaded = [
+    'About',
+    'Hacker',
+    'Student',
+    'Teacher',
+    'Project:Messages'
+]
 
+print("List page for: Manual")
 guide_pages_title = mwapiutils.list_page_and_subpages(
-    root_website_api_for_user_manual, root_page_for_user_manual)
+    root_website_api_for_wikipages, root_page_for_user_manual)
 for page_title in guide_pages_title:
+    single_pages_title_to_be_downloaded.append(page_title)
+
+for page_title in single_pages_title_to_be_downloaded:
+    print("Download for: {}".format(page_title))
     mwapiutils.download_wikipage(
-        root_website_api_for_user_manual, page_title, manual_download_dir)
+        root_website_api_for_wikipages, page_title, wikipages_download_dir)
 
 print("Download for: Json")
 for json_name in i18n_json_files_urls:
@@ -64,14 +78,14 @@ else:
     origin.pull(rebase=True)
 
 print("Addidional steps...")
-guide_files = []
-for root, directories, filenames in os.walk(manual_download_dir):
+mw_pages_files = []
+for root, directories, filenames in os.walk(wikipages_download_dir):
     for filename in filenames:
-        guide_files.append(os.path.join(root, filename))
+        mw_pages_files.append(os.path.join(root, filename))
 
-for guide_file in guide_files:
-    if guide_file not in ["{}{}.mw".format(manual_download_dir, guide_page_title) for guide_page_title in guide_pages_title]:
-        os.remove(guide_file)
+for mw_page_file in mw_pages_files:
+    if mw_page_file not in ["{}{}.mw".format(wikipages_download_dir, mw_page_title) for mw_page_title in single_pages_title_to_be_downloaded]:
+        os.remove(mw_page_file)
 
 placeholder_dict = {}
 if os.path.isfile(source_for_pot_placeholder_dict_file):
@@ -111,22 +125,21 @@ def evaluate(match):
     return_val = return_val + "]]"
     return return_val
 
-for guide_file in guide_files:
-    get_placeholder(guide_file[len(manual_download_dir):-3])
+for mw_page_file in mw_pages_files:
+    get_placeholder(mw_page_file[len(wikipages_download_dir):-3])
 
-for guide_file in guide_files:
-    with open(guide_file, 'r') as content_file:
+for mw_page_file in mw_pages_files:
+    with open(mw_page_file, 'r') as content_file:
         content = content_file.read()
         # this regex uses
         # https://www.mediawiki.org/wiki/Manual:$wgLegalTitleChars
-        new_file_content[guide_file[len(manual_download_dir):-3]] = sub(
+        new_file_content[mw_page_file[len(wikipages_download_dir):-3]] = sub(
             r'\[{2}(.[^\[\]\{\}\|\#\<\>\%\+\?]+)(\|(.[^\[\]\{\}\|\#\<\>\%\+\?]+)){0,1}\]{2}', evaluate, content)
 
 for k in placeholder_dict:
     if k in new_file_content:
         output_filename = "{}{}.mw".format(
             source_for_pot_wikitext, placeholder_dict[k])
-        print("{} => {}".format(k, output_filename))
         text_file = open(output_filename, "wb")
         text_file.write(new_file_content[k].encode('utf8'))
         text_file.close()
