@@ -1,5 +1,0 @@
-== Frequently Asked Question ==
-
-* '''Can I move a section into another chapter?'''
-* '''Can I save my course offline?'''
-* I'm writing the name of the book and saving it under my user namespace but the "Save book" button is disabled. What should I do?

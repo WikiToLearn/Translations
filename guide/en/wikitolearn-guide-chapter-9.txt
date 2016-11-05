@@ -1,7 +1,0 @@
-If you have some material written in <code>.doc</code> format, you can convert it to WikiToLearn.
-
-Conversion is a little tricky, but usually copy and pasting to the Visual editor works. You can also take a look [https://en.wikipedia.org/wiki/Help:WordToWiki#VisualEditor here, which has listed some ways] to do that.
-
-[[File:paste-from-word.gif]]
-
-If you need help, please get in touch with us at [https://chat.wikitolearn.org/channel/importing #importing] on the WikiToLearn chat. Somebody is usually around to help!
