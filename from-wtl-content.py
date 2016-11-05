@@ -9,23 +9,29 @@ from re import sub
 from pprint import pprint
 import json
 
+# this is the file where is stored the key-value for filenames (mainly MediaWiki pages titles)
+source_for_pot_placeholder_dict_file = "placeholder_dict.json"
+
+# this is the directory where the content will be downloaded
 download_dir = "input/"
 if not os.path.exists(download_dir):
     os.makedirs(download_dir)
 
-
+# this is the directory there wikipages will be downloaded
 wikipages_download_dir = "{}wikipages/".format(download_dir)
 if not os.path.exists(wikipages_download_dir):
     os.makedirs(wikipages_download_dir)
 
+# this is the directory where the content is placed after the pre-parsing
 source_for_pot = "source_for_pot/"
 if not os.path.exists(source_for_pot):
     os.makedirs(source_for_pot)
+# this is the directory where the wikitext is placed when ready to be templated as pot
 source_for_pot_wikitext = "{}wikitext/".format(source_for_pot)
 if not os.path.exists(source_for_pot_wikitext):
     os.makedirs(source_for_pot_wikitext)
-source_for_pot_placeholder_dict_file = "placeholder_dict.json"
 
+# this dic is [<mnemonic name>] = <en.json url>
 i18n_json_files_urls = {}
 i18n_json_files_urls[
     'WikiToLearnSkin'] = "https://raw.githubusercontent.com/WikiToLearn/WikiToLearnSkin/master/i18n/en.json"
@@ -34,13 +40,15 @@ i18n_json_files_urls[
 i18n_json_files_urls[
     'WikiToLearnVETemplates'] = "https://raw.githubusercontent.com/WikiToLearn/WikiToLearnVETemplates/master/i18n/en.json"
 
+# this is the location of the main repo
 wikitolearn_main_git_repo = "https://github.com/WikiToLearn/WikiToLearn"
 wikitolearn_main_git_repo_download_dir = "{}/WikiToLearn".format(download_dir)
 
+# api entrypoint used to download pages
 root_website_api_for_wikipages = "https://en.wikitolearn.org/api.php"
 
+# list pages to be downloaded
 root_page_for_user_manual = "Manual"
-
 single_pages_title_to_be_downloaded = [
     'About',
     'Hacker',
