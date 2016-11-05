@@ -8,8 +8,11 @@ import mwapiutils
 from re import sub
 from pprint import pprint
 import json
+import glob
+import re
 
-# this is the file where is stored the key-value for filenames (mainly MediaWiki pages titles)
+# this is the file where is stored the key-value for filenames (mainly
+# MediaWiki pages titles)
 source_for_pot_placeholder_dict_file = "placeholder_dict.json"
 
 # this is the directory where the content will be downloaded
@@ -26,7 +29,8 @@ if not os.path.exists(wikipages_download_dir):
 source_for_pot = "source_for_pot/"
 if not os.path.exists(source_for_pot):
     os.makedirs(source_for_pot)
-# this is the directory where the wikitext is placed when ready to be templated as pot
+# this is the directory where the wikitext is placed when ready to be
+# templated as pot
 source_for_pot_wikitext = "{}wikitext/".format(source_for_pot)
 if not os.path.exists(source_for_pot_wikitext):
     os.makedirs(source_for_pot_wikitext)
@@ -42,7 +46,9 @@ i18n_json_files_urls[
 
 # this is the location of the main repo
 wikitolearn_main_git_repo = "https://github.com/WikiToLearn/WikiToLearn"
-wikitolearn_main_git_repo_download_dir = "{}/WikiToLearn".format(download_dir)
+wikitolearn_main_git_repo_download_dir = "{}WikiToLearn/".format(download_dir)
+wikitolearn_main_git_repo_struct_wikipages_en = "{}struct-wikipages/en/".format(
+    wikitolearn_main_git_repo_download_dir)
 
 # api entrypoint used to download pages
 root_website_api_for_wikipages = "https://en.wikitolearn.org/api.php"
@@ -71,7 +77,6 @@ for page_title in single_pages_title_to_be_downloaded:
 print("Download for: Json")
 for json_name in i18n_json_files_urls:
     response = requests.get(i18n_json_files_urls[json_name])
-    print("{}{}.json".format(source_for_pot, json_name))
     text_file = open("{}{}.json".format(source_for_pot, json_name), "wb")
     text_file.write(response.content)
     text_file.close()
@@ -103,6 +108,7 @@ if os.path.isfile(source_for_pot_placeholder_dict_file):
         for k in reverse_placeholder_dict:
             placeholder_dict[reverse_placeholder_dict[k]] = k
         data_file.close()
+
 
 def get_placeholder(link):
     if link not in placeholder_dict:
@@ -161,3 +167,32 @@ with open(source_for_pot_placeholder_dict_file, 'w') as outfile:
         reverse_placeholder_dict[placeholder_dict[k]] = k
     json.dump(reverse_placeholder_dict, outfile, sort_keys=True, indent=4)
     outfile.close()
+
+print("Check for template consistency...")
+
+template_path_prefix = "{}Template:".format(
+    wikitolearn_main_git_repo_struct_wikipages_en)
+
+with open("{}WikiToLearnVETemplates.json".format(source_for_pot)) as data_file:
+    wikitolearn_ve_templates = json.load(data_file)
+    for key in wikitolearn_ve_templates:
+        if key[0:len("wtlvet-env-name-")] == "wtlvet-env-name-":
+            if not (os.path.isfile("{}Begin{}".format(
+                template_path_prefix, wikitolearn_ve_templates[key])) and \
+                    os.path.isfile("{}End{}".format(
+                template_path_prefix, wikitolearn_ve_templates[key]))):
+                # FIXME: send notification to someone
+                print("Missing template for {}".format(key))
+    data_file.close()
+
+struct_wikipages_en_files = glob.glob("{}*".format(template_path_prefix))
+for file_name in struct_wikipages_en_files:
+    template_name = file_name[
+        len(template_path_prefix):]
+    print(template_name.lower())
+    with open(file_name) as data_file:
+        templatedata=re.findall("<templatedata>(.*?)</templatedata>",data_file.read(),re.DOTALL)
+        if len(templatedata) == 1:
+            print(templatedata[0])
+
+        data_file.close()

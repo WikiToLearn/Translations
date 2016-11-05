@@ -10,7 +10,7 @@ def list_page_and_subpages(api_url, root_page, apfrom=None):
         "action": "query",
         "list": "allpages",
         "apprefix": root_page,
-        "aplimit": 5,
+        "aplimit": 15,
         "format": "json"
     }
     if apfrom != None:
