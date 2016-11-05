@@ -13,7 +13,7 @@ import json
 source_for_pot_placeholder_dict_file = "placeholder_dict.json"
 
 # this is the directory where the content will be downloaded
-download_dir = "input/"
+download_dir = "tmp/"
 if not os.path.exists(download_dir):
     os.makedirs(download_dir)
 
@@ -71,7 +71,8 @@ for page_title in single_pages_title_to_be_downloaded:
 print("Download for: Json")
 for json_name in i18n_json_files_urls:
     response = requests.get(i18n_json_files_urls[json_name])
-    text_file = open("{}{}.json".format(download_dir, json_name), "wb")
+    print("{}{}.json".format(source_for_pot, json_name))
+    text_file = open("{}{}.json".format(source_for_pot, json_name), "wb")
     text_file.write(response.content)
     text_file.close()
 
@@ -98,7 +99,9 @@ for mw_page_file in mw_pages_files:
 placeholder_dict = {}
 if os.path.isfile(source_for_pot_placeholder_dict_file):
     with open(source_for_pot_placeholder_dict_file) as data_file:
-        placeholder_dict = json.load(data_file)
+        reverse_placeholder_dict = json.load(data_file)
+        for k in reverse_placeholder_dict:
+            placeholder_dict[reverse_placeholder_dict[k]] = k
         data_file.close()
 
 def get_placeholder(link):
@@ -153,5 +156,8 @@ for k in placeholder_dict:
         text_file.close()
 
 with open(source_for_pot_placeholder_dict_file, 'w') as outfile:
-    json.dump(placeholder_dict, outfile, sort_keys=True, indent=4)
+    reverse_placeholder_dict = {}
+    for k in placeholder_dict:
+        reverse_placeholder_dict[placeholder_dict[k]] = k
+    json.dump(reverse_placeholder_dict, outfile, sort_keys=True, indent=4)
     outfile.close()
