@@ -19,3 +19,5 @@ do
   FILENAME_EXT_FREE=${FILENAME::-5}
   json2po -P $json_file pot/$FILENAME_EXT_FREE.pot
 done
+
+json2po -P placeholder_dict.json pot/placeholder_dict.pot
