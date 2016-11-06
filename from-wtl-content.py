@@ -29,11 +29,15 @@ if not os.path.exists(wikipages_download_dir):
 source_for_pot = "source_for_pot/"
 if not os.path.exists(source_for_pot):
     os.makedirs(source_for_pot)
+
 # this is the directory where the wikitext is placed when ready to be
 # templated as pot
 source_for_pot_wikitext = "{}wikitext/".format(source_for_pot)
 if not os.path.exists(source_for_pot_wikitext):
     os.makedirs(source_for_pot_wikitext)
+
+# this is the k-v dict for templatedata
+source_for_pot_templatedata_dict_file = "{}templatedata.json".format(source_for_pot)
 
 # this dic is [<mnemonic name>] = <en.json url>
 i18n_json_files_urls = {}
@@ -185,14 +189,32 @@ with open("{}WikiToLearnVETemplates.json".format(source_for_pot)) as data_file:
                 print("Missing template for {}".format(key))
     data_file.close()
 
+def extract_key_value_from_templatedata(templatedata,key_prefix=""):
+    k_v_values = {}
+    for k in templatedata:
+        if isinstance(templatedata[k],dict):
+            subdata = extract_key_value_from_templatedata(templatedata[k],key_prefix+"-"+k)
+            for subdata_k in subdata:
+                k_v_values[subdata_k] = subdata[subdata_k]
+        elif k != "type":
+            k_v_values[key_prefix+"-"+k] = templatedata[k]
+    return k_v_values
+
+templatedata_dict = {}
+
 struct_wikipages_en_files = glob.glob("{}*".format(template_path_prefix))
 for file_name in struct_wikipages_en_files:
     template_name = file_name[
         len(template_path_prefix):]
-    print(template_name.lower())
     with open(file_name) as data_file:
-        templatedata=re.findall("<templatedata>(.*?)</templatedata>",data_file.read(),re.DOTALL)
-        if len(templatedata) == 1:
-            print(templatedata[0])
-
+        templatedata_matchs=re.findall("<templatedata>(.*?)</templatedata>",data_file.read(),re.DOTALL)
+        if len(templatedata_matchs) == 1:
+            templatedata = json.loads(templatedata_matchs[0])
+            d = extract_key_value_from_templatedata(templatedata,template_name.lower())
+            for key in d:
+                templatedata_dict[key] = d[key]
         data_file.close()
+
+with open(source_for_pot_templatedata_dict_file, 'w') as outfile:
+    json.dump(templatedata_dict, outfile, sort_keys=True, indent=4)
+    outfile.close()
