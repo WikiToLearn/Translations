@@ -96,6 +96,12 @@ if os.path.isfile(pages_id_file):
             placeholder_dict[reverse_placeholder_dict[k]] = k
         data_file.close()
 
+with open("{}pages_id.json".format(tmp_git_dir), 'w') as outfile:
+    json.dump(placeholder_dict, outfile)
+    outfile.close()
+    cmd = ["json2po","-P","{}pages_id.json".format(tmp_git_dir),"{}pages_id.pot".format(output_pot_dir)]
+    print(call(cmd))
+
 def evaluate(match):
     link_to = str(match.group(1))
     link_label = None
