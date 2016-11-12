@@ -12,12 +12,15 @@ import polib
 import time
 import datetime
 
+# directory where the script is
 mypath = "{}/".format(os.path.dirname(os.path.realpath(__file__)))
 
+# directory where all pot file must to be
 output_pot_dir = "{}pot/".format(mypath)
 if not os.path.exists(output_pot_dir):
     os.makedirs(output_pot_dir)
 
+# directory where place tmp files
 tmp_dir = "{}tmp/".format(mypath)
 if not os.path.exists(tmp_dir):
     os.makedirs(tmp_dir)
@@ -30,6 +33,7 @@ tmp_mw_files = "{}mw-files/".format(tmp_dir)
 if not os.path.exists(tmp_mw_files):
     os.makedirs(tmp_mw_files)
 
+# dict for all git repos used
 git_repos = {}
 git_repos["WikiToLearn"] = {
     "url":"https://github.com/WikiToLearn/WikiToLearn",
@@ -52,6 +56,7 @@ git_repos["WikiPages-en"] = {
     "path":"{}WikiPages-en/".format(tmp_git_dir)
 }
 
+# GIT repo is used to version pot files
 output_repo = git.Repo.init(output_pot_dir)
 
 def output_snapshot():
@@ -62,6 +67,7 @@ def output_snapshot():
 
 output_snapshot()
 
+# this procedure downloads all git repos to last commit
 print("Download for: Git repo")
 for key in git_repos:
     print("Cloning {}".format(key))
@@ -79,6 +85,7 @@ for key in git_repos:
     origin.pull(rebase=True)
 
 print("Starting real work...")
+# extracting templatedata json data and build a dict to translate all templatedata in one file
 templatedata_dict = {}
 template_files_prefix = "{}/struct-wikipages/en/Template:".format(git_repos["WikiToLearn"]['path'])
 template_files = glob.glob("{}*".format(template_files_prefix))
@@ -93,6 +100,7 @@ for file_name in template_files:
             templatedata_dict[template_name.lower()] = templatedata
         data_file.close()
 
+# write templatedata_dict.json file and make the templatedata_dict.pot
 with open("{}templatedata_dict.json".format(tmp_git_dir), 'w') as outfile:
     json.dump(templatedata_dict, outfile)
     outfile.close()
@@ -112,6 +120,7 @@ with open("{}templatedata_dict.json".format(tmp_git_dir), 'w') as outfile:
         pot.metadata['Project-Id-Version'] = project_id_version
         pot.save(output_pot_file)
 
+# make pot file from en.json
 for input_json_file in glob.glob("{}/*/i18n/en.json".format(tmp_git_dir)):
     pot_lib_repo_key = None
     for repo_check_key in git_repos:
@@ -132,7 +141,7 @@ for input_json_file in glob.glob("{}/*/i18n/en.json".format(tmp_git_dir)):
         pot.metadata['Project-Id-Version'] = project_id_version
         pot.save(output_pot_file)
 
-
+# convert pages_id to a json that can be converted to pot
 pages_id_file = "{}pages_id.yml".format(git_repos['WikiPages-en']['path'])
 placeholder_dict = {}
 if os.path.isfile(pages_id_file):
@@ -142,6 +151,7 @@ if os.path.isfile(pages_id_file):
             placeholder_dict[reverse_placeholder_dict[k]] = k
         data_file.close()
 
+# convert pages_id to pot
 with open("{}pages_id.json".format(tmp_git_dir), 'w') as outfile:
     json.dump(placeholder_dict, outfile)
     outfile.close()
@@ -187,6 +197,7 @@ for root, directories, filenames in os.walk(mw_pages_dir):
         page_title = file_full_name[len(mw_pages_dir):-3]
         mw_pages_files[page_title] = file_full_name
 
+# create a meta-wikipage with link replaced with the placeholder
 for mw_page_title in mw_pages_files:
     mw_page_file = mw_pages_files[mw_page_title]
     with open(mw_page_file, 'r') as content_file:
@@ -195,6 +206,7 @@ for mw_page_title in mw_pages_files:
         # https://www.mediawiki.org/wiki/Manual:$wgLegalTitleChars
         mw_tmp_content[mw_page_title]  = sub(r'\[{2}(.[^\[\]\{\}\|\#\<\>\%\+\?]+)(\|(.[^\[\]\{\}\|\#\<\>\%\+\?]+)){0,1}\]{2}', evaluate, content)
 
+# writing meta-wikipage to file and creating pot file
 old_cwd = os.getcwd()
 os.chdir(tmp_mw_files)
 for mw_page_title in mw_pages_files:
