@@ -20,6 +20,11 @@ output_pot_dir = "{}pot/".format(mypath)
 if not os.path.exists(output_pot_dir):
     os.makedirs(output_pot_dir)
 
+# directory where all po file must to be
+output_po_dir = "{}po/".format(mypath)
+if not os.path.exists(output_po_dir):
+    os.makedirs(output_po_dir)
+
 # directory where place tmp files
 tmp_dir = "{}tmp/".format(mypath)
 if not os.path.exists(tmp_dir):
@@ -96,7 +101,6 @@ for file_name in template_files:
         templatedata_matchs=re.findall("<templatedata>(.*?)</templatedata>",data_file.read(),re.DOTALL)
         if len(templatedata_matchs) == 1:
             templatedata = json.loads(templatedata_matchs[0])
-            del templatedata['params']['title']['type']
             templatedata_dict[template_name.lower()] = templatedata
         data_file.close()
 
