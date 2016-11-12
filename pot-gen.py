@@ -8,6 +8,7 @@ import json
 import yaml
 from re import sub
 from subprocess import call
+import polib
 
 mypath = "{}/".format(os.path.dirname(os.path.realpath(__file__)))
 
@@ -50,13 +51,16 @@ git_repos["WikiPages-en"] = {
 }
 
 print("Download for: Git repo")
-for key in []: #git_repos:
+for key in git_repos:
     print("Cloning {}".format(key))
     local_dir = git_repos[key]['path']
     repo = git_repos[key]['url']
     if not os.path.exists(local_dir):
         git.Git().clone(repo, local_dir)
     repo_obj = git.Repo(local_dir)
+
+    git_repos[key]['last_commit'] = repo_obj.git.log("-n1","--pretty=oneline").split(' ')[0]
+
     repo_obj.git.add(".")
     repo_obj.git.reset('--hard')
     origin = repo_obj.remotes.origin
@@ -73,19 +77,49 @@ for file_name in template_files:
         templatedata_matchs=re.findall("<templatedata>(.*?)</templatedata>",data_file.read(),re.DOTALL)
         if len(templatedata_matchs) == 1:
             templatedata = json.loads(templatedata_matchs[0])
+            del templatedata['params']['title']['type']
             templatedata_dict[template_name.lower()] = templatedata
         data_file.close()
 
 with open("{}templatedata_dict.json".format(tmp_git_dir), 'w') as outfile:
     json.dump(templatedata_dict, outfile)
     outfile.close()
-    cmd = ["json2po","-P","{}templatedata_dict.json".format(tmp_git_dir),"{}templatedata_dict.pot".format(output_pot_dir)]
-    print(call(cmd))
+
+    pot_lib_repo_key = "WikiToLearn"
+    output_pot_file = "{}templatedata_dict.pot".format(output_pot_dir)
+    project_id_version = "{} {}".format(pot_lib_repo_key,git_repos[pot_lib_repo_key]['last_commit'])
+    gen_pot = True
+    if os.path.exists(output_pot_file):
+        pot = polib.pofile(output_pot_file)
+        gen_pot = pot.metadata['Project-Id-Version'] != project_id_version
+
+    if gen_pot:
+        cmd = ["json2po","-P","{}templatedata_dict.json".format(tmp_git_dir),output_pot_file]
+        call(cmd)
+        pot = polib.pofile(output_pot_file)
+        pot.metadata['Project-Id-Version'] = project_id_version
+        pot.save(output_pot_file)
 
 for input_json_file in glob.glob("{}/*/i18n/en.json".format(tmp_git_dir)):
+    pot_lib_repo_key = None
+    for repo_check_key in git_repos:
+        if input_json_file.startswith(git_repos[repo_check_key]['path']):
+            pot_lib_repo_key = repo_check_key
     output_pot_file = "{}{}.pot".format(output_pot_dir,input_json_file[len(tmp_git_dir):-len("/i18n/en.json")])
-    cmd = ["json2po","-P",input_json_file,output_pot_file]
-    print(call(cmd))
+    project_id_version = "{} {}".format(pot_lib_repo_key,git_repos[pot_lib_repo_key]['last_commit'])
+    gen_pot = True
+    if os.path.exists(output_pot_file):
+        pot = polib.pofile(output_pot_file)
+        gen_pot = pot.metadata['Project-Id-Version'] != project_id_version
+
+    if gen_pot:
+        cmd = ["json2po","-P",input_json_file,output_pot_file]
+        call(cmd)
+
+        pot = polib.pofile(output_pot_file)
+        pot.metadata['Project-Id-Version'] = project_id_version
+        pot.save(output_pot_file)
+
 
 pages_id_file = "{}pages_id.yml".format(git_repos['WikiPages-en']['path'])
 placeholder_dict = {}
@@ -99,8 +133,21 @@ if os.path.isfile(pages_id_file):
 with open("{}pages_id.json".format(tmp_git_dir), 'w') as outfile:
     json.dump(placeholder_dict, outfile)
     outfile.close()
-    cmd = ["json2po","-P","{}pages_id.json".format(tmp_git_dir),"{}pages_id.pot".format(output_pot_dir)]
-    print(call(cmd))
+    pot_lib_repo_key = "WikiPages-en"
+    output_pot_file = "{}pages_id.pot".format(output_pot_dir)
+    project_id_version = "{} {}".format(pot_lib_repo_key,git_repos[pot_lib_repo_key]['last_commit'])
+    gen_pot = True
+    if os.path.exists(output_pot_file):
+        pot = polib.pofile(output_pot_file)
+        gen_pot = pot.metadata['Project-Id-Version'] != project_id_version
+
+    if gen_pot:
+        cmd = ["json2po","-P","{}pages_id.json".format(tmp_git_dir),output_pot_file]
+        call(cmd)
+
+        pot = polib.pofile(output_pot_file)
+        pot.metadata['Project-Id-Version'] = project_id_version
+        pot.save(output_pot_file)
 
 def evaluate(match):
     link_to = str(match.group(1))
@@ -140,13 +187,24 @@ old_cwd = os.getcwd()
 os.chdir(tmp_mw_files)
 for mw_page_title in mw_pages_files:
     mw_tmp_file = "{}.mw".format(placeholder_dict[mw_page_title])
-    pot_file = "{}{}.pot".format(output_pot_dir,placeholder_dict[mw_page_title])
 
     with open(mw_tmp_file, "wb") as out_file:
         out_file.write(mw_tmp_content[mw_page_title].encode('utf8'))
         out_file.close()
 
-    cmd = ["txt2po","--flavour=mediawiki","-P",mw_tmp_file,pot_file]
-    print(call(cmd))
+    pot_lib_repo_key = "WikiPages-en"
+    output_pot_file = "{}{}.pot".format(output_pot_dir,placeholder_dict[mw_page_title])
+    project_id_version = "{} {}".format(pot_lib_repo_key,git_repos[pot_lib_repo_key]['last_commit'])
+    gen_pot = True
+    if os.path.exists(output_pot_file):
+        pot = polib.pofile(output_pot_file)
+        gen_pot = pot.metadata['Project-Id-Version'] != project_id_version
+
+    if gen_pot:
+        cmd = ["txt2po","--flavour=mediawiki","-P",mw_tmp_file,output_pot_file]
+        call(cmd)
+        pot = polib.pofile(output_pot_file)
+        pot.metadata['Project-Id-Version'] = project_id_version
+        pot.save(output_pot_file)
 
 os.chdir(old_cwd)
