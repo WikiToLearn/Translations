@@ -9,6 +9,8 @@ import yaml
 from re import sub
 from subprocess import call
 import polib
+import time
+import datetime
 
 mypath = "{}/".format(os.path.dirname(os.path.realpath(__file__)))
 
@@ -49,6 +51,16 @@ git_repos["WikiPages-en"] = {
     "url":"https://github.com/WikiToLearn/WikiPages-en",
     "path":"{}WikiPages-en/".format(tmp_git_dir)
 }
+
+output_repo = git.Repo.init(output_pot_dir)
+
+def output_snapshot():
+    if len(output_repo.index.diff(None)) + len(output_repo.untracked_files) > 0:
+        ts = time.time()
+        output_repo.git.add('.')
+        output_repo.index.commit("Snapshot {}".format(datetime.datetime.fromtimestamp(ts).strftime('%Y-%m-%d %H:%M:%S')))
+
+output_snapshot()
 
 print("Download for: Git repo")
 for key in git_repos:
@@ -208,3 +220,5 @@ for mw_page_title in mw_pages_files:
         pot.save(output_pot_file)
 
 os.chdir(old_cwd)
+
+output_snapshot()
