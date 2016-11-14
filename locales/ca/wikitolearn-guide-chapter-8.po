@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wikitolearn-guide-chapter-8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-14 19:22+0200\n"
+"POT-Creation-Date: 2016-11-14 19:47+0200\n"
 "PO-Revision-Date: 2016-10-18 18:22+0100\n"
 "Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -69,9 +69,10 @@ msgstr ""
 "els cursos i les lliçons escrites pels estudiants, professors, tècnics, etc."
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:15
+#, fuzzy
 msgid ""
-"It's open source and you can find the code here: "
-"https://github.com/WikiToLearn/texla"
+"It's open source and you can find the code on "
+"[https://github.com/WikiToLearn/texla Github]!"
 msgstr ""
 "És de codi obert i podeu trobar el codi aquí: "
 "https://github.com/WikiToLearn/texla"
@@ -89,9 +90,10 @@ msgid "Web client"
 msgstr "Client web"
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:20
+#, fuzzy
 msgid ""
 "If you want to use TeXLa without installing anything, visit "
-"https://texla.wikitolearn.org/"
+"https://texla.wikitolearn.org/."
 msgstr ""
 "Si voleu utilitzar TeXLa sense instal·lar res, visiteu "
 "https://texla.wikitolearn.org/"
@@ -125,10 +127,12 @@ msgid "Python script"
 msgstr "Script de Python"
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:32
+#, fuzzy
 msgid ""
 "You can also choose to use the native python script to convert your files.\n"
-"All the documentation on the configuration and installation is written here: "
-"https://github.com/WikiToLearn/texla/blob/master/README.mdown"
+"All the documentation on the configuration and installation is written "
+"[https://github.com/WikiToLearn/texla/blob/master/README.mdown WikiToLearn's "
+"Github]."
 msgstr ""
 "També podeu optar per utilitzar l'script natiu en Python per a convertir els "
 "fitxers.\n"

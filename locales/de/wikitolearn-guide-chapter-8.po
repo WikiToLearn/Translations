@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-14 19:22+0200\n"
+"POT-Creation-Date: 2016-11-14 19:47+0200\n"
 "PO-Revision-Date: 2016-10-29 21:41+0100\n"
 "Last-Translator: Burkhard Lück <lueck@hube-lueck.de>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
@@ -57,8 +57,8 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:15
 msgid ""
-"It's open source and you can find the code here: "
-"https://github.com/WikiToLearn/texla"
+"It's open source and you can find the code on "
+"[https://github.com/WikiToLearn/texla Github]!"
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:17
@@ -72,9 +72,10 @@ msgid "Web client"
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:20
+#, fuzzy
 msgid ""
 "If you want to use TeXLa without installing anything, visit "
-"https://texla.wikitolearn.org/"
+"https://texla.wikitolearn.org/."
 msgstr ""
 "Möchten Sie TeXLa ohne Installation benutzen, lesen Sie "
 "https://texla.wikitolearn.org/"
@@ -102,8 +103,9 @@ msgstr "Python-Skript"
 #: guide/en/wikitolearn-guide-chapter-8.txt:32
 msgid ""
 "You can also choose to use the native python script to convert your files.\n"
-"All the documentation on the configuration and installation is written here: "
-"https://github.com/WikiToLearn/texla/blob/master/README.mdown"
+"All the documentation on the configuration and installation is written "
+"[https://github.com/WikiToLearn/texla/blob/master/README.mdown WikiToLearn's "
+"Github]."
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:32

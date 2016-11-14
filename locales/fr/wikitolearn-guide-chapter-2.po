@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-14 19:22+0200\n"
+"POT-Creation-Date: 2016-11-14 19:47+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.13.0\n"
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:2
+#: guide/en/wikitolearn-guide-chapter-2.txt:1
 msgid ""
 "Course is a collection of pages with a well defined tree structure.\n"
 "Every course on WikiToLearn has a unique name.\n"
@@ -20,27 +20,27 @@ msgid ""
 "collaborative course where everyone can contribute."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:2
+#: guide/en/wikitolearn-guide-chapter-2.txt:1
 msgid "Create a course"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:7
+#: guide/en/wikitolearn-guide-chapter-2.txt:6
 msgid ""
 "The first thing to do to create a course is going to the right department "
 "and the right topic.\n"
 "For example, if you are writing a <code>Quantum Physics</code> course, you "
 "need to go to the physics department located at "
-"http://en.wikitolearn.org/Physics.\n"
+"http://en.wikitolearn.vodka/Physics.\n"
 "Find the most appropriate topic and click on it.\n"
 "In the previous example, you should look for a topic named \"Quantum "
 "Physics\" or \"Quantum Mechanics\"."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:12
+#: guide/en/wikitolearn-guide-chapter-2.txt:11
 msgid "Click the \"Create Course\" button: a form will show up."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:14
+#: guide/en/wikitolearn-guide-chapter-2.txt:13
 msgid ""
 "'''Note:''' if there isn't an appropriate topic for the course, you can "
 "create one by clicking the \"Create Course and Topic\" button on the "
@@ -48,18 +48,18 @@ msgid ""
 "The name of the topic will be the same as the name of the course."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:17
+#: guide/en/wikitolearn-guide-chapter-2.txt:16
 msgid "[[File:Manual_create_course.gif]]"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:19
+#: guide/en/wikitolearn-guide-chapter-2.txt:18
 msgid ""
 "You can choose to make the course public or private.\n"
 "A public course is located under the related department, while a private "
 "course is located under the user namespace."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:22
+#: guide/en/wikitolearn-guide-chapter-2.txt:21
 msgid ""
 "It is strongly recommended to create a private course and publish it once "
 "completed.\n"
@@ -68,22 +68,22 @@ msgid ""
 "creating, moving and deleting content."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:22
+#: guide/en/wikitolearn-guide-chapter-2.txt:21
 msgid "Course Metadata"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:27
+#: guide/en/wikitolearn-guide-chapter-2.txt:26
 msgid ""
 "It is possible to add additional information to a course.\n"
 "This is helpful when you have some external links or PDF with exercises, "
 "notes or bibliography that you want to attach to the course."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:30
+#: guide/en/wikitolearn-guide-chapter-2.txt:29
 msgid "[[File:Add_metadata_wtl.gif]]"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:32
+#: guide/en/wikitolearn-guide-chapter-2.txt:31
 msgid ""
 "To add metadata visit the course root page and click on the \"Edit metadata\""
 " button.\n"
@@ -91,27 +91,27 @@ msgid ""
 "In particular, you can add information about:"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:32
+#: guide/en/wikitolearn-guide-chapter-2.txt:31
 msgid "Bibliography"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:32
+#: guide/en/wikitolearn-guide-chapter-2.txt:31
 msgid "Exercises"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:32
+#: guide/en/wikitolearn-guide-chapter-2.txt:31
 msgid "Books"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:32
+#: guide/en/wikitolearn-guide-chapter-2.txt:31
 msgid "External References"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:32
+#: guide/en/wikitolearn-guide-chapter-2.txt:31
 msgid "Publish a course"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:42
+#: guide/en/wikitolearn-guide-chapter-2.txt:41
 msgid ""
 "If you created a private course, it will stay under your user namespace "
 "unless you decide to publish it.\n"
@@ -121,10 +121,10 @@ msgid ""
 "content to the public topic page."
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:46
+#: guide/en/wikitolearn-guide-chapter-2.txt:45
 msgid "[[File:Publish_private_course_wtl.gif]]"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:48
+#: guide/en/wikitolearn-guide-chapter-2.txt:47
 msgid "__FORCETOC__"
 msgstr ""

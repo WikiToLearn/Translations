@@ -45,11 +45,11 @@ In WikiTolearn there are two main namespaces, "User" and "Course".
 The User namespace is your personal page where you can write your own courses and content without worring about making mistakes.
 You can see an example here:
 
-http://en.wikitolearn.org/User:Grigoletti
+http://en.wikitolearn.vodka/User:Grigoletti
 
 === Course namespace ===
 A Course namespace is similar to the User one, but it has the word <code>Course:</code>as a prefix to the URL<ref>URL is an acronym for Uniform Resource Locator and is a reference (an address) to a resource on the Internet</ref>.
 This namespace is used to create an entire public course.
 You can see an example here:
 
-http://en.wikitolearn.org/Course:How_to_use_Linked_Data
+http://en.wikitolearn.vodka/Course:How_to_use_Linked_Data

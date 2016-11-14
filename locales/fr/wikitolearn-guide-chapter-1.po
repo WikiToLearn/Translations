@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-14 19:22+0200\n"
+"POT-Creation-Date: 2016-11-14 19:47+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -132,7 +132,7 @@ msgid ""
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:48
-msgid "http://en.wikitolearn.org/User:Grigoletti"
+msgid "http://en.wikitolearn.vodka/User:Grigoletti"
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:48
@@ -150,5 +150,5 @@ msgid ""
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:55
-msgid "http://en.wikitolearn.org/Course:How_to_use_Linked_Data"
+msgid "http://en.wikitolearn.vodka/Course:How_to_use_Linked_Data"
 msgstr ""

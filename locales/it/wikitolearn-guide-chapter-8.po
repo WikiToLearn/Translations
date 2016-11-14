@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-14 19:22+0200\n"
+"POT-Creation-Date: 2016-11-14 19:47+0200\n"
 "PO-Revision-Date: 2016-10-29 17:24+0100\n"
 "Last-Translator: Paolo Zamponi <zapaolo@email.it>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -65,9 +65,10 @@ msgstr ""
 "scritte da studenti, professori, tecnici ecc."
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:15
+#, fuzzy
 msgid ""
-"It's open source and you can find the code here: "
-"https://github.com/WikiToLearn/texla"
+"It's open source and you can find the code on "
+"[https://github.com/WikiToLearn/texla Github]!"
 msgstr ""
 "È open source, e puoi trovare il codice qui: "
 "https://github.com/WikiToLearn/texla"
@@ -85,9 +86,10 @@ msgid "Web client"
 msgstr "Client web"
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:20
+#, fuzzy
 msgid ""
 "If you want to use TeXLa without installing anything, visit "
-"https://texla.wikitolearn.org/"
+"https://texla.wikitolearn.org/."
 msgstr ""
 "Se vuoi usare TeXLa senza dover installare niente visita "
 "https://texla.wikitolearn.org/"
@@ -121,10 +123,12 @@ msgid "Python script"
 msgstr "Script Python"
 
 #: guide/en/wikitolearn-guide-chapter-8.txt:32
+#, fuzzy
 msgid ""
 "You can also choose to use the native python script to convert your files.\n"
-"All the documentation on the configuration and installation is written here: "
-"https://github.com/WikiToLearn/texla/blob/master/README.mdown"
+"All the documentation on the configuration and installation is written "
+"[https://github.com/WikiToLearn/texla/blob/master/README.mdown WikiToLearn's "
+"Github]."
 msgstr ""
 "Puoi anche scegliere di usare lo script nativo in Python per convertire i "
 "tuoi file.\n"

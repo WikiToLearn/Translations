@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-14 19:22+0200\n"
+"POT-Creation-Date: 2016-11-14 19:47+0200\n"
 "PO-Revision-Date: 2016-10-29 23:03+0200\n"
 "Last-Translator: Paolo Zamponi <zapaolo@email.it>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -168,7 +168,8 @@ msgstr ""
 "Qui puoi vedere un esempio:"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:48
-msgid "http://en.wikitolearn.org/User:Grigoletti"
+#, fuzzy
+msgid "http://en.wikitolearn.vodka/User:Grigoletti"
 msgstr "http://en.wikitolearn.org/User:Grigoletti"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:48
@@ -192,7 +193,8 @@ msgstr ""
 "Puoi vedere un esempio qui:"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:55
-msgid "http://en.wikitolearn.org/Course:How_to_use_Linked_Data"
+#, fuzzy
+msgid "http://en.wikitolearn.vodka/Course:How_to_use_Linked_Data"
 msgstr "http://en.wikitolearn.org/Course:How_to_use_Linked_Data"
 
 #~ msgctxt "guide/en/wikitolearn-guide-chapter-1.txt:9"

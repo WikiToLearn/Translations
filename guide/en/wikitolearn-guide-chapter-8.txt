@@ -12,12 +12,12 @@ The main tool is called TeXLa.
 TeXLa is a LaTeX parser written in python. We use it to import courses and lectures
 written by students, professors, techs, etc.
 
-It's open source and you can find the code here: https://github.com/WikiToLearn/texla
+It's open source and you can find the code on [https://github.com/WikiToLearn/texla Github]!
 
 There are a couple of different ways you can use TeXLa: the web client or the native python script.
 
 === Web client ===
-If you want to use TeXLa without installing anything, visit https://texla.wikitolearn.org/
+If you want to use TeXLa without installing anything, visit https://texla.wikitolearn.org/.
 
 You can write LaTeX content in the text area or upload a <code>.tex</code> file.
 The website will convert your latex into a WikiToLearn ready-to-paste content.
@@ -30,7 +30,7 @@ or you can even use latex macros and environments
 === Python script ===
 
 You can also choose to use the native python script to convert your files.
-All the documentation on the configuration and installation is written here: https://github.com/WikiToLearn/texla/blob/master/README.mdown
+All the documentation on the configuration and installation is written [https://github.com/WikiToLearn/texla/blob/master/README.mdown WikiToLearn's Github].
 
 === Further documentation ===
 
