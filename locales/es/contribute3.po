@@ -1,5 +1,4 @@
 #. extracted from guide/en/contribute3.txt
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"

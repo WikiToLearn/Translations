@@ -1,74 +1,79 @@
+# charruau <echarruau@gmail.com>, 2016.
 #. extracted from guide/en/wikitolearn-guide-chapter-0.txt
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-14 19:47+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2016-11-14 19:59+0200\n"
+"PO-Revision-Date: 2016-11-02 16:31+0100\n"
+"Last-Translator: charruau <echarruau@gmail.com>\n"
+"Language-Team: French <kde-i18n-doc@kde.org>\n"
+"Language: fr_FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Translate Toolkit 1.13.0\n"
 
 #: guide/en/wikitolearn-guide-chapter-0.txt:1
 msgid "Introduction"
-msgstr ""
+msgstr "Introduction"
 
 #: guide/en/wikitolearn-guide-chapter-0.txt:1
 msgid "[[<ref:wikitolearn-guide-chapter-1>|Structure of WikiToLearn]]"
-msgstr ""
+msgstr "[[<ref:wikitolearn-guide-chapter-1>|Structure de WikiToLearn]]"
 
 #: guide/en/wikitolearn-guide-chapter-0.txt:1
 msgid "Core concepts"
-msgstr ""
+msgstr "Concepts de base"
 
 #: guide/en/wikitolearn-guide-chapter-0.txt:1
 msgid "[[<ref:wikitolearn-guide-chapter-2>|Course]]"
-msgstr ""
+msgstr "[[<ref:wikitolearn-guide-chapter-2>|Cours]]"
 
 #: guide/en/wikitolearn-guide-chapter-0.txt:1
 msgid "[[<ref:wikitolearn-guide-chapter-3>|Section]]"
-msgstr ""
+msgstr "[[<ref:wikitolearn-guide-chapter-3>|Section]]"
 
 #: guide/en/wikitolearn-guide-chapter-0.txt:1
 msgid "[[<ref:wikitolearn-guide-chapter-4>|Chapter]]"
-msgstr ""
+msgstr "[[<ref:wikitolearn-guide-chapter-4>|Chapitre]]"
 
 #: guide/en/wikitolearn-guide-chapter-0.txt:1
 msgid "Editing"
-msgstr ""
+msgstr "Éditer"
 
 #: guide/en/wikitolearn-guide-chapter-0.txt:1
 msgid "[[<ref:wikitolearn-guide-chapter-5>|The Visual Editor]]"
-msgstr ""
+msgstr "[[<ref:wikitolearn-guide-chapter-5>|Éditeur visuel]]"
 
 #: guide/en/wikitolearn-guide-chapter-0.txt:1
 msgid "[[<ref:wikitolearn-guide-chapter-6>|Using templates]]"
-msgstr ""
+msgstr "[[<ref:wikitolearn-guide-chapter-6>|Utiliser les modèles]]"
 
 #: guide/en/wikitolearn-guide-chapter-0.txt:1
 msgid "[[<ref:wikitolearn-guide-chapter-7>|Creating books]]"
-msgstr ""
+msgstr "[[<ref:wikitolearn-guide-chapter-7>|Créer des manuels]]"
 
 #: guide/en/wikitolearn-guide-chapter-0.txt:1
 msgid "External Content"
-msgstr ""
+msgstr "Contenu externe"
 
 #: guide/en/wikitolearn-guide-chapter-0.txt:1
 msgid "[[<ref:wikitolearn-guide-chapter-8>|Importing from LaTeX]]"
-msgstr ""
+msgstr "[[<ref:wikitolearn-guide-chapter-8>|Importer à partir de LaTeX]]"
 
 #: guide/en/wikitolearn-guide-chapter-0.txt:1
 msgid "[[<ref:wikitolearn-guide-chapter-9>|Importing from Word]]"
-msgstr ""
+msgstr "[[<ref:wikitolearn-guide-chapter-9>|Importer à partir de Word]]"
 
 #: guide/en/wikitolearn-guide-chapter-0.txt:1
 msgid "Development"
-msgstr ""
+msgstr "Développement"
 
 #: guide/en/wikitolearn-guide-chapter-0.txt:1
 msgid ""
 "[[<ref:wikitolearn-guide-chapter-10>|Some more contribution possibilities]]"
 msgstr ""
+"[[<ref:wikitolearn-guide-chapter-10>|Quelques possibilités de contributions "
+"supplémentaires]]"

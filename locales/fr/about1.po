@@ -1,20 +1,23 @@
+# charruau <echarruau@gmail.com>, 2016.
 #. extracted from guide/en/about1.txt
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-14 19:47+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2016-11-14 19:59+0200\n"
+"PO-Revision-Date: 2016-11-02 16:26+0100\n"
+"Last-Translator: charruau <echarruau@gmail.com>\n"
+"Language-Team: French <kde-i18n-doc@kde.org>\n"
+"Language: fr_FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Translate Toolkit 1.13.0\n"
 
 #: guide/en/about1.txt:1
 msgid "What is WikiToLearn?"
-msgstr ""
+msgstr "Qu'est ce que WikiToLearn?"
 
 #: guide/en/about1.txt:2
 msgid ""
@@ -22,6 +25,9 @@ msgid ""
 "University of Milano Bicocca had the necessity to share their notes to study "
 "for their exams."
 msgstr ""
+"WikiToLearn a été fondé en September 2015, lorsqu'un groupe d'étudiants de "
+"l'université de Milan Bicocca, préparant leurs examens, ont éprouvé le "
+"besoin de partager leurs notes de cours."
 
 #: guide/en/about1.txt:4
 msgid ""
@@ -30,10 +36,14 @@ msgid ""
 "and collaborative textbooks with the help of the world of University and "
 "Academia."
 msgstr ""
+"Représenté légalement par KDE e.V., faisant partie de la communauté KDE, "
+"WikiToLearn was a été créé en tant qu'association à but non lucratif et sous "
+"la forme d'un projet open source. Son but est de fournir, avec l'aide du "
+"monde universitaire et académique, des manuels libres et collaboratifs."
 
 #: guide/en/about1.txt:4
 msgid "Who are the WikiToLearn-ers?"
-msgstr ""
+msgstr "Qui sont les contributeurs de WikiToLearn?"
 
 #: guide/en/about1.txt:7
 msgid ""
@@ -44,3 +54,10 @@ msgid ""
 "possibility to check the correctness and the completeness of the notes taken "
 "by their students during lectures."
 msgstr ""
+"La communauté WikiToLearn est constituée d'étudiants, de chercheurs,  de "
+"professeurs et de tous ceux qui ont pour but de contribuer au monde libre "
+"des connaissances, et ce dans le monde entier. Les étudiants peuvent par "
+"exemple y rédiger leurs notes collaborativement, les intégrer puis les "
+"contrôler pour obtenir un résultat de qualité. Les professeurs quant à eux "
+"peuvent s'en servir comme outils d'autoévaluation en ayant la possibilité de "
+"vérifier la validité et la qualité des notes prises lors de leurs cours."
