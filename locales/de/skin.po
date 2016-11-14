@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-02 14:46+0200\n"
+"POT-Creation-Date: 2016-11-14 19:22+0200\n"
 "PO-Revision-Date: 2016-10-29 21:14+0100\n"
 "Last-Translator: Burkhard Lück <lueck@hube-lueck.de>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
@@ -40,7 +40,8 @@ msgid "//reports.wikitolearn.org"
 msgstr "//reports.wikitolearn.org"
 
 #: .wikitolearnskin-testimonials-third-name
-msgid "Srijan Agrawal, Amrita University, Amritapuri Campus"
+#, fuzzy
+msgid "Srijan Agarwal, Amrita University, Amritapuri Campus"
 msgstr "Ein Buch erstellen"
 
 #: .wikitolearnskin-join-other
@@ -56,9 +57,8 @@ msgstr "/#"
 msgid ""
 "WikiToLearn is a wide project, open to any kind of contribution. Are you an "
 "open-source enthusiast and do you want to support our community? Do you like "
-"coding or do you want to help us with translations? In our project anyone "
-"can give his help, do not hesitate anymore: find out more on how you can put "
-"your best efforts in WikiToLearn!"
+"coding? In our project anyone can give his help, do not hesitate anymore: "
+"find out more on how you can put your best efforts in WikiToLearn!"
 msgstr ""
 
 #: .wikitolearnskin-join-step-chat-title
@@ -67,8 +67,8 @@ msgstr ""
 
 #: .wikitolearnskin-testimonials-second-image-path
 #, fuzzy
-msgid "images/placeholder-user.png"
-msgstr "images/placeholder-user.png"
+msgid "images/users/mpaga.jpg"
+msgstr "images/users/dan.jpg"
 
 #: .wikitolearnskin-read-more-stories-button-link
 msgctxt ".wikitolearnskin-read-more-stories-button-link"
@@ -195,7 +195,8 @@ msgid "WikiToLearn"
 msgstr "WikiToLearn"
 
 #: .wikitolearnskin-latest-report-link
-msgid "https://reports.wikitolearn.org"
+#, fuzzy
+msgid "https://reports.wikitolearn.org/latest"
 msgstr "https://reports.wikitolearn.org"
 
 #: .wikitolearnskin-user-tools-emailuser-title
@@ -393,7 +394,7 @@ msgstr ""
 #: .wikitolearnskin-testimonials-second-quote
 msgid ""
 "It is encouraging to see a wide community of young people moved by the noble "
-"aim of spreading knowledge and culture. WikiTolearn is  much more than "
+"aim of spreading knowledge and culture. WikiToLearn is  much more than "
 "cutting edge technology!"
 msgstr ""
 
@@ -406,7 +407,7 @@ msgid "Open chat"
 msgstr ""
 
 #: .wikitolearnskin-join-professor-link
-msgid "/Teacher"
+msgid "/Join/Teacher"
 msgstr ""
 
 #: .wikitolearnskin-navbar-contribute-link
@@ -429,12 +430,12 @@ msgstr ""
 #: .wikitolearnskin-join-step-chat-content
 msgid ""
 "Do you need support? Still unsure about how you can help? We communicate and "
-"coordinate our community via rocketchat. Press the button, register a chat "
-"account and you are to talk with us!"
+"coordinate our community via rocketchat. Register a chat account and you are "
+"ready to talk with us!"
 msgstr ""
 
 #: .wikitolearnskin-join-student-link
-msgid "/Student"
+msgid "/Join/Student"
 msgstr ""
 
 #: .wikitolearnskin-join-professor
@@ -484,7 +485,7 @@ msgid "https://chat.wikitolearn.org"
 msgstr "https://chat.wikitolearn.org"
 
 #: .wikitolearnskin-join-other-link
-msgid "/Hacker"
+msgid "/Join/Hacker"
 msgstr ""
 
 #: .wikitolearnskin-cookies-learn-more
@@ -527,6 +528,10 @@ msgid ""
 "books precisely tailored to your needs? WikiToLearn and its tools for book "
 "editing, importing and exporting are what you are looking for!"
 msgstr ""
+
+#, fuzzy
+#~ msgid "images/placeholder-user.png"
+#~ msgstr "images/placeholder-user.png"
 
 #~ msgid "Daniele Pannozzo, Roma, Università la Sapienza"
 #~ msgstr "Daniele Pannozzo, Roma, Università la Sapienza"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-02 14:37+0200\n"
+"POT-Creation-Date: 2016-11-14 19:22+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -36,7 +36,7 @@ msgid "//reports.wikitolearn.org"
 msgstr ""
 
 #: .wikitolearnskin-testimonials-third-name
-msgid "Srijan Agrawal, Amrita University, Amritapuri Campus"
+msgid "Srijan Agarwal, Amrita University, Amritapuri Campus"
 msgstr ""
 
 #: .wikitolearnskin-join-other
@@ -51,9 +51,8 @@ msgstr ""
 msgid ""
 "WikiToLearn is a wide project, open to any kind of contribution. Are you an "
 "open-source enthusiast and do you want to support our community? Do you like "
-"coding or do you want to help us with translations? In our project anyone "
-"can give his help, do not hesitate anymore: find out more on how you can put "
-"your best efforts in WikiToLearn!"
+"coding? In our project anyone can give his help, do not hesitate anymore: "
+"find out more on how you can put your best efforts in WikiToLearn!"
 msgstr ""
 
 #: .wikitolearnskin-join-step-chat-title
@@ -61,7 +60,7 @@ msgid "Chat with us"
 msgstr ""
 
 #: .wikitolearnskin-testimonials-second-image-path
-msgid "images/placeholder-user.png"
+msgid "images/users/mpaga.jpg"
 msgstr ""
 
 #: .wikitolearnskin-read-more-stories-button-link
@@ -187,7 +186,7 @@ msgid "WikiToLearn"
 msgstr ""
 
 #: .wikitolearnskin-latest-report-link
-msgid "https://reports.wikitolearn.org"
+msgid "https://reports.wikitolearn.org/latest"
 msgstr ""
 
 #: .wikitolearnskin-user-tools-emailuser-title
@@ -382,7 +381,7 @@ msgstr ""
 #: .wikitolearnskin-testimonials-second-quote
 msgid ""
 "It is encouraging to see a wide community of young people moved by the noble "
-"aim of spreading knowledge and culture. WikiTolearn is  much more than "
+"aim of spreading knowledge and culture. WikiToLearn is  much more than "
 "cutting edge technology!"
 msgstr ""
 
@@ -395,7 +394,7 @@ msgid "Open chat"
 msgstr ""
 
 #: .wikitolearnskin-join-professor-link
-msgid "/Teacher"
+msgid "/Join/Teacher"
 msgstr ""
 
 #: .wikitolearnskin-navbar-contribute-link
@@ -418,12 +417,12 @@ msgstr ""
 #: .wikitolearnskin-join-step-chat-content
 msgid ""
 "Do you need support? Still unsure about how you can help? We communicate and "
-"coordinate our community via rocketchat. Press the button, register a chat "
-"account and you are to talk with us!"
+"coordinate our community via rocketchat. Register a chat account and you are "
+"ready to talk with us!"
 msgstr ""
 
 #: .wikitolearnskin-join-student-link
-msgid "/Student"
+msgid "/Join/Student"
 msgstr ""
 
 #: .wikitolearnskin-join-professor
@@ -472,7 +471,7 @@ msgid "https://chat.wikitolearn.org"
 msgstr ""
 
 #: .wikitolearnskin-join-other-link
-msgid "/Hacker"
+msgid "/Join/Hacker"
 msgstr ""
 
 #: .wikitolearnskin-cookies-learn-more

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-02 14:37+0200\n"
+"POT-Creation-Date: 2016-11-14 19:22+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,15 +21,16 @@ msgid ""
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-10.txt:1
-msgid "Web development"
+msgid "Software development"
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-10.txt:5
 msgid ""
 "There are lots of app developed by WikiToLearn where you can be useful.\n"
 "Web development is split into groups and every group has its maintainer.\n"
-"Take a look at http://meta.wikitolearn.org/Tech_Team and feel free to "
-"contact the members to ask them more questions."
+"Take a look at the [http://meta.wikitolearn.org/Tech_Team Tech Team "
+"community page] and feel free to contact the members to ask them more "
+"questions."
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-10.txt:5
@@ -38,8 +39,8 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-10.txt:10
 msgid ""
-"If you want to help with translation you can join the #translation channel "
-"at https://chat.wikitolearn.org/channel/translation"
+"If you want to help with translating you can join the "
+"[https://chat.wikitolearn.org/channel/translation #translation channel]."
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-10.txt:10
@@ -50,8 +51,8 @@ msgstr ""
 msgid ""
 "We use phabricator to keep tracks of our development and our bugs.\n"
 "If you think you have found a bug and want to tell us about it, you need to "
-"register to KDE identity here "
-"https://identity.kde.org/index.php?r=registration/index\n"
-"log in into phabricator and create a ticket on phabricator here: "
-"https://phabricator.kde.org/maniphest/task/edit/form/1/?tags=WikiToLearn"
+"[https://identity.kde.org/index.php?r=registration/index register to KDE "
+"identity], log in to Phabricator and   "
+"[https://phabricator.kde.org/maniphest/task/edit/form/1/?tags=WikiToLearn "
+"create a ticket]."
 msgstr ""

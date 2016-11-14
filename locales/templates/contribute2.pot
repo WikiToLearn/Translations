@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-02 14:37+0200\n"
+"POT-Creation-Date: 2016-11-14 19:22+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 
 #: guide/en/contribute2.txt:1
 msgid ""
-"We are very happy you are here. Your knowledge is fundamental to ensure high "
-"standards for the content on WikiToLearn - to make it reliable and complete."
+"Thank you for your interest in WikiToLearn! Your knowledge is fundamental "
+"for us to ensure a high standard of the content."
 msgstr ""
 
 #: guide/en/contribute2.txt:1
@@ -25,71 +25,62 @@ msgstr ""
 
 #: guide/en/contribute2.txt:4
 msgid ""
-"Start from your main area of interest or research. Search on the website if "
-"there are some notes already written about it, review and improve them. Keep "
-"'''[[<ref:wikitolearn-guide-chapter-0>|this guide]]''' on hand to learn how "
-"to apply changes or additions  to  the pages.\n"
-"On the other hand, if you couldn't find any existing material suitable to "
-"your courses, pick from your notes to '''[[<ref:wikitolearn-guide-chapter-2>|"
-"create a new course or add new chapters]]'''. in an already existing one."
+"Search on the website if there is some material already written in your area "
+"of research. Use  '''[[Manual|this guide]]'''  to learn how to review and "
+"improve the content."
 msgstr ""
 
-#: guide/en/contribute2.txt:7
+#: guide/en/contribute2.txt:6
 msgid ""
-"You can use [[<ref:wikitolearn-guide-chapter-0>|the WikiToLearn manual]] as "
-"a really good resource."
+"Otherwise, if you couldn’t find any existing material, '''[[Manual/Core "
+"concepts: Course|create a new course]]''' or "
+"'''[[Manual/Core_concepts:_Chapter|add new chapters]]'''."
 msgstr ""
 
-#: guide/en/contribute2.txt:9
+#: guide/en/contribute2.txt:8
 msgid ""
-"In case you have already written something in LaTeX, our LaTeX to Wiki "
-"converter is exactly what you need: read '''[[<ref:wikitolearn-guide-"
-"chapter-8>|here]]''' how to import your text."
+"Notes, written in Word, can be simply copy pasted. For LaTeX notes you can "
+"use our '''[https://texla.wikitolearn.org LaTex to Wiki Converter]'''! (read "
+"more on the '''[[Manual/Importing from LaTeX|LaTex guide]]''')"
 msgstr ""
 
-#: guide/en/contribute2.txt:9
+#: guide/en/contribute2.txt:10
+msgid ""
+"Contact us at '''[https://chat.wikitolearn.org/channel/importing #importing]"
+"''' on the WikiToLearn chat if you have any problems."
+msgstr ""
+
+#: guide/en/contribute2.txt:10
 msgid "Step 2: Engage your students"
 msgstr ""
 
-#: guide/en/contribute2.txt:12
+#: guide/en/contribute2.txt:13
 msgid ""
-"The collaboration between you and your students on WikiToLearn has a unique "
-"potential both for them and for you, as well as for the project itself: don’"
-"t miss out on the opportunity to contribute a large amount of free knowledge "
-"to the whole world!"
+"The collaboration between you and the students on WikiToLearn will help "
+"sharing knowledge worldwide. Thanks to your checking and improving we will "
+"together be able to create high quality textbooks."
 msgstr ""
 
-#: guide/en/contribute2.txt:14
+#: guide/en/contribute2.txt:15
 msgid ""
-"The students will consolidate their knowledge by writing their notes in a "
-"more organized way and, thanks to your thorough checking and improving, they "
-"will be able to create evolving, exhaustive, proofread and beautifully "
-"formatted textbooks."
+"Engaging your students will help you to be aware of their understanding of "
+"each lesson, providing you a valuable feedback on the effectiveness of your "
+"teaching."
 msgstr ""
 
-#: guide/en/contribute2.txt:16
-msgid ""
-"Reviewing the notes of your students will help you to be aware of their "
-"understanding of each lesson, which gives you valuable feedback on the "
-"effectiveness of your teaching. You can then customize your classes in order "
-"to optimize the educational path."
-msgstr ""
-
-#: guide/en/contribute2.txt:18
-msgid ""
-"The resources on WikiToLearn are growing thanks to the contribution of "
-"researchers and professors like you, who are collaborating together to make "
-"educational material freely accessible, reliable and complete."
-msgstr ""
-
-#: guide/en/contribute2.txt:18
+#: guide/en/contribute2.txt:15
 msgid "Step 3: Spread the word"
 msgstr ""
 
-#: guide/en/contribute2.txt:21
+#: guide/en/contribute2.txt:18
 msgid ""
-"Do not narrow the project to your class: invite your colleagues and all the "
-"institutions you are involved with to collaborate with us to help the "
-"project spread. By building such a growing network, both the quantity and "
-"the quality of the resources available will continuously improve!"
+"Invite your colleagues and all the institutions you are involved in, to "
+"collaborate with us and to help the project grow. A bigger network will "
+"improve the quantity and quality of the resources available."
+msgstr ""
+
+#: guide/en/contribute2.txt:20
+msgid ""
+"Your contribution will help us creating educational material freely "
+"accessible, reliable and complete."
 msgstr ""
