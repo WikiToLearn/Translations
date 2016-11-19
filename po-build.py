@@ -12,76 +12,27 @@ import polib
 import time
 import datetime
 
-# directory where the script is
-mypath = "{}/".format(os.path.dirname(os.path.realpath(__file__)))
-
-# directory where all pot file must to be
-output_pot_dir = "{}pot/".format(mypath)
-if not os.path.exists(output_pot_dir):
-    os.makedirs(output_pot_dir)
-
-# directory where all po file must to be
-output_po_dir = "{}po/".format(mypath)
-if not os.path.exists(output_po_dir):
-    os.makedirs(output_po_dir)
-
-# directory where place tmp files
-tmp_dir = "{}tmp/".format(mypath)
-if not os.path.exists(tmp_dir):
-    os.makedirs(tmp_dir)
-
-tmp_git_dir = "{}git-repos/".format(tmp_dir)
-if not os.path.exists(tmp_git_dir):
-    os.makedirs(tmp_git_dir)
-
-
-tmp_mw_files = "{}mw-files/".format(tmp_dir)
-if not os.path.exists(tmp_mw_files):
-    os.makedirs(tmp_mw_files)
-
-# dict for all git repos used
-git_repos = {}
-git_repos["WikiToLearn"] = {
-    "url": "https://github.com/WikiToLearn/WikiToLearn",
-    "path": "{}WikiToLearn/".format(tmp_git_dir)
-}
-git_repos["WikiToLearnSkin"] = {
-    "url": "https://github.com/WikiToLearn/WikiToLearnSkin",
-    "path": "{}WikiToLearnSkin/".format(tmp_git_dir)
-}
-git_repos["WikiToLearnVETemplates"] = {
-    "url": "https://github.com/WikiToLearn/WikiToLearnVETemplates",
-    "path": "{}WikiToLearnVETemplates/".format(tmp_git_dir)
-}
-git_repos["CourseEditor"] = {
-    "url": "https://github.com/WikiToLearn/CourseEditor",
-    "path": "{}CourseEditor/".format(tmp_git_dir)
-}
-git_repos["WikiPages-en"] = {
-    "url": "https://github.com/WikiToLearn/WikiPages-en",
-    "path": "{}WikiPages-en/".format(tmp_git_dir)
-}
+import commons
 
 print("Starting real work...")
 
 for lang in ["en", "it", "es", "ca"]:
-    for template_json_file in glob.glob("{}/*/i18n/en.json".format(tmp_git_dir)):
+    for template_json_file in glob.glob("{}/*/i18n/en.json".format(commons.tmp_git_dir)):
         i18n_dir = os.path.dirname(os.path.realpath(template_json_file))
-        po_file = "{}{}/{}.po".format(output_po_dir,lang,template_json_file[len(tmp_git_dir):-len("/i18n/en.json")])
+        po_file = "{}{}/{}.po".format(commons.output_po_dir,lang,template_json_file[len(commons.tmp_git_dir):-len("/i18n/en.json")])
         output_json_file = "{}/{}.json".format(i18n_dir,lang)
         cmd = ["po2json","-t",template_json_file,po_file,output_json_file]
         call(cmd)
 
-    input_po_file = "{}{}/templatedata_dict.po".format(output_po_dir, lang)
-    output_json_file = "{}templatedata_dict_{}.json".format(tmp_dir, lang)
+    input_po_file = "{}{}/templatedata_dict.po".format(commons.output_po_dir, lang)
+    output_json_file = "{}templatedata_dict_{}.json".format(commons.tmp_dir, lang)
     cmd = ["po2json", "-t", "{}templatedata_dict.json".format(
-        tmp_git_dir), input_po_file, output_json_file]
+        commons.tmp_dir), input_po_file, output_json_file]
     call(cmd)
-
     template_name_map = {}
 
-    json_filename_ve_template_ext_en = "{}/i18n/en.json".format(git_repos["WikiToLearnVETemplates"]["path"])
-    json_filename_ve_template_ext_lang = "{}/i18n/{}.json".format(git_repos["WikiToLearnVETemplates"]["path"],lang)
+    json_filename_ve_template_ext_en = "{}/i18n/en.json".format(commons.git_repos["WikiToLearnVETemplates"]["path"])
+    json_filename_ve_template_ext_lang = "{}/i18n/{}.json".format(commons.git_repos["WikiToLearnVETemplates"]["path"],lang)
 
     with open(json_filename_ve_template_ext_en) as json_file_en:
         json_file_en_data = json.load(json_file_en)
@@ -105,7 +56,7 @@ for lang in ["en", "it", "es", "ca"]:
         json_data_file.close()
 
         template_files_prefix = "{}/struct-wikipages/en/Template:".format(
-            git_repos["WikiToLearn"]['path'])
+            commons.git_repos["WikiToLearn"]['path'])
         template_files = glob.glob("{}*".format(template_files_prefix))
         for file_name in template_files:
             template_name = file_name[
@@ -117,7 +68,7 @@ for lang in ["en", "it", "es", "ca"]:
                 else:
                     new_template_name = template_name
                 output_file = "{}/struct-wikipages/{}/Template:{}".format(
-                    git_repos["WikiToLearn"]['path'],lang,new_template_name)
+                    commons.git_repos["WikiToLearn"]['path'],lang,new_template_name)
 
                 input_data = input_template_file.read()
                 templatedata_matchs = re.findall(
