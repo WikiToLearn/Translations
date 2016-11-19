@@ -103,6 +103,7 @@ for input_json_file in glob.glob("{}/*/i18n/en.json".format(commons.tmp_git_dir)
 # convert pages_id to a json that can be converted to pot
 pages_id_file = "{}pages_id.yml".format(commons.git_repos['WikiPages-en']['path'])
 placeholder_dict = {}
+reverse_placeholder_dict = {}
 if os.path.isfile(pages_id_file):
     with open(pages_id_file) as data_file:
         reverse_placeholder_dict = yaml.load(data_file)
@@ -112,7 +113,7 @@ if os.path.isfile(pages_id_file):
 
 # convert pages_id to pot
 with open("{}pages_id.json".format(commons.tmp_dir), 'w') as outfile:
-    json.dump(placeholder_dict, outfile)
+    json.dump(reverse_placeholder_dict, outfile)
     outfile.close()
     pot_lib_repo_key = "WikiPages-en"
     output_pot_file = "{}pages_id.pot".format(commons.output_pot_dir)
@@ -146,19 +147,19 @@ def evaluate(match):
     return_val = return_val + "]]"
     return return_val
 
-mw_pages_dir = "{}pages/".format(commons.git_repos["WikiPages-en"]['path'])
-mw_pages_files = {}
+mw_en_pages_dir = "{}pages/".format(commons.git_repos["WikiPages-en"]['path'])
+mw_en_pages_files = {}
 mw_tmp_content = {}
 
-for root, directories, filenames in os.walk(mw_pages_dir):
+for root, directories, filenames in os.walk(mw_en_pages_dir):
     for filename in filenames:
         file_full_name = os.path.join(root, filename)
-        page_title = file_full_name[len(mw_pages_dir):-3]
-        mw_pages_files[page_title] = file_full_name
+        page_title = file_full_name[len(mw_en_pages_dir):-3]
+        mw_en_pages_files[page_title] = file_full_name
 
 # create a meta-wikipage with link replaced with the placeholder
-for mw_page_title in mw_pages_files:
-    mw_page_file = mw_pages_files[mw_page_title]
+for mw_page_title in mw_en_pages_files:
+    mw_page_file = mw_en_pages_files[mw_page_title]
     with open(mw_page_file, 'r') as content_file:
         content = content_file.read()
         # this regex uses
@@ -168,7 +169,7 @@ for mw_page_title in mw_pages_files:
 # writing meta-wikipage to file and creating pot file
 old_cwd = os.getcwd()
 os.chdir(commons.tmp_mw_files)
-for mw_page_title in mw_pages_files:
+for mw_page_title in mw_en_pages_files:
     mw_tmp_file = "{}.mw".format(placeholder_dict[mw_page_title])
 
     with open(mw_tmp_file, "wb") as out_file:
