@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: courseeditor\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-14 19:59+0200\n"
-"PO-Revision-Date: 2016-10-29 21:34+0100\n"
+"POT-Creation-Date: 2016-11-22 23:06+0200\n"
+"PO-Revision-Date: 2016-11-16 10:03+0100\n"
 "Last-Translator: Burkhard Lück <lueck@hube-lueck.de>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
@@ -65,9 +65,9 @@ msgid ""
 "element, otherwise empty it.<br> Then you can proceed to save! <i class='fa "
 "fa-smile-o' aria-hidden=true'></i>"
 msgstr ""
-"Das Eingabefeld ist nicht leer. Klicken Sie auf <i class='fa fa-plus'></i> "
-"um das Element hinzuzufügen, ansonsten löschen Sie das Eingabefeld.<br> "
-"Speichern Sie dann die Seite. <i class='fa fa-smile-o' aria-hidden=true'></i>"
+"Das Eingabefeld ist nicht leer. Klick auf <i class='fa fa-plus'></i> um das "
+"Element hinzuzufügen, ansonsten lösch das Eingabefeld.<br> Speicher dann die "
+"Seite. <i class='fa fa-smile-o' aria-hidden=true'></i>"
 
 #: .courseeditor-operation-action-delete-levelThree-task
 msgctxt ".courseeditor-operation-action-delete-levelThree-task"
@@ -112,16 +112,15 @@ msgstr "Metadaten-Verwaltung"
 
 #: .courseeditor-create-button
 msgid "Create!"
-msgstr "Erstellen"
+msgstr "Erstellen!"
 
 #: .courseeditor-operation-action-purge
 msgid "Update index"
 msgstr "Index aktualisieren"
 
 #: .courseeditor-pending-courses
-#, fuzzy
 msgid "Pending courses"
-msgstr "Neue Kurse"
+msgstr "Bevorstehende Kurse"
 
 #: .courseeditor-input-originalauthors-label
 msgid "Original authors:"
@@ -129,16 +128,16 @@ msgstr "Originalautoren:"
 
 #: .courseeditor-progressdialog-wait
 msgid "Wait creation in progress..."
-msgstr "Bitte warten Erstellung läuft ..."
+msgstr "Bitte warten. Erstellung läuft ..."
 
 #: .courseeditor-alert-message-existing-element
 msgid ""
 "There is already an element with the same name or it is waiting to be "
 "removed.<br> Please, enter a different name or contact an administrator."
 msgstr ""
-"Es gibt noch ein Element mit dem gleichen Name oder das Element soll "
-"gelöscht werden.<br> Bitte geben Sie einen anderen Name ein oder wenden Sie "
-"sich an den Systemverwalter."
+"Es gibt schon ein Element mit dem gleichen Namen oder das Element wartet, um "
+"gelöscht zu werden.<br> Bitte gib einen anderen Namen ein oder wende dich an "
+"den Administrator."
 
 #: .courseeditor-message-dialog-cancel
 msgctxt ".courseeditor-message-dialog-cancel"
@@ -169,8 +168,8 @@ msgstr "Literaturverzeichnis:"
 msgid ""
 "Do you want to create a private course in your personal page or a public one?"
 msgstr ""
-"Möchten Sie einen privaten Kurs auf deinen Seiten oder einen öffentlichen "
-"Kurs erstellen?"
+"Möchtest du einen privaten Kurs auf deiner persönlichen Seite oder einen "
+"öffentlichen Kurs erstellen?"
 
 #: .courseeditor-alert-message-success-publish
 msgid "The course is now available here:"
@@ -201,7 +200,7 @@ msgstr "Bücher einfügen"
 #: .courseeditor-credits-info
 msgid "CourseEditor is an extension to create and manage courses."
 msgstr ""
-"CourseEditor ist eine Anwendung, um Kurse zu erstellen und zu verwalten."
+"Der Kurseditor ist eine Anwendung, um Kurse zu erstellen und zu verwalten."
 
 #: .courseeditor
 msgid "Course editor"
@@ -209,7 +208,7 @@ msgstr "Kurseditor"
 
 #: .courseeditor-organize-levelsTwo
 msgid "You can organize, add and delete chapters"
-msgstr "Hier können Sie Kapitel verwalten, hinzufügen und entfernen"
+msgstr "Du kannst Kapitel verwalten, hinzufügen und entfernen"
 
 #: .courseeditor-input-books-label
 msgid "Books:"
@@ -236,12 +235,12 @@ msgid ""
 "There's an element in the recycle bin with the same name, what do you want "
 "to do?"
 msgstr ""
-"Es gibt ein Element mit dem gleichen Name im Papierkorb, was möchten Sie "
-"damitmachen?"
+"Es gibt ein Element mit dem gleichen Namen im Papierkorb, wie möchtest du "
+"fortfahren?"
 
 #: .courseeditor-organize-levelsThree
 msgid "You can organize, add and delete sections"
-msgstr "Hier können Sie Abschnitte verwalten, hinzufügen und entfernen"
+msgstr "Du kannst Abschnitte verwalten, hinzufügen und entfernen"
 
 #: .courseeditor-operation-action-delete-levelsTwo-task
 msgid "Delete chapters of"
@@ -260,8 +259,8 @@ msgid ""
 "Hey, there is a course with the same title yet! <br> Choose another title or "
 "start to contribute immediately to the existing course."
 msgstr ""
-"Es gibt bereits ein Kurse mit dem gleichen Titel <br> Wählen Sie einen "
-"anderen Titel oder bearbeiten Sie den vorhandenen Kurs.<br>"
+"Es gibt bereits einen Kurs mit dem gleichen Titel! <br> Wähle einen anderen "
+"Titel oder bearbeite den vorhandenen Kurs.<br>"
 
 #: .courseeditor-radiobutton-namespace-private
 msgid "Private"
@@ -272,8 +271,8 @@ msgid ""
 "Hey, there is a course with a similar title, make sure it is not what you "
 "are looking for!<br>"
 msgstr ""
-"Es gibt bereits einen Kurs mit einem ähnlichen Titel, überprüfen Sie, ob Sie "
-"diesen Kurs suchen.<br>"
+"Es gibt bereits einen Kurs mit einem ähnlichen Titel, überprüfe, ob du "
+"diesen Kurs suchst!<br>"
 
 #: .courseeditor-publish-course-pagetitle
 msgid "Publish courses"
@@ -288,9 +287,9 @@ msgid ""
 "With this page you can manage course's metadata<br> <i>You can use the wiki "
 "syntax (wikitext) within textarea to add links, bullet lists etc...</i>"
 msgstr ""
-"Auf diese Seite können Sie Kurs-Metadaten verwalten.<br> <i> Benutzen Sie "
-"die Wiki-Syntax (wikitext) im Textbereich, um Verknüpfungen und "
-"Aufzählunglisten hinzuzufügen ...</i>"
+"Auf dieser Seite kannst du Kurs-Metadaten verwalten.<br> <i> Benutze die "
+"Wiki-Syntax (wikitext) im Textbereich, um Verknüpfungen und "
+"Aufzählungslisten hinzuzufügen ...</i>"
 
 #: .courseeditor-rename
 msgctxt ".courseeditor-rename"
@@ -299,7 +298,7 @@ msgstr "Umbenennen"
 
 #: .courseeditor-operation-action-remove-ready-texts
 msgid "Remove ReadyToBePublished"
-msgstr ""
+msgstr "Entferne BereitUmVeröffentlichtZuWerden"
 
 #: .courseeditor-operation-action-rename
 msgctxt ".courseeditor-operation-action-rename"
@@ -324,7 +323,7 @@ msgstr "Kurs erstellen"
 
 #: .courseeditor-alert-message-success-publish-add-to
 msgid "You must add it to a topic and department"
-msgstr ""
+msgstr "Muss zu einem Thema oder Fachbereich hinzugefügt werden"
 
 #: .courseeditor-operation-action-move-root
 msgid "Move"
@@ -357,7 +356,7 @@ msgstr "Umbenennen"
 
 #: .courseeditor-message-dialog-title
 msgid "Oops..."
-msgstr "Fehler ..."
+msgstr "Oops ..."
 
 #: .courseeditor-editcourse-pagetitle
 msgid "Edit course"
@@ -369,7 +368,7 @@ msgstr "Externe Referenzen einfügen"
 
 #: .courseeditor-collection-savedbook-template
 msgid "saved_book"
-msgstr "Gespeichertes Buch"
+msgstr "Gespeichertes_Buch"
 
 #~ msgid "New courses"
 #~ msgstr "Neue Kurse"

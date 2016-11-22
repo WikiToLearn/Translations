@@ -5,9 +5,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-14 19:59+0200\n"
-"PO-Revision-Date: 2016-10-18 23:45+0100\n"
-"Last-Translator: Frederik Schwarzer <schwarzer@kde.org>\n"
+"POT-Creation-Date: 2016-11-22 23:06+0200\n"
+"PO-Revision-Date: 2016-11-21 16:40+0100\n"
+"Last-Translator: Matthias Heil\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -26,6 +26,9 @@ msgid ""
 "single webpage.\n"
 "Every section has its own title and content."
 msgstr ""
+"Ein Abschnitt ist die unterste Einheit der Hierarchie und besteht aus einer "
+"einzelnen Webseite.\n"
+"Jeder Abschnitt hat eine eigene Überschrift und einen eigenen Inhalt."
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:3
 msgid "Add a section"
@@ -39,6 +42,11 @@ msgid ""
 "Write the name of the section and save the changes by clicking on the <code>"
 "save chapter</code> button."
 msgstr ""
+"Um einen Abschnitt hinzuzufügen, gehe auf die Hauptseite des Kurses. \n"
+"Klicke auf den Stift neben dem Namen des Kapitels, zu dem du einen Abschnitt "
+"hinzufügen willst.\n"
+"Schreibe den Namen des Abschnitts und speichere deine Änderungen, indem du "
+"<code>Kapital speichern</code> klickst."
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:11
 msgid "[[File:Add_section_wtl.gif]]"
@@ -55,6 +63,8 @@ msgid ""
 "You will be able to rename the section by clicking on the icon with the blue "
 "pencil."
 msgstr ""
+"Um einen Abschnitt umzubenennen, gehe auf die Hauptseite des Kurses.\n"
+"Klicke auf den blauen Stift, um den Namen eines Abschnitts zu ändern."
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:17
 msgid "[[File:Rename_section_wtl.gif]]"
@@ -70,6 +80,9 @@ msgid ""
 "and edit it.\n"
 "You will be able to delete the section by pressing on the trash icon."
 msgstr ""
+"Um einen Abschnitt zu löschen, bearbeite das Kapitel indem der Abschnitt zu "
+"finden ist.\n"
+"Klicke auf das Papierkorb-Symbol, um den Abschnitt zu löschen."
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:23
 msgid "[[File:Delete_section_wtl.gif]]"
@@ -85,6 +98,8 @@ msgid ""
 "the mouse on the sections and clicking on the restore icon on the left of "
 "the section's name."
 msgstr ""
+"Falls du Abschnitte im Papierkorb hast, welche du wiederherstellen möchtest, "
+"klicke auf das Wiederherstellen-Symbol auf der linken Seite des Abschnitts."
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:28
 msgid "[[File:Resttore_section_wtl.gif]]"
@@ -95,6 +110,8 @@ msgid ""
 "Always remember to save the changes by clicking on the <code>Save "
 "Course</code> button."
 msgstr ""
+"Denk immer daran, Änderungen durch die Schaltfläche <code>Kurs "
+"speichern</code> zu speichern."
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:30
 msgid "Move a section"
@@ -108,18 +125,24 @@ msgid ""
 "For now, if needed, we suggest the following procedure:\n"
 "copy the content of the section on a document;"
 msgstr ""
+"Einen Abschnitt kannst du innerhalb eines Kapitels mithilfe von “Drag and "
+"Drop” verschieben.\n"
+"Im Moment lassen sich Abschnitte nicht von einem Kapitel in ein anderes "
+"Kapitel verschieben.\n"
+"Sollte das nötig werden, empfehlen wir folgendes:\n"
+"Kopiere den Inhalt des Abschnitts in ein Dokument;"
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:33
 msgid "delete the section you'd like to move;"
-msgstr ""
+msgstr "Lösche den Abschnitt, den du verschieben willst."
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:33
 msgid "create a new section located at the right place;"
-msgstr ""
+msgstr "Erstelle einen neuen Abschnitt am gewünschten Platz."
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:33
 msgid "paste the old content and save the page."
-msgstr ""
+msgstr "Füge den Inhalt ein und speichere die Seite."
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:41
 msgid "[[File:Move_section_wtl.gif]]"

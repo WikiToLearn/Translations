@@ -5,9 +5,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-14 19:59+0200\n"
-"PO-Revision-Date: 2016-10-18 23:43+0100\n"
-"Last-Translator: Frederik Schwarzer <schwarzer@kde.org>\n"
+"POT-Creation-Date: 2016-11-22 23:06+0200\n"
+"PO-Revision-Date: 2016-11-21 17:22+0100\n"
+"Last-Translator: Matthias Heil\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -24,6 +24,11 @@ msgid ""
 "If you already have some experience in any kind of text editing software you "
 "will have no problem in understanding how VisualEditor works."
 msgstr ""
+"Mit dem VisualEditor kannst du Seiten auf WikiToLearn erstellen und "
+"bearbeiten.\n"
+"Die Benutzung ist sehr einfach.\n"
+"Wenn du dich bereits mit Textbearbeitungssoftware auskennst, wird dir der "
+"VisualEditor keine Probleme bereiten."
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:1
 msgid "Basic Usage"
@@ -31,13 +36,15 @@ msgstr "Grundlegende Benutzung"
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:1
 msgid "Activating VisualEditor"
-msgstr ""
+msgstr "Den VisualEditor aktivieren"
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:8
 msgid ""
 "When creating a new section VisualEditor should be enabled by default: a "
 "toolbar should appear at the top of the page."
 msgstr ""
+"Wenn du einen neuen Abschnitt erstellst, ist der VisualEditor standardmäßig "
+"aktiv. Eine Menüleiste sollte oben auf der Seite erscheinen."
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:10
 msgid ""
@@ -45,6 +52,9 @@ msgid ""
 "button at the top of the page and watch VisualEditor load: after a few "
 "seconds it should be ready to use."
 msgstr ""
+"Um eine bestehende Seite zu bearbeiten, klicke die Schaltfläche "
+"<code>Bearbeiten</code>. Der VisualEditor sollte innerhalb weniger Sekunden "
+"geladen sein."
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:10
 msgid "Editing"
@@ -55,6 +65,8 @@ msgid ""
 "VisualEditor has more or less the same features and functions of any other "
 "word processor software, like bold, italics, ordered lists and so on."
 msgstr ""
+"Der VisualEditor funktioniert wie ähnliche Textbearbeitungssoftware. Der "
+"Text lässt sich einfach fett, kursiv, unterstrichen, usw. formatieren."
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:14
 msgid "Advanced editing"
@@ -71,6 +83,11 @@ msgid ""
 "upload new files using the <code>Upload</code> tab or <code>Search</code> "
 "for existing media both on WikiToLearn or Wikimedia Commons."
 msgstr ""
+"Um Medien in den Text einzufügen, klicke auf <code>Einfügen</code> in der "
+"Menüleiste und wähle <code>Medien</code>. Auf diese Art kannst du sowohl "
+"neue Dateien mit Hilfe des <code>Upload</code> -Reiters  hochladen, als auch "
+"WikiToLearn und Wikimedia Commons nach Medien durchsuchen "
+"(<code>Search</code>)"
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:19
 msgid "Insert formulas"
@@ -83,6 +100,9 @@ msgid ""
 "<code>Formula</code>: this will open up the Formula Editor window which will "
 "allow you to write math formulas easily."
 msgstr ""
+"Um mathematische Formeln einfach mithilfe des Formel-Editors einzufügen, "
+"klicke auf die Schaltfläche <code>Einfügen</code> in der Menüleiste des "
+"VisualEditor und klicke <code>Formel</code>."
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:24
 msgid "[[File:Math_insertion_wtl.gif]]"
@@ -99,6 +119,11 @@ msgid ""
 "definition, theorem, lemma, corollary etc.\n"
 "They can be inserted within any section of the course."
 msgstr ""
+"Mit Vorlagen lassen sich häufig wiederkehrende Elemente auf Seiten "
+"hinzufügen.\n"
+"Oft werden sie für das Schreiben mathematischer Definitionen, Theoreme, "
+"Lemmata, Folgerungen usw. verwendet.\n"
+"Sie können innerhalb jedes Abschnitts in einem Kurs eingefügt werden. "
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:31
 msgid ""
@@ -106,19 +131,25 @@ msgid ""
 "To know more about the Templates and have examples on the ones to use please "
 "check out [[<ref:wikitolearn-guide-chapter-6>|the Templates page]]."
 msgstr ""
+"Verwende die <code>Vorlage->Einfügen</code> -Funktion, um Vorlagen "
+"einzufügen. Besuche [[<ref:wikitolearn-guide-chapter-6>|die Vorlagen-Seite], "
+"um mehr über Vorlagen zu erfahren und einige Beispiele zu sehen."
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:31
 msgid "Official Guide"
-msgstr ""
+msgstr "Offizielles Handbuch"
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:34
 msgid ""
 "We suggest you also take a look at the official VisualEditor guide linked "
 "[https://www.mediawiki.org/wiki/Help:VisualEditor/User_guide here]."
 msgstr ""
+"Wir empfehlen zudem einen Blick in das offizielle VisualEditor-Handbuch "
+"unter  [https://www.mediawiki.org/wiki/Help:VisualEditor/User_guide/de] zu "
+"werfen."
 
 #~ msgid "This is an example of text to see"
-#~ msgstr "Dies ist angezeigter Beispieltext"
+#~ msgstr "Dies ist ein angezeigter Beispieltext"
 
 #~ msgid "[[File:Manual_Visual_editor_newpage.gif]]"
 #~ msgstr "[[File:Manual_Visual_editor_newpage.gif]]"

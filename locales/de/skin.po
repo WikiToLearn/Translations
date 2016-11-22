@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-14 19:59+0200\n"
-"PO-Revision-Date: 2016-10-29 21:14+0100\n"
+"POT-Creation-Date: 2016-11-22 23:06+0200\n"
+"PO-Revision-Date: 2016-11-16 10:15+0100\n"
 "Last-Translator: Burkhard Lück <lueck@hube-lueck.de>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
@@ -22,10 +22,14 @@ msgid ""
 "collaborational spirit. Now it's like having a second family in Milan, who I "
 "enjoy visiting and spending time with."
 msgstr ""
+"Ich bin WikiToLearn nicht nur aus Neugier beigetreten, sondern auch wegen "
+"des kollaborativen Geistes. Es ist, als wenn ich eine zweite Familie in "
+"Mailand hätte, die ich gerne besuche und mit welcher ich gerne Zeit "
+"verbringe."
 
 #: .wikitolearnskin-join-us-readmore
 msgid "Read more..."
-msgstr "Lesen Sie mehr..."
+msgstr "Mehr dazu…"
 
 #: .wikitolearnskin-footer-blog-text
 msgid "Developer blogs"
@@ -33,7 +37,7 @@ msgstr "Entwickler-Blogs"
 
 #: .wikitolearnskin-navbar-contribute
 msgid "Join Us"
-msgstr "Mitmachen"
+msgstr "Mach mit"
 
 #: .wikitolearnskin-navbar-tools-reports-link
 msgid "//reports.wikitolearn.org"
@@ -42,7 +46,7 @@ msgstr "//reports.wikitolearn.org"
 #: .wikitolearnskin-testimonials-third-name
 #, fuzzy
 msgid "Srijan Agarwal, Amrita University, Amritapuri Campus"
-msgstr "Ein Buch erstellen"
+msgstr "Srijan Agrawal, Amrita Universität, Amritapuri Campus"
 
 #: .wikitolearnskin-join-other
 msgid "Hacker"
@@ -109,7 +113,7 @@ msgstr "//www.youtube.com/embed/BTS-YKnJYv0?rel=0"
 
 #: .wikitolearnskin-home-claim
 msgid "Learn with the best. Create books. Share <i>knowledge</i>."
-msgstr ""
+msgstr "Lerne mit den Besten. Gestalte Bücher. Teile <i>Wissen</i>."
 
 #: .wikitolearnskin-advanced-button-title
 msgid "Advanced"
@@ -125,11 +129,11 @@ msgstr "//meta.wikitolearn.org"
 
 #: .wikitolearnskin-contributors-3-link
 msgid "https://www.sissa.it/"
-msgstr "Berichte"
+msgstr "https://www.sissa.it/"
 
 #: .wikitolearnskin-contributors-4-image
 msgid "images/logos/wikimedia.png"
-msgstr "images/badges/medicine.png"
+msgstr "images/logos/wikimedia.png"
 
 #: .wikitolearnskin-footer-chat-text
 msgid "chat.wikitolearn.org"
@@ -149,7 +153,7 @@ msgstr ""
 
 #: .wikitolearnskin-navbar-tools-community-portal
 msgid "Community portal"
-msgstr ""
+msgstr "Community-Portal"
 
 #: .wikitolearnskin-join-step-account-content
 msgid ""
@@ -186,9 +190,8 @@ msgid "Logs"
 msgstr "Protokolle"
 
 #: .wikitolearnskin-footer-learn-more
-#, fuzzy
 msgid "Learn more"
-msgstr "/Geschäftlich"
+msgstr "Mehr dazu"
 
 #: .skinname-wikitolearnskin
 msgid "WikiToLearn"
@@ -201,20 +204,20 @@ msgstr "https://reports.wikitolearn.org"
 
 #: .wikitolearnskin-user-tools-emailuser-title
 msgid "Email User"
-msgstr ""
+msgstr "Email Benutzer"
 
 #: .wikitolearnskin-footer-follow-us
 msgctxt ".wikitolearnskin-footer-follow-us"
 msgid "Follow us"
-msgstr ""
+msgstr "Folge uns"
 
 #: .wikitolearnskin-navbar-about-link
 msgid "/About"
-msgstr "/Über"
+msgstr "/Über uns"
 
 #: .wikitolearnskin-read-more-stories-button
 msgid "Read more stories about WikiToLearn"
-msgstr "Lesen Sie mehr über WikiToLearn"
+msgstr "Mehr Storys über WikiToLearn"
 
 #: .wikitolearnskin-footer-academic-link
 msgid "//meta.wikitolearn.org/Academic_institutions"
@@ -230,16 +233,16 @@ msgstr ""
 
 #: .wikitolearnskin-footer-hosted-by
 msgid "Hosted by"
-msgstr ""
+msgstr "Hosted by"
 
 #: .wikitolearnskin-join-us-button
 msgid "Join us"
-msgstr "Machen Sie mit"
+msgstr "Mach mit"
 
 #: .wikitolearnskin-navbar-tools
 msgctxt ".wikitolearnskin-navbar-tools"
 msgid "Tools"
-msgstr ""
+msgstr "Tools"
 
 #: .wikitolearnskin-testimonials-first-image-path
 msgid "images/users/dan.jpg"
@@ -251,7 +254,7 @@ msgstr ""
 
 #: .wikitolearnskin-navbar-about
 msgid "About"
-msgstr "Über"
+msgstr "Über uns"
 
 #: .wikitolearnskin-navbar-tools-guide-link
 #, fuzzy
@@ -261,7 +264,7 @@ msgstr "/Handbuch"
 
 #: .wikitolearnskin-footer-academic
 msgid "Academic institutions"
-msgstr ""
+msgstr "Akademische Institutionen"
 
 #: .wikitolearnskin-navbar-tools-chat
 msgid "Chat"
@@ -287,7 +290,7 @@ msgstr "Kontakte"
 
 #: .wikitolearnskin-latest-report-text
 msgid "Read latest report"
-msgstr ""
+msgstr "Lies den letzten Bericht"
 
 #: .wikitolearnskin-navbar-createaccount
 msgid "Register"
@@ -307,13 +310,13 @@ msgstr "images/logos/sissa.png"
 
 #: .wikitolearnskin-publish-course-tool
 msgid "Publish course"
-msgstr ""
+msgstr "Kurs veröffentlichen"
 
 #: .wikitolearnskin-media-learn-more
 #, fuzzy
 msgctxt ".wikitolearnskin-media-learn-more"
 msgid "Read more"
-msgstr "Lesen Sie mehr"
+msgstr "Mehr dazu"
 
 #: .wikitolearnskin-contributors-1-image
 msgid "images/logos/bicocca.jpg"
@@ -331,11 +334,11 @@ msgstr "Herunterladen"
 #: .wikitolearnskin-footer-keep-in-touch
 msgctxt ".wikitolearnskin-footer-keep-in-touch"
 msgid "Follow us"
-msgstr ""
+msgstr "Folge uns"
 
 #: .wikitolearnskin-contributors-5-link
 msgid "http://hepsoftwarefoundation.org/"
-msgstr "Computer-Wissenschaften"
+msgstr "http://hepsoftwarefoundation.org/"
 
 #: .wikitolearnskin-testimonials-third-image-path
 msgid "images/users/srijan.jpg"
@@ -367,7 +370,7 @@ msgstr "images/logos/cern.jpg"
 #, fuzzy
 msgctxt ".wikitolearnskin-join-read-more"
 msgid "Read more"
-msgstr "Lesen Sie mehr"
+msgstr "Mehr dazu"
 
 #: .wikitolearnskin-media-text
 msgctxt ".wikitolearnskin-media-text"
@@ -375,7 +378,10 @@ msgid ""
 "WikiToLearn provides free, collaborative and accessible text books. "
 "Academics worldwide contribute in sharing knowledge by creating high quality "
 "content."
-msgstr "#"
+msgstr ""
+"WikiToLearn bietet kostenlose, kollaborativ erstellte, und leicht "
+"zugängliche Lehrbücher an. Akademiker weltweit teilen ihr Wissen indem sie "
+"hochqualitative Beiträge erstellen."
 
 #: .wikitolearnskin-contributions-from
 msgid "Contributions from"
@@ -420,7 +426,7 @@ msgstr ""
 
 #: .wikitolearnskin-cookies-dismiss
 msgid "Got it!"
-msgstr ""
+msgstr "Verstanden!"
 
 #: .wikitolearnskin-join-step-account-title
 msgctxt ".wikitolearnskin-join-step-account-title"
@@ -456,11 +462,14 @@ msgid ""
 "knowledge and learning can overcome all kind of barriers, even geographical "
 "and cultural ones!"
 msgstr ""
+"WikiToLearn ist für mich wie eine zweite Familie! Sie hat mich gelehrt, dass "
+"die Liebe zum Wissen und zum Lernen sogar geographische und kulturelle "
+"Grenzen überwinden kann!"
 
 #: .wikitolearnskin-footer-tools
 msgctxt ".wikitolearnskin-footer-tools"
 msgid "Tools"
-msgstr ""
+msgstr "Tools"
 
 #: .wikitolearnskin-departments-count
 msgid "10"
@@ -490,20 +499,22 @@ msgstr ""
 
 #: .wikitolearnskin-cookies-learn-more
 msgid "Learn More"
-msgstr "/Geschäftlich"
+msgstr "Mehr dazu"
 
 #: .wikitolearnskin-join-step-social-title
 msgid "Keep in touch"
 msgstr ""
 
 #: .wikitolearnskin-meta-tag-description
-#, fuzzy
 msgctxt ".wikitolearnskin-meta-tag-description"
 msgid ""
 "WikiToLearn provides free, collaborative and accessible text books. "
 "Academics worldwide contribute in sharing knowledge by creating high quality "
 "content."
-msgstr "#"
+msgstr ""
+"WikiToLearn bietet kostenlose, kollaborativ erstellte, und leicht "
+"zugängliche Lehrbücher an. Akademiker weltweit teilen ihr Wissen indem sie "
+"hochqualitative Beiträge erstellen."
 
 #: .wikitolearnskin-join-step-guide-content
 msgid ""
@@ -517,10 +528,12 @@ msgid ""
 "This website uses cookies to ensure you get the best experience on our "
 "website"
 msgstr ""
+"Diese Website verwendet Cookies, um sicherzustellen, dass du die besten "
+"Erfahrungen auf unserer Website erhältst"
 
 #: .wikitolearnskin-media-title
 msgid "Collaborative Textbooks"
-msgstr ""
+msgstr "Kollaborative Lehrbücher"
 
 #: .wikitolearnskin-join-student-text
 msgid ""
@@ -529,12 +542,11 @@ msgid ""
 "editing, importing and exporting are what you are looking for!"
 msgstr ""
 
-#, fuzzy
-#~ msgid "images/placeholder-user.png"
-#~ msgstr "images/placeholder-user.png"
-
 #~ msgid "Daniele Pannozzo, Roma, Università la Sapienza"
-#~ msgstr "Daniele Pannozzo, Roma, Università la Sapienza"
+#~ msgstr "Daniele Pannozzo, Rom, La Sapienza Universität"
+
+#~ msgid "User guides"
+#~ msgstr "Benutzerleitfäden"
 
 #~ msgid "Manual"
 #~ msgstr "Handbuch"
@@ -580,6 +592,10 @@ msgstr ""
 #~ msgctxt ".wikitolearnskin-departments-9-link"
 #~ msgid "/#"
 #~ msgstr "/#"
+
+#~ msgctxt ".wikitolearnskin-testimonials-third-image-path"
+#~ msgid "images/placeholder-user.png"
+#~ msgstr "images/placeholder-user.png"
 
 #~ msgctxt ".wikitolearnskin-navbar-about-link"
 #~ msgid "#"
