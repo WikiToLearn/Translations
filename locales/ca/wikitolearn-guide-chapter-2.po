@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wikitolearn-guide-chapter-2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-22 23:06+0200\n"
+"POT-Creation-Date: 2016-12-06 11:33+0200\n"
 "PO-Revision-Date: 2016-10-17 21:20+0100\n"
 "Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -22,10 +22,10 @@ msgstr ""
 #: guide/en/wikitolearn-guide-chapter-2.txt:1
 #, fuzzy
 msgid ""
-"Course is a collection of pages with a well defined tree structure.\n"
+"A course is a collection of pages with a well defined tree structure.\n"
 "Every course on WikiToLearn has a unique name.\n"
-"You can create a private course under your namespace or a public/"
-"collaborative course where everyone can contribute."
+"You can create a private course under your namespace or a public and "
+"collaborative course."
 msgstr ""
 "El és una col·lecció de pàgines amb una estructura en arbre ben definida.\n"
 "Cada curs al WikiToLearn té un nom únic.\n"
@@ -37,31 +37,25 @@ msgid "Create a course"
 msgstr "Crear un curs"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:6
-#, fuzzy
 msgid ""
 "The first thing to do to create a course is going to the right department "
 "and the right topic.\n"
 "For example, if you are writing a <code>Quantum Physics</code> course, you "
-"need to go to the physics department located at "
-"http://en.wikitolearn.vodka/Physics.\n"
+"need to go to the [[Physics]] department. "
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-2.txt:9
+msgid ""
 "Find the most appropriate topic and click on it.\n"
 "In the previous example, you should look for a topic named \"Quantum "
 "Physics\" or \"Quantum Mechanics\"."
 msgstr ""
-"El primer que cal fer per crear un curs és anar al departament correcte i al "
-"tema apropiat.\n"
-"Per exemple, si esteu escrivint un curs de <code>Física quàntica</code>, per "
-"descomptat haureu d'anar al departament de física ubicat a "
-"http://en.wikitolearn.org/Physics.\n"
-"Trobeu el tema més apropiat i feu-hi clic.\n"
-"En l'exemple anterior, haureu de cercar un tema anomenat «Física quàntica» o "
-"«Mecànica quàntica»."
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:11
+#: guide/en/wikitolearn-guide-chapter-2.txt:12
 msgid "Click the \"Create Course\" button: a form will show up."
 msgstr "Feu clic al botó «Crea un curs»: es mostrarà un formulari."
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:13
+#: guide/en/wikitolearn-guide-chapter-2.txt:14
 msgid ""
 "'''Note:''' if there isn't an appropriate topic for the course, you can "
 "create one by clicking the \"Create Course and Topic\" button on the "
@@ -72,11 +66,11 @@ msgstr ""
 "clic al botó «Crea un curs i tema» a la pàgina del departament.\n"
 "El nom del tema serà el mateix que el nom del curs."
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:16
+#: guide/en/wikitolearn-guide-chapter-2.txt:17
 msgid "[[File:Manual_create_course.gif]]"
 msgstr "[[File:Manual_create_course.gif]]"
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:18
+#: guide/en/wikitolearn-guide-chapter-2.txt:19
 msgid ""
 "You can choose to make the course public or private.\n"
 "A public course is located under the related department, while a private "
@@ -86,7 +80,7 @@ msgstr ""
 "Un curs públic s'ubica sota el departament relacionat, mentre que un curs "
 "privat s'ubica sota l'espai de nom de l'usuari."
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:21
+#: guide/en/wikitolearn-guide-chapter-2.txt:22
 msgid ""
 "It is strongly recommended to create a private course and publish it once "
 "completed.\n"
@@ -99,11 +93,11 @@ msgstr ""
 "<code>Departament/Tema</code> i tothom podrà modificar-lo tot creant, movent "
 "i eliminant el contingut."
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:21
+#: guide/en/wikitolearn-guide-chapter-2.txt:22
 msgid "Course Metadata"
 msgstr "Metadades del curs"
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:26
+#: guide/en/wikitolearn-guide-chapter-2.txt:27
 msgid ""
 "It is possible to add additional information to a course.\n"
 "This is helpful when you have some external links or PDF with exercises, "
@@ -113,13 +107,14 @@ msgstr ""
 "Això és útil quan es tenen alguns enllaços externs o PDF amb exercicis, "
 "notes o bibliografia que voleu adjuntar al curs."
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:29
+#: guide/en/wikitolearn-guide-chapter-2.txt:30
 msgid "[[File:Add_metadata_wtl.gif]]"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:31
+#: guide/en/wikitolearn-guide-chapter-2.txt:32
+#, fuzzy
 msgid ""
-"To add metadata visit the course root page and click on the \"Edit metadata\""
+"To add metadata visit the course main page and click on the \"Edit metadata\""
 " button.\n"
 "Then you can add the additional information in the respective input fields.\n"
 "In particular, you can add information about:"
@@ -130,27 +125,27 @@ msgstr ""
 "respectius.\n"
 "En particular, podeu afegir informació sobre:"
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:31
+#: guide/en/wikitolearn-guide-chapter-2.txt:32
 msgid "Bibliography"
 msgstr "Bibliografia"
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:31
+#: guide/en/wikitolearn-guide-chapter-2.txt:32
 msgid "Exercises"
 msgstr "Exercicis"
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:31
+#: guide/en/wikitolearn-guide-chapter-2.txt:32
 msgid "Books"
 msgstr "Llibres"
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:31
+#: guide/en/wikitolearn-guide-chapter-2.txt:32
 msgid "External References"
 msgstr "Referències externes"
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:31
+#: guide/en/wikitolearn-guide-chapter-2.txt:32
 msgid "Publish a course"
 msgstr "Publicar un curs"
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:41
+#: guide/en/wikitolearn-guide-chapter-2.txt:42
 msgid ""
 "If you created a private course, it will stay under your user namespace "
 "unless you decide to publish it.\n"
@@ -166,13 +161,33 @@ msgstr ""
 "Un administrador de WikiToLearn tindrà en compte la sol·licitud i mourà el "
 "contingut a la pàgina pública del tema."
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:45
+#: guide/en/wikitolearn-guide-chapter-2.txt:46
 msgid "[[File:Publish_private_course_wtl.gif]]"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:47
+#: guide/en/wikitolearn-guide-chapter-2.txt:48
 msgid "__FORCETOC__"
 msgstr "__FORCETOC__"
+
+#, fuzzy
+#~ msgid ""
+#~ "The first thing to do to create a course is going to the right department "
+#~ "and the right topic.\n"
+#~ "For example, if you are writing a <code>Quantum Physics</code> course, you "
+#~ "need to go to the physics department located at "
+#~ "http://en.wikitolearn.vodka/Physics.\n"
+#~ "Find the most appropriate topic and click on it.\n"
+#~ "In the previous example, you should look for a topic named \"Quantum "
+#~ "Physics\" or \"Quantum Mechanics\"."
+#~ msgstr ""
+#~ "El primer que cal fer per crear un curs és anar al departament correcte i al "
+#~ "tema apropiat.\n"
+#~ "Per exemple, si esteu escrivint un curs de <code>Física quàntica</code>, per "
+#~ "descomptat haureu d'anar al departament de física ubicat a "
+#~ "http://en.wikitolearn.org/Physics.\n"
+#~ "Trobeu el tema més apropiat i feu-hi clic.\n"
+#~ "En l'exemple anterior, haureu de cercar un tema anomenat «Física quàntica» o "
+#~ "«Mecànica quàntica»."
 
 #~ msgid "(maybe another gif here)"
 #~ msgstr "(potser un altre GIF aquí)"

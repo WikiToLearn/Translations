@@ -4,9 +4,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-22 23:06+0200\n"
-"PO-Revision-Date: 2016-10-19 00:00+0100\n"
-"Last-Translator: Frederik Schwarzer <schwarzer@kde.org>\n"
+"POT-Creation-Date: 2016-12-06 11:33+0200\n"
+"PO-Revision-Date: 2016-11-29 09:22+0100\n"
+"Last-Translator: Matthias Heil\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -20,16 +20,20 @@ msgid ""
 "Being a student you have probably already taken some notes. Let's start "
 "sharing them on WikiToLearn!"
 msgstr ""
+"Als Student hast du bestimmt bereits einige Notizen erstellt. Teile sie doch "
+"auf WikiToLearn!"
 
 #: guide/en/contribute1.txt:3
 msgid ""
 "Thanks to the collaboration of other contributors like you, as well as the "
 "review of experts, we can together achieve higher quality material."
 msgstr ""
+"Dank der Mitarbeit von Leuten wie dir und durch die Kontrolle von Experten, "
+"können wir gemeinsam hochwertige Inhalte erstellen."
 
 #: guide/en/contribute1.txt:5
 msgid "Here are some guidelines to help you get started:"
-msgstr ""
+msgstr "Hier sind ein paar Tipps, um dir den Einstieg zu erleichtern:"
 
 #: guide/en/contribute1.txt:5
 msgid "Step 1: Getting started"
@@ -42,18 +46,26 @@ msgid ""
 "Search for the related course: if it does not exist yet, '''[[Manual/Core "
 "concepts: Course|create it]]'''."
 msgstr ""
+"Als erstes empfehlen wir einen Blick in unser '''[[Manual|Handbuch]]'''. "
+"Danach kannst du anfangen, deine Notizen zu teilen:\n"
+"Finde den passenden Kurs: falls dieser noch nicht existiert, kannst du  "
+"'''[[Manual/Wichtige Konzepte: Kurse|einen Kurs erstellen]]'''."
 
 #: guide/en/contribute1.txt:8
 msgid ""
 "You can '''[[Manual/Core_concepts:_Chapter|add new chapters]]''' inside the "
 "course, if it does not exist yet."
 msgstr ""
+"Du kannst auch zu bestehenden Kursen fehlende Kapitel '''[[Manual/Wichtige "
+"Konzepte: Kapitel|hinzufügen]]''."
 
 #: guide/en/contribute1.txt:8
 msgid ""
 "It is possible to create concurrent versions of existing chapters, but we "
 "try to avoid to duplicate material."
 msgstr ""
+"Es ist möglich, mehrere Versionen von bestehenden Kapiteln zu erstellen, "
+"aber wir versuchen Duplikate zu vermeiden."
 
 #: guide/en/contribute1.txt:13
 msgid ""
@@ -61,21 +73,29 @@ msgid ""
 "use our '''[https://texla.wikitolearn.org LaTex to Wiki Converter]'''! (read "
 "more on the '''[[Manual/Importing from LaTeX|LaTex guide]]''')"
 msgstr ""
+"Notizen können einfach aus Word-Dokumenten kopiert und eingefügt werden. Für "
+"in LaTeX gesetzte Notizen gibt es unseren  '''[https://texla.wikitolearn.org "
+"LaTex to Wiki Converter]'''. (Mehr Infos dazu gibt es im '''[[Manual/Import "
+"von LaTeX|LaTex Handbuch]]''')"
 
 #: guide/en/contribute1.txt:15
 msgid ""
 "Contact us at '''[https://chat.wikitolearn.org/channel/importing #importing]"
 "''' on the WikiToLearn chat if you have any problems."
 msgstr ""
+"Nimm unter '''[https://chat.wikitolearn.org/channel/importing #importing]''' "
+"im WikiToLearn-Chat Kontakt mit uns auf, falls du Probleme mit dem "
+"Importieren hast."
 
 #: guide/en/contribute1.txt:17
 msgid ""
 "Otherwise, you could also start from the existing material and review it."
 msgstr ""
+"Anderenfalls kannst du auch damit beginnen, bestehende Inhalte zu verbessern."
 
 #: guide/en/contribute1.txt:17
 msgid "Step 2: Engage your group"
-msgstr ""
+msgstr "Schritt 2: Engagiere deine Gruppe"
 
 #: guide/en/contribute1.txt:20
 msgid ""
@@ -85,10 +105,16 @@ msgid ""
 "notes of your courses, even better than a usual textbook, with which you "
 "will be able to optimise your study."
 msgstr ""
+"Wenn du nicht alleine arbeiten möchtest, arbeite doch einfach mit Freunden "
+"zusammen! Ihr könnt euch die Arbeit aufteilen und einen Plan zum Schreiben "
+"und Verbessern der Notizen machen.  Mit einem Arbeitsaufwand von nur wenigen "
+"Stunden pro Woche könnt ihr dadurch praktische Zusammenfassungen der Inhalte "
+"erstellen, welche besser als gewöhnliche Lernbücher sind,  und eure Lernzeit "
+"effizient nutzen. "
 
 #: guide/en/contribute1.txt:20
 msgid "Step 3: Spread the word"
-msgstr ""
+msgstr "Schritt 3: Spread the word"
 
 #: guide/en/contribute1.txt:23
 msgid ""
@@ -96,6 +122,9 @@ msgid ""
 "friends and other students what WikiToLearn is, how WikiToLearn works and "
 "tell them how it helped you."
 msgstr ""
+"Du kannst uns auch helfen, indem du WikiToLearn bekannter machst. Zeige "
+"deinen Freunden und Kommilitonen was WikiToLearn ist, wie es funktioniert "
+"und wie du davon profitieren konntest."
 
 #: guide/en/contribute1.txt:25
 msgid ""
@@ -103,3 +132,6 @@ msgid ""
 "the possibility to proofread your notes in order to get some feedback on how "
 "effective their lessons were."
 msgstr ""
+"Auch deinen Dozenten kannst du WikiToLearn zeigen - sie könnten z.B. die "
+"Notizen der Studierenden korrigieren und verbessern und somit Feedback zur "
+"Effektivität ihrer Veranstaltungen bekommen."

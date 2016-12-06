@@ -1,12 +1,13 @@
 #. extracted from guide/en/contribute3.txt
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-22 23:06+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2016-12-06 11:33+0200\n"
+"PO-Revision-Date: 2016-11-29 10:17+0100\n"
+"Last-Translator: Matthias Heil\n"
+"Language-Team: \n"
+"Language: de_DE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,6 +22,12 @@ msgid ""
 "Contact them at '''[https://chat.wikitolearn.org/channel/tech #tech]''' on "
 "the WikiToLearn chat."
 msgstr ""
+"Du musst kein Profi-Programmierer sein, um uns bei der Entwicklung unserer "
+"Plattform zu helfen. Es gibt verschiedene Aufgaben unterschiedlicher "
+"Schwierigkeit. Mit der Hilfe unserer Entwickler wirst du auch deine eigenen "
+"Fähigkeiten verbessern können.\n"
+"Du kannst im WikiToLearn chat unter '''[https://chat.wikitolearn.org/channel/"
+"tech #tech]''' Kontakt zu ihnen aufnehmen."
 
 #: guide/en/contribute3.txt:4
 msgid ""
@@ -28,20 +35,25 @@ msgid ""
 "Guide_for_the_development_of_WikiToLearn WikiToLearn guide for "
 "development]'''."
 msgstr ""
+"Wir empfehlen dir außerdem unser Entwickler-Handbuch "
+"'''[http://meta.wikitolearn.org/Guide_for_the_development_of_WikiToLearn "
+"WikiToLearn guide for development]'''."
 
 #: guide/en/contribute3.txt:4
 msgid "Code"
-msgstr ""
+msgstr "Der Code"
 
 #: guide/en/contribute3.txt:7
 msgid ""
 "All of our code is open-source and you can find it on the "
 "'''[https://github.com/WikiToLearn WikiToLearn GitHub]'''."
 msgstr ""
+"All unsere Codes sind open-source und unter '''[https://github.com/"
+"WikiToLearn WikiToLearn GitHub]''' zu finden."
 
 #: guide/en/contribute3.txt:7
 msgid "Git"
-msgstr ""
+msgstr "Git"
 
 #: guide/en/contribute3.txt:10
 msgid ""
@@ -49,6 +61,8 @@ msgid ""
 "WikiToLearn uses Git to manage the updates and all the changes of the "
 "project."
 msgstr ""
+"Git ist eine Software um große Projekte gemeinsam zu verwalten. WikiToLearn "
+"verwendet Git um Updates und Änderungen des Projektes zu verwalten."
 
 #: guide/en/contribute3.txt:12
 msgid ""
@@ -59,16 +73,24 @@ msgid ""
 "Atlassian]''', or you can also try the '''[https://www.codecademy.com/learn"
 "/learn-git codeacademy guide]''' (extremely simple)."
 msgstr ""
+"Zu aller erst, musst du  '''[https://git-scm.com/ Git installieren]’’’. Wenn "
+"du dich mit Git noch nicht auskennst, kannst du "
+"'''[https://try.github.io/levels/1/challenges/1 dieses kurze Tutorial]'''  "
+"anschauen. Ein ausführliches Tutorial findest du von  "
+"'''[https://www.atlassian.com/git/ Atlassian]’’’. Außerdem kannst du "
+"'''[https://www.codecademy.com/learn/learn-git  CodeAcademy]''' verwenden."
 
 #: guide/en/contribute3.txt:14
 msgid ""
 "We also suggest you this '''[http://ktown.kde.org/~zrusin/git/git-cheat-"
 "sheet.svg cheat sheet]''' with the most used commands."
 msgstr ""
+"Wir empfehlen dir außerdem diesen ''[http://ktown.kde.org/~zrusin/git/git-"
+"cheat-sheet.svg Spickzettel]''' mit häufig verwendeten Befehlen."
 
 #: guide/en/contribute3.txt:14
 msgid "Docker"
-msgstr ""
+msgstr "Docker"
 
 #: guide/en/contribute3.txt:17
 msgid ""
@@ -77,10 +99,14 @@ msgid ""
 "'''[https://docs.docker.com/engine/getstarted/ install and get started with "
 "Docker]'''."
 msgstr ""
+"WikiToLearn verwendet Docker, um das Projekt in verschiedene Module "
+"aufzuteilen. Um WikiToLearn zum Laufen zu bringen, solltest du Docker  "
+"'''[https://docs.docker.com/engine/getstarted/ installieren ]''' und dich "
+"damit vertraut machen."
 
 #: guide/en/contribute3.txt:17
 msgid "Programming languages"
-msgstr ""
+msgstr "Programmiersprachen"
 
 #: guide/en/contribute3.txt:20
 msgid ""
@@ -88,3 +114,6 @@ msgid ""
 "technologies and development environments, but most of it is written in: "
 "Python, PHP, CSS, HTML and JavaScript."
 msgstr ""
+"WikiToLearn ist ein komplexes Projekt und verwendet deshalb viele Web-"
+"Technologien und Entwicklungsumgebungen. Der Großteil des Projektes ist "
+"allerdings in Python, PHP, CSS, HTML und JavaScript geschrieben."

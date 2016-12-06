@@ -26,11 +26,11 @@ Every course has the prefix <code>Course:</code> followed by the course name in 
 
 === Chapters ===
 Chapters are the lower level of a course.
-They gather together some sections of a book and they are displayed as heading titles in the main page of the course.
+They gather together some sections of a book and they are displayed as headings in the main page of the course.
 
 [[File:Chapter_example_wtl.png]]
 
-=== Section ===
+=== Sections ===
 Sections are the basic unit of an entire course.
 Basically, they're a single webpage with its own content.
 
@@ -42,14 +42,12 @@ You can see the namespace by looking at the url: if it has a <code>word:somethin
 In WikiTolearn there are two main namespaces, "User" and "Course".
 
 === User namespace ===
-The User namespace is your personal page where you can write your own courses and content without worring about making mistakes.
+The User namespace is your personal page where you can write your own courses and content without worrying about making mistakes.
 You can see an example here:
 
-http://en.wikitolearn.vodka/User:Grigoletti
+http://en.wikitolearn.org/User:Grigoletti
 
 === Course namespace ===
 A Course namespace is similar to the User one, but it has the word <code>Course:</code>as a prefix to the URL<ref>URL is an acronym for Uniform Resource Locator and is a reference (an address) to a resource on the Internet</ref>.
 This namespace is used to create an entire public course.
-You can see an example here:
-
-http://en.wikitolearn.vodka/Course:How_to_use_Linked_Data
+You can see an example on [[Course:How to use Linked Data|How to use Linked Data]]!

@@ -30,7 +30,7 @@ or you can even use latex macros and environments
 === Python script ===
 
 You can also choose to use the native python script to convert your files.
-All the documentation on the configuration and installation is written [https://github.com/WikiToLearn/texla/blob/master/README.mdown WikiToLearn's Github].
+All the documentation on the configuration and installation is written [https://github.com/WikiToLearn/texla/blob/master/README.mdown WikiToLearn's Github]. 
 
 === Further documentation ===
 

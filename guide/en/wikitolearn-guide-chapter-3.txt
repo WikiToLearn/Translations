@@ -2,7 +2,7 @@ Chapters are a collection of sections. They're intended to be used like a chapte
 
 == Add a chapter ==
 You can add a chapter to a course by navigating to the course main page.
-Click either on the red pencil button on the right and insert the name of the chapter you want to add.
+Click on the red pencil button on the right and insert the name of the chapter you want to add.
 Once done, click on <code>Save Course</code> button.
 
 [[File:Add_chapter_wtl.gif]]

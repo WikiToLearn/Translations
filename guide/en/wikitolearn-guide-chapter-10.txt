@@ -1,14 +1,14 @@
 WikiToLearn is actively developed both on the technical and the content side.
-It's possible to contribute to WikiToLearn in several ways, regardless of the user's skills and experience.
+It's possible to contribute in several ways, regardless of the user's skills and experience.
 
-== Software development ==
-There are lots of app developed by WikiToLearn where you can be useful.
+== Web development ==
+There are lots of web app and applications developed by WikiToLearn.
 Web development is split into groups and every group has its maintainer.
-Take a look at the [http://meta.wikitolearn.org/Tech_Team Tech Team community page] and feel free to contact the members to ask them more questions.
+Take a look at http://meta.wikitolearn.org/Tech_Team and feel free to contact the members to ask them more questions.
 
 == Translation ==
-If you want to help with translating you can join the [https://chat.wikitolearn.org/channel/translation #translation channel].
+If you want to help with translation you can join the [https://chat.wikitolearn.org/channel/translation #translation] channel.
 
 == Bug tracking ==
 We use phabricator to keep tracks of our development and our bugs.
-If you think you have found a bug and want to tell us about it, you need to [https://identity.kde.org/index.php?r=registration/index register to KDE identity], log in to Phabricator and   [https://phabricator.kde.org/maniphest/task/edit/form/1/?tags=WikiToLearn create a ticket].
+If you think you have found a bug and want to tell us about it, you need to [https://identity.kde.org/index.php?r=registration/index register to KDE identity] , log in into phabricator and [https://phabricator.kde.org/maniphest/task/edit/form/1/?tags=WikiToLearn create a ticket].

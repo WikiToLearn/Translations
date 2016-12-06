@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wikitolearn-guide-chapter-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-22 23:06+0200\n"
+"POT-Creation-Date: 2016-12-06 11:33+0200\n"
 "PO-Revision-Date: 2016-10-16 19:24+0100\n"
 "Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -24,8 +24,9 @@ msgid "__TOC__"
 msgstr "__TOC__"
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:3
+#, fuzzy
 msgid ""
-"A section is the lowest unit on the Course hierarchy and it consists in a "
+"A section is the lowest unit on the Course hierarchy and it consists of a "
 "single webpage.\n"
 "Every section has its own title and content."
 msgstr ""
@@ -38,10 +39,11 @@ msgid "Add a section"
 msgstr "Afegir una secció"
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:7
+#, fuzzy
 msgid ""
-"To add a section into a chapter, go the course main page. \n"
+"To add a section into a chapter, go the course main page.\n"
 "Find the chapter where you want to add the section and click on the pencil "
-"on the right of the chapter's name. \n"
+"on the right of the chapter's name.\n"
 "Write the name of the section and save the changes by clicking on the <code>"
 "save chapter</code> button."
 msgstr ""
@@ -60,9 +62,10 @@ msgid "Rename a section"
 msgstr "Reanomenar una secció"
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:14
+#, fuzzy
 msgid ""
 "Simply find the chapter where the section is located and click on the pencil "
-"on the right of the chapter's name. \n"
+"on the right of the chapter's name.\n"
 "You will be able to rename the section by clicking on the icon with the blue "
 "pencil."
 msgstr ""
@@ -123,10 +126,11 @@ msgid "Move a section"
 msgstr "Moure una secció"
 
 #: guide/en/wikitolearn-guide-chapter-4.txt:33
+#, fuzzy
 msgid ""
 "To move a section within the same chapter, you can simply use the drag and "
 "drop elements.\n"
-"We don't support moving sections within different chapters yet.\n"
+"We don't support moving sections between different chapters yet.\n"
 "For now, if needed, we suggest the following procedure:\n"
 "copy the content of the section on a document;"
 msgstr ""

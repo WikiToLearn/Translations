@@ -1,10 +1,11 @@
-Course is a collection of pages with a well defined tree structure.
+A course is a collection of pages with a well defined tree structure.
 Every course on WikiToLearn has a unique name.
-You can create a private course under your namespace or a public/collaborative course where everyone can contribute.
+You can create a private course under your namespace or a public and collaborative course.
 
 == Create a course ==
 The first thing to do to create a course is going to the right department and the right topic.
-For example, if you are writing a <code>Quantum Physics</code> course, you need to go to the physics department located at http://en.wikitolearn.vodka/Physics.
+For example, if you are writing a <code>Quantum Physics</code> course, you need to go to the [[Physics]] department. 
+
 Find the most appropriate topic and click on it.
 In the previous example, you should look for a topic named "Quantum Physics" or "Quantum Mechanics".
 
@@ -28,7 +29,7 @@ This is helpful when you have some external links or PDF with exercises, notes o
 
 [[File:Add_metadata_wtl.gif]]
 
-To add metadata visit the course root page and click on the "Edit metadata" button.
+To add metadata visit the course main page and click on the "Edit metadata" button.
 Then you can add the additional information in the respective input fields.
 In particular, you can add information about:
 

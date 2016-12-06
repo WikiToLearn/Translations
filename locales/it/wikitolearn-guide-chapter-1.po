@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-22 23:06+0200\n"
+"POT-Creation-Date: 2016-12-06 11:33+0200\n"
 "PO-Revision-Date: 2016-10-29 23:03+0200\n"
 "Last-Translator: Paolo Zamponi <zapaolo@email.it>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -108,10 +108,11 @@ msgid "Chapters"
 msgstr "Capitoli"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:28
+#, fuzzy
 msgid ""
 "Chapters are the lower level of a course.\n"
 "They gather together some sections of a book and they are displayed as "
-"heading titles in the main page of the course."
+"headings in the main page of the course."
 msgstr ""
 "I capitoli sono il livello più basso di un corso.\n"
 "Raccolgono insieme alcune sezioni di un libro, e sono visualizzati come "
@@ -122,7 +123,8 @@ msgid "[[File:Chapter_example_wtl.png]]"
 msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:31
-msgid "Section"
+#, fuzzy
+msgid "Sections"
 msgstr "Sezione"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:34
@@ -158,9 +160,10 @@ msgid "User namespace"
 msgstr "Namespace User"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:45
+#, fuzzy
 msgid ""
 "The User namespace is your personal page where you can write your own "
-"courses and content without worring about making mistakes.\n"
+"courses and content without worrying about making mistakes.\n"
 "You can see an example here:"
 msgstr ""
 "Il namespace User è la tua pagina personale dove puoi scrivere i tuoi corsi "
@@ -169,7 +172,7 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:48
 #, fuzzy
-msgid "http://en.wikitolearn.vodka/User:Grigoletti"
+msgid "http://en.wikitolearn.org/User:Grigoletti"
 msgstr "http://en.wikitolearn.org/User:Grigoletti"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:48
@@ -177,13 +180,15 @@ msgid "Course namespace"
 msgstr "Namespace Course"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:51
+#, fuzzy
 msgid ""
 "A Course namespace is similar to the User one, but it has the word "
 "<code>Course:</code>as a prefix to the URL<ref>URL is an acronym for Uniform "
 "Resource Locator and is a reference (an address) to a resource on the "
 "Internet</ref>.\n"
 "This namespace is used to create an entire public course.\n"
-"You can see an example here:"
+"You can see an example on [[Course:How to use Linked Data|How to use Linked "
+"Data]]!"
 msgstr ""
 "Un namespace Course è simile a quello utente, ma nel prefisso dell'URL* "
 "compare la parola <code>Course:</code><ref>URL è un acronimo di Uniform "
@@ -192,10 +197,9 @@ msgstr ""
 "Questo namespace è usato per creare un intero corso pubblico.\n"
 "Puoi vedere un esempio qui:"
 
-#: guide/en/wikitolearn-guide-chapter-1.txt:55
 #, fuzzy
-msgid "http://en.wikitolearn.vodka/Course:How_to_use_Linked_Data"
-msgstr "http://en.wikitolearn.org/Course:How_to_use_Linked_Data"
+#~ msgid "http://en.wikitolearn.vodka/Course:How_to_use_Linked_Data"
+#~ msgstr "http://en.wikitolearn.org/Course:How_to_use_Linked_Data"
 
 #~ msgctxt "guide/en/wikitolearn-guide-chapter-1.txt:9"
 #~ msgid "(add image here)"

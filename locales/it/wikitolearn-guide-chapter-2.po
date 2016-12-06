@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-22 23:06+0200\n"
+"POT-Creation-Date: 2016-12-06 11:33+0200\n"
 "PO-Revision-Date: 2016-10-27 00:50+0100\n"
 "Last-Translator: Paolo Zamponi <zapaolo@email.it>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -16,11 +16,12 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.13.0\n"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:1
+#, fuzzy
 msgid ""
-"Course is a collection of pages with a well defined tree structure.\n"
+"A course is a collection of pages with a well defined tree structure.\n"
 "Every course on WikiToLearn has a unique name.\n"
-"You can create a private course under your namespace or a public/"
-"collaborative course where everyone can contribute."
+"You can create a private course under your namespace or a public and "
+"collaborative course."
 msgstr ""
 "Un corso è una raccolta di pagine con una struttura ad albero ben definita. "
 "\n"
@@ -33,31 +34,25 @@ msgid "Create a course"
 msgstr "Creare un corso"
 
 #: guide/en/wikitolearn-guide-chapter-2.txt:6
-#, fuzzy
 msgid ""
 "The first thing to do to create a course is going to the right department "
 "and the right topic.\n"
 "For example, if you are writing a <code>Quantum Physics</code> course, you "
-"need to go to the physics department located at "
-"http://en.wikitolearn.vodka/Physics.\n"
+"need to go to the [[Physics]] department. "
+msgstr ""
+
+#: guide/en/wikitolearn-guide-chapter-2.txt:9
+msgid ""
 "Find the most appropriate topic and click on it.\n"
 "In the previous example, you should look for a topic named \"Quantum "
 "Physics\" or \"Quantum Mechanics\"."
 msgstr ""
-"La prima cosa da fare per creare un corso è quella di andare nel "
-"dipartimento e nell'argomento appropriati.\n"
-"Per esempio, se ne stai scrivendo uno di <code>fisica quantistica</code> "
-"devi andare nel dipartimento che trovi in https://it.wikitolearn.org/Fisica."
-"\n"
-"Trova l'argomento più appropriato, quindi facci clic sopra. \n"
-"Nell'esempio precedente avresti dovuto cercare un argomento chiamato \""
-"fisica quantistica\" oppure \"meccanica quantistica\"."
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:11
+#: guide/en/wikitolearn-guide-chapter-2.txt:12
 msgid "Click the \"Create Course\" button: a form will show up."
 msgstr "Fai clic sul pulsante \"Crea il corso\": comparirà un modulo."
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:13
+#: guide/en/wikitolearn-guide-chapter-2.txt:14
 msgid ""
 "'''Note:''' if there isn't an appropriate topic for the course, you can "
 "create one by clicking the \"Create Course and Topic\" button on the "
@@ -69,11 +64,11 @@ msgstr ""
 "dipartimento.\n"
 "Il nome dell'argomento sarà lo stesso di quello del corso."
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:16
+#: guide/en/wikitolearn-guide-chapter-2.txt:17
 msgid "[[File:Manual_create_course.gif]]"
 msgstr "[[File:Manual_create_course.gif]]"
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:18
+#: guide/en/wikitolearn-guide-chapter-2.txt:19
 msgid ""
 "You can choose to make the course public or private.\n"
 "A public course is located under the related department, while a private "
@@ -83,7 +78,7 @@ msgstr ""
 "Un corso pubblico si trova nel dipartimento relativo, mentre uno privato nel "
 "namespace utente."
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:21
+#: guide/en/wikitolearn-guide-chapter-2.txt:22
 msgid ""
 "It is strongly recommended to create a private course and publish it once "
 "completed.\n"
@@ -97,11 +92,11 @@ msgstr ""
 "nell'url <code>Dipartimento/Argomento</code>: chiunque potrà modificarlo "
 "aggiungendo, spostando o rimuovendo del contenuto."
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:21
+#: guide/en/wikitolearn-guide-chapter-2.txt:22
 msgid "Course Metadata"
 msgstr "Metadati del corso"
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:26
+#: guide/en/wikitolearn-guide-chapter-2.txt:27
 msgid ""
 "It is possible to add additional information to a course.\n"
 "This is helpful when you have some external links or PDF with exercises, "
@@ -111,13 +106,14 @@ msgstr ""
 "Questo è utile se hai dei collegamenti esterni, o dei file PDF con esercizi, "
 "appunti o bibliografia che vuoi unire al corso."
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:29
+#: guide/en/wikitolearn-guide-chapter-2.txt:30
 msgid "[[File:Add_metadata_wtl.gif]]"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:31
+#: guide/en/wikitolearn-guide-chapter-2.txt:32
+#, fuzzy
 msgid ""
-"To add metadata visit the course root page and click on the \"Edit metadata\""
+"To add metadata visit the course main page and click on the \"Edit metadata\""
 " button.\n"
 "Then you can add the additional information in the respective input fields.\n"
 "In particular, you can add information about:"
@@ -128,27 +124,27 @@ msgstr ""
 "immissione.\n"
 "In particolare puoi aggiungere delle informazioni riguardo a:"
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:31
+#: guide/en/wikitolearn-guide-chapter-2.txt:32
 msgid "Bibliography"
 msgstr "La bibliografia"
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:31
+#: guide/en/wikitolearn-guide-chapter-2.txt:32
 msgid "Exercises"
 msgstr "Gli esercizi"
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:31
+#: guide/en/wikitolearn-guide-chapter-2.txt:32
 msgid "Books"
 msgstr "I libri"
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:31
+#: guide/en/wikitolearn-guide-chapter-2.txt:32
 msgid "External References"
 msgstr "I riferimenti esterni"
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:31
+#: guide/en/wikitolearn-guide-chapter-2.txt:32
 msgid "Publish a course"
 msgstr "Pubblicare un corso"
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:41
+#: guide/en/wikitolearn-guide-chapter-2.txt:42
 msgid ""
 "If you created a private course, it will stay under your user namespace "
 "unless you decide to publish it.\n"
@@ -164,13 +160,33 @@ msgstr ""
 "Un amministratore di WikiToLearn prenderà in considerazione la richiesta, e "
 "sposterà il contenuto in una pagina pubblica."
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:45
+#: guide/en/wikitolearn-guide-chapter-2.txt:46
 msgid "[[File:Publish_private_course_wtl.gif]]"
 msgstr ""
 
-#: guide/en/wikitolearn-guide-chapter-2.txt:47
+#: guide/en/wikitolearn-guide-chapter-2.txt:48
 msgid "__FORCETOC__"
 msgstr "__FORCETOC__"
+
+#, fuzzy
+#~ msgid ""
+#~ "The first thing to do to create a course is going to the right department "
+#~ "and the right topic.\n"
+#~ "For example, if you are writing a <code>Quantum Physics</code> course, you "
+#~ "need to go to the physics department located at "
+#~ "http://en.wikitolearn.vodka/Physics.\n"
+#~ "Find the most appropriate topic and click on it.\n"
+#~ "In the previous example, you should look for a topic named \"Quantum "
+#~ "Physics\" or \"Quantum Mechanics\"."
+#~ msgstr ""
+#~ "La prima cosa da fare per creare un corso è quella di andare nel "
+#~ "dipartimento e nell'argomento appropriati.\n"
+#~ "Per esempio, se ne stai scrivendo uno di <code>fisica quantistica</code> "
+#~ "devi andare nel dipartimento che trovi in https://it.wikitolearn.org/Fisica."
+#~ "\n"
+#~ "Trova l'argomento più appropriato, quindi facci clic sopra. \n"
+#~ "Nell'esempio precedente avresti dovuto cercare un argomento chiamato \""
+#~ "fisica quantistica\" oppure \"meccanica quantistica\"."
 
 #~ msgid "(maybe another gif here)"
 #~ msgstr "(magari un'altra una gif qui)"
