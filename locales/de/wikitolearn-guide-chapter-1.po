@@ -1,11 +1,10 @@
 # Burkhard Lück <lueck@hube-lueck.de>, 2016.
-#. extracted from guide/en/wikitolearn-guide-chapter-1.txt
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-12-06 11:33+0200\n"
-"PO-Revision-Date: 2016-11-21 14:46+0100\n"
+"PO-Revision-Date: 2016-12-06 19:09+0100\n"
 "Last-Translator: Matthias Heil\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
@@ -13,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:1
 msgid ""
@@ -63,23 +62,23 @@ msgid ""
 "Topics are the level underneath Departments and contain different courses "
 "related to the same subject.\n"
 "They are used to gather all the courses that explain the same theme, because "
-"every university and faculty could have a different approach to the subject."
-"\n"
+"every university and faculty could have a different approach to the "
+"subject.\n"
 "For example, <code>Quantum Physics</code> may be a topic and <code>Quantum "
-"Mechanics for graduate students</code>, <code>Advanced Quantum "
-"Mechanics</code> may be a course."
+"Mechanics for graduate students</code>, <code>Advanced Quantum Mechanics</"
+"code> may be a course."
 msgstr ""
 "Themen sind die Ebene unter den Fachbereichen und enthalten verschieden "
 "Kurse.\n"
 "Weil jede Universität und jede Fakultät andere Herangehensweisen an "
 "verschiedene Themen hat, werden hier verschiedene Kurse gesammelt.\n"
-"<code>Quantum Physics</code> könnte zum Beispiel ein Thema sein und <code>"
-"Quantum Mechanics for graduate students</code> oder <code>Advanced Quantum "
-"Mechanics</code> könnten Kurse in diesem Themengebiet sein."
+"<code>Quantum Physics</code> könnte zum Beispiel ein Thema sein und "
+"<code>Quantum Mechanics for graduate students</code> oder <code>Advanced "
+"Quantum Mechanics</code> könnten Kurse in diesem Themengebiet sein."
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:18
 msgid "[[File:Topic_example_wtl.png]]"
-msgstr ""
+msgstr "[[File:Topic_example_wtl.png]]"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:18
 msgid "Courses"
@@ -100,7 +99,7 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:25
 msgid "[[File:Course_example_wtl.png]]"
-msgstr ""
+msgstr "[[File:Course_example_wtl.png]]"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:25
 msgid "Chapters"
@@ -119,7 +118,7 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:31
 msgid "[[File:Chapter_example_wtl.png]]"
-msgstr ""
+msgstr "[[File:Chapter_example_wtl.png]]"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:31
 #, fuzzy
@@ -137,7 +136,7 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:37
 msgid "[[File:Section_example_wtl.png]]"
-msgstr ""
+msgstr "[[File:Section_example_wtl.png]]"
 
 #: guide/en/wikitolearn-guide-chapter-1.txt:37
 msgid "Namespaces"
@@ -146,8 +145,8 @@ msgstr "Namensräume"
 #: guide/en/wikitolearn-guide-chapter-1.txt:40
 msgid ""
 "Namespaces are a mechanism for grouping pages.\n"
-"You can see the namespace by looking at the url: if it has a "
-"<code>word:something_else</code>then \"word\" is the namespace.\n"
+"You can see the namespace by looking at the url: if it has a <code>word:"
+"something_else</code>then \"word\" is the namespace.\n"
 "In WikiTolearn there are two main namespaces, \"User\" and \"Course\"."
 msgstr ""
 "In Namensräumen können Seiten gruppiert werden.\n"

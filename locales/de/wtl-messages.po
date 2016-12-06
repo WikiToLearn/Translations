@@ -1,12 +1,11 @@
 # Burkhard Lück <lueck@hube-lueck.de>, 2016.
 # Frederik Schwarzer <schwarzer@kde.org>, 2016.
-#. extracted from wtl-messages/en.ini
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-12-06 11:33+0200\n"
-"PO-Revision-Date: 2016-11-30 14:50+0100\n"
+"PO-Revision-Date: 2016-12-06 19:03+0100\n"
 "Last-Translator: Frederik Schwarzer <schwarzer@kde.org>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
@@ -14,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #: [messages]externalreferences
 msgid "External References"
@@ -98,4 +97,4 @@ msgstr "Sozialwissenschaften"
 
 #: [messages]preunidep
 msgid "Pre-University"
-msgstr "Voruniversitär"
+msgstr "Vor der Universität"

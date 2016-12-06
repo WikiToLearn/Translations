@@ -1,12 +1,11 @@
 # Burkhard Lück <lueck@hube-lueck.de>, 2016.
 # Frederik Schwarzer <schwarzer@kde.org>, 2016.
-#. extracted from skin/en.json
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-06 11:33+0200\n"
-"PO-Revision-Date: 2016-12-01 15:35+0100\n"
+"POT-Creation-Date: 2016-12-06 19:02+0200\n"
+"PO-Revision-Date: 2016-12-06 19:38+0100\n"
 "Last-Translator: Frederik Schwarzer <schwarzer@kde.org>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
@@ -14,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #: .wikitolearnskin-testimonials-first-quote
 msgid ""
@@ -50,6 +49,10 @@ msgstr "Srijan Agarwal, Amrita Universität, Amritapuri Campus"
 msgid "Hacker"
 msgstr "Programmierer"
 
+#: .wikitolearnskin-footer-license-link
+msgid "/Project:Copyright"
+msgstr "/Project:Copyright"
+
 #: .wikitolearnskin-media-learn-more-link
 msgid "/#"
 msgstr "/#"
@@ -61,6 +64,9 @@ msgid ""
 "coding? In our project anyone can give his help, do not hesitate anymore: "
 "find out more on how you can put your best efforts in WikiToLearn!"
 msgstr ""
+"WikiToLearn ist ein breitgefächertes Projekt und jede Art von Beitrag ist "
+"willkommen. Du bist ein Open-Source-Enthusiast und du möchtest unsere "
+"Community unterstützen? Dir gefällt Programmieren? Finde mehr heraus!"
 
 #: .wikitolearnskin-join-step-chat-title
 msgid "Chat with us"
@@ -82,6 +88,10 @@ msgstr "Student"
 #: .wikitolearnskin-navbar-language-selector
 msgid "Language"
 msgstr "Sprache"
+
+#: .prefs-skin-font-label
+msgid "Select the font to use"
+msgstr "Wähle einen Schriftsatz"
 
 #: .wikitolearnskin-contributors-6-link
 msgid "https://www.kde.org/"
@@ -274,10 +284,18 @@ msgstr "Einen Zugang erstellen"
 msgid "Recent changes"
 msgstr "Letzte Änderungen"
 
+#: .prefs-skin-font-default
+msgid "Default one"
+msgstr ""
+
 #: .wikitolearnskin-navbar-tools-link
 msgctxt ".wikitolearnskin-navbar-tools-link"
 msgid "#"
 msgstr "#"
+
+#: .wikitolearnskin-footer-license
+msgid "Copyright"
+msgstr ""
 
 #: .wikitolearnskin-footer-contacts
 msgid "Contacts"
@@ -389,6 +407,8 @@ msgid ""
 "Our hand-made skin, with many custom functionalities and improvements that "
 "allows you to browse WikiToLearn how it was meant to be."
 msgstr ""
+"Unsere selbst designte Skin, mit vielen maßgeschneiderten Funktionalitäten "
+"und Verbesserungen, ermöglicht nun ein leichteres browsen auf WikiToLearn."
 
 #: .wikitolearnskin-testimonials-second-quote
 msgid ""
@@ -396,6 +416,9 @@ msgid ""
 "aim of spreading knowledge and culture. WikiToLearn is  much more than "
 "cutting edge technology!"
 msgstr ""
+"Es ist ermutigend eine breite Gruppe von jungen Menschen zu sehen, getrieben "
+"von dem Ziel, Wissen und Kultur zu teilen.  WikiToLearn ist weit mehr als "
+"nur eine hochmoderne und innovative Technologie!"
 
 #: .wikitolearnskin-contributors-2-link
 msgid "https://home.cern/"
@@ -406,8 +429,9 @@ msgid "Open chat"
 msgstr "Chat öffnen"
 
 #: .wikitolearnskin-join-professor-link
-msgid "/Join/Teacher"
-msgstr "/Mitmachen/Lehrer"
+#, fuzzy
+msgid "/Teacher"
+msgstr "Lehrer"
 
 #: .wikitolearnskin-navbar-contribute-link
 msgid "//join.wikitolearn.org"
@@ -417,9 +441,9 @@ msgstr "//join.wikitolearn.org"
 msgid "Next steps"
 msgstr "Nächste Schritte"
 
-#: .wikitolearnskin-cookies-dismiss
-msgid "Got it!"
-msgstr "Verstanden!"
+#: .prefs-skin-font
+msgid "Font"
+msgstr "Schriftsatz"
 
 #: .wikitolearnskin-join-step-account-title
 msgctxt ".wikitolearnskin-join-step-account-title"
@@ -432,10 +456,14 @@ msgid ""
 "coordinate our community via rocketchat. Register a chat account and you are "
 "ready to talk with us!"
 msgstr ""
+"Du brauchst Hilfe? Du bist dir immer noch unsicher wie du uns helfen kannst? "
+"Wir kommunizieren und koordinieren unsere Community via Rocketchat. Erstelle "
+"einen Chat-Account und schon kannst du uns schreiben!"
 
 #: .wikitolearnskin-join-student-link
-msgid "/Join/Student"
-msgstr "/Mitmachen/Student"
+#, fuzzy
+msgid "/Student"
+msgstr "Student"
 
 #: .wikitolearnskin-join-professor
 msgid "Teacher"
@@ -486,8 +514,9 @@ msgid "https://chat.wikitolearn.org"
 msgstr "https://chat.wikitolearn.org"
 
 #: .wikitolearnskin-join-other-link
-msgid "/Join/Hacker"
-msgstr "/Mitmachen/Programmierer"
+#, fuzzy
+msgid "/Hacker"
+msgstr "Programmierer"
 
 #: .wikitolearnskin-cookies-learn-more
 msgid "Learn More"
@@ -514,6 +543,9 @@ msgid ""
 "a look before contributing, so you can learn all the tips and tricks of "
 "WikiToLearn."
 msgstr ""
+"Wir haben ein detailliertes und leicht lesbares Handbuch erstellt. Bitte "
+"schaue dir dieses vor dem Mitwirken an, damit du alle Tipps und Tricks von "
+"WikiToLearn lernst."
 
 #: .wikitolearnskin-cookies-text
 msgid ""
@@ -525,12 +557,29 @@ msgstr "Diese Webseite verwendet Cookies"
 msgid "Collaborative Textbooks"
 msgstr "Kollaborative Lehrbücher"
 
+#: .wikitolearnskin-cookies-dismiss
+msgid "Got it!"
+msgstr "Verstanden!"
+
 #: .wikitolearnskin-join-student-text
 msgid ""
 "Do you want to share your notes with the whole world? Do you want to create "
 "books precisely tailored to your needs? WikiToLearn and its tools for book "
 "editing, importing and exporting are what you are looking for!"
 msgstr ""
+"Du möchtest deine Mitschriften mit der ganzen Welt teilen? Du möchtest "
+"Bücher erstellen, welche zu deinen Bedürfnissen passen? WikiToLearn und "
+"dessen Tools für die Buchbearbeitung, Import und Export sind genau das was "
+"du suchst!"
+
+#~ msgid "/Join/Teacher"
+#~ msgstr "/Mitmachen/Lehrer"
+
+#~ msgid "/Join/Student"
+#~ msgstr "/Mitmachen/Student"
+
+#~ msgid "/Join/Hacker"
+#~ msgstr "/Mitmachen/Programmierer"
 
 #~ msgid "Daniele Pannozzo, Roma, Università la Sapienza"
 #~ msgstr "Daniele Pannozzo, Rom, La Sapienza Universität"

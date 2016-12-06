@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-06 11:33+0200\n"
+"POT-Creation-Date: 2016-12-06 19:02+0200\n"
 "PO-Revision-Date: 2016-10-24 01:04+0100\n"
 "Last-Translator: Paolo Zamponi <zapaolo@email.it>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -47,6 +47,10 @@ msgstr ""
 msgid "Hacker"
 msgstr ""
 
+#: .wikitolearnskin-footer-license-link
+msgid "/Project:Copyright"
+msgstr ""
+
 #: .wikitolearnskin-media-learn-more-link
 #, fuzzy
 msgid "/#"
@@ -80,6 +84,10 @@ msgstr ""
 #: .wikitolearnskin-navbar-language-selector
 msgid "Language"
 msgstr "Lingua"
+
+#: .prefs-skin-font-label
+msgid "Select the font to use"
+msgstr ""
 
 #: .wikitolearnskin-contributors-6-link
 msgid "https://www.kde.org/"
@@ -276,9 +284,17 @@ msgstr ""
 msgid "Recent changes"
 msgstr "Modifiche recenti"
 
+#: .prefs-skin-font-default
+msgid "Default one"
+msgstr ""
+
 #: .wikitolearnskin-navbar-tools-link
 msgctxt ".wikitolearnskin-navbar-tools-link"
 msgid "#"
+msgstr ""
+
+#: .wikitolearnskin-footer-license
+msgid "Copyright"
 msgstr ""
 
 #: .wikitolearnskin-footer-contacts
@@ -407,7 +423,7 @@ msgid "Open chat"
 msgstr ""
 
 #: .wikitolearnskin-join-professor-link
-msgid "/Join/Teacher"
+msgid "/Teacher"
 msgstr ""
 
 #: .wikitolearnskin-navbar-contribute-link
@@ -419,8 +435,8 @@ msgstr "//meta.wikitolearn.org"
 msgid "Next steps"
 msgstr ""
 
-#: .wikitolearnskin-cookies-dismiss
-msgid "Got it!"
+#: .prefs-skin-font
+msgid "Font"
 msgstr ""
 
 #: .wikitolearnskin-join-step-account-title
@@ -436,7 +452,7 @@ msgid ""
 msgstr ""
 
 #: .wikitolearnskin-join-student-link
-msgid "/Join/Student"
+msgid "/Student"
 msgstr ""
 
 #: .wikitolearnskin-join-professor
@@ -488,7 +504,7 @@ msgid "https://chat.wikitolearn.org"
 msgstr "https://chat.wikitolearn.org"
 
 #: .wikitolearnskin-join-other-link
-msgid "/Join/Hacker"
+msgid "/Hacker"
 msgstr ""
 
 #: .wikitolearnskin-cookies-learn-more
@@ -524,6 +540,10 @@ msgstr ""
 #: .wikitolearnskin-media-title
 msgid "Collaborative Textbooks"
 msgstr "Libri di testo collaborativi"
+
+#: .wikitolearnskin-cookies-dismiss
+msgid "Got it!"
+msgstr ""
 
 #: .wikitolearnskin-join-student-text
 msgid ""

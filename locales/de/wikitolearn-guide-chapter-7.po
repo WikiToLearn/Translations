@@ -1,12 +1,11 @@
 # Burkhard Lück <lueck@hube-lueck.de>, 2016.
 # Frederik Schwarzer <schwarzer@kde.org>, 2016.
-#. extracted from guide/en/wikitolearn-guide-chapter-7.txt
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-12-06 11:33+0200\n"
-"PO-Revision-Date: 2016-11-21 18:03+0100\n"
+"PO-Revision-Date: 2016-12-06 19:15+0100\n"
 "Last-Translator: Matthias Heil\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
@@ -14,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:1
 msgid ""
@@ -60,7 +59,7 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:14
 msgid "[[File:Book_creation_wtl.gif]]"
-msgstr ""
+msgstr "[[File:Book_creation_wtl.gif]]"
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:16
 msgid ""
@@ -88,7 +87,7 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:23
 msgid "[[File:Book_chapter_creation_wtl.gif]]"
-msgstr ""
+msgstr "[[File:Book_chapter_creation_wtl.gif]]"
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:23
 msgid "Sort a book"
@@ -100,14 +99,14 @@ msgid ""
 "pages.\n"
 "If you want to manually add a chapter, click on the \"Create chapter\" link."
 msgstr ""
-"Du kannst die Reihenfolge der Abschnitte einfach mit “Drag and Drop” ändern."
-"\n"
+"Du kannst die Reihenfolge der Abschnitte einfach mit “Drag and Drop” "
+"ändern.\n"
 "Wenn du ein Kapitel manuell hinzufügen möchtest, klicke auf „Kapitel "
 "erstellen“."
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:29
 msgid "[[File:Book_chapter_section_management_wtl.gif]]"
-msgstr ""
+msgstr "[[File:Book_chapter_section_management_wtl.gif]]"
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:31
 msgid ""
@@ -119,12 +118,12 @@ msgstr ""
 "Wenn du das Buch herunterlädst, erhältst du eine (mit LaTeX gesetzte) PDF-"
 "Datei.\n"
 "Beim Speichern des Buches gibt es zwei Optionen:\n"
-"Speichere es auf deiner privaten Seite oder auf der Seite "
-"<code>Projekte:Bücher</code>."
+"Speichere es auf deiner privaten Seite oder auf der Seite <code>Projekte:"
+"Bücher</code>."
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:35
 msgid "[[File:Book_download_wtl.gif]]"
-msgstr ""
+msgstr "[[File:Book_download_wtl.gif]]"
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:37
 msgid ""
@@ -135,11 +134,11 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:39
 msgid ""
-"Choose the first option, write the name of your book and click on \"Save "
-"Book\" button."
+"Choose the first option, write the name of your book and click on \"Save Book"
+"\" button."
 msgstr ""
-"Wähle die erste Option aus, gib einen Namen für dein Buch ein und klicke \""
-"Buch speichern\"."
+"Wähle die erste Option aus, gib einen Namen für dein Buch ein und klicke "
+"\"Buch speichern\"."
 
 #: guide/en/wikitolearn-guide-chapter-7.txt:39
 msgid "Search for books"

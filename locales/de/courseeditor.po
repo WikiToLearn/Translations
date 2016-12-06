@@ -1,13 +1,12 @@
 # Administrator <sysadmin@wikitolearn.org>, 2016. #zanata.
 # Burkhard Lück <lueck@hube-lueck.de>, 2016.
 # Frederik Schwarzer <schwarzer@kde.org>, 2016.
-#. extracted from courseeditor/en.json
 msgid ""
 msgstr ""
 "Project-Id-Version: courseeditor\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-12-06 11:33+0200\n"
-"PO-Revision-Date: 2016-11-30 15:14+0100\n"
+"PO-Revision-Date: 2016-12-06 18:56+0100\n"
 "Last-Translator: Frederik Schwarzer <schwarzer@kde.org>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
@@ -15,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Generator: Poedit 1.8.11\n"
 "Source-Article: CourseEditor\n"
 "Article-Title: CourseEditor\n"
 "Article-Language: de\n"
@@ -34,12 +33,12 @@ msgstr "Übungen:"
 
 #: .courseeditor-input-department-placeholder
 msgid "Insert the department of the course"
-msgstr "Kursfachbereich einfügen"
+msgstr "Fachbereich einfügen"
 
 #: .courseeditor-error-operation
 msgid ""
-"Sorry, something went wrong! <i class='fa fa-frown-o' aria-"
-"hidden=true'></i><br>"
+"Sorry, something went wrong! <i class='fa fa-frown-o' aria-hidden=true'></"
+"i><br>"
 msgstr ""
 "Leider ist ein Fehler aufgetreten<i class='fa fa-frown-o' aria-"
 "hidden='true'></i><br>"
@@ -136,9 +135,9 @@ msgid ""
 "There is already an element with the same name or it is waiting to be "
 "removed.<br> Please, enter a different name or contact an administrator."
 msgstr ""
-"Es gibt schon ein Element mit dem gleichen Namen oder das Element soll "
-"gelöscht werden.<br> Bitte geben Sie einen anderen Namen ein oder wenden Sie "
-"sich an den Administrator."
+"Es gibt schon ein Element mit dem gleichen Namen oder das Element wartet um "
+"gelöscht zu werden.<br> Bitte geben Sie einen anderen Namen ein oder wenden "
+"Sie sich an den Administrator."
 
 #: .courseeditor-message-dialog-cancel
 msgctxt ".courseeditor-message-dialog-cancel"
@@ -169,7 +168,7 @@ msgstr "Literaturverzeichnis:"
 msgid ""
 "Do you want to create a private course in your personal page or a public one?"
 msgstr ""
-"Möchten Sie einen privaten Kurs auf der persönlichen Seite oder einen "
+"Möchtest du einen privaten Kurs auf der persönlichen Seite oder einen "
 "öffentlichen Kurs erstellen?"
 
 #: .courseeditor-alert-message-success-publish
@@ -209,7 +208,7 @@ msgstr "Kurseditor"
 
 #: .courseeditor-organize-levelsTwo
 msgid "You can organize, add and delete chapters"
-msgstr "Du können Sie Kapitel verwalten, hinzufügen und entfernen"
+msgstr "Du kannst Kapitel verwalten, hinzufügen und entfernen"
 
 #: .courseeditor-input-books-label
 msgid "Books:"
@@ -236,12 +235,12 @@ msgid ""
 "There's an element in the recycle bin with the same name, what do you want "
 "to do?"
 msgstr ""
-"Es gibt ein Element mit dem gleichen Namen im Papierkorb, wie möchten "
-"Siefortfahren?"
+"Es gibt ein Element mit dem gleichen Namen im Papierkorb, wie möchtest du "
+"fortfahren?"
 
 #: .courseeditor-organize-levelsThree
 msgid "You can organize, add and delete sections"
-msgstr "Sie können Abschnitte verwalten, hinzufügen und entfernen"
+msgstr "Du kannst Abschnitte verwalten, hinzufügen und entfernen"
 
 #: .courseeditor-operation-action-delete-levelsTwo-task
 msgid "Delete chapters of"
@@ -260,8 +259,8 @@ msgid ""
 "Hey, there is a course with the same title yet! <br> Choose another title or "
 "start to contribute immediately to the existing course."
 msgstr ""
-"Es gibt bereits einen Kurs mit dem gleichen Titel! <br> Wählen Sie einen "
-"anderen Titel oder bearbeiten Sie den vorhandenen Kurs.<br>"
+"Es gibt bereits einen Kurs mit dem gleichen Titel! <br> Wähle einen anderen "
+"Titel oder bearbeite den vorhandenen Kurs.<br>"
 
 #: .courseeditor-radiobutton-namespace-private
 msgid "Private"
@@ -272,8 +271,8 @@ msgid ""
 "Hey, there is a course with a similar title, make sure it is not what you "
 "are looking for!<br>"
 msgstr ""
-"Es gibt bereits einen Kurs mit einem ähnlichen Titel. Überprüfen Sie, ob "
-"dieser Kurz nicht das ist, was Sie suchen.<br>"
+"Es gibt bereits einen Kurs mit einem ähnlichen Titel. Überprüfe, ob dieser "
+"Kurz nicht das ist, was du suchst.<br>"
 
 #: .courseeditor-publish-course-pagetitle
 msgid "Publish courses"
@@ -288,8 +287,8 @@ msgid ""
 "With this page you can manage course's metadata<br> <i>You can use the wiki "
 "syntax (wikitext) within textarea to add links, bullet lists etc...</i>"
 msgstr ""
-"Auf dieser Seite können Sie Kurs-Metadaten verwalten.<br> <i> Benutzen Sie "
-"die Wiki-Syntax (wikitext) im Textbereich, um Verknüpfungen und "
+"Auf dieser Seite kannst du Kurs-Metadaten verwalten.<br> <i> Benutze die "
+"Wiki-Syntax (wikitext) im Textbereich, um Verknüpfungen und "
 "Aufzählungslisten hinzuzufügen ...</i>"
 
 #: .courseeditor-rename

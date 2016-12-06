@@ -1,11 +1,10 @@
 # Burkhard Lück <lueck@hube-lueck.de>, 2016.
-#. extracted from guide/en.ini
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-12-06 11:33+0200\n"
-"PO-Revision-Date: 2016-11-25 08:42+0100\n"
+"PO-Revision-Date: 2016-12-06 18:58+0100\n"
 "Last-Translator: Burkhard Lück <lueck@hube-lueck.de>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
@@ -13,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #: [messages]wikitolearn-guide-chapter-0
 msgid "Manual"
@@ -69,7 +68,7 @@ msgstr "Mitmachen/Student"
 
 #: [messages]contribute2
 msgid "Join/Teacher"
-msgstr "Mitmachen/Lehrer"
+msgstr "Mitmachen/Professor"
 
 #: [messages]contribute3
 msgid "Join/Hacker"

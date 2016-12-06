@@ -1,12 +1,11 @@
 # Burkhard Lück <lueck@hube-lueck.de>, 2016.
 # Frederik Schwarzer <schwarzer@kde.org>, 2016.
-#. extracted from guide/en/wikitolearn-guide-chapter-5.txt
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-12-06 11:33+0200\n"
-"PO-Revision-Date: 2016-11-21 17:22+0100\n"
+"PO-Revision-Date: 2016-12-06 19:15+0100\n"
 "Last-Translator: Matthias Heil\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
@@ -14,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:1
 msgid ""
@@ -49,9 +48,9 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:10
 msgid ""
-"If you want to edit an existing page, just press the <code>Edit</code> "
-"button at the top of the page and watch VisualEditor load: after a few "
-"seconds it should be ready to use."
+"If you want to edit an existing page, just press the <code>Edit</code> button "
+"at the top of the page and watch VisualEditor load: after a few seconds it "
+"should be ready to use."
 msgstr ""
 "Um eine bestehende Seite zu bearbeiten, klicke die Schaltfläche "
 "<code>Bearbeiten</code>. Der VisualEditor sollte innerhalb weniger Sekunden "
@@ -66,8 +65,8 @@ msgid ""
 "VisualEditor has more or less the same features and functions of any other "
 "word processor software, like bold, italics, ordered lists and so on."
 msgstr ""
-"Der VisualEditor funktioniert wie ähnliche Textbearbeitungssoftware. Der "
-"Text lässt sich einfach fett, kursiv, unterstrichen, usw. formatieren."
+"Der VisualEditor funktioniert wie ähnliche Textbearbeitungssoftware. Der Text "
+"lässt sich einfach fett, kursiv, unterstrichen, usw. formatieren."
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:14
 msgid "Advanced editing"
@@ -80,15 +79,15 @@ msgstr "Medien einfügen"
 #: guide/en/wikitolearn-guide-chapter-5.txt:19
 msgid ""
 "To insert media in the text,  just click the <code>Insert</code> option in "
-"the VisualEditor toolbar and select <code>Media</code>: you can either "
-"upload new files using the <code>Upload</code> tab or <code>Search</code> "
-"for existing media both on WikiToLearn or Wikimedia Commons."
+"the VisualEditor toolbar and select <code>Media</code>: you can either upload "
+"new files using the <code>Upload</code> tab or <code>Search</code> for "
+"existing media both on WikiToLearn or Wikimedia Commons."
 msgstr ""
 "Um Medien in den Text einzufügen, klicke auf <code>Einfügen</code> in der "
-"Menüleiste und wähle <code>Medien</code>. Auf diese Art kannst du sowohl "
-"neue Dateien mit Hilfe des <code>Upload</code> -Reiters  hochladen, als auch "
-"WikiToLearn und Wikimedia Commons nach Medien durchsuchen "
-"(<code>Search</code>)"
+"Menüleiste und wähle <code>Medien</code>. Auf diese Art kannst du sowohl neue "
+"Dateien mit Hilfe des <code>Upload</code> -Reiters  hochladen, als auch "
+"WikiToLearn und Wikimedia Commons nach Medien durchsuchen (<code>Search</"
+"code>)"
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:19
 msgid "Insert formulas"
@@ -96,10 +95,10 @@ msgstr "Formeln einfügen"
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:22
 msgid ""
-"To insert mathematical formulas in the text, just click the "
-"<code>Insert</code> option in the VisualEditor toolbar and select "
-"<code>Formula</code>: this will open up the Formula Editor window which will "
-"allow you to write math formulas easily."
+"To insert mathematical formulas in the text, just click the <code>Insert</"
+"code> option in the VisualEditor toolbar and select <code>Formula</code>: "
+"this will open up the Formula Editor window which will allow you to write "
+"math formulas easily."
 msgstr ""
 "Um mathematische Formeln einfach mithilfe des Formel-Editors einzufügen, "
 "klicke auf die Schaltfläche <code>Einfügen</code> in der Menüleiste des "
@@ -107,7 +106,7 @@ msgstr ""
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:24
 msgid "[[File:Math_insertion_wtl.gif]]"
-msgstr ""
+msgstr "[[File:Math_insertion_wtl.gif]]"
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:24
 msgid "Insert templates"
@@ -143,10 +142,12 @@ msgstr "Offizielles Handbuch"
 
 #: guide/en/wikitolearn-guide-chapter-5.txt:34
 msgid ""
-"We suggest you also take a look at the "
-"[https://www.mediawiki.org/wiki/Help:VisualEditor/User_guide official "
-"VisualEditor guide]."
+"We suggest you also take a look at the [https://www.mediawiki.org/wiki/Help:"
+"VisualEditor/User_guide official VisualEditor guide]."
 msgstr ""
+"Wir empfehlen zudem einen Blick in das offizielle VisualEditor-Handbuch "
+"unter  [https://www.mediawiki.org/wiki/Help:VisualEditor/User_guide/de] zu "
+"werfen."
 
 #~ msgid ""
 #~ "We suggest you also take a look at the official VisualEditor guide linked "

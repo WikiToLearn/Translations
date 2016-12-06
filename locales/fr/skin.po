@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-06 11:33+0200\n"
+"POT-Creation-Date: 2016-12-06 19:02+0200\n"
 "PO-Revision-Date: 2016-11-02 17:41+0100\n"
 "Last-Translator: charruau <echarruau@gmail.com>\n"
 "Language-Team: French <kde-i18n-doc@kde.org>\n"
@@ -50,6 +50,10 @@ msgstr "Srijan Agrawal, université d'Amrita , Amritapuri Campus"
 msgid "Hacker"
 msgstr "Hacker"
 
+#: .wikitolearnskin-footer-license-link
+msgid "/Project:Copyright"
+msgstr ""
+
 #: .wikitolearnskin-media-learn-more-link
 msgid "/#"
 msgstr "/#"
@@ -89,6 +93,10 @@ msgstr "Étudiant"
 #: .wikitolearnskin-navbar-language-selector
 msgid "Language"
 msgstr "Langage"
+
+#: .prefs-skin-font-label
+msgid "Select the font to use"
+msgstr ""
 
 #: .wikitolearnskin-contributors-6-link
 msgid "https://www.kde.org/"
@@ -296,10 +304,18 @@ msgstr "Créer un compte"
 msgid "Recent changes"
 msgstr "Changements récents"
 
+#: .prefs-skin-font-default
+msgid "Default one"
+msgstr ""
+
 #: .wikitolearnskin-navbar-tools-link
 msgctxt ".wikitolearnskin-navbar-tools-link"
 msgid "#"
 msgstr "#"
+
+#: .wikitolearnskin-footer-license
+msgid "Copyright"
+msgstr ""
 
 #: .wikitolearnskin-footer-contacts
 msgid "Contacts"
@@ -435,8 +451,8 @@ msgid "Open chat"
 msgstr "Ouvrir un chat"
 
 #: .wikitolearnskin-join-professor-link
-msgid "/Join/Teacher"
-msgstr ""
+msgid "/Teacher"
+msgstr "/Teacher"
 
 #: .wikitolearnskin-navbar-contribute-link
 msgid "//join.wikitolearn.org"
@@ -446,9 +462,9 @@ msgstr "//join.wikitolearn.org"
 msgid "Next steps"
 msgstr "Étape suivante"
 
-#: .wikitolearnskin-cookies-dismiss
-msgid "Got it!"
-msgstr "Compris!"
+#: .prefs-skin-font
+msgid "Font"
+msgstr ""
 
 #: .wikitolearnskin-join-step-account-title
 msgctxt ".wikitolearnskin-join-step-account-title"
@@ -468,8 +484,8 @@ msgstr ""
 "dialoguer avec vous!"
 
 #: .wikitolearnskin-join-student-link
-msgid "/Join/Student"
-msgstr ""
+msgid "/Student"
+msgstr "/Student"
 
 #: .wikitolearnskin-join-professor
 msgid "Teacher"
@@ -520,8 +536,8 @@ msgid "https://chat.wikitolearn.org"
 msgstr "https://chat.wikitolearn.org"
 
 #: .wikitolearnskin-join-other-link
-msgid "/Join/Hacker"
-msgstr ""
+msgid "/Hacker"
+msgstr "/Hacker"
 
 #: .wikitolearnskin-cookies-learn-more
 msgid "Learn More"
@@ -564,6 +580,10 @@ msgstr ""
 msgid "Collaborative Textbooks"
 msgstr "Manuels collaboratifs"
 
+#: .wikitolearnskin-cookies-dismiss
+msgid "Got it!"
+msgstr "Compris!"
+
 #: .wikitolearnskin-join-student-text
 msgid ""
 "Do you want to share your notes with the whole world? Do you want to create "
@@ -576,12 +596,3 @@ msgstr ""
 
 #~ msgid "images/placeholder-user.png"
 #~ msgstr "images/placeholder-user.png"
-
-#~ msgid "/Teacher"
-#~ msgstr "/Teacher"
-
-#~ msgid "/Student"
-#~ msgstr "/Student"
-
-#~ msgid "/Hacker"
-#~ msgstr "/Hacker"

@@ -1,11 +1,10 @@
 # Frederik Schwarzer <schwarzer@kde.org>, 2016.
-#. extracted from guide/en/contribute2.txt
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-12-06 11:33+0200\n"
-"PO-Revision-Date: 2016-11-29 09:45+0100\n"
+"PO-Revision-Date: 2016-12-06 18:58+0100\n"
 "Last-Translator: Matthias Heil\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
@@ -13,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #: guide/en/contribute2.txt:1
 msgid ""
@@ -34,19 +33,19 @@ msgid ""
 "improve the content."
 msgstr ""
 "Durchsuchen Sie die Website um herauszufinden, ob es zu Ihrem "
-"Forschungsbereich bereits Materialien gibt. Mit Hilfe des "
-"'''[[Manual|Handbuchs]]''' können Sie erfahren, wie Sie Inhalte korrigieren "
-"und verbessern."
+"Forschungsbereich bereits Materialien gibt. Mit Hilfe des ‘’’[[Handbuch|"
+"Handbuchs]]''' können Sie erfahren, wie Sie Inhalte korrigieren und "
+"verbessern."
 
 #: guide/en/contribute2.txt:6
 msgid ""
 "Otherwise, if you couldn’t find any existing material, '''[[Manual/Core "
-"concepts: Course|create a new course]]''' or "
-"'''[[Manual/Core_concepts:_Chapter|add new chapters]]'''."
+"concepts: Course|create a new course]]''' or '''[[Manual/Core_concepts:"
+"_Chapter|add new chapters]]'''."
 msgstr ""
-"Falls Sie kein bestehendes Material finden, können Sie '''[[Manual/Wichtige "
-"Konzepte: Kurse|einen neuen Kurs erstellen]]''' oder zu bestehenden Kursen "
-"'''[[Manual/Wichtige Konzepte:Kapitel|neue Kapitel hinzufügen]]'''."
+"Falls Sie kein bestehendes Material finden, können Sie ‘’’[[Handbuch/"
+"Wichtige Konzepte: Kurs|einen neuen Kurs erstellen]]''' oder zu bestehenden "
+"Kursen ‘’’[[Handbuch/Wichtige Konzepte:Kapitel|neue Kapitel hinzufügen]]'''."
 
 #: guide/en/contribute2.txt:8
 msgid ""
@@ -56,13 +55,13 @@ msgid ""
 msgstr ""
 "Notizen können einfach aus Word-Dokumenten kopiert und eingefügt werden. Für "
 "in LaTeX gesetzte Notizen gibt es unseren  '''[https://texla.wikitolearn.org "
-"LaTex to Wiki Converter]'''. (Mehr Infos dazu gibt es im '''[[Manual/Import "
-"von LaTeX|LaTex Handbuch]]''')"
+"LaTex to Wiki Converter]'''. (Mehr Infos dazu gibt es im ‘’’[[Handbuch/"
+"Import von LaTeX|LaTex Handbuch]]''')"
 
 #: guide/en/contribute2.txt:10
 msgid ""
-"Contact us at '''[https://chat.wikitolearn.org/channel/importing #importing]"
-"''' on the WikiToLearn chat if you have any problems."
+"Contact us at '''[https://chat.wikitolearn.org/channel/importing "
+"#importing]''' on the WikiToLearn chat if you have any problems."
 msgstr ""
 "Nehmen Sie unter '''[https://chat.wikitolearn.org/channel/importing "
 "#importing]''' im WikiToLearn-Chat Kontakt mit uns auf, falls Sie Probleme "
@@ -94,7 +93,7 @@ msgstr ""
 
 #: guide/en/contribute2.txt:15
 msgid "Step 3: Spread the word"
-msgstr "Schritt 3: Weitersagen!"
+msgstr "Schritt 3: Spread the word"
 
 #: guide/en/contribute2.txt:18
 msgid ""

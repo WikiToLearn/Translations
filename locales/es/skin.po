@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-06 11:33+0200\n"
+"POT-Creation-Date: 2016-12-06 19:02+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,6 +43,10 @@ msgstr ""
 msgid "Hacker"
 msgstr ""
 
+#: .wikitolearnskin-footer-license-link
+msgid "/Project:Copyright"
+msgstr ""
+
 #: .wikitolearnskin-media-learn-more-link
 msgid "/#"
 msgstr ""
@@ -74,6 +78,10 @@ msgstr ""
 
 #: .wikitolearnskin-navbar-language-selector
 msgid "Language"
+msgstr ""
+
+#: .prefs-skin-font-label
+msgid "Select the font to use"
 msgstr ""
 
 #: .wikitolearnskin-contributors-6-link
@@ -265,9 +273,17 @@ msgstr ""
 msgid "Recent changes"
 msgstr ""
 
+#: .prefs-skin-font-default
+msgid "Default one"
+msgstr ""
+
 #: .wikitolearnskin-navbar-tools-link
 msgctxt ".wikitolearnskin-navbar-tools-link"
 msgid "#"
+msgstr ""
+
+#: .wikitolearnskin-footer-license
+msgid "Copyright"
 msgstr ""
 
 #: .wikitolearnskin-footer-contacts
@@ -394,7 +410,7 @@ msgid "Open chat"
 msgstr ""
 
 #: .wikitolearnskin-join-professor-link
-msgid "/Join/Teacher"
+msgid "/Teacher"
 msgstr ""
 
 #: .wikitolearnskin-navbar-contribute-link
@@ -405,8 +421,8 @@ msgstr ""
 msgid "Next steps"
 msgstr ""
 
-#: .wikitolearnskin-cookies-dismiss
-msgid "Got it!"
+#: .prefs-skin-font
+msgid "Font"
 msgstr ""
 
 #: .wikitolearnskin-join-step-account-title
@@ -422,7 +438,7 @@ msgid ""
 msgstr ""
 
 #: .wikitolearnskin-join-student-link
-msgid "/Join/Student"
+msgid "/Student"
 msgstr ""
 
 #: .wikitolearnskin-join-professor
@@ -471,7 +487,7 @@ msgid "https://chat.wikitolearn.org"
 msgstr ""
 
 #: .wikitolearnskin-join-other-link
-msgid "/Join/Hacker"
+msgid "/Hacker"
 msgstr ""
 
 #: .wikitolearnskin-cookies-learn-more
@@ -505,6 +521,10 @@ msgstr ""
 
 #: .wikitolearnskin-media-title
 msgid "Collaborative Textbooks"
+msgstr ""
+
+#: .wikitolearnskin-cookies-dismiss
+msgid "Got it!"
 msgstr ""
 
 #: .wikitolearnskin-join-student-text
