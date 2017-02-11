@@ -1,5 +1,2 @@
-/tmp/
-/pot/
-/po/
-/mw/
-/__pycache__/
+__pycache__/
+workdir/
