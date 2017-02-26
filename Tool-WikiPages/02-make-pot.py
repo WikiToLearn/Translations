@@ -31,6 +31,31 @@ def output_snapshot():
 
 output_snapshot()
 
+# convert project_messages to pot
+project_messages_file = "{}project_messages.yml".format(common.tmp_git_dir)
+with open(project_messages_file) as data_file:
+    project_messages_dict = yaml.load(data_file)
+    data_file.close()
+    with open("{}project_messages.json".format(common.tmp_dir), 'w') as outfile:
+        json.dump(project_messages_dict, outfile)
+        outfile.close()
+
+        pot_lib_repo_key = "WikiPages-en"
+        output_pot_file = "{}project_messages.pot".format(common.output_pot_dir)
+        project_id_version = "{} {}".format(pot_lib_repo_key,last_commit)
+        gen_pot = True
+        if os.path.exists(output_pot_file):
+            pot = polib.pofile(output_pot_file)
+            gen_pot = pot.metadata['Project-Id-Version'] != project_id_version
+
+        if gen_pot:
+            cmd = ["json2po","-P","{}project_messages.json".format(common.tmp_dir),output_pot_file]
+            call(cmd)
+
+            pot = polib.pofile(output_pot_file)
+            pot.metadata['Project-Id-Version'] = project_id_version
+            pot.save(output_pot_file)
+
 # convert pages_id to a json that can be converted to pot
 pages_id_file = "{}pages_id.yml".format(common.tmp_git_dir)
 placeholder_dict = {}

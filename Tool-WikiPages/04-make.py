@@ -102,4 +102,17 @@ for lang_path in glob.glob("{}*".format(common.tmp_output_po_dir)):
                 out_file.write(new_content.encode('utf8'))
                 out_file.close()
 
+    project_messages_tinput_po_file = "{}/project_messages.po".format(lang_path)
+    project_messages_output_json_file = "{}project_messages_{}.json".format(common.tmp_dir, lang_code)
+    cmd = ["po2json", "-t", "{}project_messages.json".format(common.tmp_dir), project_messages_tinput_po_file, project_messages_output_json_file]
+    call(cmd)
+
+    with open(project_messages_output_json_file) as project_messages_obj:
+        with open("{}/Project:Messages".format(mw_lang_tmp_output_dir),'wb') as output_file:
+            project_messages_data_k_v = json.load(project_messages_obj)
+            for key in project_messages_data_k_v:
+                output_file.write("<section begin={key} />{value}<section end={key} />\n".format(key=key,value=project_messages_data_k_v[key]).encode('utf8'))
+            project_messages_obj.close()
+            output_file.close()
+
 output_snapshot()
