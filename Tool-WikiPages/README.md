@@ -3,7 +3,7 @@
 To run this you have to install al dependency (look in the root directory of this repo), then
 
 * `./01-download-from-git.py`
-* `./02-pot-notify.py`
+* `./02-make-pot.py`
 * `./03-download-po.py`
 * `./04-make.py`
 
