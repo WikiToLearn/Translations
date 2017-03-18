@@ -1,0 +1,20 @@
+Tack för ditt intresse av WikiToLearn. Din kunskap är fundamental för att försäkra att innehållet i WikiToLearn håller hög standard.
+
+== Steg 1: Komma igång ==
+Sök på webbsidan om det redan finns något material skrivet om ditt forskningsområde. Använd '''[[Manual|den här handledningen]]''' för att ta reda på hur man granskar och förbättrar innehållet.
+
+Annars, om du inte kunde hitta något befintligt material,  '''[[Manual/Core concepts: Course|skapa då en ny kurst]]''' eller '''[[Manual/Core_concepts:_Chapter|lägg till nya kapitel]]'''.
+
+Anteckningar skrivna med Word kan helt enkelt kopieras och klistras in. För Latex-anteckningar kan du använda vår '''[https://texla.wikitolearn.org Latex till Wiki-konverterare]'''! (läs mer i '''[[Manual/Importing from LaTeX|Latex-handledningen]]''')
+
+Kontakta oss via '''[https://chat.wikitolearn.org/channel/importing #importing]''' på WikiToLearn-chatten om du får problem.
+
+== Steg 2: Delta med dina studenter ==
+Samarbetet mellan dig och studenterna på WikiToLearn hjälper till att dela kunskap över hela världen. Tack vare att du kontrollerar och förbättrar innehållet kommer vi att kunna skapa läroböcker av hög kvalitet.
+
+Att delta tillsammans med dina studenter hjälper dig att bli medveten om deras förståelse av varje lektion, vilket ger dig värdefull återkoppling om hur effektiv din undervisning är.
+
+== Steg 3: Sprid budskapet ==
+Bjud in kolleger och alla institutioner som du har kontakt med för att samarbeta med oss och hjälpa projektet växa. Ett större nätverk förbättrar både de tillgängliga resursernas kvantitet och kvalitet.
+
+Ditt bidrag hjälper oss skapa fritt tillgängligt, tillförlitligt och fullständigt utbildningsmaterial.

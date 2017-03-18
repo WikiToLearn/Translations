@@ -1,0 +1,34 @@
+O Editor Visual é a ferramenta principal que poderá usar para criar e editar páginas no WikiToLearn.
+A utilização do Editor Visual é bastante simples!
+Se já tiver alguma experiência em qualquer espécie de aplicação de edição de texto, não deverá ter problemas em compreender como funciona o Editor Visual.
+
+== Utilização Básica ==
+
+=== Activar o Editor Visual ===
+Ao criar uma nova secção, o Editor Visual deverá estar activado por omissão: deverá aparecer uma barra de ferramentas no topo da página.
+
+Se quiser editar uma página existente, basta carregar no botão <code>Editar</code> no topo da página e ver o carregamento do Editor Visual: ao fim de alguns segundos, deverá estar pronto a usar.
+
+
+=== Edição ===
+O Editor Visual tem mais ou menos as mesmas características e funcionalidades de qualquer outro processador de texto, como o texto em negrito ou itálico, as listas ordenadas, entre outras.
+
+=== Edição avançada ===
+
+==== Inserir conteúdos multimédia ====
+Para inserir conteúdos multimédia no texto, basta carregar na opção <code>Inserir</code> na barra do Editor Visual e seleccionar <code>Conteúdos</code>: tanto poderá enviar ficheiros novos com a página <code>Enviar</code> como <code>Procurar</code> por conteúdos existentes no WikiToLearn ou no Wikimedia Commons.
+
+==== Inserir fórmulas ====
+Para inserir fórmulas matemáticas no texto, basta carregar na opção <code>Inserir</code> da barra do Editor Visual e seleccionar <code>Fórmula</code>: isto irá abrir a janela do Editor de Fórmulas, que lhe permite escrever facilmente fórmulas matemáticas.
+
+[[File:Math_insertion_wtl.gif]]
+
+==== Inserir modelos ====
+Os modelos são usados para adicionar mensagens recorrentes às páginas de forma consistente.
+São usados frequentemente nas secções matemáticas, onde poderá querer escrever uma definição, teorema, lema, corolário, etc.
+Podem ser inseridos dentro de qualquer secção do curso.
+
+Para inserir modelos, poderá usar a função <code>Inserir->Modelo</code>. Para saber mais sobre os Modelos e ter exemplos dos mesmos, por favor consulte [[Manual/Using templates|a página de Modelos]].
+
+=== Guia Oficial ===
+Sugerimos que dê uma vista de olhos no [https://www.mediawiki.org/wiki/Help:VisualEditor/User_guide guia do Editor Visual].

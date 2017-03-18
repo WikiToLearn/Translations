@@ -1,0 +1,43 @@
+Böcker är grupperade samlingar av avsnitt som enkelt kan laddas ner som PDF för fristående läsning.
+Böcker låter dig skapa en personlig samling avsnitt från olika kapitel, eller till och med från olika kurser.
+På så sätt skapar du en egen bok klar att skrivas ut.
+
+== Skapa en bok ==
+Klicka på knappen för avancerade funktioner till höger för att skapa en bok.
+En verktygsuppsättning dyker då upp.
+Klicka på den första boken för att starta bokskaparen.
+Gå till önskat avsnitt och klicka på länken "Lägg till sidan i boken".
+Med bokskaparverktyget kan man lägga till sidor eller titta på boken.
+Om man behöver mer hjälp om hur verktyget används, finns länken "Hjälp" i övre högra hörnet av rutan.
+Annars kan man läsa mer här.
+
+[[File:Book_creation_wtl.gif]]
+
+'''Observera:''' Bokskaparverktyget är inaktiverat för sidor som inte ingår i kursen.
+Det visas bara för kurs-, kapitel- och avsnittssidor.
+
+== Spara en bok ==
+När sidorna väl har lagts till, klicka på länken "Visa din bok".
+Då skickas man vidare till en sida där man kan välja att ändra, ladda ner eller spara boken.
+
+[[File:Book_chapter_creation_wtl.gif]]
+
+=== Sortera en bok ===
+Om avsnittens ordning ska sorteras, dra och släpp helt enkelt sidorna.
+Klicka på länken "Skapa kapitel" för att manuellt lägga till ett kapitel.
+
+[[File:Book_chapter_section_management_wtl.gif]]
+
+Att klicka på ladda ner gör att bokens sidor laddas ner som en PDF typsatt med Latex.
+När boken sparas, finns två alternativ:
+Spara den på din personliga sida eller på sidan <code>Projects:Books</code>.
+
+[[File:Book_download_wtl.gif]]
+
+'''Observera:''' Det rekommenderas starkt att spara boken i användarens namnrymd.
+
+Välj det första alternativet, skriv in bokens namn och klicka på knappen "Spara bok".
+
+== Söka efter böcker ==
+För att se böcker skapade av alla användare, både öppna och privata,
+klicka på knappen "Böcker" på navigeringsraden.

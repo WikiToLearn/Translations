@@ -1,0 +1,25 @@
+Som student har du säkert redan gjort några anteckningar. Börja med att dela med dig av dem på WikiToLearn.
+
+Tack vare samarbetet från andra bidragsgivare som du, samt expertgranskning, kan vi åstadkomma material av hög kvalitet.
+
+Här är några riktlinjer för att hjälpa dig komma igång:
+
+== Steg 1: Komma igång ==
+As a first step, we advise you to read the '''[[Manual|Manual]]'''. We can then get started by sharing your notes:
+# Search for the related course: if it does not exist yet, '''[[Manual/Core concepts: Course|create it]]'''.
+# Du kan '''[[Manual/Core_concepts:_Chapter|lägga till ett nytt kapitel]]''' inne i kursen, om det inte finns ännu.
+# Det är möjligt att skapa samtidiga versioner av befintliga kapitel, men vi försöker undvika duplicerat material.
+
+Anteckningar skrivna med Word kan helt enkelt kopieras och klistras in. För Latex-anteckningar kan du använda vår '''[https://texla.wikitolearn.org Latex till Wiki-konverterare]'''! (läs mer i '''[[Manual/Importing from LaTeX|Latex-handledningen]]''')
+
+Kontakta oss via '''[https://chat.wikitolearn.org/channel/importing #importing]''' på WikiToLearn-chatten om du får problem.
+
+Annars kan du också börja med befintligt material och granska det.
+
+== Steg 2: Engagera gruppen ==
+Om du inte vill arbeta ensam, gör det tillsammans med dina vänner. Ni skulle kunna dela upp arbetet och skapa ett schema för att skriva och granska anteckningarna. Med mindre än några timmars arbete per vecka får du en snygg kopia av kurserna, till och med bättre än en typisk lärobok, som du kan optimera dina studier med.
+
+== Steg 3: Sprid budskapet ==
+Ett annat sätt att bidra är att sprida budskapet om WikiToLearn. Visa vänner och andra studenter vad WikiToLearn är, hur WikiToLearn fungerar och tala om för dem hur det hjälpte dig.
+
+Du skulle också kunna introducera projektet för dina lärare, och berätta för dem om möjligheten att korrekturläsa anteckningar för att få återkoppling om hur effektiva deras lektioner var.

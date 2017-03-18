@@ -1,0 +1,41 @@
+__TOC__
+
+Uma secção é a unidade mais ínfima na hierarquia de Cursos, consistindo numa única página Web.
+Cada secção tem o seu próprio título e conteúdo.
+
+== Adicionar uma secção ==
+Para adicionar uma secção a um capítulo, vá à página principal do curso.
+Descubra o capítulo onde deseja adicionar a secção e carregue no lápis à direita do nome do capítulo.
+Escreva o nome da secção e grave as alterações ao carregar no botão <code>Gravar o capítulo</code>.
+
+[[File:Add_section_wtl.gif]]
+
+== Mudar o nome de uma secção ==
+Basta encontrar o capítulo onde se localiza a secção e carregue no lápis à direita do nome do capítulo.
+Será então capaz de mudar o nome da secção se carregar no ícone com o lápis azul.
+
+[[File:Rename_section_wtl.gif]]
+
+== Apagar uma secção ==
+Para apagar uma secção, descubra o capítulo onde a secção em questão está presente e edite-a.
+Será então capaz de apagar a secção se carregar no ícone do lixo.
+
+[[File:Delete_section_wtl.gif]]
+
+=== Repor uma secção ===
+Se tiver secções no caixote da reciclagem, podê-los-á repor se colocar o cursor do rato sobre as secções e carregar no ícone de reposição à esquerda do nome da secção.
+
+[[File:Resttore_section_wtl.gif]]
+
+Lembre-se sempre de gravar as alterações ao carregar no botão <code>Gravar o Curso</code>.
+
+== Mover uma secção ==
+To move a section within the same chapter, you can simply use the drag and drop elements.
+We don't support moving sections between different chapters yet.
+For now, if needed, we suggest the following procedure:
+*copy the content of the section on a document;
+*apague a secção que deseja mover:
+*crie uma nova secção localizada no sítio correcto;
+*cole o conteúdo e grave a página.
+
+[[File:Move_section_wtl.gif]]

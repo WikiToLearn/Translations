@@ -1,0 +1,41 @@
+__TOC__
+
+Ett avsnitt är den minsta enheten i kurshierarkin och består av en enda webbsida.
+Varje avsnitt har en egen rubrik och eget innehåll.
+
+== Lägga till ett avsnitt ==
+Gå till kursens huvudsida för att lägga till ett avsnitt i ett kapitel.
+Leta rätt på kapitlet där avsnittet ska läggas till, och klicka på pennan till höger om kapitelnamnet.
+Skriv in avsnittets namn och spara ändringarna genom att klicka på knappen <code>spara kapitel</code>.
+
+[[File:Add_section_wtl.gif]]
+
+== Byta namn på ett avsnitt ==
+Leta helt enkelt reda på kapitlet där avsnittet finns och klicka på pennan till höger om kapitlets namn.
+Avsnittets namn kan ändras genom att klicka på ikonen med den blåa pennan.
+
+[[File:Rename_section_wtl.gif]]
+
+== Ta bort ett avsnitt ==
+För att ta bort ett avsnitt, leta rätt på kapitlet där det avsedda avsnittet finns och redigera det.
+Avsnittet kan tas bort genom att klicka på papperskorgsikonen.
+
+[[File:Delete_section_wtl.gif]]
+
+=== Återställa ett avsnitt ===
+Om det finns avsnitt i återvinningskorgen kan de återställas genom att placera musen på avsnittet och klicka på återställningsikonen till vänster om avsnittets namn.
+
+[[File:Resttore_section_wtl.gif]]
+
+Kom alltid ihåg att spara ändringarna genom att klicka på knappen <code>Spara kurs</code>.
+
+== Flytta ett avsnitt ==
+To move a section within the same chapter, you can simply use the drag and drop elements.
+We don't support moving sections between different chapters yet.
+For now, if needed, we suggest the following procedure:
+*copy the content of the section on a document;
+*ta bort avsnittet som ska flyttas,
+*skapa ett nytt avsnitt placerat på rätt ställe,
+*klistra in det gamla innehållet och spara sidan.
+
+[[File:Move_section_wtl.gif]]

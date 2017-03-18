@@ -1,0 +1,14 @@
+O WikiToLearn está em desenvolvimento activo quer do lado técnico como dos conteúdos.
+É possível contribuir de várias formas, independentemente das capacidades e experiência do utilizador.
+
+== Desenvolvimento Web ==
+There are lots of web app and applications developed by WikiToLearn.
+Desenvolvimento Web is split into groups and every group has its maintainer.
+Take a look at http://meta.wikitolearn.org/Tech_Team and feel free to contact the members to ask them more questions.
+
+== Tradução ==
+Se quiser ajudar com as traduções, junte-se ao canal [https://chat.wikitolearn.org/channel/translation #translation].
+
+== Registo de erros ==
+Nós usamos o 'phabricator' para manter um registo do nosso desenvolvimento e dos nossos erros.
+Se pensar que encontrou um erro e deseja comunicá-lo, precisa de se [https://identity.kde.org/index.php?r=registration/index registar no Identity do KDE], ligar-se ao 'phabricator' e [https://phabricator.kde.org/maniphest/task/edit/form/1/?tags=WikiToLearn criar um relatório de erro].

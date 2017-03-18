@@ -1,0 +1,37 @@
+Se já tiver algum conteúdo escrito em LaTeX, podê-lo-á enviar para o WikiToLearn.
+
+== Importar o conteúdo ==
+Se tiver um curso escrito em LaTeX e quiser que ele seja importado, poderá enviar um e-mail para o endereço latex@wikitolearn.org.
+A equipa de importação irá entrar em contacto consigo e enviar o curso para o espaço de nomes do seu utilizador.
+
+== Converter o conteúdo ==
+Desenvolvemos um conjunto de ferramentas úteis para converter o material em LaTeX para 'wikitext' (texto de Wiki),
+o formato que o WikiToLearn usa para escrever as suas páginas de conteúdo.
+A ferramenta principal chama-se TeXLa.
+
+O TeXLa é um processador de LaTeX escrito em Python. É usado para importar cursos e aulas
+escritos por alunos, professores, técnicos, etc.
+
+É código aberto e poderá encontrar o código no [https://github.com/WikiToLearn/texla GitHub]!
+
+Existe algumas formas diferentes de poder usar o TeXLa: o cliente Web ou o programa nativo em Python.
+
+=== Cliente Web ===
+Se quiser usar o TeXLa sem instalar nada, visite https://texla.wikitolearn.org/.
+
+Poderá escrever conteúdos em LaTeX na área de texto ou importar um ficheiro <code>.tex</code>.
+A página Web irá converter o seu LaTeX num conteúdo pronto-a-colar no WikiToLearn.
+
+Poderá também introduzir algum texto na sintaxe do LaTeX
+(sem se preocupar com o preâmbulo em LaTeX)
+ou ainda poderá usar macros e ambientes de LaTeX
+(sendo necessário neste caso o \begin{document}).
+
+=== Programa em Python ===
+
+Também poderá optar por usar o programa nativo em Python para converter os seus ficheiros.
+Toda a documentação da configuração e instalação está no [https://github.com/WikiToLearn/texla/blob/master/README.mdown GitHub do WikiToLearn].
+
+=== Mais documentação ===
+
+Poderá encontrar aqui alguma documentação mais detalhada sobre como usar o TeXlA aqui: http://meta.wikitolearn.org/Texla
