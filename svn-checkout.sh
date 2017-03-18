@@ -9,6 +9,7 @@ fi
 
 source config.sh
 
+mkdir -p locales/
 cd locales/
 
 for lang in $LANGS
