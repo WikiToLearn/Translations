@@ -13,6 +13,14 @@ done
 
 source config.sh
 
+echo "-----"
+echo "Warnings of the following kind are expected and to be ignored:"
+echo "po2txt: WARNING: No template at None. Skipping guide.po."
+echo "po2txt: WARNING: No template at None. Skipping courseeditor.po."
+echo "po2txt: WARNING: No template at None. Skipping skin.po."
+echo "po2txt: WARNING: No template at None. Skipping wtl-messages.po."
+echo "-----"
+
 for J in $INI; do
   for L in $LANGS; do
     mkdir -p $J/mediawiki
@@ -49,3 +57,5 @@ mkdir -p wtl-messages/mediawiki/
 for L in $LANGS; do
   python2 ./compile.py wtl-messages/en.ini wtl-messages/$L.ini > wtl-messages/mediawiki/$L.mw
 done
+echo "-----"
+echo "All done!"
