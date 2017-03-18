@@ -18,14 +18,14 @@ for J in $INI; do
     mkdir -p $J/mediawiki
 
     # Generate ini files
-    po2ini -t $J/en.ini -i locales/$L/$J.po -o $J/$L.ini
+    po2ini --progress=none -t $J/en.ini -i locales/$L/$J.po -o $J/$L.ini
   done
 done
 
 for J in $JSON; do
   for L in $LANGS; do
     # Generate ini files
-    po2json -t $J/en.json -i locales/$L/$J.po -o $J/$L.json
+    po2json --progress=none -t $J/en.json -i locales/$L/$J.po -o $J/$L.json
     # po2json -i locales/$L/$J.po -o $J/$L.json
   done
 done
@@ -33,7 +33,7 @@ done
 for J in $TXT; do
   for L in $LANGS; do
     # Generate txt files
-    po2txt -t $J/en -i locales/$L -o $J/$L
+    po2txt --progress=none -t $J/en -i locales/$L -o $J/$L
     done
 done
 # We also want to compile files for english:
