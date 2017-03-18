@@ -7,11 +7,13 @@ else
     exit 1
 fi
 
+source config.sh
+
 cd locales/
 
-for lang in it de es fr pt sv ca
+for lang in $LANGS
 do
-    echo "Update for "$lang"..."
+    echo "Checking out "$lang"..."
     rm -Rf $lang
-    svn co svn://anonsvn.kde.org/home/kde/trunk/l10n-kf5/$lang/messages/wikitolearn $lang
+    svn co $SVN_BASE/$lang/messages/wikitolearn $lang
 done
