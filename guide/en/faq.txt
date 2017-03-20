@@ -1,5 +1,86 @@
-== Frequently Asked Question ==
+__TOC__
 
-* '''Can I move a section into another chapter?'''
-* '''Can I save my course offline?'''
-* I'm writing the name of the book and saving it under my user namespace but the "Save book" button is disabled. What should I do?
+====What is WikiToLearn?====
+Imagine a world where educational material is freely available to everyone, always up-to-date and written from thousands of experts and educators.
+
+WikiToLearn is an open platform where students, researchers and key people in the academia can create and refine notes and textbooks, tailored precisely to their needs, and giving them the power to customize the teaching beyond what traditional textbooks allow. Our philosophy inherits from the very foundation of how science works. We believe that “Knowledge only grows if shared” and we want learners to “Stand on the shoulder of giants!”.
+
+WikiToLearn was founded in September 2015, when a group of students from the University of Milano-Bicocca had the necessity to share their notes to study for their exams. [https://meta.wikitolearn.org/Academic_institutions Many different universities and research centers] from all around the world have since decided to join.
+
+Legally represented by KDE e.V., and part of KDE, WikiToLearn was born as a non-profit community and an open source project, which wants to provide free and collaborative textbooks with the help of the world of University and Academia.
+
+===How does WikiToLearn work?===
+WikiToLearn works by having people contribute to different topics. Every page is editable and you can start making an impact right now!
+
+Whether you’re a student, a teacher, a translator or a programmer, you can start helping to contribute to WikiToLearn! Visit [https://join.wikitolearn.org join.wikitolearn.org] for all the possible options!
+
+=== How do you ensure reliability? ===
+
+=== What about different ways of explaining the same topic? ===
+
+
+===What differentiates WikiToLearn from other wiki projects such as Wikipedia, Wikibooks, Wikiversity===
+Wikipedia wants to create a free encyclopedia, not free textbooks. It is not focused on academic learning and it's not optimized for it: it's a place where you go to look up facts, not to learn.
+
+Wikibooks and Wikiversity are projects which are indeed closer to us. There are two main differences: our unique focus on learning and delivering the best didactical experience, and the software development freedom to grant our users the best experience possible.
+
+Not being hosted by Wikimedia Foundation (and instead relying on similarly resilient infrastructure from GARR) means we are not subject to restrictions on the software, which we can customize for the best book editing experience. For example, we integrate external elements in our infrastructure, provide a PDF generation feature, and in general offer a streamlined and compelling user experience.
+
+We are also working to provide features which are very hard to integrate in a standard MediaWiki, such as collaborative editing and many other features needed for a class.
+
+We also have a strong focus on offline usage of the content, from the layout of the pages to the content type.
+
+===What differentiates WikiToLearn from other online learning platforms such as Khan Academy, Coursera...?===
+We focus on writing ONLY educational textbooks, no videos, no MOOCs, no direct interaction with your teacher.
+
+The focus is on the collaboration: we believe that if everyone can contribute to a common knowledge, everybody benefits. And it is very hard, if not directly impossible, to do that with video editing and more advanced tools. We want to concentrate on doing one thing, and doing it very well.
+
+The outcome we want to achieve are high quality, evolving, exhaustive and proofread textbooks.
+
+===Who can I contact if I need more help?===
+If you need further assistance, or if you simply want to meet and join the community, this is what you are looking for: https://join.wikitolearn.org .
+You can also:
+*send an email to info@wikitolearn.org
+*join the [https://chat.wikitolearn.org WikiToLearn chat]
+*subscribe to our social pages ([https://www.facebook.com/WikiToLearn/ Facebook], [https://twitter.com/WikiToLearn Twitter], [https://www.linkedin.com/company/wikitolearn LinkedIn])
+*or find us on the [https://t.me/WikiToLearn general Telegram group]
+
+We are always happy to answer! :-)
+
+===How can I as a student use WikiToLearn and how much does it cost me?===
+Cost? What cost? WikiToLearn is free as in freedom, and free as in “free beer”. :-)
+The only motivation that keeps us going is our love for a free and diffuse knowledge.
+
+That said, there are many ways in which you can work, depending on your interests and abilities.
+If you are a student or a teacher, usually it does not take much to figure out how to contribute content, which often already exist, because they are useful to the whole world. Promotion is also vital, a poster attached to the right place can have great impact.
+
+In any case, almost every team can be reached by joining a room on https://chat.wikitolearn.org. Don't forget to check out also https://phabricator.kde.org/tag/wikitolearn/, our main tracker of activities.
+
+The best thing to do to start contributing is to reach us and speak to us directly. Some WikiToLearn developer is always active and on the web. :-)
+
+We are looking for people who share our love for the free knowledge and help us to grow this reality.
+
+===How do I edit a page?===
+Editing a page on WikiToLearn is very simple. Although it is recommended, you are not required to have a WikiToLearn account to edit pages.
+# First, head over to the WikiToLearn’s main page.
+# Now click on the department your topic is located in.
+# Click on your topic.
+# Click on the chapter you would like to edit
+# Click Edit on the top right
+# Edit the text as desired. For more help on formatting visit https://www.mediawiki.org/wiki/Help:Formatting <br/>
+# Don’t forget to add your Captcha and Save page
+# Congratulations! Now you’ve learned how to edit a page on WikiToLearn!
+
+WikiToLearn was born to create didactic textbooks, a very specific and also personal need, so we ensured to create the most efficient and easy way to reach this aim (from the LaTeX management to various programming languages).
+
+We are doing a better job at performing a bonding with unis and research labs, mostly thanks to the fact that we come from there.
+
+
+===What is LaTeX?===
+LaTeX is a document preparation language for high-quality typesetting. LaTeX includes features designed for the production of technical and scientific documentation.
+For more information, visit: http://www.latex-project.org
+
+===In which languages can I find material and/or can I write on WikiToLearn?===
+The list of the languages that are currently open is in the homepage.
+Missing yours?
+The only requirement In order to open a new portal, is a community of people willing to help and actively contribute. If you would like to start up a new language, just get in touch with us on our [[communication channels]]!
