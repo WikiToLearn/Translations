@@ -49,7 +49,8 @@ LANGS="$LANGS en"
 for J in $TXT; do
   mkdir -p $J/compiled
   for L in $LANGS; do
-    python2 ./compile-guide.py $J/en.ini $J/$L.ini $L > $J/compiled/$L.mw
+    mkdir -p $J/compiled/$L
+    python2 ./compile-guide.py $J/en.ini $J/$L.ini $L $J/compiled
     done
 done
 
