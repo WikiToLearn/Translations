@@ -1,5 +1,0 @@
-== Perguntas Frequentes (FAQ) ==
-
-* '''Posso mover uma secção para outro capítulo?'''
-* '''Posso gravar o meu curso de forma desligada da rede?'''
-* Estou a escrever o nome do livro e a gravá-lo debaixo do espaço de nomes do meu utilizador mas o botão "Gravar o livro" está desactivado. O que devo fazer?

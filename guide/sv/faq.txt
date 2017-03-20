@@ -1,5 +1,0 @@
-== Vanliga frågor ==
-
-* '''Kan man flytta ett avsnitt till ett annat kapitel?'''
-* '''Kan man spara en kurs lokalt?'''
-* Jag skriver in bokens namn och vill spara den i min användares namnrymd, men knappen "Spara bok" är inaktiverad. Vad ska jag göra?
