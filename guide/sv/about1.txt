@@ -1,7 +1,0 @@
-== Vad är WikiToLearn? ==
-WikiToLearn grundades september, 2015, när en grupp studenter från Universitetet i Milano Bicocca hade behov av att dela anteckningar för att studera inför sina tentamina.
-
-WikiToLearn som började som en ideell förening och ett projekt med öppen källkod, är nu en del av KDE och representeras juridiskt av KDE e.V., och har som mål att tillhandahålla fria och gemensamma läroböcker med hjälp av universitets- och akademivärlden.
-
-== Vilka är medlemmarna i WikiToLearn? ==
-WikiToLearn-samfundet består av studenter, forskare, lärare och andra med avsikt att stödja fri kunskap över hela världen. Studenter kan börja skriva in sina anteckningar tillsammans, samt integrera och granska dem för att uppnå bästa möjliga kvalitet. Akademiker får återkoppling genom möjligheten att kontrollera hur korrekta och fullständiga studenternas anteckningar från deras föreläsningar är.
