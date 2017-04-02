@@ -1,7 +1,0 @@
-Se tiver algum material escrito como um documento <code>.doc</code>, podê-lo-á enviar para o WikiToLearn.
-
-A conversão tem alguns truques, mas normalmente se copiar e colar para o Editor Visual, irá resultar, embora possa não funcionar com as fórmulas, etc. Também pode dar uma vista de olhos [https://en.wikipedia.org/wiki/Help:WordToWiki#VisualEditor aqui], onde se encontram algumas formas para saber o que fazer.
-
-[[File:paste-from-word.gif]]
-
-Se precisar de ajuda, por favor entre em contacto connosco em [https://chat.wikitolearn.org/channel/importing #importing], nos sítios de conversação do WikiToLearn. Existe normalmente alguém lá para o ajudar!

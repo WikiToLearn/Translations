@@ -1,7 +1,0 @@
-== O que é o WikiToLearn? ==
-O WikiToLearn foi fundado em Setembro de 2015, quando um grupo de alunos da Universidade de Milão Bicocca tiveram a necessidade de partilhar as suas notas para estudar para os exames deles.
-
-Representado a nível legal pela KDE e.V. e fazendo parte do KDE, o WikiToLearn nasceu como uma comunidade sem fins lucrativos e como projecto 'open-source', que pretende oferecer livros de texto gratuitos e colaborativos com a ajuda do mundo das Universidades, Academias e Institutos.
-
-== Quem são os WikiToLearn's? ==
-A comunidade do WikiToLearn é composta por estudantes, investigadores, professores e alguém que pretenda dar suporte ao conhecimento livre em todo o mundo. Os alunos podem começar a escrever as suas notas de forma colaborativa, integrando-as e revendo-as de forma a atingir a melhor qualidade possível. Os docentes recebem 'feedback' pela possibilidade de verificar a veracidade e abrangência das notas tiradas pelos seus alunos durante as aulas.
