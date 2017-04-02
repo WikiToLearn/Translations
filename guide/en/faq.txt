@@ -7,24 +7,24 @@ WikiToLearn is an open platform where students, researchers and key people in th
 
 WikiToLearn was founded in September 2015, when a group of students from the University of Milano-Bicocca had the necessity to share their notes to study for their exams. [https://meta.wikitolearn.org/Academic_institutions Many different universities and research centers] from all around the world have since decided to join.
 
-Legally represented by KDE e.V., and part of KDE, WikiToLearn was born as a non-profit community and an open source project, which wants to provide free and collaborative textbooks with the help of the world of University and Academia.
+Legally represented by KDE e.V., and part of KDE, WikiToLearn was born as a non-profit community and an open source project, which wants to provide free and collaborative textbooks with the help of University and Academia.
 
 ===How does WikiToLearn work?===
-WikiToLearn works by having people contribute to different topics. Every page is editable and you can start making an impact right now!
+Anyone can contribute to different topics: every page is editable and you can start making an impact right now!
 
-Whether you’re a student, a teacher, a translator or a programmer, you can start helping to contribute to WikiToLearn! Visit [https://join.wikitolearn.org join.wikitolearn.org] for all the possible options!
+Whether you’re a student, a teacher, a translator or a programmer, you can start contributing to WikiToLearn! Visit [https://join.wikitolearn.org join.wikitolearn.org] for all the possible options!
 
 === How do you ensure reliability? ===
 Reliability of content is ensured through a simple, non-blocking review process.
 Every page, after it is modified, is considered a draft. Experienced users with working knowledge on the topic can later review the course and ensure it is correct and well written, giving it a "seal of approval". The resulting PDF is later exported as "reviewed version", a copy is uploaded on Wikimedia Commons, and every user on the website can choose whether to download the last version available, or the last reviewed version.
 
-All editors also have the possibility of assembling their own books, specifying the specific revision of the content which they want to download. This gives the possibility to everyone to assemble their own books, even if they don't have the correct privileges on our platform.
+All editors also have the possibility of assembling their own books, specifying a precise revision of the content which they want to download. This gives everyone the possibility to assemble their own books, even if they don't have the reviewer privileges on our platform.
 
 === What about different ways of explaining the same topic? ===
-We support and encourage multiple courses for one same topic! We realize it is a fundamental and enriching practice to see a topic from many different point of views, and it is a behiavor want to encourage. This is why we don't have a single reference course for a topic, but anyone is free to create their own, at the level they prefer.
+We support and encourage multiple courses for one same topic! We realize it is a fundamental and enriching practice to see a topic from many different point of views, and it is a behavior we want to encourage. This is why we don't have a single reference course for a topic, but anyone is free to create their own, explaining it from whichever angle they prefer.
 
-===What differentiates WikiToLearn from other wiki projects such as Wikipedia, Wikibooks, Wikiversity===
-Wikipedia wants to create a free encyclopedia, not free textbooks. It is not focused on academic learning and it's not optimized for it: it's a place where you go to look up facts, not to learn.
+===What differentiates WikiToLearn from other wiki projects such as Wikipedia, Wikibooks, Wikiversity?===
+Wikipedia wants to create a free encyclopedia, not free textbooks. It is not focused on academic learning and it is not optimized for it: it is a place where you go to look up facts, not to learn.
 
 Wikibooks and Wikiversity are projects which are indeed closer to us. There are two main differences: our unique focus on learning and delivering the best didactical experience, and the software development freedom to grant our users the best experience possible.
 
@@ -35,10 +35,10 @@ We are also working to provide features which are very hard to integrate in a st
 We also have a strong focus on offline usage of the content, from the layout of the pages to the content type.
 
 ===What differentiates WikiToLearn from other online learning platforms such as Khan Academy, Coursera...?===
-We focus on writing ONLY educational textbooks, no videos, no MOOCs, no direct interaction with your teacher. We believe that there are projects and software tools better suited for that job, and while we aim to integrate with them, we have no intention of be a replacement.
+We focus on writing ONLY educational textbooks, no videos, no MOOCs, no direct interaction with your teacher. We believe that there are projects and software tools better suited for that job, and while we aim to integrate with them, we have no intention of being a replacement.
 
 The focus of WikiToLearn is on the collaboration: we believe that if everyone can contribute to a common knowledge, everybody benefits. And it is very hard, if not directly impossible, to do that with video editing and more advanced tools.
-The outcome we want to achieve are high quality, evolving, exhaustive and proofread textbooks.
+The outcomes that we want to achieve are high quality, evolving, exhaustive and proofread textbooks.
 
 ===Who can I contact if I need more help?===
 If you need further assistance, or if you simply want to meet and join the community, this is what you are looking for: https://join.wikitolearn.org/ .
@@ -61,7 +61,7 @@ In any case, almost every team can be reached by joining a room on https://chat.
 
 The best thing to do to start contributing is to reach us and speak to us directly. Usually, some WikiToLearn developer is always active and on the web. :-)
 
-We are looking for people who share our love for the free knowledge and help us to grow this reality.
+We are looking for people who share our love for the free knowledge who can help us grow this reality.
 
 ===What is LaTeX?===
 LaTeX is a document preparation language for high-quality typesetting. LaTeX includes features designed for the production of technical and scientific documentation.
