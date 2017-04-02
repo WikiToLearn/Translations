@@ -5,7 +5,7 @@ INI="wtl-messages guide"
 
 TXT="guide"
 
-LANGS="ca fr es de it pt sv"
+LANGS="ca fr es de it pt sv uk"
 
 #SVN_BASE="svn://anonsvn.kde.org/home/kde/trunk/l10n-kf5"
 SVN_BASE="svn+ssh://svn@svn.kde.org/home/kde/trunk/l10n-kf5"

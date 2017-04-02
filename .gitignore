@@ -7,6 +7,8 @@ guide/ca
 guide/de
 guide/it
 guide/fr
+guide/sv
+guide/uk
 guide/es
 pt.*
 sv.*
@@ -15,6 +17,7 @@ de.*
 fr.*
 es.*
 it.*
+uk.*
 *.json
 *.mo
 /locales/*/.svn/
