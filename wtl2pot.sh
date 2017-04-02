@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "Remember to run ./download-en-json-for-skin-and-courseeditor.sh to refresh those files before this script!"
+
 if [ ! -d "locales/templates" ]; then
     echo "We couldn't find a working copy of the locales"
     echo "Please run either:"
