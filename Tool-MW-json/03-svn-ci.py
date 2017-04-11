@@ -26,7 +26,11 @@ for pot_file in glob.glob("{}*.pot".format(common.output_pot_dir)):
 old_cwd = os.getcwd()
 os.chdir(templates_dir)
 
-cmd = ["svn","diff"]
+# Uncomment the following to add the files
+# for pot_file in glob.glob("*.pot"):
+#     cmd = ["svn","add",pot_file]
+#     call(cmd)
+cmd = ["svn","status"]
 #cmd = ["svn","ci", "-m='Update templates'"]
 call(cmd)
 
