@@ -25,7 +25,7 @@ for lang_path in glob.glob("{}*".format(common.tmp_output_po_dir)):
     lang_code = os.path.basename(lang_path)
 
     # read the templatedata_dict file
-    input_po_file = "{}/guide.po".format(lang_path)
+    input_po_file = "{}/guide.po".format(lang_path) # FIXME
     output_json_file = "{}pages_id_{}.json".format(common.tmp_dir, lang_code)
     cmd = ["po2json","--progress=none", "-t", "{}pages_id.json".format(common.tmp_dir), input_po_file, output_json_file]
     call(cmd)
@@ -102,7 +102,7 @@ for lang_path in glob.glob("{}*".format(common.tmp_output_po_dir)):
                 out_file.write(new_content.encode('utf8'))
                 out_file.close()
 
-    project_messages_tinput_po_file = "{}/wtl-messages.po".format(lang_path)
+    project_messages_tinput_po_file = "{}/wtl-messages.po".format(lang_path) # FIXME
     project_messages_output_json_file = "{}project_messages_{}.json".format(common.tmp_dir, lang_code)
     cmd = ["po2json","--progress=none", "-t", "{}project_messages.json".format(common.tmp_dir), project_messages_tinput_po_file, project_messages_output_json_file]
     call(cmd)
