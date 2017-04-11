@@ -29,5 +29,11 @@ if not os.path.exists(tmp_git_dir):
 tmp_mw_files = "{}mw-in-files/".format(tmp_dir)
 if not os.path.exists(tmp_mw_files):
     os.makedirs(tmp_mw_files)
+    
+kde_svn_dir = "{}kde_svn/".format(work_dir)
+if not os.path.exists(kde_svn_dir):
+    os.makedirs(kde_svn_dir)
+
+languages = ["ca", "fr", "es", "de", "it", "pt", "sv", "uk"]
 
 git_repo = "https://github.com/WikiToLearn/WikiPages-en"
