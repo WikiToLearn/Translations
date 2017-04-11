@@ -25,6 +25,7 @@ for key in en_reverse_placeholder_dict.keys():
 
 for lang in common.languages:
     po_output = "{}/{}".format(common.kde_svn_dir, lang)
+    shutil.rmtree(po_output)
     cmd = ["svn","co", "svn://anonsvn.kde.org/home/kde/trunk/l10n-kf5/{}/messages/wikitolearn".format(lang), po_output]
     call(cmd)
     out_path = "{}/{}".format(common.tmp_output_po_dir, lang)

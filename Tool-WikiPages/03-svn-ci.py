@@ -14,26 +14,19 @@ from subprocess import call
 from re import sub
 
 
-en_reverse_placeholder_dict = {}
-with open("{}pages_id.json".format(common.tmp_dir)) as pages_id_file:
-    en_reverse_placeholder_dict = json.load(pages_id_file)
-    pages_id_file.close()
+templates_dir = "{}/templates".format(common.kde_svn_dir)
+shutil.rmtree(templates_dir)
+cmd = ["svn","co", "svn+ssh://svn@svn.kde.org/home/kde/trunk/l10n-kf5/templates/messages/wikitolearn", templates_dir]
+call(cmd)
 
-expected_pos = []
-for key in en_reverse_placeholder_dict.keys():
-    expected_pos.append("{}.po".format(key))
+for pot_file in glob.glob("{}*.pot".format(common.output_pot_dir)):
+    shutil.copy2(pot_file, "{}/{}".format(templates_dir, os.path.basename(pot_file)))
 
-for lang in common.languages:
-    po_output = "{}/{}".format(common.kde_svn_dir, lang)
-    cmd = ["svn","co", "svn://anonsvn.kde.org/home/kde/trunk/l10n-kf5/{}/messages/wikitolearn".format(lang), po_output]
-    call(cmd)
-    out_path = "{}/{}".format(common.tmp_output_po_dir, lang)
-    if not os.path.exists(out_path):
-        os.makedirs(out_path)
+old_cwd = os.getcwd()
+os.chdir(templates_dir)
 
-    for po in expected_pos:
-        print(["cp", "{}/{}".format(po_output, po), "{}/{}/{}".format(common.tmp_output_po_dir, lang, po)])
-        shutil.copy2("{}/{}".format(po_output, po), "{}/{}/{}".format(common.tmp_output_po_dir, lang, po))
+cmd = ["svn","diff"]
+#cmd = ["svn","ci", "-m='Update templates'"]
+call(cmd)
 
-
-
+os.chdir(old_cwd)
