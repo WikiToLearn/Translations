@@ -15,7 +15,8 @@ from re import sub
 
 
 templates_dir = "{}/templates".format(common.kde_svn_dir)
-shutil.rmtree(templates_dir)
+if os.path.exists(templates_dir):
+    shutil.rmtree(templates_dir)
 cmd = ["svn","co", "svn+ssh://svn@svn.kde.org/home/kde/trunk/l10n-kf5/templates/messages/wikitolearn", templates_dir]
 call(cmd)
 

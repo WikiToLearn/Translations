@@ -24,16 +24,25 @@ for key in en_reverse_placeholder_dict.keys():
     expected_pos.append("{}.po".format(key))
 
 for lang in common.languages:
-    po_output = "{}/{}".format(common.kde_svn_dir, lang)
-    shutil.rmtree(po_output)
-    cmd = ["svn","co", "svn://anonsvn.kde.org/home/kde/trunk/l10n-kf5/{}/messages/wikitolearn".format(lang), po_output]
+    po_output = "{}{}".format(common.kde_svn_dir, lang)
+    if os.path.exists(po_output):
+        shutil.rmtree(po_output)
+    cmd = ["svn","co", "svn+ssh://svn@svn.kde.org/home/kde/trunk/l10n-kf5/{}/messages/wikitolearn".format(lang), po_output]
+    #print(cmd)
     call(cmd)
     out_path = "{}/{}".format(common.tmp_output_po_dir, lang)
     if not os.path.exists(out_path):
         os.makedirs(out_path)
-
+    
+    #print(["cp", "{}/guide.po".format(po_output), "{}{}/guide.po".format(common.tmp_output_po_dir, lang)])
+    shutil.copy2("{}/guide.po".format(po_output), "{}{}/guide.po".format(common.tmp_output_po_dir, lang))
+    shutil.copy2("{}/wtl-messages.po".format(po_output), "{}{}/wtl-messages.po".format(common.tmp_output_po_dir, lang))
+    #print("{}/guide.po".format(po_output))
+    
     for po in expected_pos:
-        print(["cp", "{}/{}".format(po_output, po), "{}/{}/{}".format(common.tmp_output_po_dir, lang, po)])
+        if po.startswith("FILE"):
+            continue
+        #print(["cp", "{}/{}".format(po_output, po), "{}/{}/{}".format(common.tmp_output_po_dir, lang, po)])
         shutil.copy2("{}/{}".format(po_output, po), "{}/{}/{}".format(common.tmp_output_po_dir, lang, po))
 
 
