@@ -95,7 +95,7 @@ def evaluate(match):
     if match.group(3) != None:
         link_label = str(match.group(3))
 
-    placeholder = placeholder_dict[link_to]
+    placeholder = "<ref:"+placeholder_dict[link_to]+">"
 
     return_val = "[[" + placeholder
     if link_label != None:

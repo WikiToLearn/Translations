@@ -96,7 +96,7 @@ for lang_path in glob.glob("{}*".format(common.tmp_output_po_dir)):
             content = content_file.read()
             # this regex uses
             # https://www.mediawiki.org/wiki/Manual:$wgLegalTitleChars
-            new_content = sub(r'\[{2}(.[^\[\]\{\}\|\#\<\>\%\+\?]+)(\|(.[^\[\]\{\}\|\#\<\>\%\+\?]+)){0,1}\]{2}', evaluate, content)
+            new_content = sub(r'\[{2}<ref:(.[^\[\]\{\}\|\#\<\>\%\+\?]+)>(\|(.[^\[\]\{\}\|\#\<\>\%\+\?]+)){0,1}\]{2}', evaluate, content)
 
             with open(mw_lang_output_file, "wb") as out_file:
                 out_file.write(new_content.encode('utf8'))
