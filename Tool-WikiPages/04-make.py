@@ -27,7 +27,7 @@ for lang_path in glob.glob("{}*".format(common.tmp_output_po_dir)):
     # read the templatedata_dict file
     input_po_file = "{}/pages_id.po".format(lang_path)
     output_json_file = "{}pages_id_{}.json".format(common.tmp_dir, lang_code)
-    cmd = ["po2json", "-t", "{}pages_id.json".format(common.tmp_dir), input_po_file, output_json_file]
+    cmd = ["po2json","--progress=none", "-t", "{}pages_id.json".format(common.tmp_dir), input_po_file, output_json_file]
     call(cmd)
 
 
@@ -88,7 +88,7 @@ for lang_path in glob.glob("{}*".format(common.tmp_output_po_dir)):
             os.makedirs(mw_lang_tmp_output_file_dir)
         if not os.path.exists(mw_lang_output_file_dir):
             os.makedirs(mw_lang_output_file_dir)
-        cmd = ["po2txt","-t",pot_file,po_file,mw_lang_tmp_output_file]
+        cmd = ["po2txt","--progress=none","-t",pot_file,po_file,mw_lang_tmp_output_file]
         call(cmd)
 
 
@@ -104,7 +104,7 @@ for lang_path in glob.glob("{}*".format(common.tmp_output_po_dir)):
 
     project_messages_tinput_po_file = "{}/project_messages.po".format(lang_path)
     project_messages_output_json_file = "{}project_messages_{}.json".format(common.tmp_dir, lang_code)
-    cmd = ["po2json", "-t", "{}project_messages.json".format(common.tmp_dir), project_messages_tinput_po_file, project_messages_output_json_file]
+    cmd = ["po2json","--progress=none", "-t", "{}project_messages.json".format(common.tmp_dir), project_messages_tinput_po_file, project_messages_output_json_file]
     call(cmd)
 
     with open(project_messages_output_json_file) as project_messages_obj:

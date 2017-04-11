@@ -49,7 +49,7 @@ with open(project_messages_file) as data_file:
             gen_pot = pot.metadata['Project-Id-Version'] != project_id_version
 
         if gen_pot:
-            cmd = ["json2po","-P","{}project_messages.json".format(common.tmp_dir),output_pot_file]
+            cmd = ["json2po","--progress=none","-P","{}project_messages.json".format(common.tmp_dir),output_pot_file]
             call(cmd)
 
             pot = polib.pofile(output_pot_file)
@@ -80,7 +80,7 @@ with open("{}pages_id.json".format(common.tmp_dir), 'w') as outfile:
         gen_pot = pot.metadata['Project-Id-Version'] != project_id_version
 
     if gen_pot:
-        cmd = ["json2po","-P","{}pages_id.json".format(common.tmp_dir),output_pot_file]
+        cmd = ["json2po","--progress=none","-P","{}pages_id.json".format(common.tmp_dir),output_pot_file]
         call(cmd)
 
         pot = polib.pofile(output_pot_file)
@@ -141,7 +141,7 @@ for mw_page_title in mw_en_pages_files:
         gen_pot = pot.metadata['Project-Id-Version'] != project_id_version
 
     if gen_pot:
-        cmd = ["txt2po","--flavour=mediawiki","-P",mw_tmp_file,output_pot_file]
+        cmd = ["txt2po","--progress=none","--flavour=mediawiki","-P",mw_tmp_file,output_pot_file]
         call(cmd)
         pot = polib.pofile(output_pot_file)
         pot.metadata['Project-Id-Version'] = project_id_version
