@@ -26,6 +26,12 @@ tmp_git_dir = "{}git/".format(tmp_dir)
 if not os.path.exists(tmp_git_dir):
     os.makedirs(tmp_git_dir)
 
+kde_svn_dir = "{}kde_svn/".format(work_dir)
+if not os.path.exists(kde_svn_dir):
+    os.makedirs(kde_svn_dir)
+
+languages = ["ca", "fr", "es", "de", "it", "pt", "sv", "uk"]
+
 git_repos = {}
 git_repos["WikiToLearnSkin"] = {
     "url": "https://github.com/WikiToLearn/WikiToLearnSkin",
