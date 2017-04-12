@@ -20,7 +20,7 @@ if not os.path.exists(lang_en):
 
 expected_pos = []
 for pot_file in glob.glob("{}*.pot".format(common.output_pot_dir)):
-    expected_pos.append(os.path.basename(pot_file))
+    expected_pos.append(os.path.basename(pot_file)[:-4]+".po")
 
 for lang in common.languages:
     po_output = "{}{}".format(common.kde_svn_dir, lang)
@@ -33,4 +33,8 @@ for lang in common.languages:
         os.makedirs(out_path)
 
     for po in expected_pos:
-        shutil.copy2("{}/{}".format(po_output, po), "{}/{}/{}".format(common.tmp_output_po_dir, lang, po))
+        source_po = "{}/{}".format(po_output, po)
+        # Skip missing translations gracefully
+        if not os.path.exists(source_po):
+            continue
+        shutil.copy2(source_po, "{}/{}/{}".format(common.tmp_output_po_dir, lang, po))

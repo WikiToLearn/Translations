@@ -34,10 +34,8 @@ for lang in common.languages:
     if not os.path.exists(out_path):
         os.makedirs(out_path)
     
-    #print(["cp", "{}/guide.po".format(po_output), "{}{}/guide.po".format(common.tmp_output_po_dir, lang)])
-    shutil.copy2("{}/guide.po".format(po_output), "{}{}/guide.po".format(common.tmp_output_po_dir, lang))
-    shutil.copy2("{}/wtl-messages.po".format(po_output), "{}{}/wtl-messages.po".format(common.tmp_output_po_dir, lang))
-    #print("{}/guide.po".format(po_output))
+    shutil.copy2("{}/project_messages.po".format(po_output), "{}{}/project_messages.po".format(common.tmp_output_po_dir, lang))
+    shutil.copy2("{}/pages_id.po".format(po_output), "{}{}/pages_id.po".format(common.tmp_output_po_dir, lang))
     
     for po in expected_pos:
         if po.startswith("FILE"):

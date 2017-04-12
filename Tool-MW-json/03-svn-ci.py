@@ -26,7 +26,8 @@ for pot_file in glob.glob("{}*.pot".format(common.output_pot_dir)):
 old_cwd = os.getcwd()
 os.chdir(templates_dir)
 
-# Uncomment the following to add the files
+# Uncomment the following to add the files automatically
+# NOTE: this behiavour is not suggested
 # for pot_file in glob.glob("*.pot"):
 #     cmd = ["svn","add",pot_file]
 #     call(cmd)

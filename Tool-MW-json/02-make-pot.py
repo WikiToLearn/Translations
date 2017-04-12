@@ -39,7 +39,7 @@ for git_repo_label in common.git_repos:
         gen_pot = pot.metadata['Project-Id-Version'] != project_id_version
 
     if gen_pot:
-        cmd = ["json2po","-P",input_json_file,output_pot_file]
+        cmd = ["json2po","--progress=none","-P",input_json_file,output_pot_file]
         call(cmd)
 
         pot = polib.pofile(output_pot_file)
