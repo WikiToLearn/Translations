@@ -26,8 +26,7 @@ for pot_file in glob.glob("{}*.pot".format(common.output_pot_dir)):
 old_cwd = os.getcwd()
 os.chdir(templates_dir)
 
-cmd = ["svn","status"]
-#cmd = ["svn","ci", "-m='Update templates'"]
+cmd = ["svn","ci", "-m='WikiToLearn scripts made messages'"]
 call(cmd)
 
 os.chdir(old_cwd)
