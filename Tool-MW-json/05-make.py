@@ -26,10 +26,13 @@ for lang_code in common.languages:
     #print(lang_path)
     for po_file in glob.glob("{}/*".format(lang_path)):
         git_repo_label  = os.path.basename(po_file)[:-3]
-        
+        directory = "{}/{}".format(common.output_json_dir, git_repo_label)
+        if not os.path.exists(directory):
+            os.makedirs(directory)
+
         template_json_file = "{}i18n/en.json".format(common.git_repos[git_repo_label]['path'])
-        output_json_file = "{}/{}-{}.json".format(common.output_json_dir, git_repo_label, lang_code)
-        
+        output_json_file = "{}/{}.json".format(directory, lang_code)
+
         cmd = ["po2json","--progress=none","-t", template_json_file, po_file, output_json_file]
         call(cmd)
 
