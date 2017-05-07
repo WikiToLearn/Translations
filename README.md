@@ -6,4 +6,4 @@ To use this you have to install:
 * `translate-toolkit`
 * `subversion`
 
-You have to install `pip install -r requirements.txt`.
+You have to install `pip3 install -r requirements.txt`.
